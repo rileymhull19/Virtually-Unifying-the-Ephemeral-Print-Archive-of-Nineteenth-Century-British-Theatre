@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_10181811_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Fifth Night</hi> of the <hi rend="allcaps">New Farce</hi>.<lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum,</hi></placeName><lb/>
+               Under the Authority of the Lord Chamberlain.<lb/>
+               This present <hi rend="allcaps">Friday</hi>, <date when="1811-10-18">October 18, 1811.</date><lb/>
+               Their Majesties Servants will perform,<lb/>
+               <hi rend="italic">(For the First Time at this Theatre,)</hi><lb/>
+               a Comedy called, The<lb/>
+               <bibl><title ref="namedentities.xml#play_way_to_get_married">Way to get Married.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Tangent,</role> <actor>Mr. <hi rend="allcaps">Lewis</hi>,</actor><lb/>
+                  <hi rend="italic">(From the Theatre Royal, York, being his 1st Appearance at this Theatre.)</hi></castItem><lb/>
+                  <castItem><role>Toby Allspice,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Captain Faulkner,</role> <actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
+                  <castItem><role>Caustic,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dick Dashall,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mc. Query,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><role>Shopman,</role> <actor>Mr. Evans,</actor></castItem> <castItem><role>Ned,</role> <actor>Mr. Miller,</actor></castItem><lb/>
+                  <castItem><role>Jailor,</role> <actor ref="namedentities.xml#gh_sp">Mr. Sparks,</actor></castItem> <castItem><role>Geoffry,</role> <actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><role>Officer,</role> <actor ref="namedentities.xml#al_we">Mr. Webb,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher,</actor></castItem> <castItem><role>Solicitor,</role> <actor>Mr. Buxton,</actor></castItem> <castItem><role>Undertaker,</role> <actor>Mr. Lee,</actor></castItem><lb/>
+                  <castItem><role>Postilion,</role> <actor>Mr. Jamieson,</actor></castItem> <castItem><role>Clerk,</role> <actor>Master Seymour,</actor></castItem><lb/>
+                  <castItem><role>Julia Faulkner,</role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
+                  <castItem><role>Celmentina Allspice,</role> <actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lady Sorrel,</role> <actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fanny,</role> <actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+               </castList>
+               After which, (<hi rend="italic">5th time</hi>) a New Musical Farce in Two Acts, called The<lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_green_eyed_monster">Green-Eye'd Monster</title><lb/>
+               <title type="sub"><hi rend="italic">Or, How to get your Money!</hi></title></bibl><lb/>
+               The <hi rend="allcaps">Music</hi> (with the exception of the Overture) entirely New, Composed by <persName ref="namedentities.xml#th_we">Mr. <hi rend="allcaps">T. Welsh</hi></persName>.<lb/>
+               <castList>
+                  <head><hi rend="allcaps">The Characters By</hi></head>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ha_me">Miss <hi rend="allcaps">Mellon</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#je_vi">Miss <hi rend="allcaps">Bew</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_bl">Miss <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the Strand<lb/>
+               Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be opened at <time when="17:30:00">Half past Five</time>, and the Performance to begin at <time when="18:30:00">half past Six</time>.<lb/>
+               <hi rend="italic">No Money to be Returned. Vivant Rex et Regina.</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_04021811_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">The Fifth Night Of</hi><lb/>
+               <persName ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham'</hi>s</persName><lb/>
+               <hi rend="allcaps">Engagement.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum</hi></placeName><lb/>
+               Under the Authority of Lord Chamberlain.<lb/>
+               This present <hi rend="allcaps">Tuesday</hi>, <date when="1811-04-02"><hi rend="allcaps">April</hi> 2, 1811</date>,<lb/>
+               Their Majesties Servants will Act (<hi rend="italic">for the 2nd time</hi>) the revived Comic Opera of The<lb/>
+               <bibl><title ref="namedentities.xml#play_siege_of_belgrade">Siege of Belgrade.</title></bibl><lb/>
+               <hi rend="italic">With New Scenery, Dresses and Decorations.</hi><lb/>
+               The Seraskier, Mr. <hi rend="allcaps">Braham</hi>,<lb/>
+               In which Character he will introduce the favorite Ballad, composed by <hi rend="allcaps">Shield</hi>,<lb/>
+               <quote><hi rend="italic"><hi rend="allcaps">"My Heart With Love is Beating,"</hi></hi></quote><lb/>
+               And a <hi rend="allcaps">New Serenade</hi>,<lb/>
+               Composed by <persName ref="namedentities.xml#th_si_co">Mr. T. <hi rend="allcaps">Cooke</hi></persName> of Dublin.<lb/>
+               <castList>
+                  <castItem><role>Cohenberg,</role> <actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ismael,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
+                  <castItem><role>Yuseph,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
+                  <castItem><role>Leopold,</role> <actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Peter,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem> <castItem><role>Michael,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Anselm,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem><lb/> <castItem><role>Officer,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
+                  <castItem><role>Katharine,</role> <actor ref="namedentities.xml#ro_mo">Mrs. <hi rend="allcaps">Mountain</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fatima,</role> <actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lilla,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ghita,</role> <actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
+               </castList>
+               To which will be added the Farce of The<lb/>
+               <bibl><title ref="namedentities.xml#play_midnight_hour">Midnight Hour.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>The Marquis,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><role>The General,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sebastian,</role> <actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Nicholas,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mathias</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ambrose,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem><lb/>
+                  <castItem><role>Julia,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
+                  <castItem><role>Cicely,</role> <actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+                  <castItem><role>Flora,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>,</actor><lb/>
+                  <hi rend="italic">(Being her First Appearance in that Character)</hi></castItem> 
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box-Office in the<lb/>
+               Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be opened at <time when="17:30:00">Half past Five</time>, and the Performance to begin at <time when="18:30:00">half past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

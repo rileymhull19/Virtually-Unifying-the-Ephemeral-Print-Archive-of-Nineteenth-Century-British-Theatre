@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_03141812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Fifth Time</hi> of the <hi rend="allcaps">New Farce</hi>.<lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum,</hi></placeName><lb/>
+               Under the Authority of the Lord Chamberlain.<lb/>
+               This present <date when="1812-03-14"><hi rend="allcaps">Saturday</hi>, March 14, 1812</date>,<lb/>
+               Their Majesties Servants will perform (by particular desire) the Comedy of The<lb/>
+               <bibl><title ref="namedentities.xml#play_west_indian"><hi rend="allcaps">West Indian</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Stockwell,</role> <actor ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Belcour,</role> <actor>Mr. <hi rend="allcaps">Lewis</hi>,</actor></castItem><lb/>
+                  <castItem><role>Major O'Flaherty,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
+               </castList>
+               Who will introduce the favorite Song of<lb/>
+               <hi rend="italic"><quote>"The Sprig of Shelelagh and Shamrock so Green."</quote></hi><lb/>
+               <castList>
+                  <castItem><role>Captain Dudley,</role> <actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><role>Charles Dudley,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><role>Varland,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fulmer,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Stukely,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor><hi rend="allcaps">Evans,</hi>,</actor> <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterly.</hi></actor></castItem><lb/>
+                  <castItem><role>Lady Rusport,</role> <actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><role>Louisa Dudley,</role> <actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mrs. Fulmer,</role> <actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><role>Housekeeper,</role> <actor ref="namedentities.xml#ro_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+               </castList>
+               After which <hi rend="italic">(Fifth Time)</hi> an entirely New Musical Farce, called<lb/>
+               <bibl><title ref="namedentities.xml#play_turn_out"><hi rend="allcaps">Turn Out!</hi></title></bibl>
+               The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New, composed by <persName ref="namedentities.xml#ma_pe_ki">M.P. <hi rend="allcaps">King</hi></persName>.<lb/>
+               <castList>
+                  <head><hi rend="italic">The Characters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philips</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor>Mr. Evans,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic"><hi rend="allcaps">Books</hi> of the <hi rend="allcaps">Songs</hi> may be had in the Theatre.</hi><lb/>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office, in the Strand<lb/>
+               Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be opened at <time when="17:30:00">Half-past Five</time>, and to commence at <time when="18:30:00">Half-past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/>
+               The New Farce of <hi rend="allcaps">Turn Out!</hi> having been performed on Thursday night, for the fourth time<lb/>
+               with universal applause and approbation to a most crowded audience, will be repeated every Evening<lb/>
+               of Performance till further notice.<lb/>
+               The New Drama of the House of Morville, performed for the 8th time on Tuesday night,<lb/>
+               and exciting the deepest interest, will be repeated on <hi rend="italic">Monday and Saturday</hi>, in the ensuing week.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

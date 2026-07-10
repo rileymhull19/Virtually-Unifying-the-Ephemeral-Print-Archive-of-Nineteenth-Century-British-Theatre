@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_03051812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Fifth Night</hi> of the <hi rend="allcaps">New Drama.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum.</hi></placeName><lb/>
+               This present <date when="1812-03-05"><hi rend="allcaps">Thursday</hi>, <hi rend="allcaps">March</hi> 5, 1812</date>,<lb/>
+               Their Majesties Servants will perform an entirely New Drama in Five Acts called The<lb/>
+               <bibl><title ref="namedentities.xml#play_house_of_morville">House of Morville.</title></bibl><lb/>
+               With New Scenery, Dresses, and Decorations.<lb/>
+               <hi rend="italic">The Plot and Characters drawn in humble imitation of the Ancient English Dramatists</hi>.<lb/>
+               <castList>
+                  <head>Characters in the Drama.</head><lb/>
+                  <castItem><role>Sir Thomas de Morville, <hi rend="italic">(a wealthy Baron)</hi></role> <actor ref="namedentities.xml#ri_wr">Mr. <hi rend="allcaps">Wroughton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Hugo de Morville, <hi rend="italic">(his banish'd Son)</hi></role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lord Rodmond, <hi rend="italic">(Nephew to Sir Thomas de Morville)</hi></role> <actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mordred, <hi rend="italic">(an Officer under Lord Rodmond)</hi></role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
+                  <castItem><role>Argaldus, <hi rend="italic">(a learned Sage)</hi></role> <actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lord Ruthven, <hi rend="italic">(Colonel of a Regiment)</hi></role> <actor ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mawbry, <hi rend="italic">(an Officer under Lord Ruthven)</hi></role> <actor>Mr. <hi rend="allcaps">Ray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Forrester, <hi rend="italic">(an Agent employed by Lord Rodmond)</hi></role> <actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
+                  <castItem><role>Kenneth, <hi rend="italic">(a faithful Servant to Sir Thomas de Morville)</hi></role> <actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bartholomy, <hi rend="italic">(a Lawyer, Friend to Sir Thomas de Morville)</hi></role> <actor ref="namedentities.xml#th_ma">Mr. <hi rend="allcaps">Marshall</hi>,</actor></castItem><lb/>
+                  <castItem><role>Porter, at Rodmond Castle,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><role>Kerr, <hi rend="italic">(a Lawyer)</hi></role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Greenlaw,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem><lb/>
+                  <castItem><role>Officers of Justice,</role> Messrs. <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterley,</hi></actor> <actor><hi rend="allcaps">Evans.</hi></actor></castItem><lb/>
+                  <castItem><role>Butler, at Highly House,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bosco, <hi rend="italic">(a recruiting Serjeant)</hi></role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
+                  <castItem><role>Principal Recruit,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem>
+                  <castItem><role>Furbrass, <hi rend="italic">(a drunken Soldier)</hi></role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lauder, <hi rend="italic">(a Peasant)</hi></role> <actor ref="namedentities.xml#gh_sp">Mr. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+                  <castItem><role>Landlord of an Inn,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Servant to Lord Bodmond,</role> <actor>Mr. <hi rend="allcaps">Buxton</hi>.</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Outlaws.</hi></role><lb/>
+                     <role>Fingask, <hi rend="italic">(Chief of a Banditti)</hi></role> <actor>Mr. <hi rend="allcaps">J. Smith,</hi></actor> <role>Gowry,</role> <actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor><lb/>
+                     <role>Knowles,</role> <actor ref="namedentities.xml#mr_go">Mr. <hi rend="allcaps">Goodman</hi>,</actor> <role>Polwart,</role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor> <role>Beaton,</role> <actor>Mr. <hi rend="allcaps">Gussio</hi>.</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Shepherds.</hi></role><lb/>
+                     <role>Cadwell,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher<hi rend="allcaps"></hi>,</actor> <role>Quincey,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor><lb/>
+                     <role>Cummins,</role> <actor ref="namedentities.xml#mr_vi">Mr. <hi rend="allcaps">Vials</hi>,</actor> <role>Cadyow,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Officers, Soldiers, Servants, &amp;c.</role><lb/>
+                        <role>Mrs. Villemore, <hi rend="italic">(Mother to Agnes de Morville)</hi></role> <actor>Mrs. <hi rend="allcaps">Brereton</hi>,</actor><lb/>
+                        <role>Agnes de Morville, <hi rend="italic">(Wife to the banish'd Son)</hi></role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor><lb/>
+                        <role>Hostess of the Inn,</role> <actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic"><hi rend="allcaps">Chorus</hi> of <hi rend="allcaps">Soldiers</hi>.</hi></role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst,</actor></castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Prologue</hi> to be spoken by <persName ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi></persName>,<lb/>
+               And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi></persName>.<lb/>
+               In Act III. a <hi rend="allcaps">Song</hi> by <persName ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi></persName>, composed by <persName ref="namedentities.xml#mi_ke">Mr. Kelly</persName>.<lb/>
+               The <hi rend="smallcaps">Scenery</hi> designed and executed by <persName ref="namedentities.xml#th_gr">Mr. <hi rend="allcaps">Greenwood</hi></persName>.<lb/>
+               The <hi rend="smallcaps">Decorations</hi> invented and executed by Mr. <hi rend="allcaps">Morris</hi>.<lb/>
+               The Dresses by <persName ref="namedentities.xml#he_ba">Mr. <hi rend="allcaps">Banks</hi></persName>, and <persName ref="namedentities.xml#ma_re">Miss <hi rend="allcps">Rein</hi></persName>.<lb/>
+               To which will be added (48th time) a <hi rend="allcaps">New Comic Pantomime</hi>, called The<lb/>
+               <bibl><title ref="namedentities.xml#play_white_cat"><hi rend="allcaps">White Cat.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Harlequin,</role> <actor>Mr. <hi rend="allcaps">Hartland</hi>,</actor></castItem> <castItem><role>Pantaloon,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem> <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Kirby</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lover,</role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor></castItem> <castItem><role>Fairy,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem> <castItem><role>Columbine,</role> <actor>Miss <hi rend="allcaps">Valencey</hi>,</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned.</hi><lb/>
+               The New Drama of the House of Morville, performed for the 4th time on Tuesday night,<lb/>
+               to an elegant and overflowing audience, and exciting the deepest interest, with frequent and<lb/>
+               unanimous bursts of applause, will be repeated every Evening of Performance till further notice.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

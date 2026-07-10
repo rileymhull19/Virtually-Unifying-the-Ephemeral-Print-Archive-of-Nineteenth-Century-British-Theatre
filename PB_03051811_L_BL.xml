@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_03051811_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Third Time.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum</hi></placeName><lb/>
+               Under the Authority of the Lord Chamberlain.<lb/>
+               This present <hi rend="allcaps">Tuesday</hi>, <date when="1811-03-05"><hi rend="allcaps">March</hi> 5, 1811</date>:<lb/>
+               Their Majesties Servants will Perform a <hi rend="italic">New Comedy</hi>, in Five Acts, called<lb/>
+               <bibl><title ref="namedentities.xml#play_ourselves"><hi rend="allcaps">Ourselves.</hi></title></bibl><lb/>
+               <castList>
+                  <head><hi rend="italic">The Principal Charcaters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Horn</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Prologue</hi> to be spoken by <persName ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi></persName>.<lb/>
+               And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi></persName>.<lb/>
+               To which will be added, the Musical Farce of
+               <bibl><title ref="namedentities.xml#play_hit_miss"><hi rend="allcaps">Hit or Miss!</hi></title></bibl><lb/>
+               The Overture and Music composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
+               <castList>
+                  <castItem><role>Adam Sterling,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem> <castItem><role>Janus Jumbule,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>O'Rourke O'Daisy,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
+                  <castItem><role>Quill,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mrs. Augusta Caroline Honeymouth,</role> <actor ref="namedentities.xml#ma_ma">Mrs. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><role>Clara Sterling,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem> <castItem><role>Delly O'Daisy,</role> <actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>.</actor></castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the<lb/>
+               Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be opened at <time when="17:30:00">Half past Five</time>, and the Performance to begin at <time when="18:30:00">half past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/>
+               The New Comedy of <hi rend="allcaps">Ourselves</hi>, performed last night for the<lb/>
+               2nd time, was recieved with universal approbation and reiterated bursts of<lb/>
+               applause, from all parts of the Theatre, and will be repeated every Evening<lb/>
+               till further notice.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

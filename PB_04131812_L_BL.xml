@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_04131812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Performed But Once.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum,</hi></placeName><lb/>
+               This present <hi rend="allcaps">Monday</hi>, <date when="1812-04-13"><hi rend="allcaps">April</hi> 13, 1812</date>,<lb/>
+               Their Majesties Servants will perform <hi rend="italic">(for the 2nd time)</hi> a New Comedy in 5 Acts,<lb/>
+               to be in future call'd The<lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_sons_of_erin"><hi rend="allcaps">Sons</hi> of <hi rend="allcaps">Erin</hi>;</title><lb/>
+                  <title><hi rend="allcaps">OR</hi>,<lb/>
+                     Modern Sentiment.</title></bibl><lb/>
+               <castList>
+                  <head><hi rend="allcaps">The Characters By</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Prologue</hi> to be spoken by <persName ref="namedentities.xml#th_ma">Mr. <hi rend="allcaps">Marshall</hi></persName>,<lb/>
+               And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi></persName>.<lb/>
+               To which will be added (<hi rend="italic">for the 2nd time by this Company</hi>, and with Permission of the Proprietors<lb/>
+               of the <hi rend="allcaps">English Opera</hi>) the celebrated Burlesque Entertainment of<lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_quadrupeds"><hi rend="allcaps">Quadrupeds;</hi></title><lb/>
+               <title type="sub"><hi rend="allcaps">Or, The Manager's Last Kick.</hi></title></bibl><lb/>
+               Partly founded on <hi rend="italic">ancient</hi> Dramas, and applied to <hi rend="italic">modern</hi> events; with <hi rend="italic">old</hi><lb/>
+               Scenes and <hi rend="italic">new Animals!!</hi> (their 44th Appearance on this, or any Stage!!!)<lb/>
+               <castList>
+                  <head><hi rend="italic">Characters in the Prelude.-</hi></head> <castItem><role>Dill,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Zigzag,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><role>Under Prompter,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Echo,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
+                  <castItem><hi rend="italic">Characters in the Drama.-</hi></castItem><castItem><role>Francisco,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><role>Percy,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Isaacos,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abrahamides,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bernardo,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><role>Bartholomeus,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
+                  <castItem><role>Christophorides,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Humphriminos,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dorothea,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Tittilinda,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
+                  <castItem><role>Blousidora,</role> <actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>Moperella,</role> <actor>Miss <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">The Equestrian, Assinine, &amp; Non-descript Warriors.</hi></role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst.</actor><lb/>
+                     <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Gussio,</actor> <actor>Rials,</actor> &amp;c. &amp;c.</castItem><lb/>
+               </castList>
+               <hi rend="italic">Books of the Songs may be had in the Theatre.</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_01311811_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Never Performed.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum</hi></placeName><lb/>
+               Under the Authority of Lord Chamberlain.<lb/>
+               This present <hi rend="allcaps">Thursday, <date when="1811-01-31">January 31, 1811</date></hi>.<lb/>
+               Their Majesties Servants will Act an entirely New <hi rend="italic">Operatic Drama</hi>, in Three Acts,<lb/>
+               called The<lb/>
+               <bibl><title ref="namedentities.xml#play_peasant_boy">Peasant Boy.</title></bibl><lb/>
+               <hi rend="italic">With New Music, Scenes, Dresses, and Decorations</hi>.<lb/>
+               The <hi rend="smallcaps">Overture</hi> and <hi rend="smallcaps">Music, Entirely Original</hi>.<lb/>
+               Composed by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="smallcaps">Kelly</hi></persName>.<lb/>
+               Three Pieces only excepted from the <hi rend="allcaps">MS.</hi> of <hi rend="allcaps">Winter</hi>.<lb/>
+               <castList>
+                  <head><hi rend="italic">The Characters by</hi></head><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor>,</castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philipps</hi></actor>,</castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi></actor>,</castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps"> Powell</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_bl"> Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>.</actor></castItem><lb/>
+               </castList>
+               <castList>
+               <head><hi rend="allcaps"><hi rend="italic">The Chorusses By</hi></hi></head><lb/>
+                  <castItem>Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor>Cook</actor>, <actor>Wilson</actor>, <actor ref="namedentities.xml#mr_me">Mead</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor>Whilmshurst</actor><lb/>
+                     <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, <actor>Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor>Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
+                     Messrs. <actor ref="namedentities.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, <actor>Valencey</actor>, <actor>Barrett</actor><lb/>
+                     <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor>I. Boyce</actor>, &amp;c. &amp;c.</castItem></castList><lb/>
+               The Principal <hi rend="allcaps">Scenes</hi>, Entirely New, Designed &amp; Painted by Mr. <hi rend="allcaps">Morris</hi>.<lb/>
+               <hi rend="italic">Books of the <hi rend="allcaps">Songs</hi> may be had in the Theatre, and at the Dramatic Repository,</hi><lb/>
+               <hi rend="italic">Great Russell Street, Covent Garden.</hi><lb/>
+               To which will be added the Farce of The
+               <bibl><title ref="namedentities.xml#play_mayor_garratt">Mayor of Garratt.</title></bibl>
+               <castList>
+                  <castItem><role>Sir Jacob Jalap,</role> <actor>Mr. <hi rend="allcaps">Penley</hi></actor>,</castItem><lb/>
+                  <castItem><role>Major Sturgeon,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi></actor>,</castItem><lb/>
+                  <castItem><role>Jerry Sneak,</role> <actor ref="namedentities.xml#sa_ru"> Mr. <hi rend="allcaps">Russell</hi></actor>,</castItem><lb/>
+                  <castItem><role>Crispin Heeltap,</role> <actor ref="namedentities.xml#ra_we">Mr.<hi rend="allcaps">Wewitzer</hi></actor>,</castItem><lb/>
+                  <castItem><role>Bruin,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi></actor>,</castItem><lb/>
+                  <castItem><role>Roger,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi></actor>,</castItem> <castItem><role>Snuffle,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi></actor>,</castItem><lb/>
+                  <castItem><role>Mrs. Sneak,</role> <actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi></actor>,</castItem><lb/>
+                  <castItem><role>Mrs. Bruin,</role> <actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi></actor>.</castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the<lb/>
+               Strand Entrances, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be opened at <time when="17:30:00">Half past Five</time>, and the Performance to begin at <time when="18:30:00">half past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

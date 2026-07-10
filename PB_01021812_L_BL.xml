@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_01021812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Never Performed.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum,</hi></placeName><lb/>
+               This present <date when="1812-01-02"><hi rend="allcaps">Thursday</hi>, January 2, 1812</date>,<lb/>
+               Their Majesties Servants will perform an entirely New Comedy in Five Acts, called<lb/>
+               <bibl><title ref="namedentities.xml#play_right_and_wrong"><hi rend="allcaps">Right &amp; Wrong.</hi></title></bibl><lb/>
+               <castList>
+                  <head><hi rend="italic">The Characters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Prologue</hi> to be Spoken by Mr. <hi rend="allcaps">Putnam</hi><lb/>
+               And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi></persName>.<lb/>
+               In Act III, a <hi rend="allcaps">Dance</hi> Incidental to the Piece,<lb/>
+               By Mr. <hi rend="allcaps">Hartland</hi>, Miss <hi rend="allcaps">C. Bristow</hi>, Miss <hi rend="allcaps">Valencey</hi>,<lb/>
+               Messrs. <persName ref="namedentities.xml#ch_ma">Mathews</persName>, <persName ref="namedentities.xml#mr_go">Goodman</persName>, <persName ref="namedentities.xml#j_we">Wells</persName>, Hope, Gussio, <persName ref="namedentities.xml#mr_vi">Vials</persName>.<lb/>
+               Messrs. Barret, <persName ref="namedentities.xml#ro_ch">Chatterley</persName>, Jones, <persName ref="namedentities.xml#mr_mi">Minton</persName>, <persName ref="namedentities.xml#jo_ca">Caulfield</persName>, I. Boyce<lb/>
+               After which will be presented a <hi rend="allcaps">New Comic Pantomime</hi>, called The<lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_white_cat"><hi rend="allcaps">White Cat</hi>;</title><lb/>
+               <title type="sub"><hi rend="italic">Or, <hi rend="allcaps">Harlequin</hi> in <hi rend="allcaps">Fairy Wood</hi>.</hi></title></bibl><lb/>
+               With entirely New <hi rend="italic">Scenes, Music, Dresses, Decorations and Machinery.</hi><lb/>
+               The <hi rend="allcaps">Music</hi> entirely new, composed by Mr. <hi rend="allcaps">Smart</hi>.<lb/>
+               <castList>
+                  <head><hi rend="italic"><hi rend="allcaps">Principal Characters.</hi></hi></head><lb/>
+                  <castItem><role>Prince Paladore, <hi rend="italic">(afterwards Harlequin)</hi></role> <actor>Mr. <hi rend="allcaps">Hartland</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Toby Touchy, <hi rend="italic">(afterwards Pantaloon)</hi></role> <actor>Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dionysius Dazzle, Esquire, <hi rend="italic">(the rejected Lover)</hi></role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor></castItem><lb/>
+                  <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Kirby</hi>,</actor></castItem><lb/>
+                  <castItem><role>Spirts,-attendants on the Evil Genius,-Promenades,-Labourers, &amp;c. &amp;c.</role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst,</actor><lb/>
+                     <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>[unreadable]</actor> <actor>[unreadable]</actor> &amp;c. &amp;c.</castItem><lb/>
+                  <castItem><role>Arborella, <hi rend="italic">(Genius of Fairy Wood, transformed to the White Cat)</hi></role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>
+                  <castItem><role>Miss Abigail Antique,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Landlady, Oyster-woman, Fishwoman, &amp;c. &amp;c.</role><lb/>
+                     Messrs. <actor ref="namedentities.xml#wa_ma">Maddocks,</actor> <actor ref="namedentities.xml#ro_ch">Chatterley,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#mr_mi">Minton,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>I. Boyce,</actor><lb/>
+                     <actor>[unreadable]</actor> <actor ref="namedentities.xml#mo_me">Menage,</actor> &amp;c. &amp;c.-</castItem> <castItem><role>Attendants on Aroborella, <hi rend="italic">(transformed to Cats)</hi></role><lb/>
+                        Messrs. <actor ref="namedentities.xml#ro_ch">Chatterley,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#mr_mi">Minton,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>I. Boyce,</actor> <actor ref="namedentities.xml#mo_me">Menage,</actor> &amp;c. &amp;c.</castItem><lb/>
+                  <castItem><role>Columbine, <hi rend="italic">(Daughter to Sir Toby Touch)</hi></role> <actor>Miss <hi rend="allcaps">Valencey</hi>,</actor></castItem><lb/>
+                  <castItem>An entire New <hi rend="allcaps">Tambourine Pas Seul</hi> by <actor>Miss <hi rend="allcaps">C. Bristow.</hi></actor></castItem>
+               </castList>
+               The <hi rend="allcaps">Scenery</hi> designed and executed by <persName ref="namedentities.xml#th_gr">Mr. <hi rend="allcaps">Greenwood</hi></persName> and assistants.<lb/>
+               The <hi rend="allcaps">Machinery</hi> by <persName ref="namedentities.xml#wi_un">Mr. <hi rend="allcaps">Underwood</hi></persName> and assistants.<lb/>
+               The <hi rend="allcaps">Tricks</hi> invented and executed by Mr. <hi rend="allcaps">Morris</hi> and assistants.<lb/>
+               The <hi rend="allcaps">Dresses</hi> by <persName ref="namedentities.xml#he_ba">Mr. <hi rend="allcaps">Banks</hi></persName>, <persName ref="namedentities.xml#ma_re">Miss <hi rend="allcaps">Rein</hi></persName>, and their assistants.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

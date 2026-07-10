@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_01021811_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+     </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="smallcaps">Never Performed</hi><lb/>
+               <placeName ref="#lyceum">Theatre Royal, Lyceum</placeName><lb/>
+               Under the Authority of the Lord Chamberlain.<lb/>
+               This present <hi rend="allcaps">Wednesday</hi>, <date when="1811-01-02"><hi rend="allcaps">January 2, 1811</hi></date>.<lb/>
+               Their Majesties Servants will Act a New Comedy in 5 Acts, called<lb/>
+               <bibl><title ref="namedentities.xml#play_lost_and_found"><hi rend="allcaps">Lost &amp; Found.</hi></title></bibl>
+            <castList>
+               <head><hi rend="italic">The Principal Characters by</hi></head><lb/>
+               <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#ri_wr">Mr. <hi rend="allcaps">Wroughton</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#ch_ho">>Mr. <hi rend="allcaps">Holland</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">DeCamp</hi>.</actor></castItem><lb/>
+               <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>.</actor></castItem><lb/>
+               <castItem><actor>Mr. <hi rend="allcaps">Evans</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>.</actor></castItem><lb/>    
+               <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>.</actor></castItem><lb/>
+            </castList>
+               The <hi rend="allcaps">Prologue</hi> to be spoken by <persName ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi></persName>.<lb/>
+               And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi></persName>.<lb/>
+               After which (<hi rend="allcaps">7th Time</hi>) a New <hi rend="italic">Dramatic Romance</hi>, in Two Acts, called The<lb/>
+               <bibl><title ref="namedentities.xml#play_magic_bride"><hi rend="allcaps">Magic Bride.</hi></title></bibl><lb/>
+               <hi rend="italic">With entirely New Music</hi>,<lb/>
+               Scenes, Machinery, Dresses, and Decorations.<lb/>
+               The <hi rend="smallcaps">Overture</hi> and <hi rend="smallcaps">Music</hi> composed <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
+            <castList>
+               <head><hi rend="italic">The Characters by</hi></head><lb/>
+               <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>.</actor></castItem><lb/>
+               <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>.</actor></castItem><lb/>
+               <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>.</actor></castItem><lb/>
+               <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/> 
+               <castItem><actor ref="namedentities.xml#wi_we">Master <hi rend="allcaps">West</hi>,</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps">Powell</hi>.</actor></castItem><lb/>
+               <castItem><hi rend="allcaps"><hi rend="italic">The Chorusses By</hi></hi><lb/>
+               Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor>Cook</actor>, <actor>Wilson</actor>, <actor>Stead</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor>Whilmshurst</actor><lb/>
+                  Messrs. <actor ref="namedentitites.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, &amp;c. &amp;c.</castItem><lb/>
+               <castItem><hi rend="allcaps">The Dance By</hi><lb/>
+               <actor>Miss C. <hi rend="allcaps">Bristow</hi></actor>,<lb/>
+               Messrs. <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="namedentitites.xml#j_we">Wells</actor>, <actor>Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor>Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
+                  Messrs. <actor>Valencey</actor>, <actor>Barret</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor>I. Boyce</actor>,  &amp;c. &amp;c.</castItem><lb/>
+            </castList>
+               The <hi rend="allcaps">Scenery</hi> designed by <persName ref="namedentities.xml#th_gr">Mr. <hi rend="allcaps">Greenwood</hi></persName>.<lb/>
+               and Executed by <rs ref="namedentities.xml#th_gr">Him</rs>, Mr. <hi rend="allcaps">Morris</hi>, <persName ref="namedentities.xml#ja_me">Mr. <hi rend="allcaps">Merrick</hi></persName>, Mr. <hi rend="allcaps">Mortram</hi>.<lb/>
+               The <hi rend="allcaps">Decorations</hi> &amp; <hi rend="allcaps">Machinery</hi> by Mr. <hi rend="allcaps">Morris</hi>, Mr. <hi rend="allcaps">Rogers</hi>.<lb/>
+               The <hi rend="allcaps">Dresses</hi> by <persName ref="namedentities.xml#he_ba">Mr. <hi rend="allcaps">Banks</hi></persName>, and <persName ref="namedentities.xml#ma_re">Miss <hi rend="allcaps">Rein</hi></persName>,<lb/>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box-Office in the<lb/>
+               Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               <hi rend="italic">Vivant Rex et Regina! No Money to be Returned</hi></ab>
+      </div>
+      </body>
+  </text>
+</TEI>

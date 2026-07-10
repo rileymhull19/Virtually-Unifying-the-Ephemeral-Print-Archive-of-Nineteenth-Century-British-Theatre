@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ex_04141811">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Theatrical Examiner.</head>
+         <p>No. 91</p>
+         <p><placeName ref="namedentities.xml#lyceum"><hi rend="italic"><hi rend="smallcaps">Lyceum.</hi></hi></placeName></p>
+         <p><persName ref="namedentities.xml#jo_br"><hi rend="smallcaps">Mr. Braham</hi></persName> has re-appeared among the Drury-lane Company at this theatre, and performed twice in the <bibl><title ref="namedentities.xml#play_siege_of_belgrade"><hi rend="italic">Siege of Belgrade</hi></title></bibl>. This piece, I believe, was written by a <persName ref="namedentities.xml#ja_co">Mr. <hi rend="smallcaps">Cobb</hi></persName>, of whose name the public seem to be growing into a comfortable forgetfulness, as will soon be the case with regard to his brother manufacturers, in spite of the singers who still keep their vehicles in use. What audience ever thinks now of the author of such productions, and of the fifty other pieces that are kept on the stage for nothing but the music? Or why do any persons of taste ever inquire about their names, but to lament that the words of such writers should disgrace and seriously <hi rend="italic">injure</hi> the music of our <hi rend="smallcaps">Arnes</hi>, <hi rend="smallcaps">Shields</hi>, and <hi rend="smallcaps">Storaces</hi>? The <bibl><title ref="namedentities.xml#play_siege_of_belgrade"><hi rend="italic">Siege of Belgrade</hi></title></bibl> so perfectly resembles these pieces, that it has been criticised a thousand times over in every one of them as well as in itself; and as nobody feels an interest respecting a modern opera that, according to the phrase, is not <quote>“entirely new,”</quote> it would be an useless annoyance of our readers to repeat to them its puns and its old sayings;—not to mention those delicious rhymes, intended no doubt to make up for the absence of poetry—mistake and partake, veil and prevail, pressing and expressing. Lest the author however should think himself ill-used by withholding a sample of what he can do, let us take the following exquisite specimen of common-place in confusion.</p>
+         <p>Duet between <hi rend="italic">Katharina</hi> and the <hi rend="italic">Seraskier</hi>, in which the former dictates a love-letter, which the latter repeats as he writes it down:</p>
+         <l>Of plighted faith so truly kept,</l>
+         <l>Of all love dictates, tell;</l>
+         <l>Of restless thoughts that never slept,</l>
+         <l>Since when she bade farewell;</l>
+         <l>The rising sigh, the frequent tear,</l>
+         <l>The flush of hope, the chilling fear:</l>
+         <l>So may the sympathetic soul</l>
+         <l>Direct kind fancy's wing,</l>
+         <l>Were future hours in transport roll,</l>
+         <l>And love's reward shall bring.</l>
+         <p><persName ref="namedentities.xml#jo_br"><hi rend="smallcaps">Mr. Braham</hi></persName> is still the same florid, but masterly singer as ever: <rs ref="namedentities.xml#jo_br">his</rs> voice has the same strength and sweetness, dashed with a Judaical twang; and <rs ref="namedentities.xml#jo_br">he</rs> is still the same automaton in speech, the same instant enthusiast in a song. It is really a great pity that a man of <rs ref="namedentities.xml#jo_br">his</rs> feeling and power should indulge so false a taste as that of exuberant ornament. Perhaps <rs ref="namedentities.xml#jo_br">he</rs> does not think so, because <rs ref="namedentities.xml#jo_br">he</rs> finds that the majority like it; but <rs ref="namedentities.xml#jo_br">he</rs> should recollect that <rs ref="namedentities.xml#jo_br">he</rs> spoils their taste before <rs ref="namedentities.xml#jo_br">he</rs> wins their applause: and in fact, <rs ref="namedentities.xml#jo_br">he</rs> ought to be informed that there are not a few persons among <rs ref="namedentities.xml#jo_br">his</rs> hearers, who are become tired of <rs ref="namedentities.xml#jo_br">his</rs> splendid misrepresentations, and heartily wish to hear something of the composer again as well as the singer. How would <rs ref="namedentities.xml#jo_br">he</rs> like the perusal of a pathetic and simple story by some affected person, who at every word or two should be giving him his brilliant comments on the passage; and destroying the proper effect of the text by the impertinence of his annotations?</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <standOff>
+        <listPerson>
+           <person xml:id="xx_xx">
+              <persName>
+                 <forename>XX</forename>
+                 <surname>XX</surname>
+              </persName>
+              <gender value="X">X</gender>
+              <birth>XX</birth>
+              <death>XX</death>
+              <floruit notBefore="1111" notAfter="1111"/>
+              <nationality>XX</nationality>
+              <occupation>XX</occupation>
+              <affiliation>XX</affiliation>
+              <note>CITATION</note>
+           </person>
+           <person xml:id="he_ba">
+              <persName>
+                 <forename>Henry</forename>
+                 <surname>Banks</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1744</birth>
+              <death>1829</death>
+              <floruit notBefore="1789"/>
+              <nationality>English</nationality>
+              <occupation>Tailor, Wardrobe-Keeper</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Banks, Henry</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_bl">
+              <persName>
+                 <forename>Maria</forename>
+                 <surname type="married">Bland</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1770</birth>
+              <death>1838</death>
+              <floruit notBefore="1773" notAfter="1822"/>
+              <nationality>Italian</nationality>
+              <occupation>Singer</occupation>
+              <affiliation>Sadler's Wells, Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Bland, Maria</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="su_bo">
+              <persName>
+                 <forename>Susannah</forename>
+                 <surname>Boyce</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1805" notAfter="1830"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Sadler's Wells</affiliation>
+              <note>See <bibl><title>Boyce, Susannah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_br">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Braham</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1777</birth>
+              <death>1856</death>
+              <floruit notBefore="1787" notAfter="1852"/>
+              <nationality>English</nationality>
+              <occupation>Singer</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Braham, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_ca">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Caulfield</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1794" notAfter="1819"/>
+              <nationality>Unknown</nationality>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Caulfield, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_ch">
+              <persName>
+                 <forename>Marianne</forename>
+                 <surname>Chambers</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1778</birth>
+              <death>1811</death>
+              <floruit notBefore="1111" notAfter="1111"/>
+              <nationality>English</nationality>
+              <occupation>Playwright, Author</occupation>
+              <note>https://www.wikidata.org/wiki/Q55381444</note>
+           </person>
+           <person xml:id="mr_ch">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname type="married">Chatterley</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unkown</death>
+              <floruit notBefore="1795" notAfter="1819"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Chatterley, Mrs. Robert E.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ro_ch">
+              <persName>
+                 <forename type="first">Robert</forename>
+                 <forename type="middle">E.</forename>
+                 <surname>Chatterley</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1792" notAfter="1818"/>
+              <nationality>Unknown</nationality>
+              <occupation>Prompter, Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Chatterley, Robert E.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ja_co">
+              <persName>
+                 <forename>James</forename>
+                 <surname>Cobb</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1756</birth>
+              <death>1818</death>
+              <floruit notBefore="1773" notAfter="1803"/>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Cobb, James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_si_co">
+              <persName>
+                 <forename type="first">Thomas</forename>
+                 <forename type="middle">Simpson</forename>
+                 <surname>Cooke</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1782</birth>
+              <death>1848</death>
+              <floruit notBefore="1789" notAfter="1848"/>
+              <nationality>Irish</nationality>
+              <occupation>Composer, Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Cooke, Thomas Simpson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ge_co">
+              <persName>
+                 <forename>George</forename>
+                 <surname>Colman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1762</birth>
+              <death>1836</death>
+              <floruit notBefore="1782" notAfter="1822"/>
+              <nationality>English</nationality>
+              <occupation>Playwright, Theatre Manager</occupation>
+              <note>See <bibl><title>Colman, George, the younger</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_da">
+              <persName>
+                 <forename>Charles</forename>
+                 <surname>Danby</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1776" notAfter="1814"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor, Chorus Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Danby, Charles.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_da">
+              <persName>
+                 <forename type="first">Maria</forename>
+                 <forename type="middle">Rebecca</forename>
+                 <surname type="birth">Duncan</surname>
+                 <surname type="married">Davison</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>c.1780</birth>
+              <death>1858</death>
+              <floruit notBefore="1794" notAfter="1829-06-13"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Davison [née Duncan], Maria Rebecca</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="vi_de">
+              <persName>
+                 <forename>Vincent</forename>
+                 <surname>De Camp</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1779</birth>
+              <death>1839</death>
+              <floruit notBefore="1792-11-05" notAfter="1814"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>De Camp, Vincent</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ro_di">
+              <persName>
+                 <forename>Robert</forename>
+                 <surname>Dibble</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1793" notAfter="1817"/>
+              <nationality>Unkown</nationality>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Dibble, Robert</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person> 
+           <person xml:id="ch_di">
+              <persName>
+                 <forename>Charles</forename>
+                 <surname>Dignum</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1765</birth>
+              <death>1827</death>
+              <floruit notBefore="1784" notAfter="1815"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Dignum, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_do">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Dowton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1764</birth>
+              <death>1851</death>
+              <floruit notBefore="1781" notAfter="1820"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Theatre Manager</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Dowton, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="el_ed">
+              <persName>
+                 <forename type="first">Elizabeth</forename>
+                 <forename type="middle">Rebecca</forename>
+                 <surname type="birth">Richards</surname>
+                 <surname type="married">Edwin</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1771</birth>
+              <death>1854</death>
+              <floruit notAfter="1825"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Edwin, Mrs John, Elizabeth Rebecca, née Richards</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ed_ey">
+              <persName>
+                 <forename type="first">Edmund</forename>
+                 <forename type="middle">John</forename>
+                 <surname>Eyre</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1767</birth>
+              <death>1816</death>
+              <floruit notBefore="1789" notAfter="1816"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Playwright</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Eyre, Edmund John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_fa">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Fawcett</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1768</birth>
+              <death>1837</death>
+              <floruit notBefore="1786" notAfter="1830"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Fawcett, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_br_fi">
+              <persName>
+                 <forename type="first">Joshua</forename>
+                 <forename type="middle">Bridges</forename>
+                 <surname>Fisher</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1793" notAfter="1819"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Fisher, Joshua Bridhes</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ju_gl">
+              <persName>
+                 <forename>Juliana</forename>
+                 <surname type="birth">Betterton</surname>
+                 <surname type="married">Glover</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1779</birth>
+              <death>1850</death>
+              <floruit notBefore="1783" notAfter="1850"/>
+              <nationality>Irish</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Glover, Mrs Samuel, Juliana; née Betterton</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>   
+           </person>
+           <person xml:id="mr_go">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Goodman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1789" notAfter="1819"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dancer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>ee <bibl><title>Goodman, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_gr">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Greenwood</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1779</birth>
+              <death>1832</death>
+              <floruit notBefore="1797" notAfter="1819"/>
+              <nationality>English</nationality>
+              <occupation>Scene Painter</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Greenwood, Thomas</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="sa_ha">
+              <persName>
+                 <forename type="stage">Sarah</forename>
+                 <surname type="stage">Harlowe</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1765</birth>
+              <death>1862</death>
+              <floruit notBefore="1779" notAfter="1826"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Harlowe, Sarah, stage name</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_ho">
+              <persName>
+                 <forename>Charles</forename>
+                 <surname>Holland</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1768</birth>
+              <death>1849</death>
+              <floruit notBefore="1791" notAfter="1821"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Holland, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_ed_ho">
+              <persName>
+                 <forename type="first">Charles</forename>
+                 <forename type="middle">Edward</forename>
+                 <surname>Horn</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1786</birth>
+              <death>1849</death>
+              <floruit notBefore="1809" notAfter="1847"/>
+              <nationality>English</nationality>
+              <occupation>Composer, Singer</occupation>
+              <note>See <bibl><title>Horn, Charles Edward</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_he_jo">
+              <persName>
+                 <forename type="first">John</forename>
+                 <forename type="middle">Henry</forename>
+                 <surname>Johnstone</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1749</birth>
+              <death>1828</death>
+              <floruit notBefore="1775" notAfter="1822"/>
+              <nationality>Irish</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Johnstone, Henry John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mi_ke">
+              <persName>
+                 <forename>Michael</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1762</birth>
+              <death>1826</death>
+              <floruit notBefore="1777" notAfter="1820"/>
+              <nationality>Irish</nationality>
+              <occupation>Composer, Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Kelly, Michael</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_pe_ki">
+              <persName>
+                 <forename type="first">Matthew</forename>
+                 <forename type="middle">Peter</forename>
+                 <surname>King</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1773</birth>
+              <death>1823</death>
+              <floruit notBefore="1804" notAfter="1819"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>King, Matthew Peter</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_lo">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Lovegrove</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1778</birth>
+              <death>1816</death>
+              <floruit notBefore="1799" notAfter="1815"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Lovegrove, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_ma">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname type="married">Maddocks</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>1834</death>
+              <floruit notBefore="1782" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Maddocks, Mrs Walter</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wa_ma">
+              <persName>
+                 <forename>Walter</forename>
+                 <surname>Maddocks</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>1823</death>
+              <floruit notBefore="1782" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Maddocks, Walter</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_ma">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Marshall</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>1819</death>
+              <floruit notBefore="1781" notAfter="1819"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Marshall, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_ma">
+              <persName>
+                 <forename>Charles</forename>
+                 <surname>Mathews</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1776</birth>
+              <death>1835</death>
+              <floruit notBefore="1793" notAfter="1834"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Mathews, Charles</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18329">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18329</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_me">
+              <persName>
+                 <forename>Unknown</forename>
+                 <surname>Mead</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1799" notAfter="1817"/>
+              <nationality>Unknown</nationality>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Mead, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ha_me">
+              <persName>
+                 <forename>Harriot</forename>
+                 <surname>Mellon</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1778</birth>
+              <death>1837</death>
+              <floruit notBefore="1787" notAfter="1815"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Mellon, Harriot</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_me">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Melvin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1771</birth>
+              <death>1817</death>
+              <floruit notBefore="1792" notAfter="1812"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor, Dancer</occupation>
+              <affiliation>Drury Lane Theatre, Sadler's Wells, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Melvin, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mo_me">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Menage</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1775"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dancer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Menage, Mons</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="fe_me">
+              <persName>
+                 <forename>Frederick</forename>
+                 <surname>Menage</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1788</birth>
+              <death>1822</death>
+              <floruit notBefore="1792" notAfter="1817"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dancer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Menage, Frederick</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_me">
+              <persName>
+                 <forename>Mary</forename>
+                 <surname>Menage</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1778</birth>
+              <death>1830</death>
+              <floruit notBefore="1791" notAfter="1812"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre,</affiliation>
+              <note>See <bibl><title>Menage, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ja_me">
+              <persName>
+                 <forename>James</forename>
+                 <surname>Merrick</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1794" notAfter="1812"/>
+              <nationality>Unknown</nationality>
+              <occupation>Scene Painter</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Merrick, James</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_mi">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Minton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1797" notAfter="1819"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor, Singer</occupation>
+              <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
+           </person>
+           <person xml:id="th_mo">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Moore</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1779</birth>
+              <death>1852</death>
+              <floruit notBefore="1795" notAfter="1846"/>
+              <nationality>Irish</nationality>
+              <occupation>Poet, playwright, and actor</occupation>
+              <note>See <bibl><title>Moore, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ro_mo">
+              <persName>
+                 <forename>Rosemond</forename>
+                 <surname type="birth">Wilkinson</surname>
+                 <surname type="married">Mountain</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1761</birth>
+              <death>1841</death>
+              <floruit notBefore="1782"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Mountain, Mrs John, Rosemond, née Wilkinson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_ok">
+              <persName>
+                 <forename>John</forename>
+                 <surname>O'Keeffe</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1747</birth>
+              <death>1833</death>
+              <floruit notBefore="1764" notAfter="1796"/>
+              <nationality>Irish</nationality>
+              <occupation>Playwright, Actor</occupation>
+              <note>See <bibl><title>O'Keeffe, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20658">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20658</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_an_or">
+              <persName>
+                 <forename type="first">Mary</forename>
+                 <forename type="middle">Ann</forename>
+                 <surname type="birth">Ivers</surname>
+                 <surname type="married">Orger</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1788</birth>
+              <death>1849</death>
+              <floruit notBefore="1793" notAfter="1845"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Orger [née Ivers], Mary Ann</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_ox">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Oxberry</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1784</birth>
+              <death>1824</death>
+              <floruit notBefore="1802" notAfter="1824"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Oxberry, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ro_pa">
+              <persName>
+                 <forename>Robert</forename>
+                 <surname>Palmer</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1757</birth>
+              <death>1817</death>
+              <floruit notBefore="1763" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Palmer, Robert L.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_ph">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Philipps</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1774</birth>
+              <death>1841</death>
+              <floruit notBefore="1796" notAfter="1826"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Singer</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Philipps, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ja_po">
+              <persName>
+                 <forename>Jane</forename>
+                 <surname type="married">Powell</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>c.1761</birth>
+              <death>1831</death>
+              <floruit notBefore="1787" notAfter="1829"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Powell, Mrs William Jane</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_po">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Powell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1755</birth>
+              <death>1836</death>
+              <floruit notBefore="1775" notAfter="1828"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Powell, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ja_ra">
+              <persName>
+                 <forename>James</forename>
+                 <surname>Grant</surname>
+                 <surname type="stage">Raymond</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1768</birth>
+              <death>1817</death>
+              <floruit notBefore="1790"/>
+              <nationality>Scottish</nationality>
+              <occupation>Actor, Theatre Manager</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Raymond, James Grant</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_re">
+              <persName>
+                 <forename>Mary</forename>
+                 <surname>Rein</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1780" notAfter="1815"/>
+              <nationality>Unknown</nationality>
+              <occupation>Costumer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Rein, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="sa_ru">
+              <persName>
+                 <forename type="first">Samuel</forename>
+                 <forename type="middle">Thomas</forename>
+                 <surname>Russell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1766</birth>
+              <death>1845</death>
+              <floruit notBefore="1773" notAfter="1841"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Russell, Samuel Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="an_sc">
+              <persName>
+                 <forename>Ann</forename>
+                 <surname>Scott</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1796" notAfter="1822"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Scott, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_sm">
+              <persName>
+                 <forename>Charles</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1786</birth>
+              <death>1856</death>
+              <floruit notBefore="1798"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>Smith, Charles</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25784">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25784</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ge_sm">
+              <persName>
+                 <forename>George</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1777</birth>
+              <death>1836</death>
+              <floruit notBefore="1794" notAfter="1824"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Sadler's Wells, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Smith, George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="gh_sp">
+              <persName>
+                 <forename type="first">G.</forename>
+                 <forename type="middle">Hugh</forename>
+                 <surname>Sparks</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1752</birth>
+              <death>1816</death>
+              <floruit notBefore="1769" notAfter="1816"/>
+              <nationality>Scottish</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Sparks, G. Hugh</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="sa_sp">
+              <persName>
+                 <forename>Sarah</forename>
+                 <surname type="birth">Mills</surname>
+                 <surname type="married">Sparks</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1754</birth>
+              <death>1837</death>
+              <floruit notBefore="1773" notAfter="1820"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Sparks, Mrs G. Hugh, Sarah, née Mills</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_ti">
+              <persName>
+                 <forename>Charlotte</forename>
+                 <surname>Tidswell</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1760</birth>
+              <death>1846</death>
+              <floruit notBefore="1768" notAfter="1822"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Tidswell, Charlotte</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_un">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Underwood</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1797" notAfter="1815"/>
+              <nationality>Unknown</nationality>
+              <occupation>Machinist, Scenery</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Underwood, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_vi">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Vials</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1797" notAfter="1822"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dancer</occupation>
+              <affiliation>Sadler's Wells Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Vials, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="je_vi">
+              <persName>
+                 <forename type="first">Jemima</forename>
+                 <forename type="middle">Marian</forename>
+                 <surname type="birth">Bew</surname>
+                 <surname type="married">Vining</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1810"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Bew, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="al_we">
+              <persName>
+                 <forename>Alexander</forename>
+                 <surname>Webb</surname>  
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>1826</death>
+              <floruit notBefore="1788"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Webb, Alexander</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="j_we">
+              <persName>
+                 <forename>J.</forename>
+                 <surname>Wells</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1794" notAfter="1816"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dancer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Wells, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_we">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Welsh</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1780</birth>
+              <death>1848</death>
+              <floruit notBefore="1792" notAfter="1825"/>
+              <nationality>English</nationality>
+              <occupation>Composer, Singer</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Welsh, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_we">
+              <persName>
+                 <forename>William</forename>
+                 <surname>West</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>c.1757</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1768" notAfter="1830"/>
+              <nationality>English</nationality>
+              <occupation>Dancer, Choreographer</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>West, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ra_we">
+              <persName>
+                 <forename>Ralph</forename>
+                 <surname>Wewitzer</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1748</birth>
+              <death>1825</death>
+              <floruit notBefore="1773" notAfter="1819"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Wewitzer, Ralph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="be_wr">
+              <persName>
+                 <forename>Benjamin</forename>
+                 <surname>Wrench</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>c.1776</birth>
+              <death>1843</death>
+              <floruit notBefore="1783" notAfter="1840"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Wrench, Benjamin</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-30023">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-30023</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ri_wr">
+              <persName>
+                 <forename>Richard</forename>
+                 <surname>Wroughton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1748</birth>
+              <death>1822</death>
+              <floruit notBefore="1768-10-24" notAfter="1815"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Theatre Manager</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>English actor who spent 37 years acting across the London stages in over 200 major roles. After spending the first portion of his career at Covent Garden he joined the Drury Lane Theatre in 1787. See <bibl><title>Wroughton, Richard</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+        </listPerson>
+     <listPlace>
+        <place xml:id="lyceum">
+           <placeName>Lyceum</placeName>
+           <settlement>London</settlement>
+           <region>England</region>
+           <country>United Kingdom</country>
+           <location><geo>51.511556°N, -0.11975°W</geo></location>   
+        </place>
+        <place xml:id="covent_garden">
+           <placeName>Covent Garden</placeName>
+           <settlement>London</settlement>
+           <region>England</region>
+           <country>United Kingdom</country>
+           <location><geo>XXX.</geo></location>
+        </place>
+     </listPlace>
+     <listBibl>
+        <bibl xml:id="any_thing_new">
+           <title level="m">Any Thing New</title>
+           <author>XXX></author>
+        </bibl>
+        <bibl xml:id="play_bee_hive">
+           <title level="m">The Bee Hive</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_clandestine_marriage">
+           <title level="m">The Clandestine Marriage</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_country_girl">
+           <title level="m">The Country Girl</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_devils_bridge">
+           <title level="m">The Devil's Bridge</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_green_eyed_monster">
+           <title level="m">The Green Eye'd Monster</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_hit_miss">
+           <title level="m">Hit or Miss!</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_honest_thieves">
+           <title level="m">Honest Thieves</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_house_of_morville">
+           <title level="m">The House of Morville</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_hypocrite">
+           <title level="m">The Hypocrite</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_kiss">
+           <title level="m">The Kiss</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_knight_of_snowdon">
+           <title level="m">The Knight of Snowdon</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_lost_and_found"> 
+           <title level="m">Lost and Found</title>
+           <author>XXX.</author>
+        </bibl> 
+        <bibl xml:id="play_magic_bride"> 
+           <title level="m">The Magic Bride</title>
+           <author>XXX.</author>
+        </bibl> 
+        <bibl xml:id="play_man_and_wife">
+           <title level="m">Man and Wife</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_mayor_garratt">
+           <title level="m">The Mayor of Garratt</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_midnight_hour">
+           <title level="m">The Midnight Hour</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_no_song_no_supper">
+           <title level="m">No Song No Supper</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_ourselves">
+           <title level="m">Ourselves</title>
+           <author>Miss Chambers</author>
+        </bibl>
+        <bibl xml:id="play_peasant_boy">
+           <title level="m">The Peasant Boy</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_prejudice">
+           <title level="m">Prejudice</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_quadrupeds">
+           <title level="m">Quadrupeds</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_raising_wind">
+           <title level="m">Raising the Wind</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_right_and_wrong">
+           <title level="m">Right and Wrong</title>
+           <author>Mr. Burton</author>
+        </bibl>
+        <bibl xml:id="play_siege_of_belgrade">
+           <title level="m">The Siege of Belgrade</title>
+           <author>Mr. Cobb</author>
+        </bibl>
+        <bibl xml:id="play_sons_of_erin">
+           <title level="m">Sons of Erin</title>
+           <title>Or, Modern Sentiment</title>
+           <author>Mrs. Lefanu</author>
+        </bibl>
+        <bibl xml:id="play_stranger">
+           <title level="m">The Stranger</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="turn_out">
+           <title level="m">Turn Out</title>
+           <author>James Kenney</author>
+        </bibl>
+        <bibl xml:id="play_way_to_get_married">
+           <title level="m">The Way to Get Married</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_west_indian">
+           <title level="m">The West Indian</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_white_cat">
+           <title level="m">The White Cat</title>
+           <author>XXX.</author>
+        </bibl>
+     </listBibl>
+  </standOff>
+</TEI>
