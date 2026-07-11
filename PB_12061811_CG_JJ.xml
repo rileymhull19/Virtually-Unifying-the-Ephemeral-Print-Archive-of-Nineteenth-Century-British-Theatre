@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="smallcaps">Theatre Royal, Covent-Garden,</hi><lb/>
+               This present <date when="1811-12-06"><hi rend="allcaps">Friday</hi>, Dec. 6, 1811</date>, will be acted the Comedy of<lb/>
+               <bibl><title>The Man of the World.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Lord Lumbercourt</role> by <actor>Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Pertinax Macsycophant</role> by <actor>Mr. <hi rend="allcaps">Grant</hi>,</actor><lb/>
+                     <hi rend="italic">(Being his first appearace in London.)</hi></castItem><lb/>
+                  <castItem><role>Egerton</role> by <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Melville</role> by <actor>Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Serj. Eitherfide,</role> <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem> <castItem><role>Counsellor Plausible,</role> <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sidney</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Tomlins,</role> <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><role>Sam,</role> <actor>Mr. <hi rend="allcaps">West</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lady Rodolpha Lumbercourt</role> by <actor>Mrs. <hi rend="allcaps">H. Johnston</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lady Macsycophant</role> by <actor>Miss <hi rend="allcaps">Leserve</hi>,</actor></castItem><lb/>
+                  <castItem><role>Constantia</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><role>Betty Hint</role> by <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               To which will be added a musical Farce called<lb/>
+               <bibl><title><hi rend="allcaps">Rosina</hi>.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Belville</role> by <actor>Mr. <hi rend="allcaps">Broadhurst</hi>,</actor></castItem><lb/>
+                  <castItem><role>Capt. Belville</role> by <actor>Mr. <hi rend="allcaps">Shaw</hi>,</actor></castItem> <castItem><role>Rustick</role> by <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem> <castItem><role>Patrick,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Phelim,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><role>Rosina</role> by <actor>Mrs. <hi rend="allcaps">Emery</hi>.</actor></castItem><lb/>
+               </castList>
+               The Doors will be opened at <time when="17:30:00"><hi rend="allcaps">Half</hi> past <hi rend="allcaps">Five</hi></time>, and the Play begin at <time when="18:30:00"><hi rend="allcaps">Half</hi> past <hi rend="allcaps">Six</hi></time>.<lb/>
+               Vivant Rex &amp; Regina.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This Evening, <date when="1811-09-26">Thursday, September 26, 1811</date><lb/>
+               Will be perform'd the Comedy of<lb/>
+               <bibl><title>Rule a Wife and Have a Wife.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Leon,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>The Copper Captain,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Duke,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Juan,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Alonzo,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Sancho,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lorenzo,</role> <actor>Mr Minton.</actor></castItem> <castItem><role>Diego,</role> <actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Cacafogo,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Margaritta,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Estifania,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Victoria,</role> <actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><role>Altea,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Clara,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Maid,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Old Woman,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+               </castList>
+               After which <hi rend="allcaps">(Fourth Time) A New Farce</hi>, in Two Acts, call'd<lb/>
+               <bibl><title><quote>"Darkness Visible."</quote></title></bibl><lb/>
+               With New Scenery, Dresses, and Decorations,<lb/>
+               <castList>
+                  <head>The Characters by</head>
+                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
+               </castList>
+               The Doors to be Open'd at <time when="17:30:00">Half past Five o'Clock</time>, and the Performance to begin<lb/>
+               at <time when="18:30:00">Half past Six</time>, precisely, for the remainder of the Season.<lb/>
+               <hi rend="allcaps">First Price. Second Price.</hi><lb/>
+               <hi rend="allcaps">Boxes</hi>,---<measure type="currency">Six Shillings</measure>. - <measure type="currency">Three Shillings</measure>.<lb/>
+               <hi rend="allcaps">Pit</hi>,---<measure type="currency">Three Shillings</measure>. - <measure type="currency">One Shilling and Sixpence</measure>.<lb/>
+               <hi rend="allcaps">First Gallery</hi>, <measure type="currency">Two Shillings</measure>. - <measure type="currency">One Shilling</measure>.<lb/>
+               <hi rend="allcaps">Upper Gallery</hi>, <measure type="currency">One Shilling</measure>. - <measure type="currency">Sixpence</measure>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               The Publick is respectfully inform'd that the Farce of 'Darkness Visible' (per-<lb/>
+               form'd for the 3rd time Yesterday) was honour'd, by a crowded Audience, with the most<lb/>
+               mark'd approbation. In consequence of the bursts of Applause with which the Dialogue<lb/>
+               and the humourous incidents were received throughout, the Piece will be perform'd every<lb/>
+               evening till further notice.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

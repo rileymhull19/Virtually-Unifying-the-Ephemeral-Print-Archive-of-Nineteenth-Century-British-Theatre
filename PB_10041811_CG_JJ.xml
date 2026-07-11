@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Covent-Garden<lb/>
+               This present <date when="1811-10-04"><hi rend="allcaps">Friday</hi>, Oct. 4, 1811</date>, will be acted the Comick Opera of<lb/>
+               <bibl><title>The <hi rend="allcaps">Woodman.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Sir Walter Waring,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Wilford,</role> <actor>Mr. <hi rend="allcaps">Sinclair</hi>.</actor></castItem><lb/>
+                  <castItem><role>Capt. O'Donnel,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><role>Fairlop,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bob,</role> <actor>Mr. <hi rend="allcaps">Emery</hi>.</actor></castItem> <castItem><role>Ralph,</role> <actor>Mr. <hi rend="allcaps">Tinney</hi>.</actor></castItem><lb/>
+                  <castItem><role>Medley,</role> <actor>Mr. <hi rend="allcaps">Blanchard</hi>.</actor></castItem> <castItem><role>Filbert,</role> <actor>Mr. <hi rend="allcaps">Menage</hi>.</actor></castItem><lb/>
+                  <castItem><role>Emily,</role> by a <actor><hi rend="allcaps">Young Lady</hi>.</actor><lb/>
+                     <hi rend="italic">(Being her first apperance on this Stage.)</hi></castItem><lb/>
+                  <castItem><role>Miss Di Clackit,</role> <actor>Mrs. <hi rend="allcaps">Davenport</hi>.</actor></castItem> <castItem><role>Dolly,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Polly,</role> <actor>Miss <hi rend="allcaps">Carew</hi>.</actor></castItem> <castItem><role>Bridget,</role> <actor>Mrs. <hi rend="allcaps">Watts</hi>.</actor></castItem><lb/>
+                 <castItem>The <role>Choruses</role> by Mess. <actor>Bond,</actor> <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Street,</actor> <actor>J. Taylor,</actor> <actor>Terry,</actor><lb/>
+                    <actor>Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Williams,</actor>-Mesds. <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Coates,</actor> <actor>Findlay,</actor> <actor>Grimalid,</actor> <actor>Hardy.</actor><lb/>
+                    <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryal,</actor> <actor>Standen,</actor> <actor>Watts,</actor> <actor>Whitmore,</actor> &amp;c.</castItem><lb/>
+               </castList>
+               After which (<hi rend="italic">fifth time</hi>) the <hi rend="allcaps">Grand Pantomime Ballet</hi> of<lb/>
+               <bibl><title type="main"><hi rend="allcaps">Raymond</hi> and <hi rend="allcaps">Agnes;</hi></title><lb/>
+               <title type="sub"><hi rend="italic">Or, <hi rend="allcaps">The Castle of Lindenbergh</hi>.</hi></title></bibl><lb/>
+               <hi rend="italic">With entirely new Scenes, Dresses &amp; Decorations.</hi><lb/>
+               The Overture and Musick composed by Mr. <hi rend="allcaps">Reeve</hi>. The Ballet composed by Mr. <hi rend="allcaps">Farley</hi>,<lb/>
+               <castList>
+                  <castItem><role>Don Raymond,</role> <actor>Mr. <hi rend="allcaps">Bologna,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Don Felix (father to Raymond)</role> <actor>Mr. <hi rend="allcaps">Bologna</hi>,</actor></castItem> <castItem><role>Count of Lindenbergh,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem><lb/>
+                  <castItem><role>Theodore (Page to Raymond),</role> <actor>Master <hi rend="allcaps">Druset</hi>,</actor></castItem> <castItem><role>Baptist, a Robber,</role> <actor>Mr. <hi rend="allcaps">Norman</hi>.</actor></castItem><lb/>
+                  <castItem><role>Robert &amp; Jaques (his sons)</role> <actor>Mr. <hi rend="allcaps">Grimaldi</hi></actor> and <actor>Mr. <hi rend="allcaps">Cardoza</hi>,</actor></castItem><lb/>
+                  <castItem><role>Claude (a Postilion,, and one of the Banditti)</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fernando (Margaret's child)</role> <actor>Miss <hi rend="allcaps">Worgman</hi>,</actor></castItem> <castItem><role>Vasquez (Valet to the Count)</role> <actor>Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Father Anselm,</role> <actor>Mr. Powers,</actor></castItem> <castItem><role>Master of Hotel,</role> <actor>Mr. Atkins,</actor></castItem> <castItem><role>Old Steward (to Felix)</role> <actor>Mr. Louis</actor></castItem><lb/>
+                  <castItem><role><hi rend="smallcaps">Friars</hi>, &amp;c.</role> Mess. <actor>Bishop,</actor> <actor>Bond,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Street,</actor> <actor>J. Taylor,</actor> <actor>Terry,</actor> <actor>Tett,</actor> <actor>Tinny,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Domesticks,</role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Platt,</actor> <actor>Sarjant,</actor> <actor>Yarnold,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Countess of Lindenbergh (step-mother to Agnes)</role> <actor>Mrs. <hi rend="allcaps">Kniveton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Agnes (Daughter to the Count of Lindenbergh)</role> <actor>Mrs. <hi rend="allcaps">Pincott</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abbes of St. Claire,</role> <actor>Mrs. Coates,</actor></castItem> <castItem><role>Cicely,</role> <actor>Miss Cox,</actor></castItem><lb/>
+                  <castItem><role>Margaret (Baptist's mistress)</role> <actor>Mrs. <hi rend="allcaps">Parker</hi>,</actor></castItem><lb/>
+                  <castItem><role>Spectre of the Bleeding Nun (mother of Agnes)</role> <actor>Mrs. <hi rend="allcaps">Watts</hi>.</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">Nuns of the Convent of St. Clair,</hi></role><lb/>
+                     Mess. <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Whitmore.</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic">The Scenery painted by Mess. Phillips, Pugh, Grieve, Hollogan, and their assistants.</hi><lb/>
+               <hi rend="italic">The Machinery by Mess. Saul &amp; Bradwell. The Dresses by Mr. Flowers and Miss Egan.</hi><lb/>
+               The Doors will be opened at <hi rend="allcaps">Half</hi> past <hi rend="allcaps">Five</hi> and the Play begin at <hi rend="allcaps">Half</hi> past <hi rend="allcaps">Six</hi>.<lb/>
+               Vivant Rex &amp; Regina.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

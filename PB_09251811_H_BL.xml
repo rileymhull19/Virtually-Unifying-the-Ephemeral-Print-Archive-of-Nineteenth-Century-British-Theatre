@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, <date when="1811-09-25">Wednesday, September 25, 1811</date><lb/>
+               Will be perform'd the Comedy of<lb/>
+               <bibl><title>Three Weeks After Marriage.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Sir Charles Racket,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Drugget,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Woodley,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Racket,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nancy,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Dimity,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
+               </castList>
+               After which <hi rend="allcaps">(Third Time) A New Farce</hi>, in Two Acts, call'd<lb/>
+               <bibl><title><quote>"Darkness Visible."</quote></title></bibl><lb/>
+               <castList>
+                  <head>The Characters by</head>
+                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
+               </castList>
+               To which will be added (<hi rend="allcaps">For The</hi> 34th <hi rend="allcaps">Time</hi>) as a Grand Dress'd Rehearsal,<lb/>
+               of a <hi rend="italic">Tragico-Comico-Anglo-Germanico-Hippo-Ono-Dramatico <hi rend="allcaps">Romance</hi>.</hi><lb/>
+               A new piece (in Two Acts) call'd The<lb/>
+               <bibl><title type="main">Quadrupeds of Quedlinburgh;</title><lb/>
+                  <title type="sub"><hi rend="italic">Or, The <hi rend="allcaps">Rovers of Weimar</hi>.</hi></title></bibl><lb/>
+               <hi rend="allcaps">Characters of a Vehicular Description, But on Foot.</hi><lb/>
+               <castList>
+                  <castItem><role>Mr. Bartholomew Bathos <hi rend="italic">(An English Dramatist on the German Model; and Student in the<lb/>
+                           Veterinary College)</hi></role> by <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Manager of the Hay-Market Theatre (<hi rend="italic">a very "Poor Gentleman,")</hi></role> by <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Call Boy <hi rend="italic">(a Go-between)</hi></role> by <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Characters in the Romance.</hi><lb/>
+               <castList>
+                  <castItem><role>Duke of Saxe Weimar, <hi rend="italic">(A Sanguinary Tyrant with red hair, and an amorous complexion)</hi></role> by <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rogero <hi rend="italic">(Prisoner in the Abbey of Quedlinburgh; in love with</hi> Matilda Pottingen)</role> <actor>Mr. <hi rend="allcaps">Russell</hi>.</actor>-(His First Appearance in that Character)</castItem><lb/>
+                  <castItem><role>Casimere <hi rend="italic">(A Polish Emigrant in Dembrowsky's Legion, married to</hi> Cecilia, <hi rend="italic">and having<lb/>
+                           several Children by</hi> Matilda)</role> by <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Beefington</role> and <role>Puddingfield</role> <hi rend="italic">(English Noblemen, exiled by the tyranny of</hi> <hi rend="allcaps">King John</hi>,<lb/>
+                     <hi rend="italic">previously to the signature of</hi> Magna Charta) by <actor>Mr. <hi rend="allcaps">Cooper</hi></actor> and <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Doctor Pottingen, (L.L.D)</role> by <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Waiter at Weimar <hi rend="italic">(A Knight Templar in disguise)</hi></role> by <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monk, with a Firelock, <hi rend="italic">(A Military Ecclesiastick)</hi></role> by <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Matilda Pottingen, <hi rend="italic">(in love with</hi> Rogero, <hi rend="italic">and Mother to</hi> Casimere's <hi rend="italic">Children</hi>)</role><lb/>
+                     by <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Cecilia Muckenfield, <hi rend="italic">(A Passenger in the Dilly, and Wife to</hi> Casimere)</role> by <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dame Shüttenbruch, <hi rend="italic">(Widow and Landlady of the Inn at Weimar)</hi></role> by <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Dumbies</hi>. Neddycrantz, <hi rend="italic">(Jack Ass to the Wheel of the Well in the Abbey of Quedlinburgh)</hi></role><lb/>
+                     by <actor>a New Performer.</actor></castItem><lb/>
+                  <castItem><role>Female Captive, <hi rend="italic">(A Corpulent Virgin)</hi></role> <actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
+                  <castItem>The <hi rend="allcaps">Trio</hi> and <hi rend="allcaps">Chorus</hi> <hi rend="italic">(in a stunning Whisper)</hi> Composed by Mr. <hi rend="allcaps">Reeve</hi><lb/>
+                     By <actor>Mr. Munden,</actor> <actor>Mr. Payne,</actor> <actor>Mr. Grove</actor> &amp;c.</castItem><lb/>
+                  <castItem>In Act II. <actor>Mr. <hi rend="allcaps">Liston</hi></actor> will sing "<hi rend="allcaps">The Beautiful Maid.</hi>"</castItem><lb/>   
+               </castList>
+               The Publick is respectfully inform'd that the Farce of 'Darkness Visible' (per-<lb/>
+               form'd for the 2nd time Yesterday) was honour'd, by a crowded Audience, with the most<lb/>
+               mark'd approbation. In consequence of the bursts of Applause with which the Dialogue<lb/>
+               and the humourous incidents were received throughout, the Piece will be peeform'd every<lb/>
+               evening till further notice.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>
