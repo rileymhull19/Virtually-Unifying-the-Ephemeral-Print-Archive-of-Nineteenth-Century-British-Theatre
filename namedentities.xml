@@ -1144,7 +1144,7 @@
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
            <title level="m">Lost and Found</title>
-           <author>XXX.</author>
+           <author>Masters</author>
         </bibl> 
         <bibl xml:id="play_magic_bride"> 
            <title level="m">The Magic Bride</title>
@@ -1186,6 +1186,10 @@
            <title level="m">Raising the Wind</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_rich_and_poor">
+           <title level="m">Rich and Poor</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_right_and_wrong">
            <title level="m">Right and Wrong</title>
            <author>Mr. Burton</author>
@@ -1209,7 +1213,7 @@
         </bibl>
         <bibl xml:id="play_way_to_get_married">
            <title level="m">The Way to Get Married</title>
-           <author>XXX.</author>
+           <author>Morton (?).</author>
         </bibl>
         <bibl xml:id="play_west_indian">
            <title level="m">The West Indian</title>
