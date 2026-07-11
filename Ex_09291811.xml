@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Theatrical Examiner.</head>
+         <p>No. 100.</p>
+         <p>A new Afterpiece, attributed to Mr. <hi rend="smallcaps">Hook</hi>, and, like most of that gentleman's pieces, demanding little or no criticism, has been produced in the course of the week at the Haymarket Theatre. It is in the old style of love-plotting, equivocating, and house-breaking; and is called <hi rend="italic">Darkness Visible</hi>, in allusion to the single concluding scene, which brings together all the parties concerned to meet, mistake, or maul each other in the dark. The author has shewn no advancement in any of the necessary qualifications for a sound dramatist; and probably never will. Like his last production, however, it is tolerably free from puns; and with the help of <hi rend="smallcaps">Elliston's</hi> dry humour, and the rapidity of Mr. <hi rend="smallcaps">Jone's</hi> utterance in the part of a gabbling servant, there is altogether a hurry or whirl about it which may help to give the spirits a fillip during these rainy evenings.</p>
+      </body>
+  </text>
+</TEI>

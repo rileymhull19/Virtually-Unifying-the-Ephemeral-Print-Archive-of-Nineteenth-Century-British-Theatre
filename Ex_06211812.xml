@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Theatrical Examiner.</head>
+         <p>No. 117</p>
+         <p><hi rend="smallcaps"><hi rend="italic">Haymarket.</hi></hi></p>
+         <p>In coming to this subject, I feel that I have a heavier debt to discharge than usual, in making good the promised critique on Mr. <hi rend="smallcaps">Terry</hi>; but ridiculous as it may appear, I am yet unprepared with it, certainly not for want of a proper number of appearances on that gentleman's part, but from preventions caused by delay in the first instance, and by inability in the second, and I shall therefore only be the more anxious to speak of an actor, who, from a solitary glimpse I have caught of him, appears to be highly worthy of the critic's attention. It will be my business, at the same time — next Sunday, I hope — to mention the other new performers, Miss <hi rend="smallcaps">Macauley</hi>, Miss <hi rend="smallcaps">Dalton</hi>, &amp;c. A new farce was produced here on Monday, under the title of The <hi rend="italic">Sleep-Walker</hi>. It is a disjointed piece of drollery, and consists of some travelling adventures of a young Irishman (<hi rend="smallcaps">Jones</hi>), a run-away heiress in men's clothes (Miss <hi rend="smallcaps">Dalton</hi>), and a servant of theirs (<hi rend="smallcaps">Mathews</hi>), who has a trick of walking and spouting plays in his sleep. The travellers unfortunately light upon an inn, where they are in part discovered; a lawyer, who is interested in the business, detects the heiress, and in order to get her into his possession, has a strange scheme of detaining her for wearing hair-powder without a license; and an old gentlewoman in the neighbourhood finds out that the run-away lady is a neice of her's, whom she has never seen, and therefore is proportionately anxious to see. Under the pretence therefore of extricating the travellers from a pecuniary inconvenience, which has come to her knowledge, she sends in her thoughtlessness for the wrong person, and a most outrageous equivoque is kept up between her and the Irishman, whom, to his utter astonishment, and to the great amusement of a young female she continues to mistake for a lady in disguise, calling him <quote>"my dear"</quote> and <quote>"my love,"</quote> and entreating him to accept a part of her bed. This is laughable certainly, but not very delicate. The main scene however is a nocturnal perambulation of the <hi rend="italic">Sleep-walker</hi>, who makes his appearance half-dressed with a fixed and staring solemnity like that of <hi rend="italic">Lady Macbeth</hi>, and after stalking forwards and spouting from plays, mistakes the lawyer who is snoring in a chair for his master, and powders his unsuspecting head in such a manner as to defeat his designs next morning about the license. He afterwards sups with a person during his sleep and under the influence of his dramatic vagaries, and tramples another under foot with the notion that he is subduing an antagonist. The reader will easily imagine how completely <hi rend="smallcaps">Mathews</hi> is at home in these pieces of mimicry. The piece indeed is well acted throughout. Miss <hi rend="smallcaps">De Camp</hi>, in witnessing the equivoque between the Irishman and old lady, indulges her fit of laughter with a very natural air of enjoyment; and every body, down to the waiter who makes free with the glass of spirits which he has brought in to the sleeping lawyer, seems to be in happy unison with the general merriment, always excepting a subordinate personage in a cocked hat, who came out if I remember in <hi rend="italic">Apollo Belvi</hi>, and who has no one talent for the stage, unless he could find some such part to act as a sign-post or the head of a ship.</p>
+      </body>
+  </text>
+</TEI>

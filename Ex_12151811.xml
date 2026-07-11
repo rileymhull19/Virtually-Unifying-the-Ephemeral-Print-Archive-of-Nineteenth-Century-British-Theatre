@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Theatrical Examiner.</head>
+         <p>No. 106.</p>
+         <p><hi rend="smallcaps"><hi rend="italic">Covent-Garden.</hi></hi></p>
+         <p><hi rend="smallcaps">THE</hi> performance of the <hi rend="italic">Man of the World</hi>, on Friday week, introduced to the public a gentleman of the name of <hi rend="smallcaps">Grant</hi> in <hi rend="italic">Sir Pertinax Mae Sycophant.</hi> As he was favourably received, I had hoped to see him again, probably in some other character, before I ventured to decide on his merits; for unless a new actor is either a very superior or very inferior one, it is generally difficult and therefore unfair to draw conclusions from a first appearance. This is particularly the case, when the character represented, as in the present instance, is a factitious one; that is to say, one that is made up of sophisticated habits both mental and bodily, in which the actor departs, or may depart, from his general manner, tone, aspect, and perhaps even dialect. Premising, therefore, in justice to Mr. <hi rend="smallcaps">Grant</hi>, that no conclusive estimate can be formed of his talents for the stage on this individual occasion, it appeared to me that he was in the higher class of what the newspapers call respectable actors, but certainly not an adequate substitute for Mr. <hi rend="smallcaps">Cooke</hi>,—the object for which he is understood to have made his appearance. His voice is manly; his general aspect strong and somewhat bulky; and his face, unless the monotony in this instance was artificial, of no great powers of expression. Here the inconvenience of judging from a first representation is seen at once, for it is possible that in order to characterise the selfish disposition and the cold, undeviating policy of <hi rend="italic">the Man of the World</hi>, Mr. <hi rend="smallcaps">Grant</hi> purposely adopted a hard uniformity of aspect; and it is certainly a question whether such an aspect, well maintained, is or is not a more suitable representation of a worldly man than the fawning silkiness of Mr. <hi rend="smallcaps">Cooke's</hi>,—though the arguments derivable from force of habit will probably incline us to the latter. If the new performer did not assume this look, little is to be said of his original powers, or indeed of any apparent attempt at originality; for there was a swing in his walk, especially in coming triumphantly forward after a speech, which very much resembled that of the former actor; he did not even appear to be consistent or correct in his dialect, though his name would seem to announce a native of Scotland; and in fine, he gave us no new touches upon passages either made prominent or otherwise by Mr. <hi rend="smallcaps">Cooke</hi>,—a deficiency which certainly marks him at once as no great actor, for the greatness of all art is invention: his emphasis fell on the same places, and on those only; the applause fell on the same turns of the dialogue, and belonged more to the author than the actor: and upon the whole, though the disappearance of this gentleman may have left us unprovided in Mr. <hi rend="smallcaps">Cooke's</hi> absence, yet, as Dr. <hi rend="smallcaps">Johnson</hi> said, when a person was recommended to him as a man of talents, but rather slow in evincing them,—we can wait. </p>
+      </body>
+  </text>
+</TEI>

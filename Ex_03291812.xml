@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Theatrical Examiner.</head>
+         <p>No. 112.</p>
+         <p><hi rend="smallcaps"><hi rend="italic">Covent-Garden.</hi></hi></p>
+         <p>It is highly creditable to the taste of the public, that in spite of the largeness of this theatre, which at certain distances sets the ear and almost the eye itself at nought, the revival of <hi rend="italic">Julius Cæsar</hi> continues to fill the house twice every week. The play is indeed, to use a theatrical phrase, excellently <hi rend="italic">got up</hi>; and on the part of two of the principal actors, most excellently performed; so that what with the propriety of the costume, the splendour of the decorations, and the intellectual treat always to be found in <hi rend="smallcaps">Shakspeare</hi>, the piece goes off in a very satisfactory manner; and an impression is left upon us of Roman manners and greatness,—of the appearance as well as intellect of Romans,—which to a young mind in particular must furnish an indelible picture for the assistance of his studies, resembling perhaps the clearness of local conception which is afforded us by a panorama.</p>
+         <p><quote>"Of this tragedy,"</quote> says Dr. <hi rend="smallcaps">Johnson</hi>, <quote>"many particular passages deserve regard, and the contention and reconcilement of <hi rend="italic">Brutus</hi> and <hi rend="italic">Cassius</hi> is universally celebrated; but I have never been strongly agitated in perusing it, and think it somewhat cold and unaffecting, compared with some other of <hi rend="smallcaps">Shakspeare's</hi> plays: his adherence to the real story, and to Roman manners, seems to have impeded the natural vigour of his genius."</quote> With all due respect to the powers of Dr. <hi rend="smallcaps">Johnson</hi>, this is a sorry piece of criticism: it is, at best, like most of his criticisms, only so much gratuitous opinion without analysis, without argument; but at bottom, I am afraid, it is an additional betrayal of his absolute unfitness for poetical criticism, at least with regard to works of a higher order. A writer, who by his own confession was insensible to Painting and Music, has at least very suspicious claims to become a critic; but when we see his taste so ready on all occasions to pollute itself with political prejudices,—when we find him really insensible to the infinite and glorious variety of <hi rend="smallcaps">Milton's</hi> numbers, and when he acknowledges, in the instance before us, that he feels no strength of emotion in witnessing the workings of great minds in awful situations, in beholding the sudden downfall of guilty greatness, and in sitting with the patriot in his tent, during the silence of night, in the wakefulness of a noble affliction, and on the eve of the last struggle for liberty,—then he signs his own condemnation, and leaves us still in want, as we certainly are to this day, of a true critical authority with respect to our great poets. <hi rend="italic">Julius Cæsar</hi>, with the exception of <hi rend="italic">Coriolanus</hi>, has perhaps less of the poetical in it, than any other tragedy of <hi rend="smallcaps">Shakspeare</hi>; but fancy and imagination did not suit the business of the scene; and what is wanting in colour and ornament, is recompensed by the finest contrasts of character. It is of itself a whole school of human nature. The variable impotence of the mob, the imperial obstinacy of <hi rend="italic">Cæsar</hi>, the courtly and calculating worldliness of <hi rend="italic">Anthony</hi>, the vulgar jealousy of <hi rend="italic">Casca</hi>, the loftier jealousy and impatient temper of <hi rend="italic">Cassius</hi>, the disinterestedness and self-centered philosophy of <hi rend="italic">Brutus</hi>, seem to bring at once before us the result of a thousand different educations, and of a thousand habits, induced by situation, passion, or reflection. <hi rend="italic">Brutus</hi>, however, is clearly the hero of the story, and as <hi rend="smallcaps">Gildon</hi> observes, should have given his name to the piece; for <hi rend="italic">Cæsar</hi> appears but in two short scenes and is dispatched at the beginning of the third act; whereas <hi rend="italic">Brutus</hi>, after his first interview with <hi rend="italic">Cassius</hi> in the commencement of the play, is the arbiter of all that succeeds, and the predominant spirit to the last.</p>
+      </body>
+  </text>
+</TEI>
