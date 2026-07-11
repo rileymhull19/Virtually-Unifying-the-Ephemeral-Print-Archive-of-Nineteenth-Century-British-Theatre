@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Acted</hi> but <hi rend="allcaps">Once</hi>.<lb/>
+               <hi rend="allcaps">Theatre Royal, Covent Garden,</hi><lb/>
+               This present <date when="1812-02-01"><hi rend="allcaps">Saturday</hi>, Feb. 1, 1812</date>,<lb/>
+               Will be performed a new Grand <hi rend="italic">Operatick Drama</hi>, in three acts, called The<lb/>
+               <bibl><title>Virgin of the Sun.</title></bibl><lb/>
+               [Founded on the <hi rend="smallcaps">Incas</hi> of <hi rend="italic">Marmontel</hi>, and <hi rend="italic">Kotzebue</hi>'s Play of <hi rend="smallcaps">Rolla</hi>: or, <hi rend="italic">the Virgin of the Sun</hi>]<lb/>
+               <hi rend="italic">With entirely new Musick, Scenery, Dresses and Decorations.</hi><lb/>
+               <hi rend="italic">The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Musick</hi> composed by Mr. <hi rend="allcaps">H.R. Bishop</hi>.</hi><lb/>
+               <hi rend="italic">The <hi rend="smallcaps">Scenery</hi> painted by Mess. Phillips, Whitmore, Hollogan, and Pugh.</hi><lb/>
+               The <hi rend="allcaps">Machinery</hi> and <hi rend="allcaps">Decorations</hi> by <hi rend="italic">Mess. Saul and Bradwell</hi>.<lb/>
+               The Dresses by Mr. Flowers and Miss Egan.<lb/>
+               <castList>
+                  <head><hi rend="italic">Principal Characters.</hi></head>
+                  <castItem><role>Ataliba</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>The High Priest</role> by <actor>Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Xaira</role> by <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Telasko</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
+                  <castItem><role>Don Alonzo</role> by <actor>Mr. <hi rend="allcaps">Huntley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Don Velasquez</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Rolla</role> by <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
+                  <castItem><role>Cualpo</role> by <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Zamor</role> by <actor>Mr. <hi rend="allcaps">Sinclair</hi>,</actor></castItem><lb/>
+                  <castItem><role>Diego</role> by <actor>Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ozmar</role> by <actor>Mr. <hi rend="allcaps">Broadhurst</hi>,</actor></castItem> <castItem><role>Tupac</role> by <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>The High Priestess</role> by <actor>Mrs. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Cora</role> by <actor>Miss <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
+                  <castItem><role>Amazili</role> by <actor>Miss <hi rend="allcaps">Feron</hi>,</actor></castItem><lb/>
+                  <castItem><role>Idali</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Zilia</role> by <actor>Mrs. <hi rend="allcaps">Childe</hi>,</actor></castItem><lb/>
+                  <castItem><role>Runa</role> by <actor>Miss <hi rend="allcaps">E. Bolton</hi>.</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">High Priests, Virgins of the Sun, Warriors, &amp;c.</hi></role><lb/>
+                     Mess. <actor>Bishop,</actor> <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Huckel,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Street,</actor> <actor>J. Taylor</actor><lb/>
+                     <actor>Terry,</actor> <actor>Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Williams</actor><lb/>
+                     Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold</actor><lb/>
+                     Mesdames <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Carew,</actor> <actor>Coates,</actor> <actor>Cox,</actor> <actor>Emery,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Heath</actor><lb/>
+                     <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Kniveton,</actor> <actor>Logan,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Watts,</actor> <actor>Whitmore.</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic">Books of the Songs to be had in the Theatre, price <measure type="currency">1s</measure>.</hi><lb/>
+               After which will be performed, <hi rend="italic">for the 31st time, a <hi rend="allcaps">New Pantomime</hi>, called</hi><lb/>
+               <bibl><title type="main">Harlequin &amp; Padmanaba</title><lb/>
+                  <title type="sub"><hi rend="allcaps">Or</hi><lb/>
+                     <hi rend="allcaps">The Golden Fish.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role><hi rend="allcaps">Padmanaba</hi> (a renowned Astrologer</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Sultan</hi> of <hi rend="allcaps">Chashmire</hi>, (afterwards Pantaloon)</role> <actor>Mr. <hi rend="allcaps">Norman</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Omar</hi>, the Fisherman, (afterwards Harlequin)</role> <actor>Mr. <hi rend="allcaps">Bologna,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Cayfacttadhre</hi>, the Persian Cook, (afterwards Clown)</role> <actor>Mr. <hi rend="allcaps">Grimaldi</hi>,</actor></castItem><lb/>
+                  <castItem><role>Grand Vizier,</role> <actor>Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem> <castItem><role>Nekir <hi rend="italic">(the Black Evil Spirit)</hi></role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>Zadig, the old Fisherman,</role> <actor>Mr. <hi rend="allcaps">Tinney</hi>,</actor></castItem> <castItem><role>Selim, his son,</role> <actor>Mr. <hi rend="allcaps">Broadhurst</hi>,</actor></castItem><lb/>
+                  <castItem><role>Priz,</role> <actor>Mr. <hi rend="allcaps">Huckel</hi>,</actor></castItem> <castItem><role>Chief of the Haram,</role> <actor>Mr. <hi rend="allcaps">Louis</hi>,</actor></castItem> <castItem><role>Clerk of the Sultan's Kitchen,</role> <actor>Mr. <hi rend="allcaps">Heath</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Zelica</hi>, the Sultan's Daughter, (afterwards Colombine)</role> <actor>Mrs. <hi rend="allcaps">Parker</hi>,</actor></castItem><lb/>
+                  <castItem><role>Morea, the Fisherman's Daughter,</role> <actor>Miss <hi rend="allcaps">E. Bolton</hi>,</actor></castItem><lb/>
+                  <castItem><role>The Fairy Cheheristany,</role> <actor>Miss <hi rend="allcaps">Worgman</hi>,</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Vivant Rex &amp; Regina.</hi><lb/>
+               The new Operatick Drama called The <hi rend="allcaps">Virgin</hi> of the <hi rend="allcaps">Sun</hi>,<lb/>
+               having been recieved throughout with the highest approbation and applause, will be repeated<lb/>
+               every Evening till further notice, with<lb/>
+               The new Pantomime of <hi rend="allcaps">Harlequin &amp; Padmanaba</hi>; or, The Golden Fish.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

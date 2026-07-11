@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="smallcaps">Theatre Royal, Covent Garden</hi><lb/>
+               This present <hi rend="allcaps">Saturday</hi>, <date when="1812-02-29">Feb. 29, 1812</date>.<lb/>
+               Will be revived <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
+               <bibl><title>Julius Caesar.</title></bibl><lb/>
+               <hi rend="italic">(The Dresses, Scenes and Decorations are, for the greater part, entirely new.)</hi><lb/>
+               <hi rend="italic">The Overture and Act-Symphonies composed by Mr. <hi rend="allcaps">Wake</hi></hi>.<lb/>
+               <castList>
+                  <castItem><role>Julius Caesar</role> by <actor>Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Octavius Caesar</role> by <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Marc Antony</role> by <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lepidus</role> by <actor>Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Brutus</role> by <actor>Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Cassius</role> by <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
+                  <castItem><role>Casca</role> by <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Trebonius</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dedius</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Metellus</role> by <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Cinna</role> by <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Popilius Loenas</role> by <actor>Mr. <hi rend="allcaps">Norris</hi>,</actor></castItem><lb/>
+                  <castItem><role>Titinius</role> by <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Soothsayer</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
+                  <castItem><role>Flavius</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Servius</role> by <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><role>Strato</role> by <actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
+                  <castItem><role>Clitus,</role> <actor>Mr. West,</actor></castItem> <castItem><role>Lucius,</role> <actor>Mr. Menage,</actor></castItem> <castItem><role>Varro,</role> <actor>Mr. Huckel,</actor></castItem> <castItem><role>Pindarus,</role> <actor>Mr. Duruset,</actor></castItem><lb/>
+                  <castItem><role>Plebeians,</role> Mess. <actor><hi rend="smallcaps">Atkins,</hi></actor> <actor><hi rend="smallcaps">Simmons,</hi></actor> <actor><hi rend="smallcaps">Howell,</hi></actor> <actor><hi rend="smallcaps">Truman,</hi></actor><lb/>
+                     <actor>Banks,</actor> <actor>Brown,</actor> <actor>Goodwin,</actor> <actor>Grant,</actor> <actor>Griffiths,</actor> <actor>W, Griffiths,</actor> <actor>Heath,</actor> <actor>Hickman,</actor> <actor>Jeffkins,</actor><lb/>
+                     <actor>Lee,</actor> <actor>Louis,</actor> <actor>Montague,</actor> <actor>Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Williams,</actor> <actor>Yarnold</actor><lb/>
+                     <actor>Bradwell,</actor> <actor>Chapman,</actor> <actor>W. Goodwin,</actor> <actor>Ladbrook,</actor> <actor>Morelli,</actor> <actor>Wilson.</actor></castItem><lb/>
+                  <castItem><role>Calpurnia</role> by <actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem><lb/>
+                  <castItem><role>Procia</role> by <actor>Mrs. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Matrons,</role> Mesdames <actor>Bologna,</actor> <actor>Coates,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor></castItem><lb/>
+                  <castItem><role>Virgins,</role> Mesdames. <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Findlay,</actor> <actor>Heath,</actor> <actor>Ryall,</actor> <actor>Standen.</actor></castItem><lb/>
+               </castList>
+               The Play of <hi rend="italic">Julius Caesar</hi> is printed conformably to the representation, and<lb/>
+               will be to be had [<hi rend="italic">only at the Theatre</hi>] this Evening.<lb/>
+               After which will be performed, <hi rend="italic">for the third time</hi>, a New <hi rend="allcaps">Musical Farce</hi> (in two acts) called<lb/>
+               <bibl><title>Frost and Thaw.</title></bibl><lb/>
+               <hi rend="italic">With new Musick, Scenery, Dresses and Decorations.</hi><lb/>
+               <hi rend="italic">The Overture and the whole of the Musick composed by Mr. T. <hi rend="allcaps">Cooke</hi>.</hi><lb/>
+               <castList>
+                  <head><hi rend="italic">The principal Characters by</hi></head>
+                  <castItem><actor>Mr. <hi rend="allcaps">Sinclair</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Farley</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Feron</hi>,</actor></castItem><lb/>
+                  <castItem><role>The Choruses</role> by Mess. <actor>Bishop,</actor> <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Huckel,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Street,</actor> <actor>J. Taylor,</actor> <actor>Terr,</actor><lb/>
+                     <actor>Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Williams</actor>-Mesds. <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor><lb/>
+                     <actor>Iliff,</actor> <actor>Johnston,</actor> <actor>Kniveton,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryal,</actor> <actor>Standen,</actor> <actor>Watts,</actor> <actor>Whitmote, &amp;c.</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic">Books of the Songs to be had in the Theatre, price <measure type="currency">10d</measure>.</hi><lb/>
+               <hi rend="italic">The Publick are respectfully informed that, till further notice, Places can<lb/>
+               only be taken from <time when="10:00:00">Ten o'Clock</time>, till <time when="15:30:00">Half past Three</time>.<lb/>
+               No <hi rend="allcaps">Orders</hi> can possibly be admitted.</hi><lb/>
+               <hi rend="allcaps">Vivant Rex &amp; Regina</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

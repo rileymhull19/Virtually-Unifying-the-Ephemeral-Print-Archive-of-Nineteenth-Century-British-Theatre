@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="smallcaps">New Theatre Royal, Covent-Garden,</hi><lb/>
+               This present <hi rend="allcaps">Tuesday</hi>, <date when="1811-04-30">April 30, 1811</date>, will be acted (5th time) the new Comedy of<lb/>
+               <bibl><title>The <hi rend="allcaps">Gazette Extraordinary</hi></title></bibl><lb/>
+               <castList>
+                  <head><hi rend="italic">The principal Characters by</hi></head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">H. Johnston</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Prologue</hi> and <hi rend="allcaps">Epilogue</hi> to be spoken by Mr. <hi rend="allcaps">Brunton</hi> and Miss <hi rend="allcaps">S. Booth.</hi><lb/>
+               After which will be performed, <hi rend="italic">for the second time</hi>, a <hi rend="allcaps">Romantick Melo-Drama</hi>, called<lb/>
+               <bibl><title>Timour, the Tartar</title></bibl><lb/>
+               <hi rend="italic">With entirely new Musick, Scenes, Machinery, Dresses and Decorations.</hi><lb/>
+               <hi rend="italic">The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Musick</hi> composed by <hi rend="allcaps">M.P. King</hi>.</hi>
+               <hi rend="italic">The Scenes painted by Mess. Phillips, Pugh, Grieve, Hallogan, Hodgins, &amp; their assistants</hi>.<lb/>
+               The whole arranged under the Direction of <hi rend="italic">Mr</hi>. <hi rend="allcaps">Farley</hi>.<lb/>
+               <castList>
+                  <head><hi rend="italic">The principal characters by</hi></head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Farley</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Master <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Crossman</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Makeen</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Davies</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">H. Johnston</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Tartars</hi>,</role><lb/>
+                     Mess. <actor>Banks,</actor> <actor>Blyth,</actor> <actor>Brown,</actor> <actor>Edgecomb,</actor> <actor>Gaywood,</actor> <actor>Goodwin,</actor> <actor>Grant,</actor> <actor>Griffiths,</actor> <actor>Heath,</actor><lb/>
+                     <actor>Jeffkins,</actor> <actor>Jeffries,</actor> <actor>Louis,</actor> <actor>Macdonald,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Sibley,</actor> <actor>Thurston,</actor> <actor>Tolfer,</actor> &amp;c.<lb/>
+                     Mesds. <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Watts,</actor> &amp;c.</castItem><lb/>
+                  <castItem><hi rend="allcaps">Georgians,</hi><lb/>
+                     Mess. <actor>Andrews,</actor> <actor>Bath,</actor> <actor>Cooper,</actor> <actor>Cordell,</actor> <actor>W. Davies,</actor> <actor>H. Davies,</actor> <actor>Fagan,</actor> <actor>Hall,</actor> <actor>Harris,</actor> <actor>Hodson,</actor><lb/>
+                     <actor>Holford,</actor> <actor>Kelly,</actor> <actor>Lane,</actor> <actor>Paul,</actor> <actor>Phillimore,</actor> <actor>Smith,</actor> <actor>Tate,</actor> <actor>Turpin,</actor> <actor>Williams,</actor> <actor>Wright,</actor> &amp;c.</castItem><lb/>
+               </castList>
+                     <hi rend="italic">The Machinery by Mr. Saul. The Decorations by Mr. Bradwell</hi>.<lb/>
+                     The Dresses by Mr. Flowers and Miss Egan.<lb/>
+                     <hi rend="allcaps">Vivant Rex &amp; Regina.</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

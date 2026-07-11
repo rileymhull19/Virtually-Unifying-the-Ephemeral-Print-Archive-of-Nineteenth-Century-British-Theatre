@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">New Theatre Royal, Covent-Garden</hi><lb/>
+               This present <hi rend="allcaps">Tuesday</hi>, <date when="1811-02-19">Feb. 19, 1811</date>, will be acted (6th time) the Comedy of<lb/>
+               <bibl><title type="main">The <hi rend="allcaps">Twelfth Night</hi>;</title><lb/>
+                  <title type="sub"><hi rend="italic">Or, <hi rend="allcaps">What You Will</hi>.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Duke Orsino,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Valentine,</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Curio,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem><lb/>
+                  <castItem><role>Paolo,</role> <actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem> <castItem><role>Cosino,</role> <actor>Mr. <hi rend="allcaps">Bond</hi>,</actor></castItem> <castItem><role>Sir Toby Belch,</role> <actor>Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Andrew Ague-Cheek,</role> <actor>Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem> <castItem><role>Sebastian,</role> <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Antonio,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Roberto,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Friar,</role> <actor>Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Officer,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Malvolio,</role> <actor>Mr. <hi rend="allcaps">Liston</hi></actor></castItem><lb/>
+                  <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Fabian,</role> <actor>Mr. <hi rend="allcaps">Farley</hi>,</actor></castItem> <castItem><role>Pietro,</role> <actor>Mr. <hi rend="allcaps">Sarjant</hi>,</actor></castItem> <castItem><role>Luigi,</role> <actor>Mr. <hi rend="allcaps">Heath</hi>,</actor></castItem> <castItem><role>Sailor,</role> <actor>Mr. <hi rend="allcaps">Powers</hi>,</actor></castItem>
+                  <castItem><role>Olivia,</role> <actor>Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Viola,</role> <actor>Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem> <castItem><role>Maria,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi></actor></castItem><lb/>
+               </castList>
+               To which will be added, <hi rend="italic">for the second time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
+               <bibl><title type="main"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
+                  <title type="sub"><hi rend="allcaps">Or</hi>,<lb/>
+                     <hi rend="italic">Female Curiosity.</hi></title></bibl><lb/>
+               <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
+               <hi rend="italic">The Musick composed and selected by Mr. <hi rend="allcaps">Kelly</hi>.</hi><lb/>
+               <castList>
+                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ibrahim,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem><lb/>
+                  <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
+                  <castItem><role>Shacabac,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Hassan,</role> <actor>Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fatima,</role> <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Irene,</role> <actor>Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Beda,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic"><hi rend="allcaps">Spahis</hi></hi>,</role><lb/>
+                     Mess. <actor>Treby,</actor> <actor>King,</actor> <actor>Bishop,</actor> <actor>Hickman,</actor> <actor>Droset,</actor> <actor>Norris,</actor> <actor>Tinney,</actor> <actor>Crossman,</actor><lb/>
+                     <actor>Davies,</actor> <actor>Makeen,</actor> <actor>P. Taylor,</actor> &amp;c. &amp;c.<lb/></castItem>
+                  <castItem><role><hi rend="allcaps"><hi rend="italic">Janizaries</hi></hi>,</role><lb/>
+                     Mess. <actor>I. Bellamy,</actor> <actor>Bond,</actor> <actor>Dixon,</actor> <actor>Everard,</actor> <actor>Fairclough,</actor> <actor>Lee,</actor> <actor>Limon,</actor> <actor>Montague,</actor> <actor>Norman,</actor> <actor>Street</actor><lb/>
+                     <actor>Taylor,</actor> <actor>Terry,</actor> <actor>Tett,</actor> <actor>Williams,</actor></castItem>
+                  <castItem><role><hi rend="allcaps"><hi rend="allcaps">Peasants</hi></hi>,</role><lb/>
+                     Mesdames <actor>Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Price,</actor> <actor>Whitmore</actor>,<lb/></castItem>
+                 </castList>
+               <hi rend="italic">The Dances by</hi><lb/>
+               Mrs. <hi rend="allcaps">Parker</hi>,<lb/>
+               Mess. Brown, Gaywood, Grant, Heath, Louis, Platt, Powers, Sarjant,<lb/>
+               Mesdames Bologna, I. Bologna, Cox, Heath, Louis, Ryall, Standen, Watts.<lb/>
+               Scenes painted by <hi rend="italic">Mess. Phillips, Whitmore, Pugh, Grieve, Hollogan, Hodgins,</hi> &amp; their assistants<lb/>
+               <hi rend="italic">The Machinery by Mess. Saul and Bradwell. The Decorations by Mr. Bradwell.</hi><lb/>
+               The Dresses by Mr. Flowers and Miss Egan.<lb/>
+               Vivant Rex &amp; Regina.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>
