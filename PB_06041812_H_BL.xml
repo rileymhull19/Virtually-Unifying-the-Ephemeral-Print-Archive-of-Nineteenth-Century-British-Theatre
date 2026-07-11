@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, Thursday, <date when="1812-06-04">June 4, 1812</date>,<lb/>
+               Will be perform'd a Comedy in Five Acts, call'd<lb/>
+               <bibl><title>The <hi rend="allcaps">Rivals.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Sir Anthony Absolute,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>,</actor><lb/>
+                  His First Appearance in this Character.</castItem><lb/>
+                  <castItem><role>Captain Absolute,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><role>Faulkland,</role> <actor>Mr. <hi rend="allcaps">Salter</hi>,</actor></castItem><lb/>
+                  <castItem><role>Acres,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
+                  <castItem><role>,</role> <actor><hi rend="allcaps"></hi>,</actor><lb/>
+                  His First Appearance in this Character.</castItem><lb/>
+                  <castItem><role>Sir Lucius O'Trigger,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fag,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem> <castItem><role>David,</role> <actor>Mr. <hi rend="allcaps">Chippendale</hi>,</actor></castItem><lb/>
+                  <castItem><role>Coachman,</role> <actor>Mr. Minton,</actor></castItem> <castItem><role>Servants,</role> <actor>Mr. Glenville</actor> and <actor>Master Martin.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Malaprop,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lydia Languish,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
+                  <castItem><role>Julia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lucy,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/> 
+               </castList>
+               To which will be added, a Farce call'd The<lb/>
+               <castList>
+                  <castItem><role>Sir Edward,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>,</actor></castItem><lb/>
+                  <castItem><role>Steward,</role> <actor>Mr. <hi rend="allcaps">Villiers</hi>,</actor></castItem> <castItem><role>Smart,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem><lb/>
+                  <castItem><role>Henry Blunt,</role> <actor>Mr. <hi rend="allcaps">Kent</hi>,</actor></castItem><lb/>
+                  <castItem><role>Crack,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
+                  <castItem><role>Robert Maythorn,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>,</actor></castItem> <castItem><role>Old Maythorn,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sailors,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi></actor> &amp; <actor>Mr. <hi rend="allcaps">Widdicombe</hi></actor></castItem><lb/>
+                  <castItem><role>Groom,</role> <actor>Mr. Minton,</actor></castItem> <castItem><role>Bailiff,</role> <actor>Mr. Auld,</actor></castItem><lb/>
+                  <castItem><role>Joe Standfast,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Landlady,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
+                  <castItem><role>Peggy,</role> <actor>Mrs. <hi rend="allcaps">Atkins</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mary,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>,</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
+               The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

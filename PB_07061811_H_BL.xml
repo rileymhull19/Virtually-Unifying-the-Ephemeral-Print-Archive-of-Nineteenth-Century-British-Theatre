@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market<lb/>
+               This <hi rend="allcaps">Evening</hi>, <date when="1811-07-06"><hi rend="allcaps">Saturday</hi> July 6, 1811</date>.<lb/>
+               Will be perform'd (<hi rend="italic">second time at this Theatre</hi>) the Musical Farce of The<lb/>
+               <bibl><title type="main">The <hi rend="allcaps">Poor Sailor</hi>;</title><lb/>
+                  <title type="sub">Or, Little <hi rend="allcaps">Bob</hi> and Little <hi rend="allcaps">Ben</hi>.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Captain Battledore,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieutenant Battledore,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Compass,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Freakish,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bumbo,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Daniel O'Daub,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieut. of Press Gang,</role> <actor>Mr. Smith.</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor>Hodson,</actor> <actor>Lewes,</actor> <actor>Linton,</actor> <actor>Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Little Bob,</role> <actor>Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nancy,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem> <castItem><role>Miss Ann Battledore,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eliza,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+               </castList>
+               After which, (First Time this Season) The Comedy of The<lb/>
+               <bibl><title>Dramatist.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Vapid,</role> (with the Original Epilogue) <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Harry Neville,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
+                  <castItem><role>Ennui,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Floriville,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Scratch,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Willoughby,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Peter,</role> <actor>Mr. Martin.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Lady Waitfor't,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Louisa Courtney,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Letty,</role> <actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
+                  <castItem><role>Marianne,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>   
+               </castList>
+               <hi rend="italic">After which</hi> <hi rend="allcaps">(Third Time)</hi> <hi rend="italic"><hi rend="allcaps">A New Farce</hi>, (with Songs,) call'd</hi> The<lb/>
+               <bibl><title>Outside Passenger.</title></bibl><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by Mr. Reeve, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Overture by Mr. Reeve.</hi><lb/>
+               <castList>
+                  <head>The Principal Characters by</head>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor>Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
+               The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               The Publick is respectfully inform'd, that, the <hi rend="smallcaps">New Farce</hi> call'd The <hi rend="allcaps">Outside</hi><lb/>
+               <hi rend="allcaps">Passenger</hi>, having been received last night, with increased bursts of laughter, and loud<lb/>
+               peels of applause, will be repeated; every evening, till further notice</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, <date when="1811-07-04"><hi rend="allcaps">Thursday</hi> July 4, 1811.</date><lb/>
+               Will be perform'd (4th time this Season) A Play in Three Acts, interspersed with<lb/>
+               Musick, call'd<lb/>
+               <bibl><title>The Foundling of the Forest.</title></bibl><lb/>
+               The New Musick incidental to the Play, Composed by Mr. Kelly.<lb/>
+               <castList>
+                  <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
+                  <castItem><role>Florian,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>,</role> <actor><hi rend="allcaps"></hi>.</actor></castItem><lb/>
+                  <castItem><role>Baron Longueville,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>L'Eclair,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspard,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sanguine,</role> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Geraldine,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rosabelle,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eugenia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+               <castItem>A Dance incidental to the Piece by,<lb/>
+                  Messrs. <actor>Widdicombe,</actor> <actor>Cross,</actor> <actor>Brown,</actor> <actor>Harris,</actor> <actor>Taylor,</actor> <actor>Green,</actor> &amp;c.<lb/>
+                  Messdms. <actor>Stokes,</actor> <actor>Haughton,</actor> <actor>Danton,</actor> <actor>Barrett,</actor> <actor>Taylor,</actor> <actor>Collingwood,</actor> &amp;c.</castItem><lb/>
+               </castList>
+               <hi rend="italic">After which will be produced</hi> (Never Perform'd) <hi rend="italic"><hi rend="allcaps">A New Farce</hi></hi>, <hi rend="italic">(with Songs,) call'd</hi> The<lb/>
+               <bibl><title>Outside Passenger.</title></bibl><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by Mr. Reeve, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Overture by Mr. Reeve.</hi><lb/>
+               <castList>
+                  <head>The Principal Characters by</head>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor>Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
+               The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

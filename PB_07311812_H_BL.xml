@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Sixth Time.</hi><lb/>
+               Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, Friday, <date when="1812-07-31">July 31, 1812</date>,<lb/>
+               <hi rend="italic">A New Comedy in Three Acts, call'd The</hi><lb/>
+               <bibl><title>Fortune-Hunters.</title></bibl><lb/>
+               <castList>
+                  <head>The Principal Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+               </castList>
+               After which (2nd time at this Theatre these Seven Years) The Farce of<lb/>
+               <bibl><title>The <hi rend="allcaps">Liar</hi>.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Sir James Eliiot,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Old Wilding,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Young Wilding,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Papillion,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><role>Servants,</role> <actor>Mr. Widdicombe,</actor> and <actor>Mr. Villers.</actor></castItem> <castItem><role>Waiter,</role> <actor>Mr. Glenville.</actor></castItem><lb/><lb/>
+                  <castItem><role>Miss Grantham,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Miss Godfrey,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Kitty,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
+               </castList>
+               To which will be added,<lb/>
+               <bibl><title><hi rend="allcaps">Two Strings<lb/>         
+               To Your Bow.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Don Pedro,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Don Sancho,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Octavio,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Ferdinand,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Borachio,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Waiters,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi></actor> and <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lazarillo,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Clara,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Leonora,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
+               </castList></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

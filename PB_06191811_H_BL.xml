@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Eighth Time.</hi><lb/>
+               Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, <date when="1811-06-19"><hi rend="allcaps">Wednesday</hi> June 19, 1811</date>.<lb/>
+               Will be presented, an Historical Play, in Three Acts, call'd The<lb/>
+               <bibl><title>Royal Oak.</title></bibl><lb/>
+               With entire New Scenery, Dresses and Decorations.<lb/>
+               The <hi rend="allcaps">New Musick</hi> Composed by Mr. <hi rend="allcaps">Kelly</hi>.<lb/>
+               <castList>
+                  <head>The Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem><lb/>
+                  <castItem>Messrs. <actor>Brown,</actor> <actor>Caulfield,</actor> <actor>Diether,</actor> <actor>Eames,</actor> <actor>Field,</actor> <actor>Gray,</actor> <actor>Griffith,</actor> <actor>Hall,</actor> <actor>Harrison,</actor> <actor>Lawson,</actor><lb/>
+                     <actor>Oddwell,</actor> <actor>Robert,</actor> <actor>Sherriff,</actor> <actor>Thomson,</actor> <actor>Terry,</actor> <actor>Willoughby,</actor> &amp;c.</castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="italic">The Dresses by Mr. <hi rend="allcaps">Tobin</hi> and Miss <hi rend="allcaps">Smith</hi>.</hi><lb/>
+               <hi rend="italic">The Scenery designed, and executed by Mr. <hi rend="allcaps">De Maria</hi>, and Assistants.</hi><lb/>
+               After which (1st time at this Theatre) The Musical Farce of<lb/>
+               <bibl><title type="main">The <hi rend="allcaps">Poor Sailor</hi>;</title><lb/>
+               <title type="sub"><hi rend="italic">Or, Little <hi rend="allcaps">Bob</hi> and Little <hi rend="allcaps">Ben</hi>.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Captain Battledor,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieutenant Battledore,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Compass,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Freakish,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bumbo,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Daniel O'Daub,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieut. of Press Gang,</role> <actor>Mr. Smith.</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor>Hodson,</actor> <actor>Lewes,</actor> <actor>Linton,</actor> <actor>Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Little Bob,</role> <actor>Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nancy,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem> <castItem><role>Miss Ann Battledore,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eliza,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+               </castList>
+                  <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, <date when="1811-05-31">Friday, May 31, 1811</date>,<lb/>
+               Will be perform'd the Musical Piece, call'd The<lb/>
+               <bibl><title>Hunter of the Alps.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Felix,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rosalvi,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Jeronymo,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Florio,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Juho,</role> <actor>Miss <hi rend="allcaps">C. Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Juan,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baptista,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Huntsmen,</role> Messrs. <actor><hi rend="allcaps">Lewes</hi></actor> and <actor><hi rend="allcaps">Hodson.</hi></actor></castItem><lb/>
+                  <castItem>Chrous of Peasants, Dancers, &amp;c Messers. <actor>Linton,</actor> <actor>Eames,</actor> <actor>Terry,</actor> <actor>Griffith,</actor> <actor>Oddwell,</actor><lb/>
+                     <actor>Willoughby,</actor> <actor>Diether,</actor> <actor>Caulfield,</actor> <actor>Harrison,</actor> <actor>Warner,</actor> <actor>Sherrif,</actor> <actor>Wells,</actor> <actor>Hope,</actor> <actor>Taylor,</actor><lb/>
+                     <actor>Widdicombe,</actor> <actor>Cross,</actor> <actor>Brown,</actor> &amp;c.<lb/>
+                     Messdms. <actor>Stokes,</actor> <actor>Kendall,</actor> <actor>Houghton,</actor> <actor>Danton,</actor> <actor>Barrett,</actor> <actor>Taylor,</actor> <actor>Collingwood,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Helena,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Genevieve,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bridemaids,</role> <actor>Miss <hi rend="allcaps">Watston</hi>,</actor> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+               </castList>
+               After which (Sixth Time) A Comick Piece in Two Acts, call'd The<lb/>
+               <bibl><title>Trial by Jury.</title></bibl><lb/>
+               With <hi rend="allcaps">New Scenery, Dresses</hi>, &amp;c.<lb/>
+               <castList>
+                  <head>The Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               To which will be added, The Musical Entertainment of The<lb/>
+               <bibl><title>Children in the Wood.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Walter,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Alford,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Sir Rowland,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Apathy,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Oliver,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gabriel,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Helen,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Winifred,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Josephine,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Children,</role> <actor>Master <hi rend="allcaps">Martin</hi></actor> and <actor>Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
+               The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               The Publick is respectfully inform'd that The New Comick Piece of The <hi rend="allcaps">Trial</hi><lb/>
+               <hi rend="allcaps">By Jury</hi> which has been perform'd Five Nights successfully, can (in consequence of<lb/>
+               the intended representation of other Popular Pieces, for the First Time this Season) only<lb/>
+               be repeated on Three Evenings in the Ensuing Week.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

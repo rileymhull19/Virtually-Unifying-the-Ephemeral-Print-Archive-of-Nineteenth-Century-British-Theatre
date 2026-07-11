@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market.<lb/>
+               This <hi rend="allcaps">Evening</hi>, Thursday, <date when="1812-06-25">June 25, 1812</date>,<lb/>
+               Will be perform'd the Play, call'd The<lb/>
+               <bibl><title><hi rend="allcaps">Iron Chest.</hi></title></bibl><lb/>
+               <castList>
+                  <castItem><role>Sir Edward Mortimer,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>.</actor><lb/>
+                     (being his Second appearance in that Character.)</castItem><lb/>
+                  <castItem><role>Captain Fitzharding,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Wilford,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Adam Winterton,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rawbold,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
+                  <castItem><role>Samson Rawbold,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Servants,</role> <actor>Mr. <hi rend="allcaps">Minton</hi></actor> and <actor>Mr. <hi rend="allcaps">Widdicombe</hi>,</actor></castItem><lb/>
+                  <castItem><role>Armstrong,</role> <actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><role>Orson,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Robbers,</role> Messrs. <actor><hi rend="allcaps">Dalton</hi>,</actor> <actor><hi rend="allcaps">Villiers</hi>,</actor> <actor><hi rend="allcaps">Glenville</hi>,</actor> &amp;c.</castItem><lb/> 
+                  <castItem><role>Helen,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Barbara,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor><lb/>
+                  (Being her First Appearance in that Character).</castItem><lb/>
+                  <castItem><role>Dame Rawbold,</role> <actor>Mrs. <hi rend="allcaps">Kendall.</hi></actor></castItem> <castItem><role>Judith,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Blanch,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               To which will be added,<lb/>
+               (<hi rend="allcaps">Tenth Time</hi>)<lb/>
+               <hi rend="allcaps">A New Farce</hi>, in Two Acts, call'd The<lb/>
+               <bibl><title>Sleep-Walker;</title><lb/>
+                  Or, Which is the Lady?</bibl><lb/>
+               <castList>
+                  <head><hi rend="allcaps">The Principal Characters By</hi></head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+               </castList></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

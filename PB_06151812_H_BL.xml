@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab>Theatre-Royal, Hay-Market,<lb/>
+               This <hi rend="allcaps">Evening</hi>, Monday, <date when="1812-06-15">June 15, 1812</date>,<lb/>
+               Will be perform'd a Comedy in Five Acts, call'd<lb/>
+               <bibl><title>A Bold Stroke</title><lb/>
+               For a <hi rend="allcaps">Husband</hi>.</bibl><lb/>
+               <castList>
+                  <castItem><role>Don Julio,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Carlos,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Caesar,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Vincentio,</role> <actor>Mr. <hi rend="allcaps">Betterton.</hi> Jun.</actor><lb/>
+                  His 2nd Appearance on this Stage.</castItem><lb/>
+                  <castItem><role>Don Garcia,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Don Vasquez,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspar,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Pedro,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Olivia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Victoria,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Laura,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Marcella,</role> <actor>Miss De Camp.</actor></castItem> <castItem><role>Inis,</role> <actor>Mrs. Stokes.</actor></castItem> <castItem><role>Sancha,</role> <actor>Mrs. Kendall.</actor></castItem><lb/>
+                  <castItem><role>Minette,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+               </castList>
+               After which, will be produced, <hi rend="allcaps">A New Farce</hi>, in Two Acts,<lb/>
+               <hi rend="italic"><hi rend="allcaps">(Never Perform'd)</hi></hi><lb/>
+               call'd<lb/>
+               <bibl><title>The Sleep Walker;</title><lb/>
+               Or, Which is the Lady?</bibl><lb/>
+               <castList>
+                  <head><hi rend="allcaps">The Principal Characters By</hi></head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+               </castList>
+               <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
+               The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
+               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+         </div>
+      </body>
+  </text>
+</TEI>
