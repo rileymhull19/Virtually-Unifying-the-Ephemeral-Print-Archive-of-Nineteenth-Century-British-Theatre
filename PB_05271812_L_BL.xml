@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05271812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">The Last Night But Four Of</hi><lb/>
+               <persName ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi>'s</persName> Engagement.<lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps"><hi rend="italic">Theatre Royal, Lyceum.</hi></hi></placeName><lb/>
+               This present <hi rend="allcaps">Wednesday</hi>, <date when="1812-05-27"><hi rend="allcaps">May</hi> 27, 1812</date>,<lb/>
+               Their Majesties Servants will perform (by particular desire, and for the last time this Season)<lb/>
+               the Comic Opera of The<lb/>
+               <bibl><title ref="namedentities.xml#play_castle_of_andalusia"><hi rend="allcaps">Castle</hi> of <hi rend="allcaps">Andalusia.</hi></title></bibl><lb/>
+               <hi rend="italic">The <hi rend="allcaps">Music</hi> composed by the late <persName ref="namedentities.xml#sa_ar">Dr. <hi rend="allcaps">Arnold</hi></persName></hi>.<lb/>
+               <castList>
+                  <castItem><role>Alphonso,</role> <actor ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi>,</actor><lb/>
+                  Who will introduce the following additional Songs,<lb/>
+                  "<hi rend="italic">Who would not Love,</hi>"<lb/>
+                     (Composed by <persName ref="namedentities.xml#th_si_co">Mr. <hi rend="allcaps">T. Cooke</hi></persName>, of Dublin.)<lb/>
+                  The celebrated Scene of "<hi rend="italic">Ye Gloomy Caves,</hi>"<lb/>
+                  and Air, "<hi rend="italic">On this cold flinty Rock</hi>," (from the Opera of Kais.)<lb/>
+                  "<hi rend="allcaps"><hi rend="italic">Victory</hi></hi>," (composed by Mr. <hi rend="allcaps">Corri</hi>.)<lb/>
+                  and the favorite Duet of "<hi rend="italic">All's Well</hi>,"<lb/>
+                  (From the <hi rend="allcaps">English Fleet</hi>.)<lb/>
+                     Will be sung by <actor>Mr. <hi rend="allcaps">Pyne</hi></actor> and <actor ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi>.</actor></castItem><lb/> 
+                  <castItem><role>Don Scipio,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Don Caesar,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem> <castItem><role>Don Fernando,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
+                  <castItem><role>Don Juan,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Pedrillo,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><role>Spado,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sanguino,</role> <actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem> <castItem><role>Rapino,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Calvette,</role> <actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem> <castItem><role>Philippo,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><role>Vasquez,</role> <actor>Mr. <hi rend="allcaps">Buxton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Victoria,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
+                  <castItem><role>Catalina,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Isabella,</role> <actor ref="sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lorenza,</role> <actor ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi>,</actor><lb/>
+                  Who will introduce the favorite Polacca of<lb/>
+                  "<hi rend="italic">Aid me Venus,</hi>" (composed by <persName ref="namedentities.xml#wi_sh"><hi rend="allcaps">Shield</hi></persName>.)</castItem><lb/>
+               </castList>
+               After which (<hi rend="italic">Sixth Time</hi>) an entirely New Farce, called<lb/>
+               <bibl><title ref="namedentities.xml#play_how_to_die_for_love">How to Die For Love!</title></bibl>
+               The Songs incidental to the Piece, composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
+               <castList>
+                  <head>The Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>
+               from <time when="10:00:00"><hi rend="allcaps">Ten</hi></time> till <time when="16:00:00"><hi rend="allcaps">Four</hi></time>, &amp; of whom may be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s.</measure> Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s. 6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be Opened at <time when="17:30:00">Half-Past Five</time>, and to commence at <time when="18:30:00">Half-past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

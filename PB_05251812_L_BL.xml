@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05251812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">For the Benefit Of</hi><lb/>
+               <persName ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond.</hi></persName><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps"><hi rend="italic">Theatre Royal, Lyceum</hi>.</hi></placeName><lb/>
+               This present <hi rend="allcaps">Monday</hi>, <date when="1812-05-25"><hi rend="allcaps">May</hi> 25, 1812.</date><lb/>
+               Their Majesties Servants will perform a New Comedy in 5 Acts, call'd The<lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_sons_of_erin"><hi rend="allcaps">Sons</hi> of <hi rend="allcaps">Erin</hi>;</title><lb/>
+                  <title><hi rend="allcaps"><hi rend="italic">Or, Modern Sentiment.</hi></hi></title></bibl><lb/>
+               <castList>
+                  <head><hi rend="allcaps">The Characters By</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor><lb/>
+                  Who will Introduce (in Character) a <hi rend="allcaps">Bran New Planxty</hi>, called<lb/>
+                  "<hi rend="italic">Family Pride; or, Birth and Beauty,</hi>"</castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor><lb/>
+                     Who will, (by particular desire, and for this Night only,) introduce the popular Scotch Ballad of<lb/>
+                     "<hi rend="italic">Roy's Wife.</hi></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem>In the course of the Evening,<lb/>
+                     <actor ref="namedentities.xml#jo_br"><hi rend="allcaps">Mr. Braham</hi></actor><lb/>
+                  will sing<lb/>
+                  "<hi rend="italic">The Death of Abercrombie.</hi>"<lb/>
+                  And the Duet of "<hi rend="italic">All's Well,</hi>"><lb/>
+                  With <actor>Mr. <hi rend="allcaps">Pyne.</hi></actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></actor><lb/>
+                     will sing an entirely New Simple Ballad, called<lb/>
+                     "<hi rend="italic">Donald Mc. Cleod.</hi>"</castItem><lb/>
+               </castList>
+               After which (<hi rend="italic">Fourth Time</hi>) an entirely New Farce, called<lb/>
+               <bibl><title ref="namedentities.xml#play_how_to_die_for_love">How to Die For Love!</title></bibl>
+               The Songs incidental to the Piece, composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
+               <castList>
+                  <head>The Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>
+               from <time when="10:00:00"><hi rend="allcaps">Ten</hi></time> till <time when="16:00:00"><hi rend="allcaps">Four</hi></time>, &amp; of whom may be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>

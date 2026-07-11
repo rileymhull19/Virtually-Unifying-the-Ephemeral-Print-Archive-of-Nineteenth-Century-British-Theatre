@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05071812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Acted But Once.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps"><hi rend="italic">Theatre Royal, Lyceum.</hi></hi></placeName><lb/>
+               This present <hi rend="allcaps">Thursday</hi>, <date when="1812-05-07"><hi rend="allcaps">May</hi> 7, 1812</date>,<lb/>
+               Their Majesties Servants will perform a <hi rend="smallcaps">New Grand Opera Romance</hi> in Three Acts,<lb/>
+               to be called The<lb/>
+               <bibl><title ref="namedentities.xml#play_devils_bridge">Devil's Bridge.</title></bibl><lb/>
+               With entirely New <hi rend="italic">Music, Scenery, Dresses, and Decoration.</hi><lb/>
+               The <hi rend="allcaps">Music</hi> composed by <persName ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi></persName> and <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
+               The <hi rend="allcaps">Overture</hi> by <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
+               <castList>
+                  <head><hi rend="italic">The Principal Characters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#th_ma">Mr. <hi rend="allcaps">Marshall</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Ray</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor>A Young Gentleman<hi rend="allcaps"></hi>,</actor><lb/>
+                     <hi rend="italic">(Being His 2nd Appearance on any Stage.)</hi></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Brereton</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">Chorus of Soldiers and Peasants.</hi></role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst.</actor><lb/>
+                     <actor>Hope,</actor> <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Gussio,</actor> <actor>Rials,</actor> &amp;c. &amp;c.<lb/>
+                     Messrs. <actor ref="namedentities.xml#ro_ch">Chatterley,</actor> <actor ref="namedentities.xml#mo_me">Menage,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="namedentities.xml#mr_mi">Minton,</actor> <actor>I. Boyce,</actor> <actor>Jones,</actor><lb/>
+                     <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Barrat,</actor> &amp;c. &amp;c.</castItem><lb/>
+               </castList>
+               The <hi rend="allcaps">Scenery</hi> designed and executed by <persName ref="namedentities.xml#th_gr">Mr. <hi rend="allcaps">Greenwood</hi></persName> and assistants.<lb/>
+               The <hi rend="allcaps">Machinery</hi> by <persName ref="namedentities.xml#wi_un">Mr. <hi rend="allcaps">Underwood</hi></persName> and assistants.<lb/>
+               The <hi rend="allcaps">Dresses</hi> by <persName ref="namedentities.xml#he_ba">Mr. <hi rend="allcaps">Banks</hi></persName>, <persName ref="namedentities.xml#ma_re">Miss <hi rend="allcaps">Rein</hi></persName>, and their assistants.<lb/>
+               Books of the Songs may be had in the Theatre, and at <hi rend="allcaps">Barker's</hi> Dramatic Repsoitory,<lb/>
+               Great Russell Street.<lb/>
+               After which (<hi rend="italic">24th time</hi>) an entirely New Musical Farce, called<lb/>
+               <bibl><title ref="namedentities.xml#play_turn_out"><hi rend="allcaps">Turn Out!</hi></title></bibl>
+               The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New, composed by <persName ref="namedentities.xml#ma_pe_ki">M.P. <hi rend="allcaps">King</hi></persName>.<lb/>
+               <castList>
+                  <head><hi rend="italic">The Characters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philips</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
+               </castList>
+               The Musical Farce of <hi rend="allcaps">Turn Out</hi>, is published by Mr. <hi rend="allcaps">Sharpe</hi>, Piccadilly:<lb/>
+               The <hi rend="allcaps">Music</hi> is also published by Mr. <hi rend="allcaps">W. Dale</hi>, in the Poultry,<lb/>
+               <hi rend="italic">Books of the Songs may be had in the Theatre.</hi><lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned.</hi><lb/>
+               The Public are respectfully informed that the New Grand Operatic Romance<lb/>
+               of the <hi rend="allcaps">Devil's Bridge</hi>, (performed last night for the first time) was received<lb/>
+               with unbounded applause, and will be repeated every Evening till further notice,<lb/>
+               <hi rend="italic">Saturday</hi> excepted.</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

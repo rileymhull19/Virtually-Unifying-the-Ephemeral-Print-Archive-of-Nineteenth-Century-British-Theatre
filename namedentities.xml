@@ -32,6 +32,19 @@
               <affiliation>XX</affiliation>
               <note>CITATION</note>
            </person>
+           <person xml:id="sa_ar">
+              <persName>
+                 <forename>Samuel</forename>
+                 <surname>Arnold</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1740</birth>
+              <death>1802</death>
+              <floruit notBefore="1764" notAfter="1802"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>Arnold, Samuel</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682</ref>)</bibl>.</note>
+           </person>
            <person xml:id="he_ba">
               <persName>
                  <forename>Henry</forename>
@@ -825,6 +838,19 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Scott, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="wi_sh">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Shield</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>1829</death>
+              <floruit notBefore="1769" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>Shield, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ch_sm">
               <persName>
                  <forename>Charles</forename>
@@ -1064,6 +1090,14 @@
            <title level="m">The Bee Hive</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_cabinet">
+           <title level="m">The Cabinet</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_castle_of_andalusia">
+           <title level="m">The Castle of Andalusia</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_clandestine_marriage">
            <title level="m">The Clandestine Marriage</title>
            <author>XXX.</author>
@@ -1090,6 +1124,10 @@
         </bibl>
         <bibl xml:id="play_house_of_morville">
            <title level="m">The House of Morville</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_how_to_die_for_love">
+           <title level="m">How to Die For Love!</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_hypocrite">
@@ -1179,6 +1217,10 @@
         </bibl>
         <bibl xml:id="play_white_cat">
            <title level="m">The White Cat</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_wife_of_two_husbands">
+           <title level="m">The Wife of Two Husbands</title>
            <author>XXX.</author>
         </bibl>
      </listBibl>

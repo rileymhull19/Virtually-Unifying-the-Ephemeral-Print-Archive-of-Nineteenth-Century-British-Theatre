@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05261812_l_bl">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="performance_playbill" rend="align(center)">
+            <ab><hi rend="allcaps">Second Time At This Theatre.</hi><lb/>
+               <placeName ref="namedentities.xml#lyceum"><hi rend="allcaps"><hi rend="italic">Theatre Royal, Lyceum</hi>.</hi></placeName><lb/>
+               This present <hi rend="allcaps">Tuesday</hi>, <date when="1812-05-26"><hi rend="allcaps">May</hi> 26, 1812.</date><lb/>
+               Their Majesties Servants will perform a Musical Drama in 3 Acts, called<lb/>
+               <bibl><title ref="namedentities.xml#play_wife_of_two_husbands">The Wife of Two Husbands.</title></bibl><lb/>
+               <castList>
+                  <castItem><role>Count Belsior,</role> <actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
+                  <castItem><role>Theodore,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><role>Montenero,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
+                  <castItem><role>Carronade,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor><lb/>
+                     <hi rend="italic">(Being their 2nd Appearance in those Characters)</hi></castItem><lb/>
+                  <castItem><role>Maurice,</role> <actor ref="namedentities.xml#ri_wr">Mr. <hi rend="allcaps">Wroughton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fritz,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
+                  <castItem><role>Armagh,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor><lb/>
+                     Who will introduce the popular Song of<lb/>
+                     <hi rend="italic">"Love and Whiskey."</hi></castItem><lb/>
+                  <castItem><role>Countess Belsior,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
+                  <castItem><role>Eugenia,</role> <actor>Miss <hi rend="allcaps">L. Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ninette,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor><lb/>
+                     <hi rend="italic">(Being their 2nd Appearance in those Characters)</hi></castItem><lb/>
+                  <castItem><role><hi rend="italic"><hi rend="allcaps">Chorus</hi> of <hi rend="allcaps">Banditti</hi>,</hi></role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst,</actor><lb/>
+                     <actor>Hope,</actor> <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Gussio,</actor> <actor ref="namedentities.xml#mr_vi">Vials,</actor> &amp;c. &amp;c.</castItem><lb/>
+                  <castItem><role><hi rend="italic"><hi rend="allcaps">Chorus</hi> of <hi rend="allcaps">Peasants</hi>,</hi></role><lb/>
+                     Messrs. <actor ref="namedentities.xml#ro_ch">Chatterley,</actor> <actor ref="namedentities.xml#mo_me">Menage,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="mr_mi">Minton,</actor> <actor>I. Boyce,</actor> <actor>Jones,</actor><lb/>
+                     <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Barrat,</actor> &amp;c. &amp;c.</castItem><lb/>
+               </castList>
+               In Act I. a New <hi rend="allcaps">Dance</hi> incidental to the Piece,<lb/>
+               By Miss <hi rend="allcaps">C. Bristow</hi>, Miss <hi rend="allcaps">Valencey</hi>,<lb/>
+               <hi rend="italic">And the <hi rend="allcaps">Corps</hi> de <hi rend="allcaps">Ballet</hi>.</hi><lb/>
+               After which (<hi rend="italic">Fifth Time</hi>) an entirely New Farce, called<lb/>
+               <bibl><title ref="namedentities.xml#play_how_to_die_for_love"><hi rend="allcaps">How to Die For Love!</hi></title></bibl>
+               The Songs incidental to the Piece, composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
+               <castList>
+                  <head>The Characters by</head><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
+               </castList>
+               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>
+               from <time when="10:00:00"><hi rend="allcaps">Ten</hi></time> till <time when="16:00:00"><hi rend="allcaps">Four</hi></time>, &amp; of whom may be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
+               Boxes <measure type="currency">6s.</measure> Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s. 6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
+               Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
+               The Doors to be Opened at <time when="17:30:00">Half-Past Five</time>, and to commence at <time when="18:30:00">Half-past Six</time>.<lb/>
+               <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned</hi></ab>
+         </div>
+      </body>
+  </text>
+</TEI>
