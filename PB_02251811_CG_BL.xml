@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_02251811_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,55 +19,55 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab><hi rend="smallcaps">New Theatre Royal, Covent-Garden,</hi><lb/>
+            <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">New Theatre Royal, Covent-Garden,</hi></placeName><lb/>
                This present <hi rend="allcaps">Monday</hi>, <date when="1811-02-25">Feb. 25, 1811</date> will be acted <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
-               <bibl><title><hi rend="allcaps">Romeo and Juliet.</hi></title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_romeo_and_juliet"><hi rend="allcaps">Romeo and Juliet.</hi></title></bibl><lb/>
                <castList>
                   <castItem><role>Prince Escalus</role> by <actor>Mr. <hi rend="allcaps">Claremont,</hi></actor></castItem> <castItem><role>Paris</role> by <actor>Mr. <hi rend="allcaps">Hamerton,</hi></actor></castItem><lb/>
-                  <castItem><role>Montague</role> by <actor>Mr. <hi rend="allcaps">Cresswell,</hi></actor></castItem> <castItem><role>Capulet</role> by <actor>Mr. <hi rend="allcaps">Egerton,</hi></actor></castItem><lb/>
-                  <castItem><role>Romeo</role> by <actor>Mr. <hi rend="allcaps">C. Kemble,</hi></actor></castItem> <castItem><role>Mercutio</role> by <actor>Mr. <hi rend="allcaps">Jones,</hi></actor></castItem> <castItem><role>Benvolio</role> by <actor>Mr. <hi rend="allcaps">Brunton,</hi></actor></castItem><lb/>
-                  <castItem><role>Tybalt</role> by <actor>Mr. <hi rend="allcaps">Barrymore,</hi></actor></castItem> <castItem><role>Friar Laurence</role> by <actor>Mr. <hi rend="allcaps">Murray,</hi></actor></castItem> <castItem><role>Friar John</role> by <actor>Mr. Davenport,</actor></castItem><lb/>
+                  <castItem><role>Montague</role> by <actor>Mr. <hi rend="allcaps">Cresswell,</hi></actor></castItem> <castItem><role>Capulet</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton,</hi></actor></castItem><lb/>
+                  <castItem><role>Romeo</role> by <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble,</hi></actor></castItem> <castItem><role>Mercutio</role> by <actor>Mr. <hi rend="allcaps">Jones,</hi></actor></castItem> <castItem><role>Benvolio</role> by <actor>Mr. <hi rend="allcaps">Brunton,</hi></actor></castItem><lb/>
+                  <castItem><role>Tybalt</role> by <actor>Mr. <hi rend="allcaps">Barrymore,</hi></actor></castItem> <castItem><role>Friar Laurence</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray,</hi></actor></castItem> <castItem><role>Friar John</role> by <actor ref="namedentities.xml#ge_go_da">Mr. Davenport,</actor></castItem><lb/>
                   <castItem><role>Apothecary,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Page</role> <actor>Master <hi rend="allcaps">Chapman,</hi></actor></castItem> <castItem><role>Balthasar</role> by <actor><hi rend="allcaps">Mr. Jefferies,</hi></actor></castItem><lb/>
-                  <castItem><role>Abram</role> <actor>Mr. Bishop,</actor></castItem> <castItem><role>Samson</role> <actor>Mr. Atkins,</actor></castItem> <castItem><role>Gregory</role> <actor>Mr. Truman,</actor></castItem> <castItem><role>Peter</role> <actor>Mr. <hi rend="allcaps">Simmons,</hi></actor></castItem><lb/>
+                  <castItem><role>Abram</role> <actor>Mr. Bishop,</actor></castItem> <castItem><role>Samson</role> <actor ref="namedentities.xml#wi_at">Mr. Atkins,</actor></castItem> <castItem><role>Gregory</role> <actor>Mr. Truman,</actor></castItem> <castItem><role>Peter</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons,</hi></actor></castItem><lb/>
                   <castItem><role>Lady Capulet</role> by <actor>Mrs. <hi rend="allcaps">Weston,</hi></actor></castItem><lb/>
-                  <castItem><role>Juliet</role> by <actor>Mrs. <hi rend="allcaps">Egerton,</hi><lb/>
+                  <castItem><role>Juliet</role> by <actor ref="namedentities.xml#sa_eg">Mrs. <hi rend="allcaps">Egerton,</hi><lb/>
                   <hi rend="italic">(From the Theatre Royal Birmingham, being her first appearance in London.)</hi></actor></castItem><lb/>
-                  <castItem><role>Nurse</role> by <actor>Mrs. <hi rend="allcaps">Davenport,</hi></actor></castItem><lb/>
+                  <castItem><role>Nurse</role> by <actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="allcaps">Davenport,</hi></actor></castItem><lb/>
                </castList>
                <hi rend="italic">In act I. a <hi rend="allcaps">Masquerade</hi> and <hi rend="allcaps">Dance</hi> incidental to the Play.</hi><lb/>
                <hi rend="italic">In act IV.</hi> The Funeral Procession of Juliet and a Solemn Dirge.<lb/>
-               The Vocal Parts by Mess. Bellamy, I. Bellamy, Bishop, Bond, Dixon, Everard, Fairclough, Hickman, Lee,<lb/>
-               Linton, Montague, Norris, Street, Taylor, J. Taylor, Terry, Tett, Tinney, Treby, Williams,<lb/>
-               Mesdames Bologna, I. Bologna, Bolton, Coates, Cox, Emery, Fawcett, Findlay, Grimaldi, Hardy, Heath,<lb/>
-               Iliff, Johnson, Leserve, Linton, Logan, Price, Ryall, Standon, Watts, Whitmore,<lb/>
+               The Vocal Parts by Mess. <persName>Bellamy</persName>, <persName>I. Bellamy</persName>, <persName>Bishop</persName>, <persName>Bond</persName>, <persName>Dixon</persName>, <persName>Everard</persName>, <persName>Fairclough</persName>, <persName>Hickman</persName>, <persName>Lee</persName>,<lb/>
+               <persName>Linton</persName>, <persName>Montague</persName>, <persName>Norris</persName>, <persName ref="namedentities.xml#ja_st">Street</persName>, <persName>Taylor</persName>, <persName>J. Taylor</persName>, <persName>Terry</persName>, <persName ref="namedentities.xml#jo_te">Tett</persName>, <persName>Tinney</persName>, <persName>Treby</persName>, <persName>Williams</persName>,<lb/>
+               Mesdames <persName>Bologna</persName>, <persName>I. Bologna</persName>, <persName>Bolton</persName>, <persName ref="namedentities.xml#el_co">Coates</persName>, <persName>Cox</persName>, <persName ref="namedentities.xml#jo_em">Emery</persName>, <persName ref="namedentities.xml#jo_fa">Fawcett</persName>, <persName>Findlay</persName>, <persName>Grimaldi</persName>, Hardy, Heath,<lb/>
+               <persName>Iliff</persName>, <persName>Johnson</persName>, <persName ref="namedentities.xml#an_ma_le">Leserve</persName>, <persName>Linton</persName>, <persName>Logan</persName>, <persName>Price</persName>, <persName>Ryall</persName>, <persName>Standen</persName>, <persName>Watts</persName>, <persName ref="namedentities.xml#h_wh">Whitmore</persName>,<lb/>
                The Tragedy of <hi rend="italic">Romeo and Juliet</hi> is printed comformably to the performation, and<lb/>
                will be to be had [<hi rend="italic">only at the Theatre</hi>] this Evening.<lb/>
                To which will be added, <hi rend="italic">for the 7th time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
-               <bibl><title type="main"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_blue_beard"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
                   <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
-               <hi rend="italic">The Musick composed and selected by Mr. <hi rend="allcaps">Kelly</hi>.</hi><lb/>
+               <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
                   <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
-                  <castItem><role>Ibrahim,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
-                  <castItem><role>Shacabac,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
-                  <castItem><role>Hassan,</role> <actor>Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
+                  <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
                   <castItem><role>Fatima,</role> <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Irene,</role> <actor>Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
-                  <castItem><role>Beda,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><role>Irene,</role> <actor ref="namedentities.xml#ma_th_ke">Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Beda,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="italic"><hi rend="allcaps">Spahis</hi></hi>,</role><lb/>
                      Mess. <actor>Treby,</actor> <actor>King,</actor> <actor>Bishop,</actor> <actor>Hickman,</actor> <actor>Droset,</actor> <actor>Norris,</actor> <actor>Tinney,</actor> <actor>Crossman,</actor><lb/>
                      <actor>Davies,</actor> <actor>Makeen,</actor> &amp;c. &amp;c.</castItem><lb/>
                   <castItem><role><hi rend="allcaps"><hi rend="italic">Janizaries</hi></hi>,</role><lb/>
-                     Mess. <actor>I. Bellamy,</actor> <actor>Bond,</actor> <actor>Dixon,</actor> <actor>Everard,</actor> <actor>Fairclough,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norman,</actor> <actor>Street</actor><lb/>
-                     <actor>J. Taylor,</actor> <actor>Terry,</actor> <actor>Tett,</actor> <actor>Williams,</actor></castItem>
+                     Mess. <actor>I. Bellamy,</actor> <actor>Bond,</actor> <actor>Dixon,</actor> <actor>Everard,</actor> <actor>Fairclough,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor ref="namedentities.xml#jo_no">Norman,</actor> <actor ref="namedentities.xml#ja_st">Street</actor><lb/>
+                     <actor>J. Taylor,</actor> <actor>Terry,</actor> <actor ref="namedentities.xml#jo_te">Tett,</actor> <actor>Williams,</actor></castItem>
                   <castItem><role><hi rend="allcaps"><hi rend="allcaps">Peasants</hi></hi>,</role><lb/>
-                     Mesdames <actor>Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Price,</actor> <actor>Whitmore</actor>,<lb/></castItem>
+                     Mesdames <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Price,</actor> <actor ref="namedentities.xml#h_wh">Whitmore</actor>,<lb/></castItem>
                </castList>
                <hi rend="italic">The Dances by</hi><lb/>
-               Mrs. <hi rend="allcaps">Parker</hi>,<lb/>
-               Mess. Brown, Gaywood, Grant, Heath, Louis, Platt, Powers, Sarjant,<lb/>
-               Mesdames Bologna, I. Bologna, Cox, Heath, Louis, Ryall, Standen, Watts.<lb/>
+               <persName ref="namedentities.xml#so_pa">Mrs. <hi rend="allcaps">Parker</hi></persName>,<lb/>
+               Mess. <persName>Brown</persName>, <persName>Gaywood</persName>, <persName>Grant</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName ref="namedentities.xml#mr_pl">Platt</persName>, <persName>Powers</persName>, <persName>Sarjant</persName>,<lb/>
+               Mesdames <persName>Bologna</persName>, <persName>I. Bologna</persName>, <persName>Cox</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName>Ryall</persName>, <persName>Standen</persName>, <persName>Watts</persName>.<lb/>
                <hi rend="allcaps">Vivant Rex &amp; Regina</hi>.<lb/>
                The Grand Dramatick Romance of <hi rend="allcaps">Blue Beard</hi>; or, <hi rend="smallcaps">Female Curisoity</hi>,<lb/>
                continuing to be recieved throughout with universal applause, will be repeated every<lb/>

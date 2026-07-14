@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_02211811_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,45 +19,45 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>><hi rend="allcaps">New Theatre Royal, Covent-Garden,</hi><lb/>
+            <ab>><placeName ref="namedentities.xml#covent_gardem"><hi rend="allcaps">New Theatre Royal, Covent-Garden,</hi></placeName><lb/>
                This present <hi rend="allcaps">Thursday</hi>, <date when="1811-02-21">Feb. 21, 1811</date> will be acted (3d time) the Comedy of<lb/>
-               <bibl><title>A New Way to pay Old Debts</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_new_way_to_pay_old_debts">A New Way to pay Old Debts</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lord Lovel,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Giles Overreach,</role> <actor>Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Wellborn,</role> <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
-                  <castItem><role>Allworth,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Willdo,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem> <castItem><role>Justice Greedy,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><role>Marrall,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
-                  <castItem><role>Vintner,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><role>Tapwell,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Order,</role> <actor>Mr. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
-                  <castItem><role>Furnace,</role> <actor>Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Amlye,</role> <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><role>Watchall,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
-                  <castItem><role>Creditors,</role> Mess. <actor>Platt,</actor> <actor>Powers,</actor> <actor>Lee,</actor> <actor>Reeves,</actor> <actor>Bond,</actor> <actor>Bishop</actor>-<role>Sir Giles' Servants,</role> Mess. <actor>Brown,</actor> <actor>Gaywood,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Sarjant</actor></castItem><lb/>
-                  <castItem><role>Lady Allworth,</role> <actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><role>Margaret,</role> <actor>Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/> 
-                  <castItem><role>Abigail,</role> <actor>Mrs. <hi rend="allcaps">Coates</hi>,</actor></castItem> <castItem><role>Tabitha,</role> <actor>Mrs. <hi rend="allcaps">Watts</hi>,</actor></castItem> <castItem><role>Froth,</role> <actor>Miss <hi rend="allcaps">Leserve</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lord Lovel,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Giles Overreach,</role> <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Wellborn,</role> <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Allworth,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Willdo,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem> <castItem><role>Justice Greedy,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><role>Marrall,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
+                  <castItem><role>Vintner,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><role>Tapwell,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Order,</role> <actor ref="namedentities.xml#ge_go_da">Mr. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
+                  <castItem><role>Furnace,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Amlye,</role> <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><role>Watchall,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>Creditors,</role> Mess. <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Lee,</actor> <actor>Reeves,</actor> <actor>Bond,</actor> <actor>Bishop</actor>-<role>Sir Giles' Servants,</role> Mess. <actor>Brown,</actor> <actor>Gaywood,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Sarjant</actor></castItem><lb/>
+                  <castItem><role>Lady Allworth,</role> <actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><role>Margaret,</role> <actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/> 
+                  <castItem><role>Abigail,</role> <actor ref="namedentities.xml#el_co">Mrs. <hi rend="allcaps">Coates</hi>,</actor></castItem> <castItem><role>Tabitha,</role> <actor>Mrs. <hi rend="allcaps">Watts</hi>,</actor></castItem> <castItem><role>Froth,</role> <actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>,</actor></castItem><lb/>
                </castList>
                To which will be added, <hi rend="italic">for the fourth time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
-               <bibl><title type="main"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_blue_beard"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
                   <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
-               <hi rend="italic">The Musick composed and selected by Mr. <hi rend="allcaps">Kelly</hi>.</hi><lb/>
+               <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
                   <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
-                  <castItem><role>Ibrahim,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
-                  <castItem><role>Shacabac,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
-                  <castItem><role>Hassan,</role> <actor>Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_sm">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
+                  <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
                   <castItem><role>Fatima,</role> <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Irene,</role> <actor>Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
-                  <castItem><role>Beda,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
+                  <castItem><role>Irene,</role> <actor ref="namedentities.xml#ma_th_ke">Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Beda,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="italic"><hi rend="allcaps">Spahis</hi></hi>,</role><lb/>
                      Mess. <actor>Treby,</actor> <actor>King,</actor> <actor>Bishop,</actor> <actor>Hickman,</actor> <actor>Droset,</actor> <actor>Norris,</actor> <actor>Tinney,</actor> <actor>Crossman,</actor><lb/>
                      <actor>Davies,</actor> <actor>Makeen,</actor> <actor>P. Taylor,</actor> &amp;c. &amp;c.<lb/></castItem>
                   <castItem><role><hi rend="allcaps"><hi rend="italic">Janizaries</hi></hi>,</role><lb/>
-                     Mess. <actor>I. Bellamy,</actor> <actor>Bond,</actor> <actor>Dixon,</actor> <actor>Everard,</actor> <actor>Fairclough,</actor> <actor>Lee,</actor> <actor>Limon,</actor> <actor>Montague,</actor> <actor>Norman,</actor> <actor>Street</actor><lb/>
-                     <actor>Taylor,</actor> <actor>Terry,</actor> <actor>Tett,</actor> <actor>Williams,</actor></castItem>
+                     Mess. <actor>I. Bellamy,</actor> <actor>Bond,</actor> <actor>Dixon,</actor> <actor>Everard,</actor> <actor>Fairclough,</actor> <actor>Lee,</actor> <actor>Limon,</actor> <actor>Montague,</actor> <actor ref="namedentities.xml#jo_no">Norman,</actor> <actor ref="namedentities.xml#ja_st">Street</actor><lb/>
+                     <actor>Taylor,</actor> <actor>Terry,</actor> <actor ref="namedentities.xml#jo_te">Tett,</actor> <actor>Williams,</actor></castItem>
                   <castItem><role><hi rend="allcaps"><hi rend="allcaps">Peasants</hi></hi>,</role><lb/>
-                     Mesdames <actor>Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Price,</actor> <actor>Whitmore</actor>,<lb/></castItem>
+                     Mesdames <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Price,</actor> <actor ref="namedentities.xml#h_wh">Whitmore</actor>,<lb/></castItem>
                </castList>
                <hi rend="italic">The Dances by</hi><lb/>
-               Mrs. <hi rend="allcaps">Parker</hi>,<lb/>
-               Mess. Brown, Gaywood, Grant, Heath, Louis, Platt, Powers, Sarjant,<lb/>
-               Mesdames Bologna, I. Bologna, Cox, Heath, Louis, Ryall, Standen, Watts.<lb/>
-               Scenes painted by <hi rend="italic">Mess. Phillips, Whitmore, Pugh, Grieve, Hollogan, Hodgins,</hi> &amp; their assistants<lb/>
+               <persName ref="namedentities.xml#so_pa">Mrs. <hi rend="allcaps">Parker</hi></persName>,<lb/>
+               Mess. <persName>Brown</persName>, <persName>Gaywood</persName>, <persName>Grant</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName ref="namedentities.xml#mr_pl">Platt</persName>, <persName>Powers</persName>, <persName>Sarjant</persName>,<lb/>
+               Mesdames <persName>Bologna</persName>, <persName>I. Bologna</persName>, <persName>Cox</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName>Ryall</persName>, <persName>Standen</persName>, <persName>Watts</persName>.<lb/>
+               Scenes painted by <hi rend="italic">Mess. <persName ref="namedentities.xml#th_ph_scenes">Phillips</persName>, <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#ch_jo_pu">Pugh</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#ch_ho">Hollogan</persName>, <persName ref="namedentities.xml#mr_ho">Hodgins</persName>,</hi> &amp; their assistants<lb/>
                <hi rend="italic">The Machinery by Mess. Saul and Bradwell. The Decorations by Mr. Bradwell.</hi><lb/>
                The Dresses by Mr. Flowers and Miss Egan.<lb/>
                <hi rend="allcaps">Vivant Rex &amp; Regina.</hi><lb/>

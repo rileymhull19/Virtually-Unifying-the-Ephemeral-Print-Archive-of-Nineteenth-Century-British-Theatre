@@ -298,6 +298,19 @@
               <occupation>Playwright</occupation>
               <note>See <bibl><title>Cobb, James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731</ref>)</bibl>.</note>
            </person>
+           <person xml:id="he_co">
+              <persName>
+                 <forename>Henry</forename>
+                 <surname>Condell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1757</birth>
+              <death>1824</death>
+              <floruit notBefore="1771" notAfter="1823"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>Condell, Henry</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056</ref>)</bibl>.</note>
+           </person>
            <person xml:id="th_si_co">
               <persName>
                  <forename type="first">Thomas</forename>
@@ -368,6 +381,21 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Davenport, George Gosling</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_an_da">
+              <persName>
+                 <forename>Mary Ann</forename>
+                 <surname type="birth">Ilarvey</surname>
+                 <surname type="married">Davenport</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1759</birth>
+              <death>1843</death>
+              <floruit notBefore="1784" notAfter="1830"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Davenport, Mrs George Gosling, Mary Ann, nee Ilarvey</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_da">
               <persName>
@@ -469,6 +497,20 @@
               <nationality>English</nationality>
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Egerton, Daniel</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="sa_eg">
+              <persName>
+                 <forename>Sarah</forename>
+                 <surname>Egerton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1809"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Egerton, Daniel</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_em">
@@ -700,6 +742,21 @@
               <occupation>Composer, Singer</occupation>
               <note>See <bibl><title>Horn, Charles Edward</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781</ref>)</bibl>.</note>
            </person>
+           <person xml:id="ch_be_in">
+              <persName>
+                 <forename type="first">Charles</forename>
+                 <forename type="middle">Benjamin</forename>
+                 <surname>Incledon</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1763</birth>
+              <death>1826</death>
+              <floruit notBefore="1784" notAfter="1822"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="jo_he_jo">
               <persName>
                  <forename type="first">John</forename>
@@ -738,7 +795,7 @@
               <birth>1775</birth>
               <death>1854</death>
               <floruit notBefore="1792" notAfter="1836"/>
-              <nationality>Welsh</nationality>
+              <nationality>English</nationality>
               <occupation>Actor, Manager</occupation>
               <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Kemble, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
@@ -759,6 +816,21 @@
               <affiliation>Haymarket Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Kemble, Mrs Charles, Maria Theresa, nee De Camp</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="jo_ph_ke">
+              <persName>
+                 <forename type="first">John</forename>
+                 <forename type="second">Philip</forename>
+                 <surname>Kemble</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1757</birth>
+              <death>1823</death>
+              <floruit notBefore="1767" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Manager</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Kemble, John Philip</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ma_pe_ki">
               <persName>
                  <forename type="first">Matthew</forename>
@@ -772,6 +844,21 @@
               <nationality>English</nationality>
               <occupation>Composer</occupation>
               <note>See <bibl><title>King, Matthew Peter</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="an_ma_le">
+              <persName>
+                 <forename type="first">Anna</forename>
+                 <forename type="middle">Maria</forename>
+                 <surname>Leserve</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>1831</death>
+              <floruit notBefore="1787" notAfter="1815"/>
+              <nationality>Unknown</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Leserve, Anna Maria</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_li">
               <persName>
@@ -1009,6 +1096,21 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Mountain, Mrs John, Rosemond, née Wilkinson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_sh_mu">
+              <persName>
+                 <forename type="first">Joseph</forename>
+                 <forename type="middle">Shepherd</forename>
+                 <surname>Munden</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1758</birth>
+              <death>1832</death>
+              <floruit notBefore="1775" notAfter="1824"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Munden, Joseph Shepherd</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_mu">
               <persName>
@@ -1573,9 +1675,17 @@
         </place>
      </listPlace>
      <listBibl>
+        <bibl xml:id="play_new_way_to_pay_old_debts">
+           <title level="m">A New Way to Pay Old Debts</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="any_thing_new">
            <title level="m">Any Thing New</title>
            <author>XXX></author>
+        </bibl>
+        <bibl xml:id="play_as_you_like_it">
+           <title level="m">As You Like It</title>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_bee_hive">
            <title level="m">The Bee Hive</title>
@@ -1591,6 +1701,10 @@
         </bibl>
         <bibl xml:id="play_castle_of_andalusia">
            <title level="m">The Castle of Andalusia</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_cato">
+           <title level="m">Cato</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
@@ -1613,9 +1727,17 @@
            <title level="m">The Green Eye'd Monster</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_gustavus_vasa">
+           <title level="m">Gustavus Vasa</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_harlequin_and_asmodeus">
            <title level="m">Harlequin &amp; Asmodeus</title>
            <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_henry_v">
+           <title level="m">Henry V</title>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_hit_miss">
            <title level="m">Hit or Miss!</title>
@@ -1699,6 +1821,10 @@
         </bibl>
         <bibl xml:id="play_rosina">
            <title level="m">Rosina</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_romeo_and_juliet">
+           <title level="m">Romeo and Juliet</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_siege_of_belgrade">
