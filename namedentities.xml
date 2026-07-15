@@ -772,6 +772,21 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Johnstone, Henry John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969</ref>)</bibl>.</note>
            </person>
+           <person xml:id="na_jo">
+              <persName>
+                 <forename>Nannette</forename>
+                 <surname type="birth">Park</surname>
+                 <surname type="married">Johnston</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1782</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1793" notAfter="1816"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Johnston, Mrs Henry Erskine the first, Nannette, nee Park</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mi_ke">
               <persName>
                  <forename>Michael</forename>
@@ -1408,6 +1423,20 @@
               <affiliation>Sadler's Wells, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Smith, George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="he_sm">
+              <persName>
+                 <forename>Henry</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1792" notAfter="1814"/>
+              <nationality>Unknown</nationality>
+              <occupation>Singer, Actor</occupation>
+              <affiliation>Sadler's Wells, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Smith, Henry</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="gh_sp">
               <persName>
                  <forename type="first">G.</forename>
@@ -1723,6 +1752,10 @@
            <title level="m">Every Man in His Humour</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_gazette_extraordinary">
+           <title level="m">The Gazette Extraordinary</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_green_eyed_monster">
            <title level="m">The Green Eye'd Monster</title>
            <author>XXX.</author>
@@ -1838,6 +1871,10 @@
         </bibl>
         <bibl xml:id="play_stranger">
            <title level="m">The Stranger</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_timour_the_tartar">
+           <title level="m">Timour the Tartar</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="turn_out">
