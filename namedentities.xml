@@ -742,6 +742,20 @@
               <occupation>Composer, Singer</occupation>
               <note>See <bibl><title>Horn, Charles Edward</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_how">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Howell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1798" notAfter="1815"/>
+              <nationality>Unknown</nationality>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Howell, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ch_be_in">
               <persName>
                  <forename type="first">Charles</forename>
@@ -1768,6 +1782,10 @@
            <title level="m">Harlequin &amp; Asmodeus</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_harlequin_and_padmanaba">
+           <title level="m">Harlequin &amp; Padmanaba</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_henry_v">
            <title level="m">Henry V</title>
            <author>William Shakespeare</author>
@@ -1844,6 +1862,10 @@
            <title level="m">Raising the Wind</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_raymond_and_agnes">
+           <title level="m">Raymond and Agnes</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_rich_and_poor">
            <title level="m">Rich and Poor</title>
            <author>XXX.</author>
@@ -1885,6 +1907,10 @@
            <title level="m">Twelfth Night</title>
            <author>William Shakespeare</author>
         </bibl>
+        <bibl xml:id="play_virgin_of_the_sun">
+           <title level="m">The Virgin of the Sun</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_way_to_get_married">
            <title level="m">The Way to Get Married</title>
            <author>Morton (?).</author>
@@ -1899,6 +1925,10 @@
         </bibl>
         <bibl xml:id="play_wife_of_two_husbands">
            <title level="m">The Wife of Two Husbands</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_woodman">
+           <title level="m">The Woodman</title>
            <author>XXX.</author>
         </bibl>
      </listBibl>
