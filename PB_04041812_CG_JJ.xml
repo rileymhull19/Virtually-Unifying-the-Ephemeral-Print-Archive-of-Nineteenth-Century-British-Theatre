@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_04041812_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,39 +18,39 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
-            <ab><hi rend="smallcaps">Theatre Royal, Covent Garden</hi><lb/>
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+            <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">Theatre Royal, Covent Garden</hi></placeName><lb/>
                This present <hi rend="allcaps">Saturday</hi>, <date when="1812-04-04">April 4, 1812</date>.<lb/>
                Will be acted (<hi rend="italic">9th time</hi>) <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
-               <bibl><title>Julius Caesar.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_julius_caesar">Julius Caesar.</title></bibl><lb/>
                <hi rend="italic">(The Dresses, Scenes and Decorations are, for the greater part, entirely new.)</hi><lb/>
-               <hi rend="italic">The Overture and Act-Symphonies composed by Mr. <hi rend="allcaps">Wake</hi></hi>.<lb/>
+               <hi rend="italic">The Overture and Act-Symphonies composed by Mr. <hi rend="allcaps">Ware</hi></hi>.<lb/>
                <castList>
-                  <castItem><role>Julius Caesar</role> by <actor>Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem> <castItem><role>Octavius Caesar</role> by <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Marc Antony</role> by <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Lepidus</role> by <actor>Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
-                  <castItem><role>Brutus</role> by <actor>Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Cassius</role> by <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
-                  <castItem><role>Casca</role> by <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Trebonius</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Julius Caesar</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem> <castItem><role>Octavius Caesar</role> by <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Marc Antony</role> by <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Lepidus</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Brutus</role> by <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Cassius</role> by <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
+                  <castItem><role>Casca</role> by <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Trebonius</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Dedius</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Metellus</role> by <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem><lb/>
                   <castItem><role>Cinna</role> by <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Popilius Loenas</role> by <actor>Mr. <hi rend="allcaps">Norris</hi>,</actor></castItem><lb/>
                   <castItem><role>Titinius</role> by <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Soothsayer</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
                   <castItem><role>Flavius</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Servius</role> by <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><role>Strato</role> by <actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
-                  <castItem><role>Clitus,</role> <actor>Mr. West,</actor></castItem> <castItem><role>Lucius,</role> <actor>Mr. Menage,</actor></castItem> <castItem><role>Varro,</role> <actor>Mr. Huckel,</actor></castItem> <castItem><role>Pindarus,</role> <actor>Mr. Duruset,</actor></castItem><lb/>
-                  <castItem><role>Plebeians,</role> Mess. <actor><hi rend="smallcaps">Atkins,</hi></actor> <actor><hi rend="smallcaps">Simmons,</hi></actor> <actor><hi rend="smallcaps">Howell,</hi></actor> <actor><hi rend="smallcaps">Truman,</hi></actor><lb/>
+                  <castItem><role>Clitus,</role> <actor ref="namedentities.xml#wi_we">Mr. West,</actor></castItem> <castItem><role>Lucius,</role> <actor ref="namedentities.xml#fr_me">Mr. Menage,</actor></castItem> <castItem><role>Varro,</role> <actor>Mr. Huckel,</actor></castItem> <castItem><role>Pindarus,</role> <actor>Mr. Duruset,</actor></castItem><lb/>
+                  <castItem><role>Plebeians,</role> Mess. <actor ref="namedentities.xml#wi_at"><hi rend="smallcaps">Atkins,</hi></actor> <actor ref="namedentities.xml#sa_si"><hi rend="smallcaps">Simmons,</hi></actor> <actor ref="namedentities.xml#mr_how"><hi rend="smallcaps">Howell,</hi></actor> <actor><hi rend="smallcaps">Truman,</hi></actor><lb/>
                      <actor>Banks,</actor> <actor>Brown,</actor> <actor>Goodwin,</actor> <actor>Grant,</actor> <actor>Griffiths,</actor> <actor>W, Griffiths,</actor> <actor>Heath,</actor> <actor>Hickman,</actor> <actor>Jeffkins,</actor><lb/>
-                     <actor>Lee,</actor> <actor>Louis,</actor> <actor>Montague,</actor> <actor>Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Williams,</actor> <actor>Yarnold</actor><lb/>
+                     <actor>Lee,</actor> <actor>Louis,</actor> <actor>Montague,</actor> <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Williams,</actor> <actor>Yarnold</actor><lb/>
                      <actor>Bradwell,</actor> <actor>Chapman,</actor> <actor>W. Goodwin,</actor> <actor>Ladbrook,</actor> <actor>Morelli,</actor> <actor>Wilson.</actor></castItem><lb/>
-                  <castItem><role>Calpurnia</role> by <actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><role>Procia</role> by <actor>Mrs. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
-                  <castItem><role>Matrons,</role> Mesdames <actor>Bologna,</actor> <actor>Coates,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor></castItem><lb/>
+                  <castItem><role>Calpurnia</role> by <actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><role>Procia</role> by <actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
+                  <castItem><role>Matrons,</role> Mesdames <actor>Bologna,</actor> <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor></castItem><lb/>
                   <castItem><role>Virgins,</role> Mesdames. <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Findlay,</actor> <actor>Heath,</actor> <actor>Ryall,</actor> <actor>Standen.</actor></castItem><lb/>
                </castList>
                The Play of <hi rend="italic">Julius Caesar</hi> is printed conformably to the representation, and<lb/>
                will be to be had [<hi rend="italic">only at the Theatre</hi>] this Evening.<lb/>
                To which wil be added a musical Farce called<lb/>
-               <bibl><title><hi rend="allcaps">Paul</hi> and <hi rend="allcaps">Virginia</hi>.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_paul_and_virginia"><hi rend="allcaps">Paul</hi> and <hi rend="allcaps">Virginia</hi>.</title></bibl><lb/>
                <castList>
                   <castItem><role>Don Antonio</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Tropic</role> by <actor>Mr. <hi rend="allcaps">Shaw</hi>,</actor></castItem><lb/>
                   <castItem><role>Paul</role> by <actor>Mr. <hi rend="allcaps">Broadhurst</hi>,</actor></castItem><lb/>
-                  <castItem><role>Dominique</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Sebastian</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Diego,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dominique</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Sebastian</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Diego,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
                   <castItem><role>Sailor</role> by <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><role>Alambra</role> by <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem><lb/>
                   <castItem><role>Virginia</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>
                   <castItem><role>Jacintha</role> by <actor>Miss E. Bolton,</actor></castItem> <castItem><role>Mary,</role> <actor>Mrs. Fawcett,</actor></castItem> <castItem><role>Inis,</role> <actor>Mrs. Iliff,</actor></castItem><lb/>
