@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_06291812_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,41 +18,41 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
-            <ab>Mrs. <hi rend="allcaps">Siddons</hi>'s<lb/>
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+            <ab><persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName><lb/>
                <hi rend="italic"><hi rend="allcaps">Night</hi>.</hi><lb/>
-               The <hi rend="allcaps">Last Time</hi> of Mrs. <hi rend="allcaps">Siddons</hi>'s acting.<lb/>
-               Theatre Royal, Covent Garden,<lb/>
+               The <hi rend="allcaps">Last Time</hi> of <persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName> acting.<lb/>
+               <placeName ref="namedentities.xml#covent_garden">Theatre Royal, Covent Garden,</placeName><lb/>
                This present <hi rend="allcaps">Monday</hi>, <date when="1812-06-29">June 29 1812</date> will be acted Shakespeare's Tragedy of<lb/>
-               <bibl><title><hi rend="allcaps">Macbeth.</hi></title></bibl><lb/>
-               The <hi rend="italic">Overture</hi> and <hi rend="italic">Symphonies</hi> between the Acts by <hi rend="italic">Mr. Ware</hi>-The Vocal Musick by Matthew Lock.<lb/>
+               <bibl><title ref="namedentities.xml#play_macbeth"><hi rend="allcaps">Macbeth.</hi></title></bibl><lb/>
+               The <hi rend="italic">Overture</hi> and <hi rend="italic">Symphonies</hi> between the Acts by <hi rend="italic">Mr. Ware</hi>-The Vocal Musick by <persName ref="namedentities.xml#ma_lo">Matthew Lock</persName>.<lb/>
                <castList>
-                  <castItem><role>Duncan, King of Scotland,</role> by <actor>Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
-                  <castItem><role>Malcolm</role> by <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Donalbain</role> by <actor>Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
-                  <castItem><role>Macbeth</role> by <actor>Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Macduff</role> by <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Duncan, King of Scotland,</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Malcolm</role> by <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Donalbain</role> by <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
+                  <castItem><role>Macbeth</role> by <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Macduff</role> by <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
                   <castItem><role>Banquo</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Fleance</role> by <actor>Master <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
                   <castItem><role>Lenox</role> by <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem> <castItem><role>Rosse</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Siward</role> by <actor>Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Seyton</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Physician</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
+                  <castItem><role>Siward</role> by <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Seyton</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Physician</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
                   <castItem><role>Officers,</role> Mess. <actor>King</actor> &amp; <actor>Truman,</actor></castItem> <castItem><role>Chamberlains,</role> Mess. <actor>Heath</actor> &amp; <actor>Sarjant</actor></castItem>
-                  <castItem><role>Lady Macbeth</role> by <actor>Mrs. <hi rend="allcaps">Siddons</hi>,</actor><lb/>
-                  <hi rend="italic">Being the last time of Mrs. <hi rend="allcaps">Siddons</hi>'s appearing on the stage.</hi></castItem><lb/>
+                  <castItem><role>Lady Macbeth</role> by <actor ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>,</actor><lb/>
+                     <hi rend="italic">Being the last time of <persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName> appearing on the stage.</hi></castItem><lb/>
                   <castItem><role>Gentlewoman</role> by <actor>Mrs. <hi rend="allcaps">Humphries</hi>,</actor></castItem><lb/>
-                  <castItem><role>Hecat</role> by <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem> <castItem><role>Witches,</role> Mess. <actor>Blanchard<hi rend="allcaps"></hi>,</actor> <actor><hi rend="allcaps">Farley,</hi></actor> <actor><hi rend="allcaps">Simmons</hi></actor></castItem><lb/>
+                  <castItem><role>Hecat</role> by <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem> <castItem><role>Witches,</role> Mess. <actor ref="namedentities.xml#wi_bl">Blanchard<hi rend="allcaps"></hi>,</actor> <actor ref="namedentities.xml#ch_fa"><hi rend="allcaps">Farley,</hi></actor> <actor ref="namedentities.xml#sa_si"><hi rend="allcaps">Simmons</hi></actor></castItem><lb/>
                   <castItem><role>Apparitions,</role> <actor>Mr. Bishop,</actor> <actor>Miss S. Goodwin,</actor> <actor>Miss C. Goodwin.</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">The Choral Witches by</hi></role><lb/>
-                     <hi rend="italic">Mess.</hi> <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Huckel,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Shaw,</actor> <actor>Street,</actor> <actor>J. Taylor</actor><lb/>
-                     <actor>Terry,</actor> <actor>Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Treby,</actor> <actor>Williams</actor>-<actor>Mesdames Bolton,</actor> <actor>E. Bolton,</actor> <actor>Coates,</actor> <actor>Emery,</actor> <actor>Fawcett</actor><lb/>
-                     <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Kniveton,</actor> <actor>Leserve,</actor> <actor>Liston,</actor> <actor>Logan,</actor> <actor>Price,</actor> <actor>Simes,</actor> <actor>Watts,</actor> <actor>Whitmore.</actor></castItem><lb/>
+                     <hi rend="italic">Mess.</hi> <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Huckel,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Shaw,</actor> <actor ref="namedentities.xml#ja_st">Street,</actor> <actor>J. Taylor</actor><lb/>
+                     <actor>Terry,</actor> <actor ref="namedentities.xml#jo_te">Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Treby,</actor> <actor>Williams</actor>-<actor>Mesdames Bolton,</actor> <actor>E. Bolton,</actor> <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Emery,</actor> <actor>Fawcett</actor><lb/>
+                     <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Kniveton,</actor> <actor ref="namedentities.xml#an_ma_le">Leserve,</actor> <actor ref="namedentities.xml#sa_li">Liston,</actor> <actor>Logan,</actor> <actor>Price,</actor> <actor>Simes,</actor> <actor>Watts,</actor> <actor ref="namedentities.xml#h_wh">Whitmore.</actor></castItem><lb/>
                </castList>
                To which will be added the Farce of<lb/>
-               <bibl><title><hi rend="allcaps">All</hi> the <hi rend="allcaps">World'</hi>s a <hi rend="allcaps">Stage</hi>.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_all_the_worlds_a_stage"><hi rend="allcaps">All</hi> the <hi rend="allcaps">World'</hi>s a <hi rend="allcaps">Stage</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Sir Gilbert Pumpkin</role> by <actor>Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Gilbert Pumpkin</role> by <actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
                   <castItem><role>Capt. Stanley,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Capt. Stukely,</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem><lb/>
-                  <castItem><role>Diggory</role> by <actor>Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><role>Cymon,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Wat,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor>Mr. Sarjant,</actor></castItem> <castItem><role>Ralph,</role> <actor>Mr. Louis,</actor></castItem> <castItem><role>Robin,</role> <actor>Mr. Platt,</actor></castItem><lb/>
-                  <castItem><role>Miss Bridget Pumpkin</role> by <actor>Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
-                  <castItem><role>Kitty Sprightly</role> by <actor>Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/>
+                  <castItem><role>Diggory</role> by <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><role>Cymon,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Wat,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor>Mr. Sarjant,</actor></castItem> <castItem><role>Ralph,</role> <actor>Mr. Louis,</actor></castItem> <castItem><role>Robin,</role> <actor ref="namedentities.xml#mr_pl">Mr. Platt,</actor></castItem><lb/>
+                  <castItem><role>Miss Bridget Pumpkin</role> by <actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
+                  <castItem><role>Kitty Sprightly</role> by <actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/>
                </castList>
                Vivant Rex &amp; Regina.</ab>
          </div>

@@ -917,6 +917,19 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Liston, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770</ref>)</bibl>.</note>
            </person>
+           <person xml:id="ma_lo">
+              <persName>
+                 <forename>Matthew</forename>
+                 <surname>Locke</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1622</birth>
+              <death>1677</death>
+              <floruit notBefore="1652" notAfter="1676"/>
+              <nationality>English</nationality>
+              <occupation>Composer, Musician</occupation>
+              <note>See <bibl><title>Locke, Matthew</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888</ref>)</bibl>.</note>
+           </person>
            <person xml:id="wi_lo">
               <persName>
                  <forename>William</forename>
@@ -1396,6 +1409,21 @@
               <occupation>Composer</occupation>
               <note>See <bibl><title>Shield, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401</ref>)</bibl>.</note>
            </person>
+           <person xml:id="sa_ke_si">
+              <persName>
+                 <forename>Sarah</forename>
+                 <surname type="birth">Kemble</surname>
+                 <surname type="married">Siddons</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1755</birth>
+              <death>1831</death>
+              <floruit notBefore="1766" notAfter="1819"/>
+              <nationality>Welsh</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Siddons, Mrs William, Sarah, nee Kemble</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="sa_si">
               <persName>
                  <forename>Samuel</forename>
@@ -1838,6 +1866,10 @@
            <title level="m">Lost and Found</title>
            <author>Masters</author>
         </bibl> 
+        <bibl xml:id="pkay_macbeth">
+           <title level="m">Macbeth</title>
+           <author>William Shakespeare</author>
+        </bibl>
         <bibl xml:id="play_magic_bride"> 
            <title level="m">The Magic Bride</title>
            <author>XXX.</author>
