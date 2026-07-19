@@ -30,7 +30,7 @@
                When will be performed<lb/>
                A Grand Selection of Sacred Music.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part I.</hi></hi><lb/>
-               Overture [unreadable]-Recit. Mr. <hi rend="allcaps">Bellamy</hi> 'My cup is full.' <hi rend="allcaps">Air,</hi> 'Shall I in Mamre's.' Chorus 'For all these<lb/>
+               Overture [unreadable]-Recit. <persName ref="namedentities.xml#th_lu_be">Mr. <hi rend="allcaps">Bellamy</hi></persName> 'My cup is full.' <hi rend="allcaps">Air,</hi> 'Shall I in Mamre's.' Chorus 'For all these<lb/>
                mercies.' Joshua-Air, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi></persName> 'No more with unavailing' Bach-Air, <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></persName> and Chorus 'The mar-<lb/>
                vellous work.' Creation-Motet, Signor <hi rend="allcaps">Tramezzani</hi> 'I am refurgam.' Mayer-Chorus 'When his loud voice.' Jeph.<lb/>
                -Air, Madam <hi rend="allcaps">Catalani</hi> 'Angels ever bright.' Theodora-Chorus 'Fix'd in his everlasting feat.' Samson.<lb/>
@@ -51,7 +51,7 @@
                   <castItem>And <actor>Mr. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
                   <castItem><actor>Signor<hi rend="allcaps">Tramezzani</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_je_go">Mr. Goss,</actor></castItem> <castItem><actor>Mr. Broadhurst,</actor></castItem> <castItem><actor>Mr. Tinney,</actor></castItem>
-                  <castItem>And <actor>Mr. <hi rend="allcaps">Bellamy</hi>,</actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#th_lu_be">Mr. <hi rend="allcaps">Bellamy</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic">Leader of the Band, Mr. Ashley-Organ, Mr. J. Ashley</hi><lb/>
                The remainder of the Band and the Choruses,<lb/>

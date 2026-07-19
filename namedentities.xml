@@ -513,6 +513,21 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Egerton, Daniel</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="ro_wi_el">
+              <persName>
+                 <forename type="first">Robert</forename>
+                 <forename type="middle">William</forename>
+                 <surname>Elliston</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1774</birth>
+              <death>1831</death>
+              <floruit notBefore="1791" notAfter="1826"/>
+              <nationality>English</nationality>
+              <occupation>Actor, Manager</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Elliston, Robert William</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="jo_em">
               <persName>
                  <forename>John</forename>
@@ -999,6 +1014,20 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Marshall, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_mas">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Massingham</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1790" notAfter="1830"/>
+              <nationality>Unknown</nationality>
+              <occupation>Door Keeper</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Massingham, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ma">
               <persName>
@@ -1834,6 +1863,10 @@
            <title level="m">The Follies of a Day</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_foundling_of_the_forest">
+           <title level="m">The Foundling of the Forest</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_frost_and_thaw">
            <title level="m">Frost and Thaw</title>
            <author>XXX.</author>
@@ -1872,6 +1905,10 @@
         </bibl>
         <bibl xml:id="play_honest_thieves">
            <title level="m">Honest Thieves</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_honeymoon">
+           <title level="m">The Honey-Moon</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_house_of_morville">
@@ -2019,7 +2056,15 @@
            <title level="m">Timour the Tartar</title>
            <author>XXX.</author>
         </bibl>
-        <bibl xml:id="turn_out">
+        <bibl xml:id="play_tom_thumb">
+           <title level="m">Tom Thumb</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_trial_by_jury">
+           <title level="m">The Trial By Jury</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_turn_out">
            <title level="m">Turn Out</title>
            <author>James Kenney</author>
         </bibl>

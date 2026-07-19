@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05281811_h_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,31 +18,31 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market<lb/>
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName><lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-05-28">Tuesday, May 28, 1811</date><lb/>
                Will be Perform'd (first time this Season) A Play in Three Acts, interspersed with<lb/>
                Musick, call'd<lb/>
-               <bibl><title>The Foundling of the Forest.</title></bibl><lb/>
-               The New Musick incidental to the Play, Composed by Mr. Kelly.<lb/>
+               <bibl><title ref="namedentities.xml#play_foundling_of_the_forest">The Foundling of the Forest.</title></bibl><lb/>
+               The New Musick incidental to the Play, Composed by <persName ref="namedentities.xml#mi_ke">Mr. Kelly</persName>.<lb/>
                <castList>
                   <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
-                  <castItem><role>Florian,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Florian,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><role>,</role> <actor><hi rend="allcaps"></hi>.</actor><lb/>
                   (His First Appearance in that Character.)</castItem><lb/>
-                  <castItem><role>Baron Longueville,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baron Longueville,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>L'Eclair,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>L'Eclair,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Gaspard,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Sanguine,</role> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Geraldine,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rosabelle,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rosabelle,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Eugenia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                A Dance incidental to the Piece by,<lb/>
-               Messrs. Goodwin, Wells, Wells, Jun. Widdicombe, Hope, Cross, &amp;c.<lb/>
-               Mrs. Stokes, Mrs. Haughton, Miss Danton, Mrs. Barrett, Miss Taylor, Mrs. Collingwood,<lb/>
+               Messrs. <persName>Goodwin</persName>, <persName>Wells</persName>, <persName>Wells</persName>, Jun. <persName>Widdicombe</persName>, <persName>Hope</persName>, <persName>Cross</persName>, &amp;c.<lb/>
+               <persName>Mrs. Stokes</persName>, <persName>Mrs. Haughton</persName>, <persName>Miss Danton</persName>, <persName>Mrs. Barrett</persName>, <persName>Miss Taylor</persName>, <persName>Mrs. Collingwood</persName>,<lb/>
                <hi rend="allcaps">After</hi> which (reduced into One Act) a Piece call'd<lb/>   
                <bibl><title>The Register Office.</title></bibl><lb/>
                <castList>
