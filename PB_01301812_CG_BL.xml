@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_01301812_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,39 +18,39 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
             <ab><hi rend="allcaps">Oratorios.</hi><lb/>
                1812.<lb/>
                Messrs. <hi rend="allcaps">Ashley</hi><lb/>
                <hi rend="allcaps">Most</hi> respectfully inform the Nobility, Gentry, and Public, that the Season will<lb/>
                <hi rend="allcaps">Commence</hi> as usual, at the<lb/>
-               <hi rend="allcaps">Theatre-Royal, Covent-Garden,</hi><lb/>
+               <placeName ref="namedentities.xml#covent_garden"><hi rend="allcaps">Theatre-Royal, Covent-Garden,</hi></placeName><lb/>
                On <hi rend="allcaps">Thursday</hi> next,<lb/>
                The 30th Instant,<lb/>
                When will be performed<lb/>
                A Grand Selection of Sacred Music.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part I.</hi></hi><lb/>
                Overture [unreadable]-Recit. Mr. <hi rend="allcaps">Bellamy</hi> 'My cup is full.' <hi rend="allcaps">Air,</hi> 'Shall I in Mamre's.' Chorus 'For all these<lb/>
-               mercies.' Joshua-Air, Mrs. <hi rend="allcaps">Bland</hi> 'No more with unavailing' Bach-Air, Mrs. <hi rend="allcaps">Dickons</hi> and Chorus 'The mar-<lb/>
+               mercies.' Joshua-Air, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi></persName> 'No more with unavailing' Bach-Air, <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></persName> and Chorus 'The mar-<lb/>
                vellous work.' Creation-Motet, Signor <hi rend="allcaps">Tramezzani</hi> 'I am refurgam.' Mayer-Chorus 'When his loud voice.' Jeph.<lb/>
                -Air, Madam <hi rend="allcaps">Catalani</hi> 'Angels ever bright.' Theodora-Chorus 'Fix'd in his everlasting feat.' Samson.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part II.</hi></hi><lb/>
-               Overture and Dead March in Saul-Quartetto, Mrs. <hi rend="allcaps">Bland,</hi> Mess. Goss, <hi rend="allcaps">Broadhurst</hi> and <hi rend="allcaps">Tinney</hi> 'When the ear<lb/>
+               Overture and Dead March in Saul-Quartetto, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland,</hi></persName> Mess. <persName ref="namedentities.xml#jo_je_go">Goss</persName>, <hi rend="allcaps">Broadhurst</hi> and <hi rend="allcaps">Tinney</hi> 'When the ear<lb/>
                heard him.' Chorus 'But his name liveth.' Funeral Anthem-Duet, Madam <hi rend="allcaps">Catalani</hi> and Signor <hi rend="allcaps">Tramezzani</hi><lb/>
-               'In questo lieto' Pueitta-Rocit, Mrs. <hi rend="allcaps">Dickons</hi> 'And God said.' Air, 'With verdue clad.' Chorus 'Awake the<lb/>
+               'In questo lieto' Pueitta-Rocit, <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></persName> 'And God said.' Air, 'With verdue clad.' Chorus 'Awake the<lb/>
                harp.' Creation-Air, Madam <hi rend="allcaps">Catalani</hi> 'Holy, holy Lord.' Redemption-Chorus 'Join voices.' Gaillard &amp; Cooke<lb/>
-               -Duet, Mr. <hi rend="allcaps">Dickons</hi> &amp; Mrs <hi rend="allcaps">Bland</hi> 'Quoniam tu folus.' Portogallo-Chorus 'Gird on thy sword.' Saul.<lb/>
+               -Duet, Mr. <hi rend="allcaps">Dickons</hi> &amp; <persName ref="namedentities.xml#ma_bl">Mrs <hi rend="allcaps">Bland</hi></persName> 'Quoniam tu folus.' Portogallo-Chorus 'Gird on thy sword.' Saul.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part III.</hi></hi><lb/>
-               Introduction-Air, Mr. <hi rend="allcaps">Goss</hi> and Chorus 'Jehovah renown'd.' Esther-Recit. Mrs <hi rend="allcaps">Dickons</hi> 'Ye sacred priests.'<lb/>
+               Introduction-Air, <persName ref="namedentities.xml#jo_je_go">Mr. <hi rend="allcaps">Goss</hi></persName> and Chorus 'Jehovah renown'd.' Esther-Recit. <persName ref="namedentities.xml#ma_di">Mrs <hi rend="allcaps">Dickons</hi></persName> 'Ye sacred priests.'<lb/>
                <hi rend="allcaps">Air</hi>, 'Fairwell ye limpid springs.' Jephtha-Cavitina, Signor <hi rend="allcaps">Tramezzani</hi>-Chorus 'Te glorious.' Graun-Air,<lb/>
                Madam <hi rend="allcaps">Catalani</hi> 'Gratias agimus.' Guiglielmi-Coronation Anthem, 'God save the King.'<lb/>
                <castList>
                   <head>Principal Performers.</head><lb/>
                   <castItem><actor><hi rend="allcaps">Madam Catalani</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
                   <castItem>And <actor>Mr. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
                   <castItem><actor>Signor<hi rend="allcaps">Tramezzani</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. Goss,</actor></castItem> <castItem><actor>Mr. Broadhurst,</actor></castItem> <castItem><actor>Mr. Tinney,</actor></castItem>
+                  <castItem><actor ref="namedentities.xml#jo_je_go">Mr. Goss,</actor></castItem> <castItem><actor>Mr. Broadhurst,</actor></castItem> <castItem><actor>Mr. Tinney,</actor></castItem>
                   <castItem>And <actor>Mr. <hi rend="allcaps">Bellamy</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic">Leader of the Band, Mr. Ashley-Organ, Mr. J. Ashley</hi><lb/>

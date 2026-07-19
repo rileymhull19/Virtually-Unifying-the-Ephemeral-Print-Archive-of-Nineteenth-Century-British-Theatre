@@ -629,6 +629,20 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Goodman, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="jo_je_go">
+              <persName>
+                 <forename type="first">John</forename>
+                 <forename type="middle">Jeremiah</forename>
+                 <surname>Goss</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1770</birth>
+              <death>1817</death>
+              <floruit notBefore="1794" notAfter="1817"/>
+              <nationality>English</nationality>
+              <occupation>Singer</occupation>
+              <note>See <bibl><title>Goss, John Jeremiah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="jo_he_gr">
               <persName>
                  <forename type="first">John</forename>
@@ -1353,6 +1367,20 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Raymond, James Grant</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="wi_re">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Reeve</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1757</birth>
+              <death>1815</death>
+              <floruit notBefore="1783" notAfter="1815"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>See <bibl><title>Reeve, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ma_re">
               <persName>
                  <forename>Mary</forename>
@@ -1750,6 +1778,10 @@
            <title level="m">A New Way to Pay Old Debts</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_animal_magnetism">
+           <title level="m">Animal Magnetism</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="any_thing_new">
            <title level="m">Any Thing New</title>
            <author>XXX></author>
@@ -1776,6 +1808,10 @@
         </bibl>
         <bibl xml:id="play_cato">
            <title level="m">Cato</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_child_of_nature">
+           <title level="m">The Child of Nature</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
@@ -1826,6 +1862,10 @@
            <title level="m">Henry V</title>
            <author>William Shakespeare</author>
         </bibl>
+        <bibl xml:id="play_high_life_below_stairs">
+           <title level="m">High Life Below Stairs</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_hit_miss">
            <title level="m">Hit or Miss!</title>
            <author>XXX.</author>
@@ -1854,6 +1894,10 @@
            <title level="m">Julius Caesar</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_kamtchatka">
+           <title level="m">Kamtchatka</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_kiss">
            <title level="m">The Kiss</title>
            <author>XXX.</author>
@@ -1878,8 +1922,16 @@
            <title level="m">Man and Wife</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_man_of_the_world">
+           <title level="m">The Man of the World</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_mayor_garratt">
            <title level="m">The Mayor of Garratt</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_measure_for_measure">
+           <title level="m">Measure for Measure</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_midnight_hour">
@@ -1900,6 +1952,10 @@
         </bibl>
         <bibl xml:id="play_peasant_boy">
            <title level="m">The Peasant Boy</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_percy">
+           <title level="m">Percy</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
@@ -1970,6 +2026,10 @@
         <bibl xml:id="play_twelfth_night">
            <title level="m">Twelfth Night</title>
            <author>William Shakespeare</author>
+        </bibl>
+        <bibl xml:id="play_up_to_town">
+           <title level="m">Up to Town</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_virgin_of_the_sun">
            <title level="m">The Virgin of the Sun</title>

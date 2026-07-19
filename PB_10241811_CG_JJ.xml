@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_10241811_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,36 +18,36 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Covent-Garden,<lb/>
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+            <ab><placeName ref="namedentities.xml#covent_garden">Theatre-Royal, Covent-Garden</placeName>,<lb/>
                This present <date when="1811-10-24"><hi rend="allcaps">Thursday</hi>, Oct. 24, 1811</date> will be acted the Comick Opera of<lb/>
-               <bibl><title>The <hi rend="allcaps">Cabinet</hi>.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_cabinet">The <hi rend="allcaps">Cabinet</hi>.</title></bibl><lb/>
                <castList>
                   <castItem><role>Prince Orlando,</role> <actor>Mr. <hi rend="allcaps">Sinclair</hi>,</actor></castItem><lb/>
                   <castItem><role>Count Curvoso,</role> <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>
-                  <castItem><role>Marquis de Grand Chateau,</role> <actor>Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem> <castItem><role>Lorenzo,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi></actor></castItem><lb/>
-                  <castItem><role>Whimsiculo,</role> <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Peter,</role> <actor>Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem> <castItem><role>Manikin,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi></actor></castItem><lb/>
+                  <castItem><role>Marquis de Grand Chateau,</role> <actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem> <castItem><role>Lorenzo,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi></actor></castItem><lb/>
+                  <castItem><role>Whimsiculo,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Peter,</role> <actor ref="namedentities.xml#jo_em">Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem> <castItem><role>Manikin,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi></actor></castItem><lb/>
                   <castItem><role>Falconer,</role> <actor>Mr. King,</actor></castItem> <castItem><role>Baptista,</role> <actor>Mr. Louis,</actor></castItem> <castItem><role>Leandro,</role> <actor>Mr. Bishop</actor></castItem><lb/>
                   <castItem><role>Doralice</role> by <actor>Mrs. <hi rend="allcaps">Emery</hi>,</actor></castItem> <castItem><role>Crudelia</role> by <actor>Miss <hi rend="allcaps">Logan</hi>,</actor></castItem><lb/>
                   <castItem><role>Constantia</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><role>Leonora</role> by <actor>Miss <hi rend="allcaps">E. Bolton</hi></actor></castItem><lb/>
-                  <castItem><role>Bianca</role> by <actor>Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem> <castItem><role>Curiosa</role> by <actor>Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bianca</role> by <actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem> <castItem><role>Curiosa</role> by <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
                   <castItem><role>Floretta</role> by <actor>Miss <hi rend="allcaps">Feron</hi>,</actor><lb/>
                      <hi rend="italic">(Being her first Appearance on this Stage.)</hi></castItem><lb/>
-                  <castItem><role>The Choruses by</role> Mess. <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor>Street,</actor> <actor>J. Taylor,</actor> <actor>Terry,</actor><lb/>
-                     <actor>Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Williams</actor>-Mesds. <actor>Bologna</actor> <actor>I. Bologna,</actor> <actor>Coates,</actor> <actor>Cox,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor><lb/>
-                     <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Kniveton,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryal,</actor> <actor>Standen,</actor> <actor>Watts,</actor> <actor>Whitmore,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>The Choruses by</role> Mess. <actor>Duruset,</actor> <actor>Everard,</actor> <actor>Hickman,</actor> <actor>Lee,</actor> <actor>Linton,</actor> <actor>Montague,</actor> <actor>Norris,</actor> <actor ref="namedentities.xml#ja_st">Street,</actor> <actor>J. Taylor,</actor> <actor>Terry,</actor><lb/>
+                     <actor ref="namedentities.xml#jo_te">Tett,</actor> <actor>S. Tett,</actor> <actor>Tinney,</actor> <actor>Williams</actor>-Mesds. <actor>Bologna</actor> <actor>I. Bologna,</actor> <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Cox,</actor> <actor>Findlay,</actor> <actor>Grimaldi,</actor> <actor>Hardy,</actor><lb/>
+                     <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Kniveton,</actor> <actor>Louis,</actor> <actor>Price,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Watts,</actor> <actor ref="namedentities.xml#h_wh">Whitmore,</actor> &amp;c.</castItem><lb/>
                </castList>
                In act. III. <hi rend="italic">Miss</hi> <hi rend="allcaps">Feron</hi> will introduce the favourite Air of<lb/>
                <quote>'<hi rend="italic">Hope told a flattering tald.</hi>'</quote>-with variations.<lb/>
                To which will be added a Farce called<lb/>
-               <bibl><title>Animal Magnetism.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_animal_magnetism">Animal Magnetism.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Marquis de Lancy</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Doctor</role> by <actor>Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
-                  <castItem><role>La Fleur</role> by <actor>Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Picard</role> by <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem><lb/>
-                  <castItem><role>Geoffry,</role> <actor>Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Francois,</role> <actor>Mr. <hi rend="allcaps">Bishop</hi></actor></castItem><lb/>
-                  <castItem><role>Constance</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><role>Lisetta</role> by <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Marquis de Lancy</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Doctor</role> by <actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
+                  <castItem><role>La Fleur</role> by <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Picard</role> by <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem><lb/>
+                  <castItem><role>Geoffry,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Francois,</role> <actor>Mr. <hi rend="allcaps">Bishop</hi></actor></castItem><lb/>
+                  <castItem><role>Constance</role> by <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><role>Lisetta</role> by <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
-               <hi rend="italic">Places for the Boxes to be taken of Mr. Brandon at the new Box-office, Hart-street.</hi><lb/>
+               <hi rend="italic">Places for the Boxes to be taken of <persName ref="namedentities.xml#ja_wi_br">Mr. Brandon</persName> at the new Box-office, Hart-street.</hi><lb/>
                Boxes <measure type="currency">7s</measure>. Second Price <measure type="currency">3s 6d</measure>.-Pit <measure type="currency">3s 6d</measure>. Second Price <measure type="currency">2s</measure>.<lb/>
                Lower Gallery <measure type="currency">2s</measure>. Second Price <measure type="currency">1s</measure>.-Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
                The Doors will be opened at <time when="17:30:00"><hi rend="allcaps">Half</hi> past <hi rend="allcaps">Five</hi></time>, and the Play begin at <time when="18:30:00"><hi rend="allcaps">Half</hi> past <hi rend="allcaps">Six</hi></time>.<lb/>

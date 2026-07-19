@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_01071812_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,43 +18,43 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)">
-            <ab><hi rend="smallcaps">Theatre Royal, Covent Garden,</hi><lb/>
+         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+            <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">Theatre Royal, Covent Garden,</hi></placeName><lb/>
                This present <hi rend="allcaps">Tuesday</hi>, <date when="1812-01-07">Jan. 7, 1812</date> will be revived the Tragedy of<lb/>
-               <bibl><title><hi rend="allcaps">Percy</hi>.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_percy"><hi rend="allcaps">Percy</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Percy, Earl of Northumberland,</role> <actor>Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Earl Douglas,</role> <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
-                  <castItem><role>Earl Raby,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Hubert,</role> <actor>Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Percy, Earl of Northumberland,</role> <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Earl Douglas,</role> <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
+                  <castItem><role>Earl Raby,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Hubert,</role> <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
                   <castItem><role>Harcourt,</role> <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Edrick,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
-                  <castItem><role><hi rend="italic">Knights</hi>,</role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">Knights</hi>,</role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold</actor></castItem><lb/>
                   <castItem><role>Elwina</role> by <actor>Miss <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Birtha,</role> <actor>Miss <hi rend="allcaps">E. Bolton</hi>,</actor></castItem><lb/>
                </castList>
                After which will be performed, <hi rend="italic">for the 11th time, a <hi rend="allcaps">New Pantomime</hi>, called</hi><lb/>
-               <bibl><title type="main">Harlequin &amp; Padmanaba</title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_harlequin_and_padmanaba">Harlequin &amp; Padmanaba</title><lb/>
                   <title type="sub"><hi rend="allcaps">Or</hi><lb/>
                      <hi rend="allcaps">The Golden Fish.</hi></title></bibl><lb/>
                The Overture and Musick composed by Mr. <hi rend="italic">Ware</hi>.<lb/>
-               <hi rend="italic">The Scenery painted by Mess. Whitmore, Pugh, Grieve, Hollogan, &amp; their assistants.</hi><lb/>
+               <hi rend="italic">The Scenery painted by Mess. <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#ch_jo_pu">Pugh</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#j_ho">Hollogan</persName>, &amp; their assistants.</hi><lb/>
                The Machinery by Mess. Bradwell, Saul, &amp; Cresswell, jun. The Dresses by Mr. Flowers &amp; Miss Egan.<lb/>
-               The Dances composed by Mr. Bologna, Jun.-The whole arranged by Mr. Farley.<lb/>
+               The Dances composed by <persName ref="namedentities.xml#jo_pi_bo">Mr. Bologna, Jun</persName>.-The whole arranged by <persName ref="namedentities.xml#ch_fa">Mr. Farley</persName>.<lb/>
                <castList>
                   <castItem><role><hi rend="allcaps">Padmanaba</hi> (a renowned Astrologer</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem><lb/>
-                  <castItem><role><hi rend="allcaps">Sultan</hi> of <hi rend="allcaps">Chashmire</hi>, (afterwards Pantaloon)</role> <actor>Mr. <hi rend="allcaps">Norman</hi>,</actor></castItem><lb/>
-                  <castItem><role><hi rend="allcaps">Omar</hi>, the Fisherman, (afterwards Harlequin)</role> <actor>Mr. <hi rend="allcaps">Bologna,</hi> Jun.</actor></castItem><lb/>
-                  <castItem><role><hi rend="allcaps">Cayfacttadhre</hi>, the Persian Cook, (afterwards Clown)</role> <actor>Mr. <hi rend="allcaps">Grimaldi</hi>,</actor></castItem><lb/>
-                  <castItem><role>Grand Vizier,</role> <actor>Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem> <castItem><role>Nekir <hi rend="italic">(the Black Evil Spirit)</hi></role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Sultan</hi> of <hi rend="allcaps">Chashmire</hi>, (afterwards Pantaloon)</role> <actor ref="namedentities.xml#jo_no">Mr. <hi rend="allcaps">Norman</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Omar</hi>, the Fisherman, (afterwards Harlequin)</role> <actor ref="namedentities.xml#jo_pi_bo">Mr. <hi rend="allcaps">Bologna,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role><hi rend="allcaps">Cayfacttadhre</hi>, the Persian Cook, (afterwards Clown)</role> <actor ref="namedentities.xml#jo_gr">Mr. <hi rend="allcaps">Grimaldi</hi>,</actor></castItem><lb/>
+                  <castItem><role>Grand Vizier,</role> <actor ref="namedentities.xml#mr_how">Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem> <castItem><role>Nekir <hi rend="italic">(the Black Evil Spirit)</hi></role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
                   <castItem><role>Zadig, the old Fisherman,</role> <actor>Mr. <hi rend="allcaps">Tinney</hi>,</actor></castItem> <castItem><role>Selim, his son,</role> <actor>Mr. <hi rend="allcaps">Broadhurst</hi>,</actor></castItem><lb/>
                   <castItem><role>Priz,</role> <actor>Mr. <hi rend="allcaps">Huckel</hi>,</actor></castItem> <castItem><role>Chief of the Haram,</role> <actor>Mr. <hi rend="allcaps">Louis</hi>,</actor></castItem> <castItem><role>Clerk of the Sultan's Kitchen,</role> <actor>Mr. <hi rend="allcaps">Heath</hi>,</actor></castItem><lb/>
            <castItem><role>Scullions,</role> Masters <actor>Bradwell,</actor> <actor>Chapman,</actor> <actor>Goodwin,</actor> <actor>Morelli,</actor> <actor>Wilson,</actor> <actor>Yarnold</actor></castItem><lb/>
                   <castItem><role>Slaves,</role> Mess. <actor>Baker,</actor> <actor>J. Cardozo,</actor> <actor>Foffee,</actor> <actor>Griffiths,</actor> <actor>Jeffkins,</actor></castItem><lb/>
                   <castItem><role>Welch Colliers</role> Mess. <actor>Banks,</actor> <actor>Goodwin,</actor> <actor>W. Griffiths,</actor> <actor>J. Jeffkins,</actor> <actor>Telfer,</actor> <actor>W. Truman</actor></castItem><lb/>
-                  <castItem><role><hi rend="italic">Sheep Shearers,</hi></role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold.</actor></castItem>
-                  <castItem><role><hi rend="allcaps">Zelica</hi>, the Sultan's Daughter, (afterwards Colombine)</role> <actor>Mrs. <hi rend="allcaps">Parker</hi>,</actor></castItem><lb/>
+                  <castItem><role><hi rend="italic">Sheep Shearers,</hi></role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold.</actor></castItem>
+                  <castItem><role><hi rend="allcaps">Zelica</hi>, the Sultan's Daughter, (afterwards Colombine)</role> <actor ref="namedentities.xml#so_pa">Mrs. <hi rend="allcaps">Parker</hi>,</actor></castItem><lb/>
                   <castItem><role>Morea, the Fisherman's Daughter,</role> <actor>Miss <hi rend="allcaps">E. Bolton</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">Huntresses, Welch Women, Shepherdesses, and Persian Dancers,</hi></role> <hi rend="italic">by</hi><lb/>
                   Mesdames <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Watts,</actor></castItem><lb/>
-                  <castItem><role>Old Maid,</role> <actor>Mrs. <hi rend="allcaps">Coates</hi>,</actor></castItem> <castItem><role>Milk-maid,</role> <actor>Mrs. <hi rend="allcaps">FIndlay</hi>,</actor></castItem> <castItem><role>Milliner,</role> <actor>Mrs. <hi rend="allcaps">Hardy</hi>,</actor></castItem><lb/>
+                  <castItem><role>Old Maid,</role> <actor ref="namedentities.xml#el_co">Mrs. <hi rend="allcaps">Coates</hi>,</actor></castItem> <castItem><role>Milk-maid,</role> <actor>Mrs. <hi rend="allcaps">Findlay</hi>,</actor></castItem> <castItem><role>Milliner,</role> <actor>Mrs. <hi rend="allcaps">Hardy</hi>,</actor></castItem><lb/>
                   <castItem><role>The Fairy Cheheristany,</role> <actor>Miss <hi rend="allcaps">Worgman</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic">No <hi rend="allcaps">Orders</hi> can be admitted.</hi><lb/>
