@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_03101812_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_03101812_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">Theatre Royal, Covent Garden</hi></placeName><lb/>
                This present <hi rend="allcaps">Tuesday</hi>, <date when="1812-03-10">March 10, 1812</date>.<lb/>
                Will be acted (<hi rend="italic">4th time</hi>) <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
