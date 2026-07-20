@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_06291812_cg_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_06291812_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName><lb/>
                <hi rend="italic"><hi rend="allcaps">Night</hi>.</hi><lb/>
                The <hi rend="allcaps">Last Time</hi> of <persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName> acting.<lb/>

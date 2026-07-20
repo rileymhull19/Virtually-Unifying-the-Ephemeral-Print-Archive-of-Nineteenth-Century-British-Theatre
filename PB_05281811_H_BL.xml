@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_05281811_h_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_05281811_h_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName><lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-05-28">Tuesday, May 28, 1811</date><lb/>
                Will be Perform'd (first time this Season) A Play in Three Acts, interspersed with<lb/>
