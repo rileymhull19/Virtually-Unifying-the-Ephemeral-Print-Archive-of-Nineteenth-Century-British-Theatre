@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_10241811_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_10241811_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden">Theatre-Royal, Covent-Garden</placeName>,<lb/>
                This present <date when="1811-10-24"><hi rend="allcaps">Thursday</hi>, Oct. 24, 1811</date> will be acted the Comick Opera of<lb/>
                <bibl><title ref="namedentities.xml#play_cabinet">The <hi rend="allcaps">Cabinet</hi>.</title></bibl><lb/>

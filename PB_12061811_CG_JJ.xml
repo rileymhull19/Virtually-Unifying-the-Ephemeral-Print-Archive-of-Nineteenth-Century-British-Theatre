@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_12061811_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_12061811_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">Theatre Royal, Covent-Garden,</hi></placeName><lb/>
                This present <date when="1811-12-06"><hi rend="allcaps">Friday</hi>, Dec. 6, 1811</date>, will be acted the Comedy of<lb/>
                <bibl><title ref="namedentities.xml#play_man_of_the_world">The Man of the World.</title></bibl><lb/>
