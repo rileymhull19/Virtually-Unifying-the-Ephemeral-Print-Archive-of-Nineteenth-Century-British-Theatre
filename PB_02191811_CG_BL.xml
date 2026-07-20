@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_021918122_cg_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_021918122_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +59,7 @@
                <persName ref="namedentities.xml#so_pa">Mrs. <hi rend="allcaps">Parker</hi></persName>,<lb/>
                Mess. <persName>Brown</persName>, <persName>Gaywood</persName>, <persName>Grant</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName ref="namedentities.xml#mr_pl">Platt</persName>, <persName>Powers</persName>, <persName>Sarjant</persName>,<lb/>
                Mesdames <persName>Bologna</persName>, <persName>I. Bologna</persName>, <persName>Cox</persName>, <persName>Heath</persName>, <persName>Louis</persName>, <persName>Ryall</persName>, <persName>Standen</persName>, <persName>Watts</persName>.<lb/>
-               Scenes painted by <hi rend="italic">Mess. <persName ref="namedentities.xml#th_ph_scenes">Phillips</persName>, <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#ch_jo_pu">Pugh</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#ch_ho">Hollogan</persName>, <persName ref="namedentities.xml#mr_ho">Hodgins</persName>,</hi> &amp; their assistants<lb/>
+               Scenes painted by <hi rend="italic">Mess. <persName ref="namedentities.xml#th_ph_scenes">Phillips</persName>, <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#ch_jo_pu">Pugh</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#j_ho">Hollogan</persName>, <persName ref="namedentities.xml#mr_ho">Hodgins</persName>,</hi> &amp; their assistants<lb/>
                <hi rend="italic">The Machinery by Mess. Saul and Bradwell. The Decorations by Mr. Bradwell.</hi><lb/>
                The Dresses by Mr. Flowers and Miss Egan.<lb/>
                Vivant Rex &amp; Regina.</ab>

@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_02061812_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_02061812_cg_jj">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="performance_playbill" rend="align(center)" xml:lang="en">
+         <div type="performance_playbill" rend="align(center)">
             <ab><hi rend="allcaps">Fifth Time</hi>.<lb/>
                <placeName ref="namedentities.xml#covent_garden"><hi rend="allcaps">Theatre Royal, Covent Garden,</hi></placeName><lb/>
                This present <date when="1812-02-06"><hi rend="allcaps">Thursday</hi>, Feb. 6, 1812</date>,<lb/>

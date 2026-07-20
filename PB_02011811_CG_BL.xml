@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pb_02011811_cg_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_02011811_cg_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -37,7 +37,7 @@
                      <hi rend="italic"><hi rend="allcaps">Cupid</hi> on <hi rend="allcaps">Crutches</hi>.</hi></title></bibl><lb/>
                <hi rend="italic">With entirely new Musick, Machinery, Scenes, Dresses and Decorations</hi>.<lb/>
                The Overture and Musick composed by Mr. <hi rend="italic">Ware</hi>.<lb/>
-               <hi rend="italic">The Scenes painted by Mess. <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#ch_ho">Hollogan</persName>, <persName ref="namedentities.xml#mr_ho">Hodgins</persName>, &amp; their assistants.</hi><lb/>
+               <hi rend="italic">The Scenes painted by Mess. <persName ref="namedentities.xml#sa_wh">Whitmore</persName>, <persName ref="namedentities.xml#jo_he_gr">Grieve</persName>, <persName ref="namedentities.xml#j_ho">Hollogan</persName>, <persName ref="namedentities.xml#mr_ho">Hodgins</persName>, &amp; their assistants.</hi><lb/>
                The <hi rend="smallcaps">Machinery</hi> and <hi rend="smallcaps">Tricks</hi> by <hi rend="italic">Mess. Saul, Bradwell, <persName ref="namedentities.xml#jo_cr">Creswell</persName>, <persName ref="namedentities.xml#pi_bo">sen. Bologna,</persName> jun. &amp;c. &amp;c.</hi><lb/>
                The Dresses by Mr. Flowers and Miss Egan.<lb/>
                The pantomime produced under the Direction of <persName ref="namedentities.xml#ch_fa">Mr. <hi rend="allcaps">Farley</hi></persName>-The Dancers by <persName ref="namedentities.xml#jo_pe_bo">Mr. <hi rend="allcaps">Bologna</hi>, Jun.</persName><lb/>
