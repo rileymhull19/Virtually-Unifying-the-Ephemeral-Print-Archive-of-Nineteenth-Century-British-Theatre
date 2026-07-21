@@ -41,26 +41,26 @@
                   <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                A Dance incidental to the Piece by,<lb/>
-               Messrs. <persName>Goodwin</persName>, <persName>Wells</persName>, <persName>Wells</persName>, Jun. <persName>Widdicombe</persName>, <persName>Hope</persName>, <persName>Cross</persName>, &amp;c.<lb/>
+               Messrs. <persName>Goodwin</persName>, <persName ref="namedentities.xml#j_we">Wells</persName>, <persName>Wells</persName>, Jun. <persName>Widdicombe</persName>, <persName>Hope</persName>, <persName>Cross</persName>, &amp;c.<lb/>
                <persName>Mrs. Stokes</persName>, <persName>Mrs. Haughton</persName>, <persName>Miss Danton</persName>, <persName>Mrs. Barrett</persName>, <persName>Miss Taylor</persName>, <persName>Mrs. Collingwood</persName>,<lb/>
                <hi rend="allcaps">After</hi> which (reduced into One Act) a Piece call'd<lb/>   
-               <bibl><title>The Register Office.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_register_office">The Register Office.</title></bibl><lb/>
                <castList>
                   <castItem><role>Gulwell,</role> <actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Scotchman,</role> with a Comick song, "Tak Y'er Auld Cloak about Yet" <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><role>Margery,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added (<hi rend="allcaps">Third Time</hi>) A Comick Piece in Two Acts, call'd The<lb/>
-               <bibl><title>Trial by Jury.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
                With <hi rend="allcaps">New Scenery, Dresses</hi>, &amp;c.<lb/>
                <castList>
                   <head>The Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Publick is respectfully inform'd that The New Comick Piece of The <hi rend="allcaps">Trial</hi><lb/>

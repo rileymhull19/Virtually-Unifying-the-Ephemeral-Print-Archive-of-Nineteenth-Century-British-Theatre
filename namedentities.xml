@@ -427,6 +427,20 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>De Camp, Vincent</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="j_de">
+              <persName>
+                 <forename>J.</forename>
+                 <surname>De Maria</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1793" notAfter="1814"/>
+              <nationality>Unknown</nationality>
+              <occupation>Scene Painter</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>DeMaria, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ro_di">
               <persName>
                  <forename>Robert</forename>
@@ -1495,6 +1509,20 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Simmons, Samuel</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="an_sm">
+              <persName>
+                 <forename>Ann</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1776" notAfter="1817"/>
+              <nationality>Unknown</nationality>
+              <occupation>Dresser</occupation>
+              <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Smith, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ch_sm">
               <persName>
                  <forename>Charles</forename>
@@ -1993,7 +2021,7 @@
         </bibl>
         <bibl xml:id="play_percy">
            <title level="m">Percy</title>
-           <author>XXX.</author>
+           <author>Hannah Moore</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
            <title level="m">The Portrait of Cervantes</title>
@@ -2015,6 +2043,10 @@
            <title level="m">Raymond and Agnes</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_register_office">
+           <title level="m">The Register Office</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_rich_and_poor">
            <title level="m">Rich and Poor</title>
            <author>XXX.</author>
@@ -2022,6 +2054,10 @@
         <bibl xml:id="play_right_and_wrong">
            <title level="m">Right and Wrong</title>
            <author>Mr. Burton</author>
+        </bibl>
+        <bibl xml:id="play_romeo_and_juliet">
+           <title level="m">Romeo and Juliet</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_romp">
            <title level="m">The Romp</title>
@@ -2031,9 +2067,9 @@
            <title level="m">Rosina</title>
            <author>XXX.</author>
         </bibl>
-        <bibl xml:id="play_romeo_and_juliet">
-           <title level="m">Romeo and Juliet</title>
-           <author>XXX.</author>
+        <bibl xml:id="play_royal_oak">
+           <title level="m">The Royal Oak</title>
+           <author>XXX</author>
         </bibl>
         <bibl xml:id="play_siege_of_belgrade">
            <title level="m">The Siege of Belgrade</title>
