@@ -1831,6 +1831,14 @@
         </place>
      </listPlace>
      <listBibl>
+        <bibl xml:id="play_agreeable_surprise">
+           <title level="m">The Agreeable Surprise</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_all_the_worlds_a_stage">
+           <title level="m">All the World's A Stage</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_new_way_to_pay_old_debts">
            <title level="m">A New Way to Pay Old Debts</title>
            <author>Massinger</author>
@@ -1947,6 +1955,10 @@
            <title level="m">How to Die For Love!</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_hunter_of_the_alps">
+           <title level="m">Hunter of the Alps</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_hypocrite">
            <title level="m">The Hypocrite</title>
            <author>XXX.</author>
@@ -1969,6 +1981,10 @@
         </bibl>
         <bibl xml:id="play_knight_of_snowdoun">
            <title level="m">The Knight of Snowdoun</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_lying_valet">
+           <title level="m">The Lying Valet</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
