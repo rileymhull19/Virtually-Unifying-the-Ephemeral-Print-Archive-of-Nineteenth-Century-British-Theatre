@@ -26,7 +26,7 @@
         <p>It will easily be supposed, that the other singers were quite eclipsed; but to shew the power of unaffected simplicity, it is observable, that after Madame <hi rend="smallcaps">Catalani</hi> had been heard, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="smallcaps">Bland's</hi></persName> singing was much more agreeable than that of <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="smallcaps">Dickons</hi></persName>, whose voice and manner coming into a sort of rivalry with those of the enchantress, became almost obnoxious. Nor did <rs ref="namedentities.xml#ma_di">she</rs> vindicate the best English style of singing, by a proper attention to the composer’s expression. The character for instance, of <hi rend="smallcaps">Haydn’s</hi> beautiful song, <quote>"With verdure clad,"</quote> is a gradual and as it were plastic benevolence, expressive of the growth of the herbs and plants and their genial effect upon the senses; but <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="smallcaps">Dickons</hi></persName> took every opportunity of interspersing it with ornament, and frisked and fluttered about like a romp in a hay-field, instead of expressing the fine, intellectual enjoyment of a soul contemplating creation.</p>
          <p>Upon the whole, an Oratorio is a very laudable and elevating entertainment, and with the help of a little of that theoretical knowledge, which a good ear may always pick up, and which is as necessary to a true relish of music as a certain connoisseurship is to that of painting, would be found thoroughly delightful to a multitude of persons who now think it tedious. The sweetness of the solos, the intermingling richness of the trios and quartetts, and the world of grandeur in the chorusses, present us with all the variety of which the human song is capable; and if ever there should be added to such an enjoyment as this, that of fine poetry for the whole of the words, and of fine painting for the walls of the music-room, as may be reasonably hoped in a country like our’s, we shall have witnessed the height and perfection of intellectual luxury. — I cannot deny myself, at the close of this article, the pleasure of transcribing that noble, Platonic effusion of <hi rend="smallcaps">Milton</hi>, which he wrote upon some such occasion as the present, and which has been very finely set to music, I understand, by Mr. <hi rend="smallcaps">Stafford Smith</hi>. Why do we not hear it at the Oratorios? It is, of all other pieces, suited to their object, and is calculated to make us, as the Poet himself must have been when it was meditated, all unclouded ear and glorious abstraction.</p>
          <p><hi rend="allcaps">At A Solemn Musick.</hi></p>
-         <p><l><hi rend="smallcaps">Blest</hi> pair of Syrens, pledges of Heaven's joy,</l>
+         <lg><l><hi rend="smallcaps">Blest</hi> pair of Syrens, pledges of Heaven's joy,</l>
             <l>Sphere-born harmonious sisters Voice and Verse,</l>
             <l>Wed your divine sounds, and mix'd power employ,</l>
             <l>Dead things with inbreath'd sense able to pierce;</l>
@@ -53,7 +53,7 @@
             <l>O, may we soon again renew that song</l>
             <l>And keep in tune with Heav'n, till <hi rend="smallcaps">God</hi> ere long</l>
             <l>To his celestial consort us unite</l>
-            <l>To live with him and sing in endless morn of light!</l></p>
+            <l>To live with him and sing in endless morn of light!</l></lg>
       </body>
   </text>
 </TEI>
