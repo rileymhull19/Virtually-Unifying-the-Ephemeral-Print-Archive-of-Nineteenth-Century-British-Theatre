@@ -1822,7 +1822,7 @@
            <country>United Kingdom</country>
            <location><geo>XXX.</geo></location>
         </place>
-        <place xml:id="lyceum">
+         <place xml:id="lyceum">
            <placeName>Theatre Royal, Lyceum</placeName>
            <settlement>London</settlement>
            <region>England</region>
