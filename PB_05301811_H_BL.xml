@@ -19,48 +19,48 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-05-30">Thursday, May 30, 1811</date>,<lb/>
                Will be perform'd the Comick Opera of<lb/>
-               <bibl><title>Inkle and Yarico.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_inkle_and_yarico">Inkle and Yarico.</title></bibl><lb/>
                <castList>
                   <castItem><role>Inkle,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Christopher Curry,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Medium,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Campley,</role> (with <hi rend="italic">"Let <hi rend="allcaps">Fame</hi> sound the <hi rend="allcaps">Trumpet</hi>"</hi>) <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mate,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Sailors,</role> Messers. <actor>Minton<hi rend="allcaps"></hi>,</actor> <actor><hi rend="allcaps">Hodson,</hi></actor> &amp;c.</castItem><lb/>
-                  <castItem><role>Planters,</role> Messrs. <actor>Lewes,</actor> <actor>Smith,</actor> and <actor>Haughton.</actor></castItem><lb/>
+                  <castItem><role>Mate,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Sailors,</role> Messers. <actor ref="namedentities.xml#mr_mi">Minton<hi rend="allcaps"></hi>,</actor> <actor><hi rend="allcaps">Hodson,</hi></actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Planters,</role> Messrs. <actor>Lewes,</actor> <actor ref="namedentities.xml#ge_sm">Smith,</actor> and <actor>Haughton.</actor></castItem><lb/>
                   <castItem><role>Servant,</role> <actor>Mr. Widdicombe.</actor></castItem> <castItem><role>Waiter,</role> <actor>Mr. Linton.</actor></castItem><lb/>
                   <castItem><role>Trudge,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Yarico,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Wowski,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Yarico,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Wowski,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Patty,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
                   <castItem><role>Narcissa,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                </castList>
                After which (Fifth Time) A Comick Piece in Two Acts, call'd The<lb/>
-               <bibl><title>Trial by Jury.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
                With <hi rend="allcaps">New Scenery, Dresses</hi>, &amp;c.<lb/>
                <castList>
                   <head>The Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added, a Burlesque Tragick Opera in One Act, calld'd<lb/>
-               <bibl><title>Bombastes Furioso.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_bombastes_furioso">Bombastes Furioso.</title></bibl><lb/>
                <castList>
                   <castItem><role>Artaxominous, (King of Utopia)</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Fusbos, (Minister of State)</role> (First Time) <actor>mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><role>General Bombastes,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Fusbos, (Minister of State)</role> (First Time) <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>General Bombastes,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Courtiers,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor> <actor>Mr. <hi rend="allcaps">Hodson</hi></actor></castItem><lb/>
                   <castItem><role>Distaffina,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/>
                The Publick is respectfully inform'd that The New Comick Piece of The <hi rend="allcaps">Trial</hi><lb/>
                <hi rend="allcaps">By Jury</hi> continuing to be received with unbounded and reiterated applause, will be<lb/>
                repeated every evening, till further notice.</ab>

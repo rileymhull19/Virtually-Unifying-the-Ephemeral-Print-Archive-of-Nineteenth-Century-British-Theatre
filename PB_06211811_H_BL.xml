@@ -20,38 +20,38 @@
       <body>
          <div type="performance_playbill" rend="align(center)">
             <ab>Ninth Time.<lb/>
-               Theatre-Royal, Hay-Market.<lb/>
+               <placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-06-21"><hi rend="allcaps">Friday</hi> June 21, 1811</date>.<lb/>
                Will be presented, an Historical Play, in Three Acts, call'd The<lb/>
-               <bibl><title>Royal Oak.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_royal_oak">Royal Oak.</title></bibl><lb/>
                With entire New Scenery, Dresses and Decorations.<lb/>
-               The <hi rend="allcaps">New Musick</hi> Composed by Mr. <hi rend="allcaps">Kelly</hi>.<lb/>
+               The <hi rend="allcaps">New Musick</hi> Composed by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.<lb/>
                <castList>
                   <head>The Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem><lb/>
-                  <castItem>Messrs. <actor>Brown,</actor> <actor>Caulfield,</actor> <actor>Diether,</actor> <actor>Eames,</actor> <actor>Field,</actor> <actor>Gray,</actor> <actor>Griffith,</actor> <actor>Hall,</actor> <actor>Harrison,</actor> <actor>Lawson,</actor><lb/>
+                  <castItem>Messrs. <actor>Brown,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Diether,</actor> <actor>Eames,</actor> <actor>Field,</actor> <actor>Gray,</actor> <actor>Griffith,</actor> <actor>Hall,</actor> <actor>Harrison,</actor> <actor>Lawson,</actor><lb/>
                      <actor>Oddwell,</actor> <actor>Robert,</actor> <actor>Sherriff,</actor> <actor>Thomson,</actor> <actor>Terry,</actor> <actor>Willoughby,</actor> &amp;c.</castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
-               <hi rend="italic">The Dresses by Mr. <hi rend="allcaps">Tobin</hi> and Miss <hi rend="allcaps">Smith</hi>.</hi><lb/>
-               <hi rend="italic">The Scenery designed, and executed by Mr. <hi rend="allcaps">De Maria</hi>, and Assistants.</hi><lb/>
+               <hi rend="italic">The Dresses by Mr. <hi rend="allcaps">Tobin</hi> and <persName ref="namedentities.xml#an_sm">Miss <hi rend="allcaps">Smith</hi></persName>.</hi><lb/>
+               <hi rend="italic">The Scenery designed, and executed by <persName ref="namedentities.xml#j_de">Mr. <hi rend="allcaps">De Maria</hi></persName>, and Assistants.</hi><lb/>
                The Play of The <hi rend="allcaps">Royal Oak</hi>, is published by Messrs. <hi rend="allcaps">Barker</hi>, Russell Street,<lb/>
                Covent-Garden.<lb/>
                After which will be produced (for the 1st time) A New <hi rend="allcaps">Musical Piece</hi> in Two Acts,<lb/>
                <hi rend="italic">(written and composed by Mr. <hi rend="allcaps">Dibdin</hi>,)</hi> call'd The<lb/>
-               <bibl><title>Round Robin.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_round_robin">Round Robin.</title></bibl><lb/>
                <castList>
                   <head>The Characters by</head><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
@@ -60,9 +60,9 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. Finn,</actor></castItem> <castItem><actor>Mr. Smith,</actor></castItem> <castItem><actor>Mr. Haughton,</actor></castItem> <castItem><actor>Mr. Hodson,</actor></castItem> <castItem><actor>Mr. Linton,</actor></castItem> <castItem><actor>Mr. Lewes,</actor></castItem> <castItem><actor>Mr. Widdicombe,</actor></castItem><lb/>
-                  <castItem><actor>Mr. Minton,</actor></castItem> <castItem><actor>Mr. Gray.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. Finn,</actor></castItem> <castItem><actor ref="namedentities.xml#ge_sm">Mr. Smith,</actor></castItem> <castItem><actor>Mr. Haughton,</actor></castItem> <castItem><actor>Mr. Hodson,</actor></castItem> <castItem><actor>Mr. Linton,</actor></castItem> <castItem><actor>Mr. Lewes,</actor></castItem> <castItem><actor>Mr. Widdicombe,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><actor>Mr. Gray.</actor></castItem><lb/>
                   <castItem><actor>Miss De Camp,</actor></castItem> <castItem><actor>Mrs. Stokes,</actor></castItem> <castItem><actor>Miss Danton,</actor></castItem> <castItem><actor>Mrs. Haughton,</actor> &amp;c.</castItem><lb/>
                   </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/></ab>

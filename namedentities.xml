@@ -1863,6 +1863,14 @@
            <title level="m">Blue Beard, or, Female Curiosity</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_blue_devils">
+           <title level="m">Blue Devils</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_bombastes_furioso">
+           <title level="m">Bombastes Furioso</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_cabinet">
            <title level="m">The Cabinet</title>
            <author>XXX.</author>
@@ -1877,6 +1885,10 @@
         </bibl>
         <bibl xml:id="play_child_of_nature">
            <title level="m">The Child of Nature</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_children_in_the_wood">
+           <title level="m">The Children in the Wood</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
@@ -1963,6 +1975,10 @@
            <title level="m">The Hypocrite</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_inkle_and_yarico">
+           <title level="m">Inkle and Yarico</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_is_he_a_prince">
            <title level="m">Is He A Prince?</title>
            <author>XXX.</author>
@@ -2027,6 +2043,10 @@
            <title level="m">Ourselves</title>
            <author>Miss Chambers</author>
         </bibl>
+        <bibl xml:id="play_outside_passenger">
+           <title level="m">Outside Passenger</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_paul_and_virginia">
            <title level="m">Paul and Virginia</title>
            <author>XXX.</author>
@@ -2038,6 +2058,10 @@
         <bibl xml:id="play_percy">
            <title level="m">Percy</title>
            <author>Hannah Moore</author>
+        </bibl>
+        <bibl xml:id="play_poor_sailor">
+           <title level="m">The Poor Sailor</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
            <title level="m">The Portrait of Cervantes</title>
@@ -2083,6 +2107,10 @@
            <title level="m">Rosina</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_round_robin">
+           <title level="m">The Round Robin</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_royal_oak">
            <title level="m">The Royal Oak</title>
            <author>XXX</author>
@@ -2102,6 +2130,10 @@
         </bibl>
         <bibl xml:id="play_stranger">
            <title level="m">The Stranger</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_three_weeks_after_marriage">
+           <title level="m">Three Weeks After Marriage</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_timour_the_tartar">
