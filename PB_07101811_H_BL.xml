@@ -19,46 +19,46 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-07-10"><hi rend="allcaps">Wednesday</hi> July 10, 1811.</date><lb/>
                Will be Perform'd (<hi rend="italic">Fifth time this Season</hi>) the Play of The<lb/>
-               <bibl><title>Iron Chest.</title></bibl><lb/>
-               The Musick Composed by the late Mr. Storace.<lb/>
+               <bibl><title ref="namedentities.xml#play_iron_chest">Iron Chest.</title></bibl><lb/>
+               The Musick Composed by the late <persName ref="namedentities.xml#st_jo_se_st">Mr. Storace</persName>.<lb/>
                <castList>
-                  <castItem><role>Sir Edward Mortimer,</role> <actor>Mr. <hi rend="allcaps">ELliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Fitzharding,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Edward Mortimer,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Fitzharding,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Wilford,</role> <actor>Mr. <hi rend="allcaps">Gomersall</hi>.</actor><lb/>
                      (His second appearance on this Stage)</castItem><lb/>
                   <castItem><role>Adam Winterton,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Rawbold,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Samson Rawbold,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Samson Rawbold,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Armstrong,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
                   <castItem><role>Orson,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><role>Robbers,</role> Messrs. <actor>Lewes,</actor> <actor>Houghton,</actor> <actor>Hodson,</actor> <actor>Linton,</actor> &amp;c.</castItem><lb/>
-                  <castItem><role>Servants,</role> Messrs. <actor>Minton,</actor> <actor>Widdicombe,</actor> &amp;c.</castItem><lb/>
-                  <castItem><role>Helen,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
-                  <castItem><role>Blanch,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Barbara,</role> <actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Servants,</role> Messrs. <actor ref="namedentities.xml#mr_mi">Minton,</actor> <actor>Widdicombe,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Helen,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Blanch,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Barbara,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Judith,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
                   <castItem><role>Chorus of Robbers, Peasants, &amp;c.</role> Messrs. <actor>Terry,</actor> <actor>Eames,</actor> <actor>Griffith,</actor><lb/>
-                  <actor>Odwell,</actor> <actor>Willoughby,</actor> <actor>Diether,</actor> <actor>Caulfield,</actor> <actor>Harrison,</actor> <actor>Gray,</actor> <actor>Sheriff,</actor> &amp;c.</castItem><lb/>
+                     <actor>Odwell,</actor> <actor>Willoughby,</actor> <actor>Diether,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Harrison,</actor> <actor>Gray,</actor> <actor>Sheriff,</actor> &amp;c.</castItem><lb/>
                </castList>
                <hi rend="italic">To which will be added</hi> <hi rend="allcaps">(Sixth Time)</hi> <hi rend="italic"><hi rend="allcaps">A New Farce</hi>, (with Songs,) call'd</hi> The<lb/>
-               <bibl><title>Outside Passenger.</title></bibl><lb/>
-               <hi rend="italic">The Musick entirely new, Composed by Mr. Reeve, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
-               <hi rend="italic">The Overture by Mr. Reeve.</hi><lb/>
+               <bibl><title ref="namedentities.xml#play_outside_passenger">Outside Passenger.</title></bibl><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Overture by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>.</hi><lb/>
                <castList>
                   <head>The Principal Characters by</head>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor>Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/></ab>
          </div>
       </body>
   </text>

@@ -612,7 +612,7 @@
               <nationality>Unknown</nationality>
               <occupation>Actor</occupation>
               <affiliation>Drury Lane Theatre</affiliation>
-              <note>See <bibl><title>Fisher, Joshua Bridhes</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+              <note>See <bibl><title>Fisher, Joshua Bridges</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_gi">
               <persName>
@@ -770,6 +770,35 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Hollogan, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ag_ho">
+              <persName>
+                 <forename>Agnes</forename>
+                 <surname>Holman</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1809"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Holman, Agnes</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_ge_ho">
+              <persName>
+                 <forename type="first">Joseph</forename>
+                 <forename type="middle">George</forename>
+                 <surname>Holman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1764</birth>
+              <death>1817</death>
+              <floruit notBefore="1784" notAfter="1813"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre, Haymarket Theatre</affiliation>
+              <note>See <bibl><title>Holman, Joseph George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ed_ho">
               <persName>
@@ -1594,6 +1623,21 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Sparks, Mrs G. Hugh, Sarah, née Mills</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="st_jo_se_st">
+              <persName>
+                 <forename type="first">Stephen</forename>
+                 <forename type="middle">John</forename>
+                 <forename type="middle">Seymour</forename>
+                 <surname>Storace</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth>1762</birth>
+              <death>1796</death>
+              <floruit notBefore="1782" notAfter="1796"/>
+              <nationality>English</nationality>
+              <occupation>Composer</occupation>
+              <note>See <bibl><title>Storace, Stephen John Seymour</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ja_st">
               <persName>
                  <forename>James</forename>
@@ -1859,6 +1903,10 @@
            <title level="m">The Bee Hive</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_birth_day">
+           <title level="m">The Birth-Day</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_blue_beard">
            <title level="m">Blue Beard, or, Female Curiosity</title>
            <author>XXX.</author>
@@ -1899,8 +1947,20 @@
            <title level="m">The Country Girl</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_critick">
+           <title level="m">The Critick</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_darkness_visible">
+           <title level="m">Darkness Visible</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_devils_bridge">
            <title level="m">The Devil's Bridge</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_dramatist">
+           <title level="m">The Dramatist</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_every_man_in_his_humour">
@@ -1911,17 +1971,21 @@
            <title level="m">The Follies of a Day</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_fortunes_frolick">
+           <title level="m">Fortune's Frolick</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_foundling_of_the_forest">
            <title level="m">The Foundling of the Forest</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_frost_and_thaw">
            <title level="m">Frost and Thaw</title>
-           <author>XXX.</author>
+           <author>Joseph George Holman</author>
         </bibl>
         <bibl xml:id="play_gazette_extraordinary">
            <title level="m">The Gazette Extraordinary</title>
-           <author>Holman</author>
+           <author>Joseph George Holman</author>
         </bibl>
         <bibl xml:id="play_green_eyed_monster">
            <title level="m">The Green Eye'd Monster</title>
@@ -1979,6 +2043,10 @@
            <title level="m">Inkle and Yarico</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_iron_chest">
+           <title level="m">The Iron Chest</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_is_he_a_prince">
            <title level="m">Is He A Prince?</title>
            <author>XXX.</author>
@@ -2001,6 +2069,10 @@
         </bibl>
         <bibl xml:id="play_lying_valet">
            <title level="m">The Lying Valet</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_lock_and_key">
+           <title level="m">Lock and Key</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
@@ -2059,6 +2131,10 @@
            <title level="m">Percy</title>
            <author>Hannah Moore</author>
         </bibl>
+        <bibl xml:id="play_point_of_honour">
+           <title level="m">The Point of Honour</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_poor_sailor">
            <title level="m">The Poor Sailor</title>
            <author>XXX.</author>
@@ -2071,8 +2147,16 @@
            <title level="m">Prejudice</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_provoked_husband">
+           <title level="m">The Provoked Husband</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_quadrupeds">
            <title level="m">Quadrupeds</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_quadrupeds_of_quedlinburgh">
+           <title level="m">The Quadrupeds of Quedlinburgh</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_raising_wind">
@@ -2085,6 +2169,10 @@
         </bibl>
         <bibl xml:id="play_register_office">
            <title level="m">The Register Office</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_review">
+           <title level="m">The Review</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_rich_and_poor">
@@ -2132,6 +2220,10 @@
            <title level="m">The Stranger</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_three_and_the_deuce">
+           <title level="m">Three and the Deuce</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_three_weeks_after_marriage">
            <title level="m">Three Weeks After Marriage</title>
            <author>XXX.</author>
@@ -2142,6 +2234,10 @@
         </bibl>
         <bibl xml:id="play_tom_thumb">
            <title level="m">Tom Thumb</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_travellers_benighted">
+           <title level="m">Travellers Benighted</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_trial_by_jury">
@@ -2158,6 +2254,10 @@
         </bibl>
         <bibl xml:id="play_up_to_town">
            <title level="m">Up to Town</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_venice_preserved">
+           <title level="m">Venice Preserved</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_virgin_of_the_sun">

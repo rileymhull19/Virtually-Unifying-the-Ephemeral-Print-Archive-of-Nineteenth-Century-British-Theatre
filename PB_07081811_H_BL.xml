@@ -19,27 +19,27 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, <date when="1811-07-08"><hi rend="allcaps">Monday</hi> July 8, 1811.</date><lb/>
                Will be Perform'd, a Play in Three Acts, call'd The<lb/>
-               <bibl><title><hi rend="allcaps">Point</hi> of <hi rend="allcaps">Honour</hi>.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_point_of_honour"><hi rend="allcaps">Point</hi> of <hi rend="allcaps">Honour</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>St. [Unreadable],</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>St. [Unreadable],</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Valcour,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dunmel,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dunmel,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><role>Steinberg,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Officers,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>,</actor> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Zenger,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Steibel,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Officers,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Zenger,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Steibel,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
                   <castItem><role>Keeper of the Prison,</role> <actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem><lb/> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Malfort,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
                   <castItem><role>Bertha,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                </castList>
                After which (2d time this Season) the Dramatick Piece of<lb/>
-               <bibl><title type="main">The Critick;</title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_critick">The Critick;</title><lb/>
                   <title type="sub"><hi rend="italic">Or, a Tragedy Rehearsed</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Puff,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dangle,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><role>Sneer,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Puff,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dangle,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><role>Sneer,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Fretful Plagiary,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Dangle,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                </castList>
@@ -48,26 +48,26 @@
                   <castItem><role>Lord Burleigh,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Governor of Filsbury Fort,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Earl of Leicester,</role> <actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem> <castItem><role>Sir Walter Raleigh,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Christopher Hatton,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Beefeater,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><role>Don Ferolo Whiskerandos,</role> <actor>Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>First Niece,</role> <actor>Miss De Camp.</actor></castItem> <castItem><role>Second Niece,</role> <actor>Mrs. Stokes.</actor></castItem> <castItem><role>Confidante,</role> <actor>Miss Leserve.</actor></castItem><lb/>
-                  <castItem><role>Tilburnia,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>    
+                  <castItem><role>Don Ferolo Whiskerandos,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><role>First Niece,</role> <actor>Miss De Camp.</actor></castItem> <castItem><role>Second Niece,</role> <actor>Mrs. Stokes.</actor></castItem> <castItem><role>Confidante,</role> <actor ref="namedentities.xml#an_ma_le">Miss Leserve.</actor></castItem><lb/>
+                  <castItem><role>Tilburnia,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>    
                </castList>
                <hi rend="italic">After which</hi> <hi rend="allcaps">(Fourth Time)</hi> <hi rend="italic"><hi rend="allcaps">A New Farce</hi>, (with Songs,) call'd</hi> The<lb/>
-               <bibl><title>Outside Passenger.</title></bibl><lb/>
-               <hi rend="italic">The Musick entirely new, Composed by Mr. Reeve, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
-               <hi rend="italic">The Overture by Mr. Reeve.</hi><lb/>
+               <bibl><title ref="namedentities.xml#play_outside_passenger">Outside Passenger.</title></bibl><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Overture by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>.</hi><lb/>
                <castList>
                   <head>The Principal Characters by</head>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor>Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem>And <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/>
                The Publick is respectfully inform'd, that, the <hi rend="smallcaps">New Farce</hi> call'd The <hi rend="allcaps">Outside</hi><lb/>
                <hi rend="allcaps">Passenger</hi>, having been received, on each representation, with increased bursts of<lb/>
                laughter, and loud peels of applause, will be repeated, every evening, till further notice.</ab>
