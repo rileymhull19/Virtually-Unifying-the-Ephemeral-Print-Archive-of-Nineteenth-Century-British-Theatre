@@ -19,25 +19,25 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This Evening, Friday, <date when="1811-10-04">October 4, 1811</date><lb/>
                Will be perform'd (First Time this Season) the Comedy of<lb/>
-               <bibl><title>Every One has his Fault.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_every_one_has_his_fault">Every One has his Fault.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lord Norland,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Mr. Solus,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Norland,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Mr. Solus,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Robert Ramble,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Mr. Harmony,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Mr. Placid,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><role>Mr. Irwin,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
-                  <castItem><role>Hammond,</role> <actor>Mr. Lewes.</actor></castItem> <castItem><role>Porter,</role> <actor>Mr. Minton.</actor></castItem><lb/>
+                  <castItem><role>Hammond,</role> <actor>Mr. Lewes.</actor></castItem> <castItem><role>Porter,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem><lb/>
                   <castItem><role>Servants,</role> Messrs. <actor>Gray,</actor> <actor>Hodson,</actor> <actor>Widdicombe,</actor> &amp;c.</castItem><lb/>
                   <castItem><role>Edward,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lady Elinor Irwin,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Placid,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Elinor Irwin,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Placid,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                   <castItem><role>Miss Spinster,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Miss Wooburn,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added (<hi rend="allcaps">Fifth Time</hi>) <hi rend="allcaps">A Melo Drame</hi>, call'd<lb/>
-               <bibl><title type="main">Travellers Benighted;</title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_travellers_benighted">Travellers Benighted;</title><lb/>
                   <title type="sub">Or, The Forest of Rosenwald.</title></bibl><lb/>
                The Subject of this Piece is taken from the Story of Raymond and Agnes in the Novel of<lb/>
                the <hi rend="allcaps">Monk</hi>:-The incidents will represent that Story in Dialogue which has hitherto<lb/>
@@ -45,18 +45,18 @@
                With New Scenery, Dresses, and Decorations.<lb/>
                The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Musick</hi> selected from the most eminent Composers.<lb/>
                <castList>
-                  <castItem><role>Don Felix,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Baron Lindenberg,</role> <actor>Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Felix,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Baron Lindenberg,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
                   <castItem><role>Raymond,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Theodore,</role> <actor>Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><role>Theodore,</role> <actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
                   <castItem><role>Baptiste,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Claude ,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Jaques,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/> 
-                  <castItem><role>Robert,</role> <actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Domesticks,</role> Messrs. <actor>Hemmings,</actor> <actor>West,</actor> <actor>Bynham,</actor> <actor>Shade,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Robert,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><role>Domesticks,</role> Messrs. <actor>Hemmings,</actor> <actor ref="namedentities.xml#wi_we">West,</actor> <actor>Bynham,</actor> <actor>Shade,</actor> &amp;c.</castItem><lb/>
                   <castItem><role>Agnes,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem><role>Beatrice,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor>Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
                   <castItem><role>Bleeding Nun,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
                   <castItem><role>Annette,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Marguerette,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/> 
+                  <castItem><role>Marguerette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/> 
                </castList>
                The Doors to be Open'd at <time when="17:30:00">Half past Five o'Clock</time>, and the Performance to begin<lb/>
                at <time when="18:30:00">Half past Six</time>, precisely, for the remainder of the Season.<lb/>
@@ -65,7 +65,7 @@
                <hi rend="allcaps">Pit</hi>,---<measure type="currency">Three Shillings</measure>. - <measure type="currency">One Shilling and Sixpence</measure>.<lb/>
                <hi rend="allcaps">First Gallery</hi>, <measure type="currency">Two Shillings</measure>. - <measure type="currency">One Shilling</measure>.<lb/>
                <hi rend="allcaps">Upper Gallery</hi>, <measure type="currency">One Shilling</measure>. - <measure type="currency">Sixpence</measure>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.</ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.</ab>
          </div>
       </body>
   </text>

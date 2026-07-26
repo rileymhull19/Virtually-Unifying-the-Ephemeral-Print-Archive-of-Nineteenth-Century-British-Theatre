@@ -19,34 +19,34 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market,<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>,<lb/>
                This <hi rend="allcaps">Evening</hi>, Monday, <date when="1812-06-15">June 15, 1812</date>,<lb/>
                Will be perform'd a Comedy in Five Acts, call'd<lb/>
-               <bibl><title>A Bold Stroke</title><lb/>
+               <bibl><title ref="namedentities.xml#play_a_bold_stroke_for_a_husband">A Bold Stroke</title><lb/>
                For a <hi rend="allcaps">Husband</hi>.</bibl><lb/>
                <castList>
                   <castItem><role>Don Julio,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Don Carlos,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Carlos,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Don Caesar,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>.</actor></castItem><lb/>
                   <castItem><role>Don Vincentio,</role> <actor>Mr. <hi rend="allcaps">Betterton.</hi> Jun.</actor><lb/>
                   His 2nd Appearance on this Stage.</castItem><lb/>
                   <castItem><role>Don Garcia,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Don Vasquez,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gaspar,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Pedro,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Donna Olivia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspar,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Pedro,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Olivia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                   <castItem><role>Donna Victoria,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
                   <castItem><role>Donna Laura,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Marcella,</role> <actor>Miss De Camp.</actor></castItem> <castItem><role>Inis,</role> <actor>Mrs. Stokes.</actor></castItem> <castItem><role>Sancha,</role> <actor>Mrs. Kendall.</actor></castItem><lb/>
-                  <castItem><role>Minette,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Minette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                After which, will be produced, <hi rend="allcaps">A New Farce</hi>, in Two Acts,<lb/>
                <hi rend="italic"><hi rend="allcaps">(Never Perform'd)</hi></hi><lb/>
                call'd<lb/>
-               <bibl><title>The Sleep Walker;</title><lb/>
+               <bibl><title ref="namedentities.xml#play_sleep_walker">The Sleep Walker;</title><lb/>
                Or, Which is the Lady?</bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Principal Characters By</hi></head><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
@@ -58,7 +58,7 @@
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/></ab>
          </div>
       </body>
   </text>

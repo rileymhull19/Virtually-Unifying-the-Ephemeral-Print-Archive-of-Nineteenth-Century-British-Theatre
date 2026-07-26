@@ -1875,6 +1875,10 @@
         </place>
      </listPlace>
      <listBibl>
+        <bibl xml:id="play_a_bold_stroke_for_a_husband">
+           <title level="m">A Bold Stroke For a Husband</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_agreeable_surprise">
            <title level="m">The Agreeable Surprise</title>
            <author>XXX.</author>
@@ -1966,6 +1970,10 @@
         <bibl xml:id="play_every_man_in_his_humour">
            <title level="m">Every Man in His Humour</title>
            <author>Jonson</author>
+        </bibl>
+        <bibl xml:id="play_every_one_has_his_fault">
+           <title level="m">Every One Has His Fault</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_follies_of_a_day">
            <title level="m">The Follies of a Day</title>
@@ -2111,6 +2119,10 @@
            <title level="m">No Song No Supper</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_of_age_tomorrow">
+           <title level="m">Of Age Tomorrow</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_ourselves">
            <title level="m">Ourselves</title>
            <author>Miss Chambers</author>
@@ -2135,8 +2147,16 @@
            <title level="m">The Point of Honour</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_poor_gentleman">
+           <title level="m">The Poor Gentleman</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_poor_sailor">
            <title level="m">The Poor Sailor</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_poor_soldier">
+           <title level="m">The Poor Soldier</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
@@ -2183,6 +2203,10 @@
            <title level="m">Right and Wrong</title>
            <author>Mr. Burton</author>
         </bibl>
+        <bibl xml:id="play_road_to_ruin">
+           <title level="m">The Road to Ruin</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_romeo_and_juliet">
            <title level="m">Romeo and Juliet</title>
            <author>XXX.</author>
@@ -2203,9 +2227,21 @@
            <title level="m">The Royal Oak</title>
            <author>XXX</author>
         </bibl>
+        <bibl xml:id="play_rule_a_wife_and_have_a_wife">
+           <title level="m">Rule a Wife and Have a Wife</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_she_stoops_to_conquer">
+           <title level="m">She Stoops to Conquer</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_siege_of_belgrade">
            <title level="m">The Siege of Belgrade</title>
            <author>Mr. Cobb</author>
+        </bibl>
+        <bibl xml:id="play_sleep_walker">
+           <title level="m">The Sleep Walker</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_sons_of_erin">
            <title level="m">Sons of Erin</title>

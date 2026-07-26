@@ -19,32 +19,32 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This Evening, <date when="1811-09-28">Saturday, September 28, 1811</date><lb/>
                Will be perform'd a Comedy call'd<lb/>
-               <bibl><title>She Stoops to Conquer.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_she_stoops_to_conquer">She Stoops to Conquer.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Mr. Hardcastle,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mr. Hardcastle,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Charles Marlow,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Hastings,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Young Marlow,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor>Mr. Smith.</actor></castItem> <castItem><role>Muggins,</role> <actor>Mr. Lewes.</actor></castItem> <castItem><role>Twist,</role> <actor>Mr. Finn.</actor></castItem><lb/>
-                  <castItem><role>Diggory,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Jeremy,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Roger,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#ge_sm">Mr. Smith.</actor></castItem> <castItem><role>Muggins,</role> <actor>Mr. Lewes.</actor></castItem> <castItem><role>Twist,</role> <actor>Mr. Finn.</actor></castItem><lb/>
+                  <castItem><role>Diggory,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Jeremy,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Roger,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
                   <castItem><role>Tony Lumpkin,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Hardcastle,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Miss Hardcastle,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Miss Hardcastle,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                   <castItem><role>Miss Neville,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
                </castList>
                After which <hi rend="allcaps">(Sixth Time) A New Farce</hi>, in Two Acts, call'd<lb/>
-               <bibl><title><quote>"Darkness Visible."</quote></title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_darkness_visible"><quote>"Darkness Visible."</quote></title></bibl><lb/>
                With New Scenery, Dresses, and Decorations,<lb/>
                <castList>
                   <head>The Characters by</head>
-                  <castItem><actor>Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
                </castList>
                The Doors to be Open'd at <time when="17:30:00">Half past Five o'Clock</time>, and the Performance to begin<lb/>
@@ -54,7 +54,7 @@
                <hi rend="allcaps">Pit</hi>,---<measure type="currency">Three Shillings</measure>. - <measure type="currency">One Shilling and Sixpence</measure>.<lb/>
                <hi rend="allcaps">First Gallery</hi>, <measure type="currency">Two Shillings</measure>. - <measure type="currency">One Shilling</measure>.<lb/>
                <hi rend="allcaps">Upper Gallery</hi>, <measure type="currency">One Shilling</measure>. - <measure type="currency">Sixpence</measure>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/>
                The Publick is respectfully inform'd that the Farce of '<hi rend="allcaps">Darkness Visible</hi>' con-<lb/>
                tinuing to be honour'd with the most mark'd approbation, will be perform'd every evening<lb/>
                'till further notice.</ab>
