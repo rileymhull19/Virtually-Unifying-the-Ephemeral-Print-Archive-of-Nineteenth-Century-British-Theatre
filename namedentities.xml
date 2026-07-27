@@ -1963,6 +1963,10 @@
            <title level="m">The Devil's Bridge</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_doldrum">
+           <title level="m">The Doldrum</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_dramatist">
            <title level="m">The Dramatist</title>
            <author>XXX.</author>
@@ -1981,6 +1985,10 @@
         </bibl>
         <bibl xml:id="play_fortunes_frolick">
            <title level="m">Fortune's Frolick</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_fortune_hunters">
+           <title level="m">The Fortune-Hunters</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_foundling_of_the_forest">
@@ -2075,12 +2083,20 @@
            <title level="m">The Knight of Snowdoun</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_liar">
+           <title level="m">The Liar</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_lying_valet">
            <title level="m">The Lying Valet</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_lock_and_key">
            <title level="m">Lock and Key</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_look_at_home">
+           <title level="m">Look at Home</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
@@ -2167,8 +2183,16 @@
            <title level="m">Prejudice</title>
            <author>XXX.</author>
         </bibl>
+        <bibl xml:id="play_prisoner_at_large">
+           <title level="m">The Prisoner at Large</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_provoked_husband">
            <title level="m">The Provoked Husband</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_purse">
+           <title level="m">The Purse</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_quadrupeds">
@@ -2202,6 +2226,14 @@
         <bibl xml:id="play_right_and_wrong">
            <title level="m">Right and Wrong</title>
            <author>Mr. Burton</author>
+        </bibl>
+        <bibl xml:id="play_rivals">
+           <title level="m">The Rivals</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_rival_soldiers">
+           <title level="m">The Rival Soldiers</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_road_to_ruin">
            <title level="m">The Road to Ruin</title>
@@ -2278,15 +2310,23 @@
         </bibl>
         <bibl xml:id="play_trial_by_jury">
            <title level="m">The Trial By Jury</title>
-           <author>XXX.</author>
+           <author>Theodore Hook?</author>
         </bibl>
         <bibl xml:id="play_turn_out">
            <title level="m">Turn Out</title>
            <author>James Kenney</author>
         </bibl>
+        <bibl xml:id="play_turnpike_gate">
+           <title level="m">The Turnpike Gate</title>
+           <author>XXX.</author>
+        </bibl>
         <bibl xml:id="play_twelfth_night">
            <title level="m">Twelfth Night</title>
            <author>William Shakespeare</author>
+        </bibl>
+        <bibl xml:id="play_two_strings_to_your_bow">
+           <title level="m">Two Strings To Your Bow</title>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_up_to_town">
            <title level="m">Up to Town</title>
@@ -2310,6 +2350,10 @@
         </bibl>
         <bibl xml:id="play_white_cat">
            <title level="m">The White Cat</title>
+           <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_who_wants_a_guinea">
+           <title level="m">Who Wants a Guinea?</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_wife_of_two_husbands">

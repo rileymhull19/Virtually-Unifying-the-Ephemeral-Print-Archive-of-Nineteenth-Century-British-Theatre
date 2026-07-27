@@ -19,14 +19,14 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, Wednesday, <date when="1812-09-02">September 2, 1812</date>,<lb/>
                Will be perform'd a Play in Three Acts, interspersed with Musick, call'd<lb/>
-               <bibl><title>The <hi rend="allcaps">Foundling</hi></title><lb/>
+               <bibl><title ref="namedentities.xml#play_foundling_of_the_forest">The <hi rend="allcaps">Foundling</hi></title><lb/>
                of the Forest.</bibl><lb/>
                <castList>
                   <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
-                  <castItem><role>Baron Longueville,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baron Longueville,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Florian,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>L'Eclair,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
@@ -35,18 +35,18 @@
                   <castItem><role>Geraldine,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem><role>Rosabelle,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                   <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Eugenia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                In Act II. A Dance incidental to the Piece,--in<lb/>
                which will be introduced<lb/>
                A <hi rend="allcaps">Pas Seul</hi> by Miss <hi rend="allcaps">Harrison</hi>.<lb/>
                And a <hi rend="allcaps">Pas Deux</hi>, by the Miss <hi rend="allcaps">Simpsons</hi>.<lb/>
                To which will be added (Second Time at this Theatre) the favourite Farce of The<lb/>
-               <bibl><title type="main">Doldrum;</title><lb/>
+               <bibl><title type="main" ref="namedentities.xml#play_doldrum">Doldrum;</title><lb/>
                   <title type="sub">Or, 1819.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Sir Marmaduke,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Septimus,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Marmaduke,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Septimus,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><role>Captain Septimus,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Captain Slash,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                   <castItem><role>Flam,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
@@ -57,7 +57,7 @@
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/></ab>
          </div>
       </body>
   </text>

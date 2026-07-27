@@ -19,22 +19,22 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, Saturday, <date when="1812-09-05">September 5, 1812</date>,<lb/>
                Will be perform'd (First Time at this Theatre) The Comedy call'd<lb/>
-               <bibl><title>Who wants a Guinea?</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_who_wants_a_guinea">Who wants a Guinea?</title></bibl><lb/>
                <castList>
-                  <castItem><role>Torrent,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Heartly,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Torrent,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Heartly,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Hogmore,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Solomon Gundy,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><role>Solomon Gundy,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><role>Barford,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>.</actor></castItem><lb/>
                   <castItem><role>Jonathan Oldskirt,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Larry Mac. Murragh,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Henry,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Andrew Bang,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Carrydot,</role> <actor>Mr. Minton.</actor></castItem> <castItem><role>Boy,</role> <actor>Miss Carr.</actor></castItem><lb/>
-                  <castItem><role>Fanny,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Carrydot,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Boy,</role> <actor>Miss Carr.</actor></castItem><lb/>
+                  <castItem><role>Fanny,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Glastonbury,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Amy,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                </castList>
@@ -42,8 +42,8 @@
                <bibl><title type="main">Doldrum;</title><lb/>
                   <title type="sub">Or, 1819.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Sir Marmaduke,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Septimus,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Marmaduke,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Septimus,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><role>Captain Septimus,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Captain Slash,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                   <castItem><role>Flam,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
@@ -54,7 +54,7 @@
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/></ab>
          </div>
       </body>
   </text>

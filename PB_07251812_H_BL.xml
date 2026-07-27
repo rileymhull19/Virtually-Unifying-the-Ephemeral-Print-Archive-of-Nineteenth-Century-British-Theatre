@@ -20,46 +20,46 @@
       <body>
          <div type="performance_playbill" rend="align(center)">
             <ab>Third Time.<lb/>
-               Theatre-Royal, Hay-Market<lb/>
+               <placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName><lb/>
                This <hi rend="allcaps">Evening</hi>, Saturday, <date when="1812-07-25">July 25, 1812</date>,<lb/>
                Will be perform'd (3rd time) a New Comedy in Three Acts, call'd The<lb/>
-               <bibl><title>Fortune-Hunters.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_fortune_hunters">Fortune-Hunters.</title></bibl><lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                </castList>
                After which a Musical Piece in One Act, call'd The<lb/>
-               <bibl><title>Rival Soldiers.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_rival_soldiers">Rival Soldiers.</title></bibl><lb/>
                <castList>
                   <castItem><role>Sinclair, (with the Favorite Song of 'The <hi rend="allcaps">Thorn</hi>,')</role> <actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
                   <castItem><role>Lenox,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Captain Cruizer,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Major Tactic,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Corporal Squibb,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem><lb/>
-                  <castItem><role>Nipperkin,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nipperkin,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Mary,</role> <actor>Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added the Farce of The<lb/>
-               <bibl><title>Prisoner at Large</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_prisoner_at_large">Prisoner at Large</title></bibl><lb/>
                <castList>
-                  <castItem><role>Dowdle,</role> <actor>Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dowdle,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Lord Esmund,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Count Fripon,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
                   <castItem><role>Father Frank,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem> <castItem><role>Tough,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Jack Connor,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Trap,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Frill,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Muns,</role> <actor>Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Trap,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Frill,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Muns,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><role>Rachael,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Adelaide,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mary,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mary,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
-               Places for the Boxes to be taken of Mr. <hi rend="allcaps">Massingham</hi> at the Theatre.<lb/></ab>
+               Places for the Boxes to be taken of <persName ref="namedentities.xml#mr_mas">Mr. <hi rend="allcaps">Massingham</hi></persName> at the Theatre.<lb/></ab>
          </div>
       </body>
   </text>

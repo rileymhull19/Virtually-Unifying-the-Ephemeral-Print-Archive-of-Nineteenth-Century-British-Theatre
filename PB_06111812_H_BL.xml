@@ -19,44 +19,44 @@
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
-            <ab>Theatre-Royal, Hay-Market.<lb/>
+            <ab><placeName ref="namedentities.xml#haymarket">Theatre-Royal, Hay-Market</placeName>.<lb/>
                This <hi rend="allcaps">Evening</hi>, Thursday, <date when="1812-06-11">June 11, 1812</date>,<lb/>
                Will be perform'd a Comedy in Five Acts, call'd The<lb/>
-               <bibl><title>Country Girl.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_country_girl">Country Girl.</title></bibl><lb/>
                <castList>
                   <castItem><role>Moody,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>,</actor></castItem><lb/>
-                  <castItem><role>Harcourt,</role> <actor>Mr. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
+                  <castItem><role>Harcourt,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
                   <castItem><role>Sparkish,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
                   <castItem><role>Belville,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor>Mr. Widdicombe,</actor></castItem> <castItem><role>Robert,</role> <actor>Mr. Minton,</actor></castItem> <castItem><role>Harry,</role> <actor>Mr. Auld,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor>Mr. Widdicombe,</actor></castItem> <castItem><role>Robert,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Harry,</role> <actor>Mr. Auld,</actor></castItem><lb/>
                   <castItem><role>Alithea,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
                   <castItem><role>Peggy,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                   <castItem><role>Lucy,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                </castList>
                After which, A Comick Sketch, call'd<lb/>
-               <bibl><title><hi rend="allcaps">Blue Devils.</hi></title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_blue_devils"><hi rend="allcaps">Blue Devils.</hi></title></bibl><lb/>
                <castList>
                   <castItem><role>Megrim,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>,</actor><lb/>
                   (Being his First Appearance in that Character).</castItem><lb/>
-                  <castItem><role>Demison,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor>Mr. <hi rend="allcaps">Minton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Demison,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>,</actor></castItem><lb/>
                   <castItem><role>James,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
-                  <castItem><role>Annette,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
+                  <castItem><role>Annette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
                </castList>
                To which will be added, the Farce of<lb/>
-               <bibl><title>High Life below Stairs.</title></bibl><lb/>
+               <bibl><title ref="namedentities.xml#play_high_life_below_stairs">High Life below Stairs.</title></bibl><lb/>
                <castList>
                   <castItem><role>Lovel,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><role>Freeman,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Philip,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Duke's Servant,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor><lb/>
                   (Being his First Appearance on this Stage).</castItem><lb/>
                   <castItem><role>Sir Harry's Servant,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Coachman,</role> <actor>Mr. Minton.</actor></castItem> <castItem><role>Tom,</role> <actor>Mr. Dalton.</actor></castItem><castItem><role>Kingston,</role> <actor>Mr. Hardy.</actor></castItem><lb/>
-                  <castItem><role>Kitty,</role> <actor>Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
+                  <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Tom,</role> <actor>Mr. Dalton.</actor></castItem><castItem><role>Kingston,</role> <actor>Mr. Hardy.</actor></castItem><lb/>
+                  <castItem><role>Kitty,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                   <castItem><role>Lady Bab's Maid,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem> <castItem><role>Lady Charlotte's Maid,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
                   <castItem><role>Cook,</role> <actor>Mrs. Kendall.</actor></castItem> <castItem><role>Cloe,</role> <actor>Miss <hi rend="allcaps">Hatton</hi>.</actor></castItem><lb/>
                </castList>
                In Act II. A Mock Minuet by Mr. Betterton, Jun.<lb/>
-               and Mrs. Gibbs.<lb/></ab>
+               and <persName ref="namedentities.xml#ma_gi">Mrs. Gibbs</persName>.<lb/></ab>
          </div>
       </body>
   </text>
