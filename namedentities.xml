@@ -1877,27 +1877,27 @@
      <listBibl>
         <bibl xml:id="play_a_bold_stroke_for_a_husband">
            <title level="m">A Bold Stroke For a Husband</title>
-           <author>XXX.</author>
+           <author>Hannah Parkhouse Cowley</author>
         </bibl>
         <bibl xml:id="play_agreeable_surprise">
            <title level="m">The Agreeable Surprise</title>
-           <author>XXX.</author>
+           <author>John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_all_the_worlds_a_stage">
            <title level="m">All the World's A Stage</title>
-           <author>XXX.</author>
+           <author>Isaac Jackman</author>
         </bibl>
         <bibl xml:id="play_new_way_to_pay_old_debts">
            <title level="m">A New Way to Pay Old Debts</title>
-           <author>Massinger</author>
+           <author>Philip Massinger</author>
         </bibl>
         <bibl xml:id="play_animal_magnetism">
            <title level="m">Animal Magnetism</title>
-           <author>XXX.</author>
+           <author>Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="any_thing_new">
            <title level="m">Any Thing New</title>
-           <author>XXX></author>
+           <author>Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_as_you_like_it">
            <title level="m">As You Like It</title>
@@ -1905,95 +1905,99 @@
         </bibl>
         <bibl xml:id="play_bee_hive">
            <title level="m">The Bee Hive</title>
-           <author>XXX.</author>
+           <author>John Gideon Millingen</author>
         </bibl>
         <bibl xml:id="play_birth_day">
            <title level="m">The Birth-Day</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_blue_beard">
-           <title level="m">Blue Beard, or, Female Curiosity</title>
+           <title level="m" type="main">Blue Beard</title>
+           <title type="sub">Or, Female Curiosity</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_blue_devils">
            <title level="m">Blue Devils</title>
-           <author>XXX.</author>
+           <author>George Colman Jr.</author>
         </bibl>
         <bibl xml:id="play_bombastes_furioso">
            <title level="m">Bombastes Furioso</title>
-           <author>XXX.</author>
+           <author>William Barnes Rhodes</author>
         </bibl>
         <bibl xml:id="play_cabinet">
            <title level="m">The Cabinet</title>
-           <author>XXX.</author>
+           <author>Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_castle_of_andalusia">
            <title level="m">The Castle of Andalusia</title>
-           <author>XXX.</author>
+           <author>John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_cato">
            <title level="m">Cato</title>
-           <author>Addison</author>
+           <author>Joseph Addison</author>
         </bibl>
         <bibl xml:id="play_child_of_nature">
            <title level="m">The Child of Nature</title>
-           <author>XXX.</author>
+           <author>Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_children_in_the_wood">
            <title level="m">The Children in the Wood</title>
-           <author>XXX.</author>
+           <author>Edward Litt Leman Blanchard</author>
+           <author>Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
            <title level="m">The Clandestine Marriage</title>
-           <author>XXX.</author>
+           <author>George Colman, Sr.</author>
         </bibl>
         <bibl xml:id="play_country_girl">
            <title level="m">The Country Girl</title>
-           <author>XXX.</author>
+           <author>David Garrick</author>
         </bibl>
         <bibl xml:id="play_critick">
-           <title level="m">The Critick</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The Critick</title>
+           <title type="sub">Or, A Tragedy Rehearsed</title>
+           <author>Richard Brinsley Sheridan</author>
         </bibl>
         <bibl xml:id="play_darkness_visible">
            <title level="m">Darkness Visible</title>
-           <author>XXX.</author>
+           <author>Theodore Edward Hook</author>
         </bibl>
         <bibl xml:id="play_devils_bridge">
            <title level="m">The Devil's Bridge</title>
-           <author>XXX.</author>
+           <author>Samuel James Arnold</author>
         </bibl>
         <bibl xml:id="play_doldrum">
-           <title level="m">The Doldrum</title>
+           <title level="m" type="main">The Doldrum</title>
+           <title type="sub">Or, 1819</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_dramatist">
            <title level="m">The Dramatist</title>
-           <author>XXX.</author>
+           <author>Frederick Reynolds</author>
         </bibl>
         <bibl xml:id="play_every_man_in_his_humour">
            <title level="m">Every Man in His Humour</title>
-           <author>Jonson</author>
+           <author>Ben Jonson</author>
         </bibl>
         <bibl xml:id="play_every_one_has_his_fault">
            <title level="m">Every One Has His Fault</title>
-           <author>XXX.</author>
+           <author>Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_follies_of_a_day">
            <title level="m">The Follies of a Day</title>
-           <author>XXX.</author>
+           <author>Thomas Holcroft</author>
         </bibl>
         <bibl xml:id="play_fortunes_frolick">
            <title level="m">Fortune's Frolick</title>
-           <author>XXX.</author>
+           <author>John Till Allingham</author>
         </bibl>
         <bibl xml:id="play_fortune_hunters">
            <title level="m">The Fortune-Hunters</title>
-           <author>XXX.</author>
+           <author>William Schwenck Gilbert</author>
         </bibl>
         <bibl xml:id="play_foundling_of_the_forest">
            <title level="m">The Foundling of the Forest</title>
-           <author>XXX.</author>
+           <author>William Dimond</author>
         </bibl>
         <bibl xml:id="play_frost_and_thaw">
            <title level="m">Frost and Thaw</title>
@@ -2005,63 +2009,63 @@
         </bibl>
         <bibl xml:id="play_green_eyed_monster">
            <title level="m">The Green Eye'd Monster</title>
-           <author>XXX.</author>
+           <title>Or, How to Get Your Money!</title>
+           <author>James Robinson Planché</author>
         </bibl>
         <bibl xml:id="play_gustavus_vasa">
            <title level="m">Gustavus Vasa</title>
-           <author>XXX.</author>
+           <author>Henry Brooke</author>
+           <author>William Dimond</author>
         </bibl>
         <bibl xml:id="play_harlequin_and_asmodeus">
-           <title level="m">Harlequin &amp; Asmodeus</title>
+           <title level="m" type="main">Harlequin &amp; Asmodeus</title>
+           <title type="sub">Or, Cupid on Crutches</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_harlequin_and_padmanaba">
-           <title level="m">Harlequin &amp; Padmanaba</title>
+           <title level="m" type="main">Harlequin &amp; Padmanaba</title>
+           <title type="sub">Or, The Golden Fish</title>
            <author>XXX.</author>
-        </bibl>
-        <bibl xml:id="play_henry_v">
-           <title level="m">Henry V</title>
-           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_high_life_below_stairs">
            <title level="m">High Life Below Stairs</title>
-           <author>XXX.</author>
+           <author>James Townley</author>
         </bibl>
         <bibl xml:id="play_hit_miss">
            <title level="m">Hit or Miss!</title>
-           <author>XXX.</author>
+           <author>Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_honest_thieves">
            <title level="m">Honest Thieves</title>
-           <author>XXX.</author>
+           <author>Thomas Knight</author>
         </bibl>
         <bibl xml:id="play_honeymoon">
            <title level="m">The Honey-Moon</title>
-           <author>XXX.</author>
+           <author>John Tobin</author>
         </bibl>
         <bibl xml:id="play_house_of_morville">
            <title level="m">The House of Morville</title>
-           <author>XXX.</author>
+           <author>John Lake</author>
         </bibl>
         <bibl xml:id="play_how_to_die_for_love">
            <title level="m">How to Die For Love!</title>
-           <author>XXX.</author>
+           <author>Anonymous (?)</author>
         </bibl>
         <bibl xml:id="play_hunter_of_the_alps">
            <title level="m">Hunter of the Alps</title>
-           <author>XXX.</author>
+           <author>William Dimond</author>
         </bibl>
         <bibl xml:id="play_hypocrite">
            <title level="m">The Hypocrite</title>
-           <author>XXX.</author>
+           <author>Isaac Bickerstaffe</author>
         </bibl>
         <bibl xml:id="play_inkle_and_yarico">
            <title level="m">Inkle and Yarico</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_iron_chest">
            <title level="m">The Iron Chest</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_is_he_a_prince">
            <title level="m">Is He A Prince?</title>
@@ -2069,40 +2073,49 @@
         </bibl>
         <bibl xml:id="play_julius_caesar">
            <title level="m">Julius Caesar</title>
-           <author>XXX.</author>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kamtchatka">
-           <title level="m">Kamtchatka</title>
+           <title level="m" type="main">Kamtchatka</title>
+           <title type="sub">Or, The Slaves Tribute</title>
            <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_henry_v">
+           <title level="m" type="main">King Henry the Fifth</title>
+           <title type="sub">Or, The Conquest of France</title>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kiss">
            <title level="m">The Kiss</title>
-           <author>XXX.</author>
+           <author>Stephen Clarke</author>
+           <author>William Collier</author>
         </bibl>
         <bibl xml:id="play_knight_of_snowdoun">
            <title level="m">The Knight of Snowdoun</title>
-           <author>XXX.</author>
+           <author>Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_liar">
            <title level="m">The Liar</title>
-           <author>XXX.</author>
-        </bibl>
-        <bibl xml:id="play_lying_valet">
-           <title level="m">The Lying Valet</title>
-           <author>XXX.</author>
+           <author>Samuel Foote</author>
         </bibl>
         <bibl xml:id="play_lock_and_key">
            <title level="m">Lock and Key</title>
-           <author>XXX.</author>
+           <author>Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_look_at_home">
            <title level="m">Look at Home</title>
-           <author>XXX.</author>
+           <author>Edmund John Eyre</author>
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
            <title level="m">Lost and Found</title>
-           <author>Masters</author>
+           <author>Tom Hood</author>
+           <author>George March</author>
+           <author>Martin Kedgwin Masters</author>
         </bibl> 
+        <bibl xml:id="play_lying_valet">
+           <title level="m">The Lying Valet</title>
+           <author>David Garrick</author>
+        </bibl>
         <bibl xml:id="pkay_macbeth">
            <title level="m">Macbeth</title>
            <author>William Shakespeare</author>
@@ -2112,36 +2125,38 @@
            <author>XXX.</author>
         </bibl> 
         <bibl xml:id="play_man_and_wife">
-           <title level="m">Man and Wife</title>
-           <author>XXX.</author>
+           <title level="m" type="main">Man and Wife</title>
+           <title type="sub">Or, More Secrets Than One</title>
+           <author>Samuel James Arnold</author>
+           <author>William Wilkie Collins</author>
         </bibl>
         <bibl xml:id="play_man_of_the_world">
            <title level="m">The Man of the World</title>
-           <author>XXX.</author>
+           <author>Charles Macklin</author>
         </bibl>
         <bibl xml:id="play_mayor_garratt">
            <title level="m">The Mayor of Garratt</title>
-           <author>XXX.</author>
+           <author>Samuel Foote</author>
         </bibl>
         <bibl xml:id="play_measure_for_measure">
            <title level="m">Measure for Measure</title>
-           <author>XXX.</author>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_midnight_hour">
            <title level="m">The Midnight Hour</title>
-           <author>XXX.</author>
+           <author>Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_no_song_no_supper">
            <title level="m">No Song No Supper</title>
-           <author>XXX.</author>
+           <author>Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_of_age_tomorrow">
            <title level="m">Of Age Tomorrow</title>
-           <author>XXX.</author>
+           <author>Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_ourselves">
            <title level="m">Ourselves</title>
-           <author>Miss Chambers</author>
+           <author>Marianne Chambers</author>
         </bibl>
         <bibl xml:id="play_outside_passenger">
            <title level="m">Outside Passenger</title>
@@ -2149,11 +2164,11 @@
         </bibl>
         <bibl xml:id="play_paul_and_virginia">
            <title level="m">Paul and Virginia</title>
-           <author>XXX.</author>
+           <author>James Cobb</author>
         </bibl>
         <bibl xml:id="play_peasant_boy">
            <title level="m">The Peasant Boy</title>
-           <author>XXX.</author>
+           <author>William Dimond</author>
         </bibl>
         <bibl xml:id="play_percy">
            <title level="m">Percy</title>
@@ -2161,23 +2176,26 @@
         </bibl>
         <bibl xml:id="play_point_of_honour">
            <title level="m">The Point of Honour</title>
-           <author>XXX.</author>
+           <author>Clara Savile Clarke</author>
+           <author>Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_poor_gentleman">
            <title level="m">The Poor Gentleman</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_poor_sailor">
-           <title level="m">The Poor Sailor</title>
+           <title level="m" type="main">The Poor Sailor</title>
+           <title type="sub">Or, Little Bob and Little Ben</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_poor_soldier">
            <title level="m">The Poor Soldier</title>
-           <author>XXX.</author>
+           <author>John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
-           <title level="m">The Portrait of Cervantes</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The Portrait of Cervantes</title>
+           <title type="sub">Or, The Plotting Lovers</title>
+           <author>Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_prejudice">
            <title level="m">Prejudice</title>
@@ -2185,51 +2203,57 @@
         </bibl>
         <bibl xml:id="play_prisoner_at_large">
            <title level="m">The Prisoner at Large</title>
-           <author>XXX.</author>
+           <author>John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_provoked_husband">
            <title level="m">The Provoked Husband</title>
-           <author>XXX.</author>
+           <author>John Vanbrugh</author>
         </bibl>
         <bibl xml:id="play_purse">
-           <title level="m">The Purse</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The Purse</title>
+           <title type="sub">Or, The Benevolent Tar</title>
+           <author>John C. Cross</author>
         </bibl>
         <bibl xml:id="play_quadrupeds">
-           <title level="m">Quadrupeds</title>
+           <title level="m" type="main">Quadrupeds</title>
+           <title type="sub">Or, The Manager's Last Kick</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_quadrupeds_of_quedlinburgh">
-           <title level="m">The Quadrupeds of Quedlinburgh</title>
+           <title level="m" type="main">The Quadrupeds of Quedlinburgh</title>
+           <title type="sub">Or, The Rovers of Weimar</title>
            <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_raising_wind">
            <title level="m">Raising the Wind</title>
-           <author>XXX.</author>
+           <author>James Kenney</author>
         </bibl>
         <bibl xml:id="play_raymond_and_agnes">
-           <title level="m">Raymond and Agnes</title>
-           <author>XXX.</author>
+           <title level="m" type="main">Raymond and Agnes</title>
+           <title type="sub">Or, The Castle of Lindenbergh</title>
+           <author>Henry William Grosette</author>
+           <author>Matthre Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_register_office">
            <title level="m">The Register Office</title>
-           <author>XXX.</author>
+           <author>Joseph Reed</author>
         </bibl>
         <bibl xml:id="play_review">
-           <title level="m">The Review</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The Review</title>
+           <title type="sub">Or, The Wags of Windsor</title>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_rich_and_poor">
            <title level="m">Rich and Poor</title>
-           <author>XXX.</author>
+           <author>Matthew Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_right_and_wrong">
            <title level="m">Right and Wrong</title>
-           <author>Mr. Burton</author>
+           <author>[Unknown] Burton</author>
         </bibl>
         <bibl xml:id="play_rivals">
            <title level="m">The Rivals</title>
-           <author>XXX.</author>
+           <author>Richard Brinsley Sheridan</author>
         </bibl>
         <bibl xml:id="play_rival_soldiers">
            <title level="m">The Rival Soldiers</title>
@@ -2237,19 +2261,19 @@
         </bibl>
         <bibl xml:id="play_road_to_ruin">
            <title level="m">The Road to Ruin</title>
-           <author>XXX.</author>
+           <author>Thomas Holcroft</author>
         </bibl>
         <bibl xml:id="play_romeo_and_juliet">
            <title level="m">Romeo and Juliet</title>
-           <author>XXX.</author>
+           <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_romp">
            <title level="m">The Romp</title>
-           <author>XXX.</author>
+           <author>[Unknown] Lloyd</author>
         </bibl>
         <bibl xml:id="play_rosina">
            <title level="m">Rosina</title>
-           <author>XXX.</author>
+           <author>Frances Moore Brooke</author>
         </bibl>
         <bibl xml:id="play_round_robin">
            <title level="m">The Round Robin</title>
@@ -2257,60 +2281,65 @@
         </bibl>
         <bibl xml:id="play_royal_oak">
            <title level="m">The Royal Oak</title>
-           <author>XXX</author>
+           <author>William Dimond</author>
         </bibl>
         <bibl xml:id="play_rule_a_wife_and_have_a_wife">
            <title level="m">Rule a Wife and Have a Wife</title>
-           <author>XXX.</author>
+           <author>Francis Beaumont</author>
         </bibl>
         <bibl xml:id="play_she_stoops_to_conquer">
            <title level="m">She Stoops to Conquer</title>
-           <author>XXX.</author>
+           <author>Oliver Goldsmith</author>
         </bibl>
         <bibl xml:id="play_siege_of_belgrade">
            <title level="m">The Siege of Belgrade</title>
-           <author>Mr. Cobb</author>
+           <author>James Cobb</author>
         </bibl>
         <bibl xml:id="play_sleep_walker">
-           <title level="m">The Sleep Walker</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The Sleep Walker</title>
+           <title type="sub">Or, Which Is The Lady?</title>
+           <author>Walley Chamberlaine Oulton</author>
         </bibl>
         <bibl xml:id="play_sons_of_erin">
-           <title level="m">Sons of Erin</title>
-           <title>Or, Modern Sentiment</title>
-           <author>Mrs. Lefanu</author>
+           <title level="m" type="main">Sons of Erin</title>
+           <title type="sub">Or, Modern Sentiment</title>
+           <author>Alicia Sheridan Lefanu</author>
         </bibl>
         <bibl xml:id="play_spoiled_child">
            <title level="m">The Spoil'd Child</title>
-           <author>XXX.</author>
+           <author>Isaac Bickerstaffe</author>
+           <author>Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_stranger">
            <title level="m">The Stranger</title>
-           <author>XXX.</author>
+           <author>Benjamin Thompson</author>
         </bibl>
         <bibl xml:id="play_three_and_the_deuce">
            <title level="m">Three and the Deuce</title>
-           <author>XXX.</author>
+           <author>Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_three_weeks_after_marriage">
            <title level="m">Three Weeks After Marriage</title>
-           <author>XXX.</author>
+           <author>Arthur Murphy</author>
         </bibl>
         <bibl xml:id="play_timour_the_tartar">
            <title level="m">Timour the Tartar</title>
-           <author>XXX.</author>
+           <author>Matthew Gregory Lewis</author>
+           <author>John Oxenford</author>
         </bibl>
         <bibl xml:id="play_tom_thumb">
            <title level="m">Tom Thumb</title>
-           <author>XXX.</author>
+           <author>Henry Fielding</author>
         </bibl>
         <bibl xml:id="play_travellers_benighted">
-           <title level="m">Travellers Benighted</title>
-           <author>XXX.</author>
+           <title level="m" type="main">Travellers Benighted</title>
+           <title type="sub">Or, The Forest of Rosenwald</title>
+           <author>Matthew Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_trial_by_jury">
            <title level="m">The Trial By Jury</title>
-           <author>Theodore Hook?</author>
+           <author>William Schwenck</author>
+           <author>Theodore Edward Hook</author>
         </bibl>
         <bibl xml:id="play_turn_out">
            <title level="m">Turn Out</title>
@@ -2318,51 +2347,53 @@
         </bibl>
         <bibl xml:id="play_turnpike_gate">
            <title level="m">The Turnpike Gate</title>
-           <author>XXX.</author>
+           <author>Thomas Knight</author>
         </bibl>
         <bibl xml:id="play_twelfth_night">
-           <title level="m">Twelfth Night</title>
+           <title level="m" type="main">Twelfth Night</title>
+           <title type="sub">Or, What You Will</title>
            <author>William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_two_strings_to_your_bow">
            <title level="m">Two Strings To Your Bow</title>
-           <author>XXX.</author>
+           <author>Robert Jephson</author>
         </bibl>
         <bibl xml:id="play_up_to_town">
            <title level="m">Up to Town</title>
-           <author>XXX.</author>
+           <author>Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_venice_preserved">
            <title level="m">Venice Preserved</title>
-           <author>XXX.</author>
+           <author>Thomas Otway</author>
         </bibl>
         <bibl xml:id="play_virgin_of_the_sun">
            <title level="m">The Virgin of the Sun</title>
-           <author>XXX.</author>
+           <author>Frederick Reynolds</author>
         </bibl>
         <bibl xml:id="play_way_to_get_married">
            <title level="m">The Way to Get Married</title>
-           <author>Morton (?).</author>
+           <author>Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_west_indian">
            <title level="m">The West Indian</title>
-           <author>XXX.</author>
+           <author>Richard Cumberland</author>
         </bibl>
         <bibl xml:id="play_white_cat">
-           <title level="m">The White Cat</title>
-           <author>XXX.</author>
+           <title level="m" type="main">The White Cat</title>
+           <title type="sub">Or, Harlequin in Fairy Wood</title>
+           <author>Edward Litt Leman Blanchard</author>
         </bibl>
         <bibl xml:id="play_who_wants_a_guinea">
            <title level="m">Who Wants a Guinea?</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_wife_of_two_husbands">
            <title level="m">The Wife of Two Husbands</title>
-           <author>XXX.</author>
+           <author>James Cobb</author>
         </bibl>
         <bibl xml:id="play_woodman">
            <title level="m">The Woodman</title>
-           <author>XXX.</author>
+           <author>Henry Bate Dudley</author>
         </bibl>
      </listBibl>
   </standOff>
