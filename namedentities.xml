@@ -371,7 +371,7 @@
            <person xml:id="ma_an_da">
               <persName>
                  <forename>Mary Ann</forename>
-                 <surname type="birth">Ilarvey</surname>
+                 <surname type="birth">Harvey</surname>
                  <surname type="married">Davenport</surname>
               </persName>
               <gender value="W">Woman</gender>
@@ -2383,5 +2383,13 @@
            <author>Henry Bate Dudley</author>
         </bibl>
      </listBibl>
+     <listEvent>
+        <event type="performance" where="#lyceum" when="1811-01-02">
+            <ab type="mainpiece">Lost and Found</ab>
+            <ab type="afterpiece">The Magic Bride</ab>
+           <ref target="PB_01021811_L_BL.xml"/>
+           <ref target="Ex_01061811.xml"/>
+        </event>
+     </listEvent>
   </standOff>
 </TEI>
