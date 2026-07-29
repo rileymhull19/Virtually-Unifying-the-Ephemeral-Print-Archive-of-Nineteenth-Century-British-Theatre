@@ -18,28 +18,14 @@
   </teiHeader>
   <standOff>
         <listPerson>
-           <person xml:id="xx_xx">
-              <persName>
-                 <forename>XX</forename>
-                 <surname>XX</surname>
-              </persName>
-              <gender value="X">X</gender>
-              <birth>XX</birth>
-              <death>XX</death>
-              <floruit notBefore="1111" notAfter="1111"/>
-              <nationality>XX</nationality>
-              <occupation>XX</occupation>
-              <affiliation>XX</affiliation>
-              <note>CITATION</note>
-           </person>
            <person xml:id="sa_ar">
               <persName>
                  <forename>Samuel</forename>
                  <surname>Arnold</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1740</birth>
-              <death>1802</death>
+              <birth when="1740">1740</birth>
+              <death when="1802">1802</death>
               <floruit notBefore="1764" notAfter="1802"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -51,8 +37,8 @@
                  <surname>Atkins</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1763</birth>
-              <death>1831</death>
+              <birth when="1763">1763</birth>
+              <death when="1831">1831</death>
               <floruit notBefore="1794"/>
               <nationality>Unknown</nationality>
               <occupation>Singer, Actor</occupation>
@@ -65,8 +51,8 @@
                  <surname>Banks</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1744</birth>
-              <death>1829</death>
+              <birth when="1744">1744</birth>
+              <death when="1829">1829</death>
               <floruit notBefore="1789"/>
               <nationality>English</nationality>
               <occupation>Tailor, Wardrobe-Keeper</occupation>
@@ -80,8 +66,8 @@
                  <surname>Bellamy</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1771</birth>
-              <death>1843</death>
+              <birth when="1771">1771</birth>
+              <death when="1843">1843</death>
               <floruit notBefore="1784" notAfter="1843"/>
               <nationality>English</nationality>
               <occupation>Singer, Actor</occupation>
@@ -95,8 +81,8 @@
                  <surname>Bishop</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1786</birth>
-              <death>1855</death>
+              <birth when="1786">1786</birth>
+              <death when="1855">1855</death>
               <floruit notBefore="1800" notAfter="1853"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -108,8 +94,8 @@
                  <surname>Blanchard</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1769</birth>
-              <death>1835</death>
+              <birth when="1769">1769</birth>
+              <death when="1835">1835</death>
               <floruit notBefore="1785" notAfter="1833"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -122,8 +108,8 @@
                  <surname type="married">Bland</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1770</birth>
-              <death>1838</death>
+              <birth when="1770">1770</birth>
+              <death when="1838">1838</death>
               <floruit notBefore="1773" notAfter="1822"/>
               <nationality>Italian</nationality>
               <occupation>Singer</occupation>
@@ -137,8 +123,8 @@
                  <surname>Bologna</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1775</birth>
-              <death>1846</death>
+              <birth when="1775">1775</birth>
+              <death when="1846">1846</death>
               <floruit notBefore="1792" notAfter="1819"/>
               <nationality>Italian</nationality>
               <occupation>Dancer, Harlequin</occupation>
@@ -165,8 +151,8 @@
                  <surname>Booth</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>c.1789</birth>
-              <death>1867</death>
+              <birth when="1789">c.1789</birth>
+              <death when="1867">1867</death>
               <floruit notBefore="1804" notAfter="1828"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -181,7 +167,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1825</death>
+              <death when="1825">1825</death>
               <floruit notBefore="1770" notAfter="1825"/>
               <nationality>English</nationality>
               <occupation>Box Bookkeeper, Housekeeper</occupation>
@@ -208,8 +194,8 @@
                  <surname>Braham</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1777</birth>
-              <death>1856</death>
+              <birth when="1777">1777</birth>
+              <death when="1856">1856</death>
               <floruit notBefore="1787" notAfter="1852"/>
               <nationality>English</nationality>
               <occupation>Singer</occupation>
@@ -236,8 +222,8 @@
                  <surname>Chambers</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1778</birth>
-              <death>1811</death>
+              <birth when="1778">1778</birth>
+              <death when="1811">1811</death>
               <floruit notBefore="1111" notAfter="1111"/>
               <nationality>English</nationality>
               <occupation>Playwright, Author</occupation>
@@ -291,8 +277,8 @@
                  <surname>Cobb</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1756</birth>
-              <death>1818</death>
+              <birth when="1756">1756</birth>
+              <death when="1818">1818</death>
               <floruit notBefore="1773" notAfter="1803"/>
               <nationality>English</nationality>
               <occupation>Playwright</occupation>
@@ -304,8 +290,8 @@
                  <surname>Condell</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1757</birth>
-              <death>1824</death>
+              <birth when="1757">1757</birth>
+              <death when="1824">1824</death>
               <floruit notBefore="1771" notAfter="1823"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -318,8 +304,8 @@
                  <surname>Cooke</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1782</birth>
-              <death>1848</death>
+              <birth when="1782">1782</birth>
+              <death when="1848">1848</death>
               <floruit notBefore="1789" notAfter="1848"/>
               <nationality>Irish</nationality>
               <occupation>Composer, Singer</occupation>
@@ -332,8 +318,8 @@
                  <surname>Colman</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1762</birth>
-              <death>1836</death>
+              <birth when="1762">1762</birth>
+              <death when="1836">1836</death>
               <floruit notBefore="1782" notAfter="1822"/>
               <nationality>English</nationality>
               <occupation>Playwright, Theatre Manager</occupation>
@@ -375,7 +361,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1814</death>
+              <death when="1814">1814</death>
               <floruit notBefore="1784" notAfter="1812"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -389,8 +375,8 @@
                  <surname type="married">Davenport</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1759</birth>
-              <death>1843</death>
+              <birth when="1759">1759</birth>
+              <death when="1843">1843</death>
               <floruit notBefore="1784" notAfter="1830"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -405,8 +391,8 @@
                  <surname type="married">Davison</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>c.1780</birth>
-              <death>1858</death>
+              <birth when="1780">c.1780</birth>
+              <death when="1858">1858</death>
               <floruit notBefore="1794" notAfter="1829-06-13"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -419,8 +405,8 @@
                  <surname>De Camp</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1779</birth>
-              <death>1839</death>
+              <birth when="1779">1779</birth>
+              <death when="1839">1839</death>
               <floruit notBefore="1792-11-05" notAfter="1814"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -461,8 +447,8 @@
                  <surname>Dignum</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1765</birth>
-              <death>1827</death>
+              <birth when="1765">1765</birth>
+              <death when="1827">1827</death>
               <floruit notBefore="1784" notAfter="1815"/>
               <nationality>English</nationality>
               <occupation>Actor, Singer</occupation>
@@ -475,8 +461,8 @@
                  <surname>Dowton</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1764</birth>
-              <death>1851</death>
+              <birth when="1764">1764</birth>
+              <death when="1851">1851</death>
               <floruit notBefore="1781" notAfter="1820"/>
               <nationality>English</nationality>
               <occupation>Actor, Theatre Manager</occupation>
@@ -491,8 +477,8 @@
                  <surname type="married">Edwin</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1771</birth>
-              <death>1854</death>
+              <birth when="1771">1771</birth>
+              <death when="1854">1854</death>
               <floruit notAfter="1825"/>
               <nationality>Unknown</nationality>
               <occupation>Actor</occupation>
@@ -505,8 +491,8 @@
                  <surname>Egerton</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1772</birth>
-              <death>1835</death>
+              <birth when="1772">1772</birth>
+              <death when="1835">1835</death>
               <floruit notBefore="1787" notAfter="1824"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -534,8 +520,8 @@
                  <surname>Elliston</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1774</birth>
-              <death>1831</death>
+              <birth when="1774">1774</birth>
+              <death when="1831">1831</death>
               <floruit notBefore="1791" notAfter="1826"/>
               <nationality>English</nationality>
               <occupation>Actor, Manager</occupation>
@@ -548,8 +534,8 @@
                  <surname>Emery</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1777</birth>
-              <death>1822</death>
+              <birth when="1777">1777</birth>
+              <death when="1822">1822</death>
               <floruit notBefore="1792" notAfter="1822"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -563,8 +549,8 @@
                  <surname>Eyre</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1767</birth>
-              <death>1816</death>
+              <birth when="1767">1767</birth>
+              <death when="1816">1816</death>
               <floruit notBefore="1789" notAfter="1816"/>
               <nationality>English</nationality>
               <occupation>Actor, Playwright</occupation>
@@ -577,8 +563,8 @@
                  <surname>Farley</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1771</birth>
-              <death>1859</death>
+              <birth when="1771">1771</birth>
+              <death when="1859">1859</death>
               <floruit notBefore="1784" notAfter="1834"/>
               <nationality>English</nationality>
               <occupation>Actor, Dancer, Choreographer</occupation>
@@ -591,8 +577,8 @@
                  <surname>Fawcett</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1768</birth>
-              <death>1837</death>
+              <birth when="1768">1768</birth>
+              <death when="1837">1837</death>
               <floruit notBefore="1786" notAfter="1830"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -621,8 +607,8 @@
                  <surname type="married">Gibbs</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1770</birth>
-              <death>1850</death>
+              <birth when="1770">1770</birth>
+              <death when="1850">1850</death>
               <floruit notBefore="1783" notAfter="1836"/>
               <nationality>Irish</nationality>
               <occupation>Actor</occupation>
@@ -636,8 +622,8 @@
                  <surname type="married">Glover</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1779</birth>
-              <death>1850</death>
+              <birth when="1779">1779</birth>
+              <death when="1850">1850</death>
               <floruit notBefore="1783" notAfter="1850"/>
               <nationality>Irish</nationality>
               <occupation>Actor</occupation>
@@ -665,8 +651,8 @@
                  <surname>Goss</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1770</birth>
-              <death>1817</death>
+              <birth when="1770">1770</birth>
+              <death when="1817">1817</death>
               <floruit notBefore="1794" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Singer</occupation>
@@ -680,8 +666,8 @@
               </persName>
               <gender value="M">Man</gender>
               <floruit notBefore="1790" notAfter="1845"/>
-              <birth>1770</birth>
-              <death>1845</death>
+              <birth when="1770">1770</birth>
+              <death when="1845">1845</death>
               <nationality>English</nationality>
               <occupation>Scene Painter</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
@@ -694,8 +680,8 @@
               </persName>
               <gender value="M">Man</gender>
               <floruit notBefore="1781" notAfter="1823"/>
-              <birth>1778</birth>
-              <death>1837</death>
+              <birth when="1778">1778</birth>
+              <death when="1837">1837</death>
               <nationality>English</nationality>
               <occupation>Dancer, Actor</occupation>
               <affiliation>Sadler's Wells Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
@@ -707,8 +693,8 @@
                  <surname>Greenwood</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1779</birth>
-              <death>1832</death>
+              <birth when="1779">1779</birth>
+              <death when="1832">1832</death>
               <floruit notBefore="1797" notAfter="1819"/>
               <nationality>English</nationality>
               <occupation>Scene Painter</occupation>
@@ -721,8 +707,8 @@
                  <surname type="stage">Harlowe</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1765</birth>
-              <death>1862</death>
+              <birth when="1765">1765</birth>
+              <death when="1862">1862</death>
               <floruit notBefore="1779" notAfter="1826"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -749,8 +735,8 @@
                  <surname>Holland</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1768</birth>
-              <death>1849</death>
+              <birth when="1768">1768</birth>
+              <death when="1849">1849</death>
               <floruit notBefore="1791" notAfter="1821"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -792,8 +778,8 @@
                  <surname>Holman</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1764</birth>
-              <death>1817</death>
+              <birth when="1764">1764</birth>
+              <death when="1817">1817</death>
               <floruit notBefore="1784" notAfter="1813"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -807,8 +793,8 @@
                  <surname>Horn</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1786</birth>
-              <death>1849</death>
+              <birth when="1786">1786</birth>
+              <death when="1849">1849</death>
               <floruit notBefore="1809" notAfter="1847"/>
               <nationality>English</nationality>
               <occupation>Composer, Singer</occupation>
@@ -835,8 +821,8 @@
                  <surname>Incledon</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1763</birth>
-              <death>1826</death>
+              <birth when="1763">1763</birth>
+              <death when="1826">1826</death>
               <floruit notBefore="1784" notAfter="1822"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -850,8 +836,8 @@
                  <surname>Johnstone</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1749</birth>
-              <death>1828</death>
+              <birth when="1749">1749</birth>
+              <death when="1828">1828</death>
               <floruit notBefore="1775" notAfter="1822"/>
               <nationality>Irish</nationality>
               <occupation>Actor</occupation>
@@ -865,7 +851,7 @@
                  <surname type="married">Johnston</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1782</birth>
+              <birth when="1782">1782</birth>
               <death>Unknown</death>
               <floruit notBefore="1793" notAfter="1816"/>
               <nationality>English</nationality>
@@ -879,8 +865,8 @@
                  <surname>Kelly</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1762</birth>
-              <death>1826</death>
+              <birth when="1762">1762</birth>
+              <death when="1826">1826</death>
               <floruit notBefore="1777" notAfter="1820"/>
               <nationality>Irish</nationality>
               <occupation>Composer, Actor</occupation>
@@ -893,8 +879,8 @@
                  <surname>Kemble</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1775</birth>
-              <death>1854</death>
+              <birth when="1775">1775</birth>
+              <death when="1854">1854</death>
               <floruit notBefore="1792" notAfter="1836"/>
               <nationality>English</nationality>
               <occupation>Actor, Manager</occupation>
@@ -909,8 +895,8 @@
                  <surname type="married">Kemble</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1775</birth>
-              <death>1838</death>
+              <birth when="1775">1775</birth>
+              <death when="1838">1838</death>
               <floruit notBefore="1783" notAfter="1829"/>
               <nationality>French</nationality>
               <occupation>Actor</occupation>
@@ -924,8 +910,8 @@
                  <surname>Kemble</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1757</birth>
-              <death>1823</death>
+              <birth when="1757">1757</birth>
+              <death when="1823">1823</death>
               <floruit notBefore="1767" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Actor, Manager</occupation>
@@ -939,8 +925,8 @@
                  <surname>King</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1773</birth>
-              <death>1823</death>
+              <birth when="1773">1773</birth>
+              <death when="1823">1823</death>
               <floruit notBefore="1804" notAfter="1819"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -954,7 +940,7 @@
               </persName>
               <gender value="W">Woman</gender>
               <birth>Unknown</birth>
-              <death>1831</death>
+              <death when="1831">1831</death>
               <floruit notBefore="1787" notAfter="1815"/>
               <nationality>Unknown</nationality>
               <occupation>Actor</occupation>
@@ -967,8 +953,8 @@
                  <surname>Liston</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1776</birth>
-              <death>1846</death>
+              <birth when="1776">1776</birth>
+              <death when="1846">1846</death>
               <floruit notBefore="1799" notAfter="1837"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -981,8 +967,8 @@
                  <surname>Liston</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1781</birth>
-              <death>1854</death>
+              <birth when="1781">1781</birth>
+              <death when="1854">1854</death>
               <floruit notBefore="1801" notAfter="1822"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -995,8 +981,8 @@
                  <surname>Locke</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1622</birth>
-              <death>1677</death>
+              <birth when="1622">1622</birth>
+              <death when="1677">1677</death>
               <floruit notBefore="1652" notAfter="1676"/>
               <nationality>English</nationality>
               <occupation>Composer, Musician</occupation>
@@ -1008,8 +994,8 @@
                  <surname>Lovegrove</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1778</birth>
-              <death>1816</death>
+              <birth when="1778">1778</birth>
+              <death when="1816">1816</death>
               <floruit notBefore="1799" notAfter="1815"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1023,7 +1009,7 @@
               </persName>
               <gender value="W">Woman</gender>
               <birth>Unknown</birth>
-              <death>1834</death>
+              <death when="1834">1834</death>
               <floruit notBefore="1782" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1037,7 +1023,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1823</death>
+              <death when="1823">1823</death>
               <floruit notBefore="1782" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1051,7 +1037,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1819</death>
+              <death when="1819">1819</death>
               <floruit notBefore="1781" notAfter="1819"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1078,8 +1064,8 @@
                  <surname>Mathews</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1776</birth>
-              <death>1835</death>
+              <birth when="1776">1776</birth>
+              <death when="1835">1835</death>
               <floruit notBefore="1793" notAfter="1834"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1106,8 +1092,8 @@
                  <surname>Mellon</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1778</birth>
-              <death>1837</death>
+              <birth when="1778">1778</birth>
+              <death when="1837">1837</death>
               <floruit notBefore="1787" notAfter="1815"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1120,8 +1106,8 @@
                  <surname>Melvin</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1771</birth>
-              <death>1817</death>
+              <birth when="1771">1771</birth>
+              <death when="1817">1817</death>
               <floruit notBefore="1792" notAfter="1812"/>
               <nationality>Unknown</nationality>
               <occupation>Actor, Dancer</occupation>
@@ -1148,8 +1134,8 @@
                  <surname>Menage</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1788</birth>
-              <death>1822</death>
+              <birth when="1788">1788</birth>
+              <death when="1822">1822</death>
               <floruit notBefore="1792" notAfter="1817"/>
               <nationality>Unknown</nationality>
               <occupation>Dancer</occupation>
@@ -1162,8 +1148,8 @@
                  <surname>Menage</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1778</birth>
-              <death>1830</death>
+              <birth when="1778">1778</birth>
+              <death when="1830">1830</death>
               <floruit notBefore="1791" notAfter="1812"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1203,8 +1189,8 @@
                  <surname>Moore</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1779</birth>
-              <death>1852</death>
+              <birth when="1779">1779</birth>
+              <death when="1852">1852</death>
               <floruit notBefore="1795" notAfter="1846"/>
               <nationality>Irish</nationality>
               <occupation>Poet, playwright, and actor</occupation>
@@ -1217,8 +1203,8 @@
                  <surname type="married">Mountain</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1761</birth>
-              <death>1841</death>
+              <birth when="1761">1761</birth>
+              <death when="1841">1841</death>
               <floruit notBefore="1782"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1232,8 +1218,8 @@
                  <surname>Munden</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1758</birth>
-              <death>1832</death>
+              <birth when="1758">1758</birth>
+              <death when="1832">1832</death>
               <floruit notBefore="1775" notAfter="1824"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1246,8 +1232,8 @@
                  <surname>Murray</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1754</birth>
-              <death>1821</death>
+              <birth when="1754">1754</birth>
+              <death when="1821">1821</death>
               <floruit notBefore="1773" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1274,8 +1260,8 @@
                  <surname>O'Keeffe</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1747</birth>
-              <death>1833</death>
+              <birth when="1747">1747</birth>
+              <death when="1833">1833</death>
               <floruit notBefore="1764" notAfter="1796"/>
               <nationality>Irish</nationality>
               <occupation>Playwright, Actor</occupation>
@@ -1289,8 +1275,8 @@
                  <surname type="married">Orger</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1788</birth>
-              <death>1849</death>
+              <birth when="1788">1788</birth>
+              <death when="1849">1849</death>
               <floruit notBefore="1793" notAfter="1845"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1303,8 +1289,8 @@
                  <surname>Oxberry</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1784</birth>
-              <death>1824</death>
+              <birth when="1784">1784</birth>
+              <death when="1824">1824</death>
               <floruit notBefore="1802" notAfter="1824"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1317,8 +1303,8 @@
                  <surname>Palmer</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1757</birth>
-              <death>1817</death>
+              <birth when="1757">1757</birth>
+              <death when="1817">1817</death>
               <floruit notBefore="1763" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1345,8 +1331,8 @@
                  <surname>Philipps</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1774</birth>
-              <death>1841</death>
+              <birth when="1774">1774</birth>
+              <death when="1841">1841</death>
               <floruit notBefore="1796" notAfter="1826"/>
               <nationality>English</nationality>
               <occupation>Actor, Singer</occupation>
@@ -1359,8 +1345,8 @@
                  <surname>Thomas Phillips</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1770</birth>
-              <death>1845</death>
+              <birth when="1770">1770</birth>
+              <death when="1845">1845</death>
               <floruit notBefore="1792" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Scene Painter</occupation>
@@ -1387,8 +1373,8 @@
                  <surname type="married">Powell</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>c.1761</birth>
-              <death>1831</death>
+              <birth when="1761">c.1761</birth>
+              <death when="1831">1831</death>
               <floruit notBefore="1787" notAfter="1829"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1401,8 +1387,8 @@
                  <surname>Powell</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1755</birth>
-              <death>1836</death>
+              <birth when="1755">1755</birth>
+              <death when="1836">1836</death>
               <floruit notBefore="1775" notAfter="1828"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1431,8 +1417,8 @@
                  <surname type="stage">Raymond</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1768</birth>
-              <death>1817</death>
+              <birth when="1768">1768</birth>
+              <death when="1817">1817</death>
               <floruit notBefore="1790"/>
               <nationality>Scottish</nationality>
               <occupation>Actor, Theatre Manager</occupation>
@@ -1445,8 +1431,8 @@
                  <surname>Reeve</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1757</birth>
-              <death>1815</death>
+              <birth when="1757">1757</birth>
+              <death when="1815">1815</death>
               <floruit notBefore="1783" notAfter="1815"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -1474,8 +1460,8 @@
                  <surname>Russell</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1766</birth>
-              <death>1845</death>
+              <birth when="1766">1766</birth>
+              <death when="1845">1845</death>
               <floruit notBefore="1773" notAfter="1841"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1503,7 +1489,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1829</death>
+              <death when="1829">1829</death>
               <floruit notBefore="1769" notAfter="1817"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -1516,8 +1502,8 @@
                  <surname type="married">Siddons</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1755</birth>
-              <death>1831</death>
+              <birth when="1755">1755</birth>
+              <death when="1831">1831</death>
               <floruit notBefore="1766" notAfter="1819"/>
               <nationality>Welsh</nationality>
               <occupation>Actor</occupation>
@@ -1530,8 +1516,8 @@
                  <surname>Simmons</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1773</birth>
-              <death>1819</death>
+              <birth when="1773">1773</birth>
+              <death when="1819">1819</death>
               <floruit notBefore="1783" notAfter="1819"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1558,8 +1544,8 @@
                  <surname>Smith</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1786</birth>
-              <death>1856</death>
+              <birth when="1786">1786</birth>
+              <death when="1856">1856</death>
               <floruit notBefore="1798"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -1571,8 +1557,8 @@
                  <surname>Smith</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1777</birth>
-              <death>1836</death>
+              <birth when="1777">1777</birth>
+              <death when="1836">1836</death>
               <floruit notBefore="1794" notAfter="1824"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1600,8 +1586,8 @@
                  <surname>Sparks</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1752</birth>
-              <death>1816</death>
+              <birth when="1752">1752</birth>
+              <death when="1816">1816</death>
               <floruit notBefore="1769" notAfter="1816"/>
               <nationality>Scottish</nationality>
               <occupation>Actor</occupation>
@@ -1615,8 +1601,8 @@
                  <surname type="married">Sparks</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1754</birth>
-              <death>1837</death>
+              <birth when="1754">1754</birth>
+              <death when="1837">1837</death>
               <floruit notBefore="1773" notAfter="1820"/>
               <nationality>Unknown</nationality>
               <occupation>Actor</occupation>
@@ -1631,8 +1617,8 @@
                  <surname>Storace</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1762</birth>
-              <death>1796</death>
+              <birth when="1762">1762</birth>
+              <death when="1796">1796</death>
               <floruit notBefore="1782" notAfter="1796"/>
               <nationality>English</nationality>
               <occupation>Composer</occupation>
@@ -1672,8 +1658,8 @@
                  <surname>Tidswell</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>1760</birth>
-              <death>1846</death>
+              <birth when="1760">1760</birth>
+              <death when="1846">1846</death>
               <floruit notBefore="1768" notAfter="1822"/>
               <nationality>Unknown</nationality>
               <occupation>Actor</occupation>
@@ -1731,7 +1717,7 @@
               </persName>
               <gender value="M">Man</gender>
               <birth>Unknown</birth>
-              <death>1826</death>
+              <death when="1826">1826</death>
               <floruit notBefore="1788"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1758,8 +1744,8 @@
                  <surname>Welsh</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1780</birth>
-              <death>1848</death>
+              <birth when="1780">1780</birth>
+              <death when="1848">1848</death>
               <floruit notBefore="1792" notAfter="1825"/>
               <nationality>English</nationality>
               <occupation>Composer, Singer</occupation>
@@ -1772,7 +1758,7 @@
                  <surname>West</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>c.1757</birth>
+              <birth when="1757">c.1757</birth>
               <death>Unknown</death>
               <floruit notBefore="1768" notAfter="1830"/>
               <nationality>English</nationality>
@@ -1786,8 +1772,8 @@
                  <surname>Wewitzer</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1748</birth>
-              <death>1825</death>
+              <birth when="1748">1748</birth>
+              <death when="1825">1825</death>
               <floruit notBefore="1773" notAfter="1819"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1828,8 +1814,8 @@
                  <surname>Wrench</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>c.1776</birth>
-              <death>1843</death>
+              <birth when="1776">c.1776</birth>
+              <death when="1843">1843</death>
               <floruit notBefore="1783" notAfter="1840"/>
               <nationality>English</nationality>
               <occupation>Actor</occupation>
@@ -1842,8 +1828,8 @@
                  <surname>Wroughton</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth>1748</birth>
-              <death>1822</death>
+              <birth when="1748">1748</birth>
+              <death when="1822">1822</death>
               <floruit notBefore="1768-10-24" notAfter="1815"/>
               <nationality>English</nationality>
               <occupation>Actor, Theatre Manager</occupation>
@@ -1857,14 +1843,14 @@
            <settlement>London</settlement>
            <region>England</region>
            <country>United Kingdom</country>
-           <location><geo>XXX.</geo></location>
+           <location><geo>51.5131°N, -0.1228°W</geo></location>
         </place>
         <place xml:id="haymarket">
            <placeName>Theatre Royal, Haymarket</placeName>
            <settlement>London</settlement>
            <region>England</region>
            <country>United Kingdom</country>
-           <location><geo>XXX.</geo></location>
+           <location><geo>51.5086°N, -0.1314°W</geo></location>
         </place>
          <place xml:id="lyceum">
            <placeName>Theatre Royal, Lyceum</placeName>
@@ -1875,10 +1861,6 @@
         </place>
      </listPlace>
      <listBibl>
-        <bibl xml:id="play_a_bold_stroke_for_a_husband">
-           <title level="m">A Bold Stroke For a Husband</title>
-           <author>Hannah Parkhouse Cowley</author>
-        </bibl>
         <bibl xml:id="play_agreeable_surprise">
            <title level="m">The Agreeable Surprise</title>
            <author>John O'Keeffe</author>
@@ -1886,10 +1868,6 @@
         <bibl xml:id="play_all_the_worlds_a_stage">
            <title level="m">All the World's A Stage</title>
            <author>Isaac Jackman</author>
-        </bibl>
-        <bibl xml:id="play_new_way_to_pay_old_debts">
-           <title level="m">A New Way to Pay Old Debts</title>
-           <author>Philip Massinger</author>
         </bibl>
         <bibl xml:id="play_animal_magnetism">
            <title level="m">Animal Magnetism</title>
@@ -1909,16 +1887,20 @@
         </bibl>
         <bibl xml:id="play_birth_day">
            <title level="m">The Birth-Day</title>
-           <author>XXX.</author>
+           <author>Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_blue_beard">
            <title level="m" type="main">Blue Beard</title>
            <title type="sub">Or, Female Curiosity</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_blue_devils">
            <title level="m">Blue Devils</title>
-           <author>George Colman Jr.</author>
+           <author>George Colman, Jr.</author>
+        </bibl>
+        <bibl xml:id="play_a_bold_stroke_for_a_husband">
+           <title level="m">A Bold Stroke For A Husband</title>
+           <author>Hannah Parkhouse Cowley</author>
         </bibl>
         <bibl xml:id="play_bombastes_furioso">
            <title level="m">Bombastes Furioso</title>
@@ -1969,7 +1951,7 @@
         <bibl xml:id="play_doldrum">
            <title level="m" type="main">The Doldrum</title>
            <title type="sub">Or, 1819</title>
-           <author>XXX.</author>
+           <author>John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_dramatist">
            <title level="m">The Dramatist</title>
@@ -2049,7 +2031,7 @@
         </bibl>
         <bibl xml:id="play_how_to_die_for_love">
            <title level="m">How to Die For Love!</title>
-           <author>Anonymous (?)</author>
+           <author>XXX.</author>
         </bibl>
         <bibl xml:id="play_hunter_of_the_alps">
            <title level="m">Hunter of the Alps</title>
@@ -2069,7 +2051,7 @@
         </bibl>
         <bibl xml:id="play_is_he_a_prince">
            <title level="m">Is He A Prince?</title>
-           <author>XXX.</author>
+           <author>Robert William Elliston</author>
         </bibl>
         <bibl xml:id="play_julius_caesar">
            <title level="m">Julius Caesar</title>
@@ -2078,7 +2060,7 @@
         <bibl xml:id="play_kamtchatka">
            <title level="m" type="main">Kamtchatka</title>
            <title type="sub">Or, The Slaves Tribute</title>
-           <author>XXX.</author>
+           <author>Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_henry_v">
            <title level="m" type="main">King Henry the Fifth</title>
@@ -2122,7 +2104,7 @@
         </bibl>
         <bibl xml:id="play_magic_bride"> 
            <title level="m">The Magic Bride</title>
-           <author>XXX.</author>
+           <author>Lumley Skeffington</author>
         </bibl> 
         <bibl xml:id="play_man_and_wife">
            <title level="m" type="main">Man and Wife</title>
@@ -2145,6 +2127,10 @@
         <bibl xml:id="play_midnight_hour">
            <title level="m">The Midnight Hour</title>
            <author>Elizabeth Simpson Inchbald</author>
+        </bibl>
+        <bibl xml:id="play_new_way_to_pay_old_debts">
+           <title level="m">A New Way to Pay Old Debts</title>
+           <author>Philip Massinger</author>
         </bibl>
         <bibl xml:id="play_no_song_no_supper">
            <title level="m">No Song No Supper</title>
@@ -2198,8 +2184,9 @@
            <author>Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_prejudice">
-           <title level="m">Prejudice</title>
-           <author>XXX.</author>
+           <title level="m" type="main">Prejudice</title>
+           <title type="sub">Or, Modern Sentiment</title>
+           <author>Alicia Sheridan Lefanu</author>
         </bibl>
         <bibl xml:id="play_prisoner_at_large">
            <title level="m">The Prisoner at Large</title>
@@ -2222,7 +2209,7 @@
         <bibl xml:id="play_quadrupeds_of_quedlinburgh">
            <title level="m" type="main">The Quadrupeds of Quedlinburgh</title>
            <title type="sub">Or, The Rovers of Weimar</title>
-           <author>XXX.</author>
+           <author>George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_raising_wind">
            <title level="m">Raising the Wind</title>
@@ -2251,13 +2238,13 @@
            <title level="m">Right and Wrong</title>
            <author>[Unknown] Burton</author>
         </bibl>
-        <bibl xml:id="play_rivals">
-           <title level="m">The Rivals</title>
-           <author>Richard Brinsley Sheridan</author>
-        </bibl>
         <bibl xml:id="play_rival_soldiers">
            <title level="m">The Rival Soldiers</title>
            <author>XXX.</author>
+        </bibl>
+        <bibl xml:id="play_rivals">
+           <title level="m">The Rivals</title>
+           <author>Richard Brinsley Sheridan</author>
         </bibl>
         <bibl xml:id="play_road_to_ruin">
            <title level="m">The Road to Ruin</title>
@@ -2277,7 +2264,7 @@
         </bibl>
         <bibl xml:id="play_round_robin">
            <title level="m">The Round Robin</title>
-           <author>XXX.</author>
+           <author>Charles Dibdin, Jr.</author>
         </bibl>
         <bibl xml:id="play_royal_oak">
            <title level="m">The Royal Oak</title>
