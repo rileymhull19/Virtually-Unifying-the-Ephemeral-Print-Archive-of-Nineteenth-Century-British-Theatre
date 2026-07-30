@@ -19,7 +19,7 @@
   <standOff>
         <listPerson>
            <person xml:id="sa_ar">
-              <persName>
+              <persName ref="http://viaf.org/viaf/76505585">
                  <forename>Samuel</forename>
                  <surname>Arnold</surname>
               </persName>
@@ -32,7 +32,7 @@
               <note>See <bibl><title>Arnold, Samuel</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_at">
-              <persName>
+              <persName ref="http://viaf.org/viaf/56177472">
                  <forename>William</forename>
                  <surname>Atkins</surname>
               </persName>
@@ -60,7 +60,7 @@
               <note>See <bibl><title>Banks, Henry</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_lu_be">
-              <persName>
+              <persName ref="http://viaf.org/viaf/83569113">
                  <forename type="first">Thomas</forename>
                  <forename type="middle">Ludford</forename>
                  <surname>Bellamy</surname>
@@ -75,7 +75,7 @@
               <note>See <bibl><title>Bellamy, Thomas Ludford</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="he_ro_bi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/59829909">
                  <forename type="first">Henry</forename>
                  <forename type="middle">Rowley</forename>
                  <surname>Bishop</surname>
@@ -89,7 +89,7 @@
               <note>See <bibl><title>Bishop, Henry Rowley</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_bl">
-              <persName>
+              <persName ref="http://viaf.org/viaf/75880480">
                  <forename>William</forename>
                  <surname>Blanchard</surname>
               </persName>
@@ -103,7 +103,7 @@
               <note>See <bibl><title>Blanchard, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-2604">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-2604</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_bl">
-              <persName>
+              <persName ref="http://viaf.org/viaf/54072839">
                  <forename>Maria</forename>
                  <surname type="married">Bland</surname>
               </persName>
@@ -117,7 +117,7 @@
               <note>See <bibl><title>Bland, Maria</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_pe_bo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/61117788">
                  <forename type="first">John</forename>
                  <forename type="middle">Peter</forename>
                  <surname>Bologna</surname>
@@ -132,7 +132,7 @@
               <note>See <bibl><title>Bologna, John Peter</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="pi_bo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/61118750">
                  <forename>Pietro</forename>
                  <surname>Bologna</surname>
               </persName>
@@ -146,7 +146,7 @@
               <note>See <bibl><title>Bologna, Pietro</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_bo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/305040454">
                  <forename>Sarah</forename>
                  <surname>Booth</surname>
               </persName>
@@ -189,7 +189,7 @@
               <note>See <bibl><title>Boyce, Susannah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_br">
-              <persName>
+              <persName ref="http://viaf.org/viaf/27821078">
                  <forename>John</forename>
                  <surname>Braham</surname>
               </persName>
@@ -203,7 +203,7 @@
               <note>See <bibl><title>Braham, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ca">
-              <persName>
+              <persName ref="http://viaf.org/viaf/46334644">
                  <forename>John</forename>
                  <surname>Caulfield</surname>
               </persName>
@@ -217,7 +217,7 @@
               <note>See <bibl><title>Caulfield, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_ch">
-              <persName>
+              <persName ref="http://viaf.org/viaf/60441613">
                  <forename>Marianne</forename>
                  <surname>Chambers</surname>
               </persName>
@@ -272,7 +272,7 @@
               <note>See <bibl><title>Coates, Elizabeth</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ja_co">
-              <persName>
+              <persName ref="http://viaf.org/viaf/35811840">
                  <forename>James</forename>
                  <surname>Cobb</surname>
               </persName>
@@ -285,7 +285,7 @@
               <note>See <bibl><title>Cobb, James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731</ref>)</bibl>.</note>
            </person>
            <person xml:id="he_co">
-              <persName>
+              <persName ref="http://viaf.org/viaf/43200197">
                  <forename>Henry</forename>
                  <surname>Condell</surname>
               </persName>
@@ -298,7 +298,7 @@
               <note>See <bibl><title>Condell, Henry</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_si_co">
-              <persName>
+              <persName ref="http://viaf.org/viaf/44727402">
                  <forename type="first">Thomas</forename>
                  <forename type="middle">Simpson</forename>
                  <surname>Cooke</surname>
@@ -313,7 +313,7 @@
               <note>See <bibl><title>Cooke, Thomas Simpson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ge_co">
-              <persName>
+              <persName ref="http://viaf.org/viaf/30345422">
                  <forename>George</forename>
                  <surname>Colman</surname>
               </persName>
@@ -354,7 +354,7 @@
               <note>See <bibl><title>Danby, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ge_go_da">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24162098">
                  <forename type="first">George</forename>
                  <forename type="middle">Gosling</forename>
                  <surname>Davenport</surname>
@@ -369,7 +369,7 @@
               <note>See <bibl><title>Davenport, George Gosling</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_an_da">
-              <persName>
+              <persName ref="http://viaf.org/viaf/63569766">
                  <forename>Mary Ann</forename>
                  <surname type="birth">Harvey</surname>
                  <surname type="married">Davenport</surname>
@@ -384,7 +384,7 @@
               <note>See <bibl><title>Davenport, Mrs George Gosling, Mary Ann, nee Ilarvey</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_da">
-              <persName>
+              <persName ref="http://viaf.org/viaf/78999376">
                  <forename type="first">Maria</forename>
                  <forename type="middle">Rebecca</forename>
                  <surname type="birth">Duncan</surname>
@@ -400,7 +400,7 @@
               <note>See <bibl><title>Davison [née Duncan], Maria Rebecca</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304</ref>)</bibl>.</note>
            </person>
            <person xml:id="vi_de">
-              <persName>
+              <persName ref="http://viaf.org/viaf/26627748">
                  <forename>Vincent</forename>
                  <surname>De Camp</surname>
               </persName>
@@ -442,7 +442,7 @@
               <note>See <bibl><title>Dibble, Robert</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person> 
            <person xml:id="ch_di">
-              <persName>
+              <persName ref="http://viaf.org/viaf/30969418">
                  <forename>Charles</forename>
                  <surname>Dignum</surname>
               </persName>
@@ -456,7 +456,7 @@
               <note>See <bibl><title>Dignum, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_do">
-              <persName>
+              <persName ref="http://viaf.org/viaf/28537790">
                  <forename>William</forename>
                  <surname>Dowton</surname>
               </persName>
@@ -470,7 +470,7 @@
               <note>See <bibl><title>Dowton, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="el_ed">
-              <persName>
+              <persName ref="http://viaf.org/viaf/83572384">
                  <forename type="first">Elizabeth</forename>
                  <forename type="middle">Rebecca</forename>
                  <surname type="birth">Richards</surname>
@@ -486,7 +486,7 @@
               <note>See <bibl><title>Edwin, Mrs John, Elizabeth Rebecca, née Richards</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="da_eg">
-              <persName>
+              <persName ref="http://viaf.org/viaf/12133389">
                  <forename>Daniel</forename>
                  <surname>Egerton</surname>
               </persName>
@@ -500,7 +500,7 @@
               <note>See <bibl><title>Egerton, Daniel</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_eg">
-              <persName>
+              <persName ref="http://viaf.org/viaf/78999526">
                  <forename>Sarah</forename>
                  <surname>Egerton</surname>
               </persName>
@@ -514,7 +514,7 @@
               <note>See <bibl><title>Egerton, Daniel</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ro_wi_el">
-              <persName>
+              <persName ref="http://viaf.org/viaf/3833089">
                  <forename type="first">Robert</forename>
                  <forename type="middle">William</forename>
                  <surname>Elliston</surname>
@@ -529,7 +529,7 @@
               <note>See <bibl><title>Elliston, Robert William</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_em">
-              <persName>
+              <persName ref="http://viaf.org/viaf/63571188">
                  <forename>John</forename>
                  <surname>Emery</surname>
               </persName>
@@ -543,7 +543,7 @@
               <note>See <bibl><title>Emery, John</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ed_ey">
-              <persName>
+              <persName ref="http://viaf.org/viaf/30895869">
                  <forename type="first">Edmund</forename>
                  <forename type="middle">John</forename>
                  <surname>Eyre</surname>
@@ -558,7 +558,7 @@
               <note>See <bibl><title>Eyre, Edmund John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_fa">
-              <persName>
+              <persName ref="http://viaf.org/viaf/50584446">
                  <forename>Charles</forename>
                  <surname>Farley</surname>
               </persName>
@@ -572,7 +572,7 @@
               <note>See <bibl><title>Farley, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_fa">
-              <persName>
+              <persName ref="http://viaf.org/viaf/51958044">
                  <forename>John</forename>
                  <surname>Fawcett</surname>
               </persName>
@@ -586,7 +586,7 @@
               <note>See <bibl><title>Fawcett, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_br_fi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/75880530">
                  <forename type="first">Joshua</forename>
                  <forename type="middle">Bridges</forename>
                  <surname>Fisher</surname>
@@ -601,7 +601,7 @@
               <note>See <bibl><title>Fisher, Joshua Bridges</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_gi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/43861814">
                  <forename>Maria</forename>
                  <surname type="birth">Logan</surname>
                  <surname type="married">Gibbs</surname>
@@ -645,7 +645,7 @@
               <note>See <bibl><title>Goodman, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_je_go">
-              <persName>
+              <persName ref="http://viaf.org/viaf/168082171">
                  <forename type="first">John</forename>
                  <forename type="middle">Jeremiah</forename>
                  <surname>Goss</surname>
@@ -659,7 +659,7 @@
               <note>See <bibl><title>Goss, John Jeremiah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_he_gr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/34023447">
                  <forename type="first">John</forename>
                  <forename type="middle">Henderson</forename>
                  <surname>Grieve</surname>
@@ -674,7 +674,7 @@
               <note>See <bibl><title>Grieve, John Henderson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_gr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/76308205">
                  <forename>Joseph</forename>
                  <surname>Grimaldi</surname>
               </persName>
@@ -688,7 +688,7 @@
               <note>See <bibl><title>Grimaldi, Joseph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_gr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/31570346">
                  <forename>Thomas</forename>
                  <surname>Greenwood</surname>
               </persName>
@@ -702,7 +702,7 @@
               <note>See <bibl><title>Greenwood, Thomas</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_ha">
-              <persName>
+              <persName ref="http://viaf.org/viaf/37668215">
                  <forename type="stage">Sarah</forename>
                  <surname type="stage">Harlowe</surname>
               </persName>
@@ -730,7 +730,7 @@
               <note>See <bibl><title>Hodgins, Mr</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/96821336">
                  <forename>Charles</forename>
                  <surname>Holland</surname>
               </persName>
@@ -772,7 +772,7 @@
               <note>See <bibl><title>Holman, Agnes</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ge_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/27501558">
                  <forename type="first">Joseph</forename>
                  <forename type="middle">George</forename>
                  <surname>Holman</surname>
@@ -787,7 +787,7 @@
               <note>See <bibl><title>Holman, Joseph George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ed_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/42091688">
                  <forename type="first">Charles</forename>
                  <forename type="middle">Edward</forename>
                  <surname>Horn</surname>
@@ -815,7 +815,7 @@
               <note>See <bibl><title>Howell, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_be_in">
-              <persName>
+              <persName ref="http://viaf.org/viaf/55315382">
                  <forename type="first">Charles</forename>
                  <forename type="middle">Benjamin</forename>
                  <surname>Incledon</surname>
@@ -830,7 +830,7 @@
               <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_he_jo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/75020727">
                  <forename type="first">John</forename>
                  <forename type="middle">Henry</forename>
                  <surname>Johnstone</surname>
@@ -845,7 +845,7 @@
               <note>See <bibl><title>Johnstone, Henry John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14969</ref>)</bibl>.</note>
            </person>
            <person xml:id="na_jo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/83547619">
                  <forename>Nannette</forename>
                  <surname type="birth">Park</surname>
                  <surname type="married">Johnston</surname>
@@ -860,7 +860,7 @@
               <note>See <bibl><title>Johnston, Mrs Henry Erskine the first, Nannette, nee Park</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="mi_ke">
-              <persName>
+              <persName ref="http://viaf.org/viaf/51703902">
                  <forename>Michael</forename>
                  <surname>Kelly</surname>
               </persName>
@@ -874,7 +874,7 @@
               <note>See <bibl><title>Kelly, Michael</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ke">
-              <persName>
+              <persName ref="http://viaf.org/viaf/59345857">
                  <forename>Charles</forename>
                  <surname>Kemble</surname>
               </persName>
@@ -888,7 +888,7 @@
               <note>See <bibl><title>Kemble, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_th_ke">
-              <persName>
+              <persName ref="http://viaf.org/viaf/122326367">
                  <forename type="first">Maria</forename>
                  <forename type="middle">Theresa</forename>
                  <surname type="birth">De Camp</surname>
@@ -904,7 +904,7 @@
               <note>See <bibl><title>Kemble, Mrs Charles, Maria Theresa, nee De Camp</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ph_ke">
-              <persName>
+              <persName ref="http://viaf.org/viaf/74763759">
                  <forename type="first">John</forename>
                  <forename type="second">Philip</forename>
                  <surname>Kemble</surname>
@@ -919,7 +919,7 @@
               <note>See <bibl><title>Kemble, John Philip</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_pe_ki">
-              <persName>
+              <persName ref="http://viaf.org/viaf/6291556">
                  <forename type="first">Matthew</forename>
                  <forename type="middle">Peter</forename>
                  <surname>King</surname>
@@ -948,7 +948,7 @@
               <note>See <bibl><title>Leserve, Anna Maria</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_li">
-              <persName>
+              <persName ref="http://viaf.org/viaf/3915614">
                  <forename>John</forename>
                  <surname>Liston</surname>
               </persName>
@@ -962,7 +962,7 @@
               <note>See <bibl><title>Liston, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_li">
-              <persName>
+              <persName ref="http://viaf.org/viaf/90499525">
                  <forename>Sarah</forename>
                  <surname>Liston</surname>
               </persName>
@@ -976,7 +976,7 @@
               <note>See <bibl><title>Liston, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_lo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/7574551">
                  <forename>Matthew</forename>
                  <surname>Locke</surname>
               </persName>
@@ -989,7 +989,7 @@
               <note>See <bibl><title>Locke, Matthew</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_lo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/200830272">
                  <forename>William</forename>
                  <surname>Lovegrove</surname>
               </persName>
@@ -1017,7 +1017,7 @@
               <note>See <bibl><title>Maddocks, Mrs Walter</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wa_ma">
-              <persName>
+              <persName ref="http://viaf.org/viaf/96821389">
                  <forename>Walter</forename>
                  <surname>Maddocks</surname>
               </persName>
@@ -1059,7 +1059,7 @@
               <note>See <bibl><title>Massingham, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ma">
-              <persName>
+              <persName ref="http://viaf.org/viaf/57418276">
                  <forename>Charles</forename>
                  <surname>Mathews</surname>
               </persName>
@@ -1087,7 +1087,7 @@
               <note>See <bibl><title>Mead, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ha_me">
-              <persName>
+              <persName ref="http://viaf.org/viaf/45757542">
                  <forename>Harriot</forename>
                  <surname>Mellon</surname>
               </persName>
@@ -1129,7 +1129,7 @@
               <note>See <bibl><title>Menage, Mons</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="fe_me">
-              <persName>
+              <persName ref="http://viaf.org/viaf/26627425">
                  <forename>Frederick</forename>
                  <surname>Menage</surname>
               </persName>
@@ -1184,7 +1184,7 @@
               <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
            </person>
            <person xml:id="th_mo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24616222">
                  <forename>Thomas</forename>
                  <surname>Moore</surname>
               </persName>
@@ -1197,7 +1197,7 @@
               <note>See <bibl><title>Moore, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150</ref>)</bibl>.</note>
            </person>
            <person xml:id="ro_mo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24494889">
                  <forename>Rosemond</forename>
                  <surname type="birth">Wilkinson</surname>
                  <surname type="married">Mountain</surname>
@@ -1212,7 +1212,7 @@
               <note>See <bibl><title>Mountain, Mrs John, Rosemond, née Wilkinson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_sh_mu">
-              <persName>
+              <persName ref="http://viaf.org/viaf/44107475">
                  <forename type="first">Joseph</forename>
                  <forename type="middle">Shepherd</forename>
                  <surname>Munden</surname>
@@ -1227,7 +1227,7 @@
               <note>See <bibl><title>Munden, Joseph Shepherd</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_mu">
-              <persName>
+              <persName ref="http://viaf.org/viaf/40750018">
                  <forename>Charles</forename>
                  <surname>Murray</surname>
               </persName>
@@ -1255,7 +1255,7 @@
               <note>See <bibl><title>Norman, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ok">
-              <persName>
+              <persName ref="http://viaf.org/viaf/78145067061566630171">
                  <forename>John</forename>
                  <surname>O'Keeffe</surname>
               </persName>
@@ -1268,7 +1268,7 @@
               <note>See <bibl><title>O'Keeffe, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20658">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20658</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_an_or">
-              <persName>
+              <persName ref="http://viaf.org/viaf/36481830">
                  <forename type="first">Mary</forename>
                  <forename type="middle">Ann</forename>
                  <surname type="birth">Ivers</surname>
@@ -1284,7 +1284,7 @@
               <note>See <bibl><title>Orger [née Ivers], Mary Ann</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_ox">
-              <persName>
+              <persName ref="http://viaf.org/viaf/70291270">
                  <forename>William</forename>
                  <surname>Oxberry</surname>
               </persName>
@@ -1326,7 +1326,7 @@
               <affiliation>Covent Garden Theatre, Sadler's Wells</affiliation>
            </person>
            <person xml:id="th_ph">
-              <persName>
+              <persName ref="http://viaf.org/viaf/26957837">
                  <forename>Thomas</forename>
                  <surname>Philipps</surname>
               </persName>
@@ -1340,7 +1340,7 @@
               <note>See <bibl><title>Philipps, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_ph_scenes">
-              <persName>
+              <persName ref="http://viaf.org/viaf/49496491">
                  <forename>Thomas</forename>
                  <surname>Thomas Phillips</surname>
               </persName>
@@ -1382,7 +1382,7 @@
               <note>See <bibl><title>Powell, Mrs William Jane</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_po">
-              <persName>
+              <persName ref="http://viaf.org/viaf/39760375">
                  <forename>John</forename>
                  <surname>Powell</surname>
               </persName>
@@ -1411,7 +1411,7 @@
               <note>See <bibl><title>Pugh, Charles John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ja_ra">
-              <persName>
+              <persName ref="http://viaf.org/viaf/39760375">
                  <forename>James</forename>
                  <surname>Grant</surname>
                  <surname type="stage">Raymond</surname>
@@ -1426,7 +1426,7 @@
               <note>See <bibl><title>Raymond, James Grant</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_re">
-              <persName>
+              <persName ref="http://viaf.org/viaf/75016511">
                  <forename>William</forename>
                  <surname>Reeve</surname>
               </persName>
@@ -1454,7 +1454,7 @@
               <note>See <bibl><title>Rein, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_ru">
-              <persName>
+              <persName ref="http://viaf.org/viaf/66034724">
                  <forename type="first">Samuel</forename>
                  <forename type="middle">Thomas</forename>
                  <surname>Russell</surname>
@@ -1469,7 +1469,7 @@
               <note>See <bibl><title>Russell, Samuel Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337</ref>)</bibl>.</note>
            </person>
            <person xml:id="an_sc">
-              <persName>
+              <persName ref="http://viaf.org/viaf/83569355">
                  <forename>Ann</forename>
                  <surname>Scott</surname>
               </persName>
@@ -1483,7 +1483,7 @@
               <note>See <bibl><title>Scott, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_sh">
-              <persName>
+              <persName ref="http://viaf.org/viaf/34644606">
                  <forename>William</forename>
                  <surname>Shield</surname>
               </persName>
@@ -1496,7 +1496,7 @@
               <note>See <bibl><title>Shield, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_ke_si">
-              <persName>
+              <persName ref="http://viaf.org/viaf/57410988">
                  <forename>Sarah</forename>
                  <surname type="birth">Kemble</surname>
                  <surname type="married">Siddons</surname>
@@ -1511,7 +1511,7 @@
               <note>See <bibl><title>Siddons, Mrs William, Sarah, nee Kemble</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_si">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24164109">
                  <forename>Samuel</forename>
                  <surname>Simmons</surname>
               </persName>
@@ -1539,7 +1539,7 @@
               <note>See <bibl><title>Smith, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_sm">
-              <persName>
+              <persName ref="http://viaf.org/viaf/4349149108410668780007">
                  <forename>Charles</forename>
                  <surname>Smith</surname>
               </persName>
@@ -1552,7 +1552,7 @@
               <note>See <bibl><title>Smith, Charles</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25784">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25784</ref>)</bibl>.</note>
            </person>
            <person xml:id="ge_sm">
-              <persName>
+              <persName ref="http://viaf.org/viaf/83552717">
                  <forename>George</forename>
                  <surname>Smith</surname>
               </persName>
@@ -1610,7 +1610,7 @@
               <note>See <bibl><title>Sparks, Mrs G. Hugh, Sarah, née Mills</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="st_jo_se_st">
-              <persName>
+              <persName ref="http://viaf.org/viaf/29719456">
                  <forename type="first">Stephen</forename>
                  <forename type="middle">John</forename>
                  <forename type="middle">Seymour</forename>
@@ -1653,7 +1653,7 @@
               <note>See <bibl><title>Tett, Joseph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_ti">
-              <persName>
+              <persName ref="http://viaf.org/viaf/100750460">
                  <forename>Charlotte</forename>
                  <surname>Tidswell</surname>
               </persName>
@@ -1695,7 +1695,7 @@
               <note>See <bibl><title>Vials, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="je_vi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/96823903">
                  <forename type="first">Jemima</forename>
                  <forename type="middle">Marian</forename>
                  <surname type="birth">Bew</surname>
@@ -1739,7 +1739,7 @@
               <note>See <bibl><title>Wells, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_we">
-              <persName>
+              <persName ref="http://viaf.org/viaf/37691453">
                  <forename>Thomas</forename>
                  <surname>Welsh</surname>
               </persName>
@@ -1767,7 +1767,7 @@
               <note>See <bibl><title>West, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ra_we">
-              <persName>
+              <persName ref="http://viaf.org/viaf/8763250">
                  <forename>Ralph</forename>
                  <surname>Wewitzer</surname>
               </persName>
@@ -1781,7 +1781,7 @@
               <note>See <bibl><title>Wewitzer, Ralph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="h_wh">
-              <persName>
+              <persName ref="http://viaf.org/viaf/27148389377110711516">
                  <forename>H.</forename>
                  <surname type="married">Whitmore</surname>
               </persName>
@@ -1795,7 +1795,7 @@
               <note>See <bibl><title>Whitmore, Mrs [James? or John?] Whitmore</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_wh">
-              <persName>
+              <persName ref="http://viaf.org/viaf/26638949">
                  <forename>Samuel</forename>
                  <surname>Whitmore</surname>
               </persName>
@@ -1809,7 +1809,7 @@
               <note>See <bibl><title>Whitmore, Samuel</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="be_wr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/70953401">
                  <forename>Benjamin</forename>
                  <surname>Wrench</surname>
               </persName>
@@ -1823,7 +1823,7 @@
               <note>See <bibl><title>Wrench, Benjamin</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-30023">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-30023</ref>)</bibl>.</note>
            </person>
            <person xml:id="ri_wr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/17626875">
                  <forename>Richard</forename>
                  <surname>Wroughton</surname>
               </persName>
@@ -2385,8 +2385,8 @@
      </listBibl>
      <listEvent>
         <event type="performance" where="#lyceum" when="1811-01-02">
-            <ab type="mainpiece">Lost and Found</ab>
-            <ab type="afterpiece">The Magic Bride</ab>
+            <ab type="mainpiece_title">Lost and Found</ab>
+            <ab type="afterpiece_title">The Magic Bride</ab>
            <ref target="PB_01021811_L_BL.xml"/>
            <ref target="Ex_01061811.xml"/>
         </event>
