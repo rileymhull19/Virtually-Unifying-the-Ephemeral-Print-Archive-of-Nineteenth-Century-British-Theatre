@@ -25,7 +25,7 @@
                <castList>
                   <castItem><role>Cato</role> by <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem><lb/>
                   <castItem><role>Porcius</role> by <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem> <castItem><role>Lucius</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
-                  <castItem><role>Marcus</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Sempronius</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Marcus</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Sempronius</role> by <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Decius</role> by <actor>Mr. <hi rend="allcaps">Cresswell</hi>,</actor></castItem> <castItem><role>Juba</role> by <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
                   <castItem><role>Syphax</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
                   <castItem><role>Junius</role> by <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Titus</role> by <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem><lb/>
@@ -33,11 +33,11 @@
                </castList>
                To which will be added, <hi rend="italic">for the fifth time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_blue_beard"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
-                  <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
+                  <title type="sub"><hi rend="italic">Or, Female Curiosity.</hi></title></bibl><lb/>
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
                <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>

@@ -32,7 +32,7 @@
                The Dresses by Mr. Flowers and Miss Egan.<lb/>
                <castList>
                   <head><hi rend="italic">Principal Characters.</hi></head>
-                  <castItem><role>Ataliba</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Ataliba</role> by <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>The High Priest</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
                   <castItem><role>Xaira</role> by <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem><lb/>
                   <castItem><role>Telasko</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>

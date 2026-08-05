@@ -26,7 +26,7 @@
                <hi rend="italic">The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Musick</hi> composed by <persName ref="namedentities.xml#he_ro_bi">Mr. <hi rend="allcaps">H.R. Bishop</hi></persName>.</hi><lb/>
                <castList>
                   <head><hi rend="italic">The principal Characters by</hi></head>
-                  <castItem><actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><actor>Master <hi rend="allcaps">Chapman</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#jo_em">Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><actor>Master <hi rend="allcaps">Droset</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_lu_be">Mr. <hi rend="allcaps">Bellamy</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
@@ -38,7 +38,7 @@
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
                <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>

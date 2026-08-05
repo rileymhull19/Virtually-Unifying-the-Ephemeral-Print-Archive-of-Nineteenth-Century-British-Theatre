@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01071812_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01071812_cg_jj" corresp="#ex_01191812">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -24,7 +24,7 @@
                <bibl><title ref="namedentities.xml#play_percy"><hi rend="allcaps">Percy</hi>.</title></bibl><lb/>
                <castList>
                   <castItem><role>Percy, Earl of Northumberland,</role> <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Earl Douglas,</role> <actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
-                  <castItem><role>Earl Raby,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Hubert,</role> <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Earl Raby,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Hubert,</role> <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
                   <castItem><role>Harcourt,</role> <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Edrick,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">Knights</hi>,</role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold</actor></castItem><lb/>
                   <castItem><role>Elwina</role> by <actor>Miss <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
@@ -48,7 +48,7 @@
                   <castItem><role>Priz,</role> <actor>Mr. <hi rend="allcaps">Huckel</hi>,</actor></castItem> <castItem><role>Chief of the Haram,</role> <actor>Mr. <hi rend="allcaps">Louis</hi>,</actor></castItem> <castItem><role>Clerk of the Sultan's Kitchen,</role> <actor>Mr. <hi rend="allcaps">Heath</hi>,</actor></castItem><lb/>
            <castItem><role>Scullions,</role> Masters <actor>Bradwell,</actor> <actor>Chapman,</actor> <actor>Goodwin,</actor> <actor>Morelli,</actor> <actor>Wilson,</actor> <actor>Yarnold</actor></castItem><lb/>
                   <castItem><role>Slaves,</role> Mess. <actor>Baker,</actor> <actor>J. Cardozo,</actor> <actor>Foffee,</actor> <actor>Griffiths,</actor> <actor>Jeffkins,</actor></castItem><lb/>
-                  <castItem><role>Welch Colliers</role> Mess. <actor>Banks,</actor> <actor>Goodwin,</actor> <actor>W. Griffiths,</actor> <actor>J. Jeffkins,</actor> <actor>Telfer,</actor> <actor>W. Truman</actor></castItem><lb/>
+                  <castItem><role>Welch Colliers</role> Mess. <actor ref="namedentities.xml#mr_banks">Banks,</actor> <actor>Goodwin,</actor> <actor>W. Griffiths,</actor> <actor>J. Jeffkins,</actor> <actor>Telfer,</actor> <actor>W. Truman</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">Sheep Shearers,</hi></role> Mess. <actor>Brown,</actor> <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor ref="namedentities.xml#mr_pl">Platt,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Yarnold.</actor></castItem>
                   <castItem><role><hi rend="allcaps">Zelica</hi>, the Sultan's Daughter, (afterwards Colombine)</role> <actor ref="namedentities.xml#so_pa">Mrs. <hi rend="allcaps">Parker</hi>,</actor></castItem><lb/>
                   <castItem><role>Morea, the Fisherman's Daughter,</role> <actor>Miss <hi rend="allcaps">E. Bolton</hi>,</actor></castItem><lb/>

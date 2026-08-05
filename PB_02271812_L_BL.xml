@@ -41,8 +41,8 @@
                   <castItem><role>Porter, at Rodmond Castle,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
                   <castItem><role>Kerr, <hi rend="italic">(a Lawyer)</hi></role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Greenlaw,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem><lb/>
-                  <castItem><role>Officers of Justice,</role> Messrs. <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterley,</hi></actor> <actor><hi rend="allcaps">Evans.</hi></actor></castItem><lb/>
-                  <castItem><role>Butler, at Highly House,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Officers of Justice,</role> Messrs. <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterley,</hi></actor> <actor ref="namedentities.xml#mr_evans"><hi rend="allcaps">Evans.</hi></actor></castItem><lb/>
+                  <castItem><role>Butler, at Highly House,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Bosco, <hi rend="italic">(a recruiting Serjeant)</hi></role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Furbrass, <hi rend="italic">(a drunken Soldier)</hi></role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Lauder, <hi rend="italic">(a Peasant)</hi></role> <actor ref="namedentities.xml#gh_sp">Mr. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>

@@ -26,7 +26,7 @@
                   <castItem><role>Prince Escalus</role> by <actor>Mr. <hi rend="allcaps">Claremont,</hi></actor></castItem> <castItem><role>Paris</role> by <actor>Mr. <hi rend="allcaps">Hamerton,</hi></actor></castItem><lb/>
                   <castItem><role>Montague</role> by <actor>Mr. <hi rend="allcaps">Cresswell,</hi></actor></castItem> <castItem><role>Capulet</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton,</hi></actor></castItem><lb/>
                   <castItem><role>Romeo</role> by <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble,</hi></actor></castItem> <castItem><role>Mercutio</role> by <actor>Mr. <hi rend="allcaps">Jones,</hi></actor></castItem> <castItem><role>Benvolio</role> by <actor>Mr. <hi rend="allcaps">Brunton,</hi></actor></castItem><lb/>
-                  <castItem><role>Tybalt</role> by <actor>Mr. <hi rend="allcaps">Barrymore,</hi></actor></castItem> <castItem><role>Friar Laurence</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray,</hi></actor></castItem> <castItem><role>Friar John</role> by <actor ref="namedentities.xml#ge_go_da">Mr. Davenport,</actor></castItem><lb/>
+                  <castItem><role>Tybalt</role> by <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore,</hi></actor></castItem> <castItem><role>Friar Laurence</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray,</hi></actor></castItem> <castItem><role>Friar John</role> by <actor ref="namedentities.xml#ge_go_da">Mr. Davenport,</actor></castItem><lb/>
                   <castItem><role>Apothecary,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Page</role> <actor>Master <hi rend="allcaps">Chapman,</hi></actor></castItem> <castItem><role>Balthasar</role> by <actor><hi rend="allcaps">Mr. Jefferies,</hi></actor></castItem><lb/>
                   <castItem><role>Abram</role> <actor>Mr. Bishop,</actor></castItem> <castItem><role>Samson</role> <actor ref="namedentities.xml#wi_at">Mr. Atkins,</actor></castItem> <castItem><role>Gregory</role> <actor>Mr. Truman,</actor></castItem> <castItem><role>Peter</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons,</hi></actor></castItem><lb/>
                   <castItem><role>Lady Capulet</role> by <actor>Mrs. <hi rend="allcaps">Weston,</hi></actor></castItem><lb/>
@@ -44,11 +44,11 @@
                will be to be had [<hi rend="italic">only at the Theatre</hi>] this Evening.<lb/>
                To which will be added, <hi rend="italic">for the 7th time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_blue_beard"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
-                  <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
+                  <title type="sub"><hi rend="italic">Or, Female Curiosity.</hi></title></bibl><lb/>
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
                <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>

@@ -24,7 +24,7 @@
                <bibl><title type="main" ref="namedentities.xml#play_twelfth_night">The <hi rend="allcaps">Twelfth Night</hi>;</title><lb/>
                   <title type="sub"><hi rend="italic">Or, <hi rend="allcaps">What You Will</hi>.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Duke Orsino,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Valentine,</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Curio,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem><lb/>
+                  <castItem><role>Duke Orsino,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Valentine,</role> <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Curio,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem><lb/>
                   <castItem><role>Paolo,</role> <actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem> <castItem><role>Cosino,</role> <actor>Mr. <hi rend="allcaps">Bond</hi>,</actor></castItem> <castItem><role>Sir Toby Belch,</role> <actor ref="namedentities.xml#jo_em">Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem><lb/>
                   <castItem><role>Sir Andrew Ague-Cheek,</role> <actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem> <castItem><role>Sebastian,</role> <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem> <castItem><role>Antonio,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem><lb/>
                   <castItem><role>Roberto,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Friar,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Officer,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><role>Malvolio,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi></actor></castItem><lb/>
@@ -38,7 +38,7 @@
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
                <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem><lb/>
                   <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>

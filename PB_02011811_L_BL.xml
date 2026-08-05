@@ -40,7 +40,7 @@
                   <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps"> Powell</hi>,</actor></castItem><lb/>
@@ -65,7 +65,7 @@
                   <castItem><role>Adam Sterling,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem> <castItem><role>Janus Jumbule,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>O'Rourke O'Daisy,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
-                  <castItem><role>Quill,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
+                  <castItem><role>Quill,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><role>Mrs. Augusta Caroline Honeymouth,</role> <actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                   <castItem><role>Clara Sterling,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem> <castItem><role>Delly O'Daisy,</role> <actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>.</actor></castItem><lb/>
                </castList>

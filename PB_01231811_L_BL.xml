@@ -35,7 +35,7 @@
                   <castItem><role>Ponder,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
                   <castItem><role>Sailor,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Countryman,</role> <actor>Mr. <hi rend="mallcaps">Knight</hi>,</actor></castItem> <castItem><role>Game-Keeper,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
-                  <castItem><role>Parish Officer,</role> <actor ref="namedentities.xml#gh_sp">Mr. Sparks</actor></castItem> <castItem><role>William,</role> <actor ref="namedentities.xml#al_we">Mr. Webb,</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. Evans.</actor></castItem><lb/>
+                  <castItem><role>Parish Officer,</role> <actor ref="namedentities.xml#gh_sp">Mr. Sparks</actor></castItem> <castItem><role>William,</role> <actor ref="namedentities.xml#al_we">Mr. Webb,</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. Evans.</actor></castItem><lb/>
                   <castItem><role>Lady Worrett,</role> <actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><role>Ellen Worrett,</role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><role>Fanny,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>

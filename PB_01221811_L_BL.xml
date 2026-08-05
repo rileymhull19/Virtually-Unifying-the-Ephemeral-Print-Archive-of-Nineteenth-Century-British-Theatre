@@ -30,7 +30,7 @@
                   <castItem><role>Sparkish,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
                   <castItem><role>Belville,</role> <actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
                   <castItem><role>Footman,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><role>Countryman,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi></actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi>Evans</hi>,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi></actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi>Evans</hi>,</actor></castItem><lb/>
                   <castItem><role>Miss Peggy, (<hi rend="italic">The Country Girl</hi>)</role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><role>Alithea,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
                   <castItem><role>Lucy,</role> <actor ref="namedentities.xml#ch_ti">Mrs. <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>

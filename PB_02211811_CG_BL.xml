@@ -23,7 +23,7 @@
                This present <hi rend="allcaps">Thursday</hi>, <date when="1811-02-21">Feb. 21, 1811</date> will be acted (3d time) the Comedy of<lb/>
                <bibl><title ref="namedentities.xml#play_new_way_to_pay_old_debts">A New Way to pay Old Debts</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lord Lovel,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Giles Overreach,</role> <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Wellborn,</role> <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lord Lovel,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><role>Sir Giles Overreach,</role> <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem> <castItem><role>Wellborn,</role> <actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>
                   <castItem><role>Allworth,</role> <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Willdo,</role> <actor>Mr. <hi rend="allcaps">Field</hi>,</actor></castItem> <castItem><role>Justice Greedy,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem> <castItem><role>Marrall,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
                   <castItem><role>Vintner,</role> <actor>Mr. <hi rend="allcaps">Jefferies</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem> <castItem><role>Tapwell,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Order,</role> <actor ref="namedentities.xml#ge_go_da">Mr. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
                   <castItem><role>Furnace,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Amlye,</role> <actor>Mr. <hi rend="allcaps">Treby</hi>,</actor></castItem> <castItem><role>Watchall,</role> <actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem><lb/>
@@ -37,7 +37,7 @@
                <hi rend="italic">With entirely new Scenes, Machinery, Dresses and Decorations.</hi><lb/>
                <hi rend="italic">The Musick composed and selected by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_sm">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>

@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01021812_l_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01021812_l_bl" corresp="#ex_01051812">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -29,7 +29,7 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
@@ -53,7 +53,7 @@
                <castList>
                   <head><hi rend="italic"><hi rend="allcaps">Principal Characters.</hi></hi></head><lb/>
                   <castItem><role>Prince Paladore, <hi rend="italic">(afterwards Harlequin)</hi></role> <actor>Mr. <hi rend="allcaps">Hartland</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sir Toby Touchy, <hi rend="italic">(afterwards Pantaloon)</hi></role> <actor>Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Toby Touchy, <hi rend="italic">(afterwards Pantaloon)</hi></role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem><lb/>
                   <castItem><role>Dionysius Dazzle, Esquire, <hi rend="italic">(the rejected Lover)</hi></role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor></castItem><lb/>
                   <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Kirby</hi>,</actor></castItem><lb/>
                   <castItem><role>Spirts,-attendants on the Evil Genius,-Promenades,-Labourers, &amp;c. &amp;c.</role><lb/>
