@@ -38,7 +38,7 @@
                   and the favorite Duet of "<hi rend="italic">All's Well</hi>,"<lb/>
                   (From the <hi rend="allcaps">English Fleet</hi>.)<lb/>
                      Will be sung by <actor>Mr. <hi rend="allcaps">Pyne</hi></actor> and <actor ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi>.</actor></castItem><lb/> 
-                  <castItem><role>Don Scipio,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Don Scipio,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Don Caesar,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem> <castItem><role>Don Fernando,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
                   <castItem><role>Don Juan,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Pedrillo,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
@@ -56,7 +56,7 @@
                The Songs incidental to the Piece, composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
                <castList>
                   <head>The Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
                </castList>

@@ -25,7 +25,7 @@
                <bibl><title ref="namedentities.xml#play_inkle_and_yarico">Inkle and Yarico.</title></bibl><lb/>
                <castList>
                   <castItem><role>Inkle,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sir Christopher Curry,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Christopher Curry,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Medium,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Campley,</role> (with <hi rend="italic">"Let <hi rend="allcaps">Fame</hi> sound the <hi rend="allcaps">Trumpet</hi>"</hi>) <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
                   <castItem><role>Mate,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Sailors,</role> Messers. <actor ref="namedentities.xml#mr_mi">Minton<hi rend="allcaps"></hi>,</actor> <actor><hi rend="allcaps">Hodson,</hi></actor> &amp;c.</castItem><lb/>
@@ -43,7 +43,7 @@
                <castList>
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>

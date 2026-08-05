@@ -57,7 +57,7 @@
                The Songs incidental to the Piece, composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
                <castList>
                   <head>The Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>

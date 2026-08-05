@@ -43,7 +43,7 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss Watson,</actor></castItem> <castItem><actor>Miss De Camp,</actor></castItem> <castItem><actor>Mrs. Stokes,</actor></castItem> <castItem><actor>Mrs. Haughton,</actor></castItem> <castItem><actor>Mrs. Kendall,</actor></castItem> <castItem><actor>Miss Danton.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
@@ -53,12 +53,12 @@
                To which will be added, the Farce of<lb/>
                <bibl><title ref="namedentities.xml#play_midnight_hour">The Midnight Hour.</title></bibl><lb/>
                <castList>
-                  <castItem><role>The General,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>The General,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Marquis,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Sebastian,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
                   <castItem><role>Ambrose,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Mathias,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><role>Nicolas,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Julia,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Julia,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Cecily,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Flora,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>

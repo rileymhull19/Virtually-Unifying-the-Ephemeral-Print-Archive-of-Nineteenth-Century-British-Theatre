@@ -43,7 +43,7 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
@@ -55,9 +55,9 @@
                <castList>
                   <castItem><role>Gayless,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Justice Guttle,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Beau Trippit,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sharp,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sharp,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Dick,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Waiters,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi></actor> <actor>Mr. <hi rend="allcaps">Bynham.</hi></actor></castItem><lb/>
-                  <castItem><role>Melissa,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Melissa,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Gadabout,</role> <actor>Miss <hi rend="allcaps">Kendall</hi>.</actor></castItem> <castItem><role>Mrs. Trippit,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
                   <castItem><role>Kitty Pry,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>

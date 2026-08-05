@@ -36,7 +36,7 @@
                   <castItem><role>Orson,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Robbers,</role> Messrs. <actor><hi rend="allcaps">Dalton</hi>,</actor> <actor><hi rend="allcaps">Villers</hi>,</actor> <actor><hi rend="allcaps">Glenville</hi>,</actor> &amp;c.</castItem><lb/> 
                   <castItem><role>Helen,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
-                  <castItem><role>Barbara,</role> <actor>Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
+                  <castItem><role>Barbara,</role> <actor ref="namedentities.xml#mrs_atkins">Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
                   <castItem><role>Dame Rawbold,</role> <actor>Mrs. <hi rend="allcaps">Kendall.</hi></actor></castItem> <castItem><role>Judith,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Blanch,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>

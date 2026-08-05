@@ -40,14 +40,14 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="italic">The Dresses by Mr. <hi rend="allcaps">Tobin</hi> and <persName ref="namedentities.xml#an_sm">Miss <hi rend="allcaps">Smith</hi></persName>.</hi><lb/>
                <hi rend="italic">The Scenery designed, and executed by <persName ref="namedentities.xml#j_de">Mr. <hi rend="allcaps">De Maria</hi></persName>, and Assistants.</hi><lb/>
-               The Play of The <hi rend="allcaps">Royal Oak</hi>, is published by Messrs. <hi rend="allcaps">Barker</hi>, Russell Street,<lb/>
+               The Play of The <hi rend="allcaps">Royal Oak</hi>, is published by Messrs. <persName ref="namedentities.xml#mr_barker"><hi rend="allcaps">Barker</hi></persName>, Russell Street,<lb/>
                Covent-Garden.<lb/>
                After which will be produced (for the 1st time) A New <hi rend="allcaps">Musical Piece</hi> in Two Acts,<lb/>
                <hi rend="italic">(written and composed by Mr. <hi rend="allcaps">Dibdin</hi>,)</hi> call'd The<lb/>

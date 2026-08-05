@@ -61,7 +61,7 @@
                To which will be added the Farce of The<lb/>
                <bibl><title ref="namedentities.xml#play_midnight_hour">Midnight Hour.</title></bibl><lb/>
                <castList>
-                  <castItem><role>The Marquis,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><role>The General,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>The Marquis,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><role>The General,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Sebastian,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem> <castItem><role>Nicholas,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Mathias,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem> <castItem><role>Ambrose,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem><lb/>
                   <castItem><role>Julia,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem> <castItem><role>Cicely,</role> <actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem><lb/>
