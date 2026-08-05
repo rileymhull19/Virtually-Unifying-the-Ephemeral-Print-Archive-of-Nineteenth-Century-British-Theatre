@@ -30,7 +30,7 @@
                <hi rend="italic">The <hi rend="allcaps">Musick</hi> composed by <persName ref="namedentities.xml#th_we">Mr. <hi rend="allcaps">T. Welsh.</hi></persName></hi><lb/>
                <hi rend="italic">The <hi rend="allcaps">Overture</hi> by Mr. <hi rend="allcaps">Ware</hi>.</hi><lb/>
                <castList>
-                  <castItem><actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ke">Mr. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem><lb/>

@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_11051811_cg_jj">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_11051811_cg_jj" corresp="#ex_11011811">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <bibl><title ref="namedentities.xml#play_measure_for_measure">Measure for Measure.</title></bibl><lb/>
                <castList>
                   <castItem><role>The Duke of Austria</role> by <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem><lb/>
-                  <castItem><role>Angelo</role> by <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Angelo</role> by <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Escalus</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem> <castItem><role>Claudio</role> by <actor>Mr. <hi rend="allcaps">Brunton</hi>,</actor></castItem><lb/>
                   <castItem><role>Lucio</role> by <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem> <castItem><role>Frederick</role> by <actor>Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem><lb/>
                   <castItem><role>Leopold</role> by <actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><role>Friar Peter</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem><lb/>

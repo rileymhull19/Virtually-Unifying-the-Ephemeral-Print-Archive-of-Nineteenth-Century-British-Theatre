@@ -32,10 +32,10 @@
                   <hi rend="italic">(From the Theatre Royal, York, being his 1st Appearance at this Theatre.)</hi></castItem><lb/>
                   <castItem><role>Toby Allspice,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
                   <castItem><role>Captain Faulkner,</role> <actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
-                  <castItem><role>Caustic,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Caustic,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Dick Dashall,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><role>Mc. Query,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><role>Shopman,</role> <actor>Mr. Evans,</actor></castItem> <castItem><role>Ned,</role> <actor>Mr. Miller,</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><role>Shopman,</role> <actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem> <castItem><role>Ned,</role> <actor>Mr. Miller,</actor></castItem><lb/>
                   <castItem><role>Jailor,</role> <actor ref="namedentities.xml#gh_sp">Mr. Sparks,</actor></castItem> <castItem><role>Geoffry,</role> <actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><role>Officer,</role> <actor ref="namedentities.xml#al_we">Mr. Webb,</actor></castItem><lb/>
                   <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher,</actor></castItem> <castItem><role>Solicitor,</role> <actor>Mr. Buxton,</actor></castItem> <castItem><role>Undertaker,</role> <actor>Mr. Lee,</actor></castItem><lb/>
                   <castItem><role>Postilion,</role> <actor>Mr. Jamieson,</actor></castItem> <castItem><role>Clerk,</role> <actor>Master Seymour,</actor></castItem><lb/>
