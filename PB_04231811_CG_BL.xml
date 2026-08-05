@@ -29,7 +29,7 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
@@ -43,9 +43,9 @@
                <hi rend="italic">Mr. <hi rend="allcaps">Brunton</hi> and <persName ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi></persName></hi><lb/>
                To which will be added, <hi rend="italic">for the 38th time</hi>, the <hi rend="allcaps">Grand Dramatick Romance</hi> of<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_blue_beard"><hi rend="allcaps">Blue Beard;</hi></title><lb/>
-                  <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
+                  <title type="sub"><hi rend="italic">Or, Female Curiosity.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
                   <castItem><role>Fatima,</role> <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><role>Irene,</role> <actor ref="namedentities.xml#ma_th_ke">Mrs. <hi rend="allcaps">C. Kemble</hi>,</actor></castItem> <castItem><role>Beda,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>

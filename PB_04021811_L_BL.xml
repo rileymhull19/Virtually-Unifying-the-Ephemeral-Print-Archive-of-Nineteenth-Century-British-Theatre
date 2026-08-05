@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_04021811_l_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_04021811_l_bl" corresp="#ex_04141811">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -49,7 +49,7 @@
                <bibl><title ref="namedentities.xml#play_midnight_hour">Midnight Hour.</title></bibl><lb/>
                <castList>
                   <castItem><role>The Marquis,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><role>The General,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>The General,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Sebastian,</role> <actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>,</actor></castItem><lb/>
                   <castItem><role>Nicholas,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
                   <castItem><role>Mathias</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>

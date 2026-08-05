@@ -24,7 +24,7 @@
                This present <hi rend="allcaps">Saturday</hi>, <date when="1812-04-11"><hi rend="allcaps">April</hi> 11, 1812</date>,<lb/>
                Their Majesties Servants will perform a New Comedy in 5 Acts, call'd<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_prejudice"><hi rend="allcaps">Prejudice;</hi></title><lb/>
-               <title type="sub"><hi rend="allcaps">OR</hi>,<lb/>
+               <title type="sub"><hi rend="allcaps">Or</hi>,<lb/>
                <hi rend="allcaps">Modern Sentiment.</hi></title></bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Characters By</hi></head><lb/>
@@ -49,7 +49,7 @@
                <bibl><title ref="namedentities.xml#play_bee_hive">The <hi rend="allcaps">Bee-Hive</hi>.</title></bibl><lb/>
                The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New, composed by <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
                <castList>
-                  <castItem><role>Mingle,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Mingle,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Captain Merton,</role> <actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><role>Captain Rattan,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><role>Joe,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>

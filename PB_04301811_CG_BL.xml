@@ -25,7 +25,7 @@
                <castList>
                   <head><hi rend="italic">The principal Characters by</hi></head><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Young</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Hamerton</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Weston</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#na_jo">Mrs. <hi rend="allcaps">H. Johnston</hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/>
@@ -49,11 +49,11 @@
                   <castItem><actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#na_jo">Mrs. <hi rend="allcaps">H. Johnston</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="allcaps">Tartars</hi>,</role><lb/>
-                     Mess. <actor>Banks,</actor> <actor>Blyth,</actor> <actor>Brown,</actor> <actor>Edgecomb,</actor> <actor>Gaywood,</actor> <actor>Goodwin,</actor> <actor>Grant,</actor> <actor>Griffiths,</actor> <actor>Heath,</actor><lb/>
+                     Mess. <actor ref="namedentities.xml#mr_banks">Banks,</actor> <actor>Blyth,</actor> <actor>Brown,</actor> <actor>Edgecomb,</actor> <actor>Gaywood,</actor> <actor>Goodwin,</actor> <actor>Grant,</actor> <actor>Griffiths,</actor> <actor>Heath,</actor><lb/>
                      <actor>Jeffkins,</actor> <actor>Jefferies,</actor> <actor>Louis,</actor> <actor>Macdonald,</actor> <actor>Powers,</actor> <actor>Sarjant,</actor> <actor>Sibley,</actor> <actor>Thurston,</actor> <actor>Tolfer,</actor> &amp;c.<lb/>
                      Mesds. <actor>Bologna,</actor> <actor>I. Bologna,</actor> <actor>Cox,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Ryall,</actor> <actor>Standen,</actor> <actor>Watts,</actor> &amp;c.</castItem><lb/>
                   <castItem><hi rend="allcaps">Georgians,</hi><lb/>
-                     Mess. <actor>Andrews,</actor> <actor>Bath,</actor> <actor>Cooper,</actor> <actor>Cordell,</actor> <actor>W. Davies,</actor> <actor>H. Davies,</actor> <actor>Fagan,</actor> <actor>Hall,</actor> <actor>Harris,</actor> <actor>Hodson,</actor><lb/>
+                     Mess. <actor ref="namedentities.xml#mr_andrews">Andrews,</actor> <actor>Bath,</actor> <actor>Cooper,</actor> <actor>Cordell,</actor> <actor>W. Davies,</actor> <actor>H. Davies,</actor> <actor>Fagan,</actor> <actor>Hall,</actor> <actor>Harris,</actor> <actor>Hodson,</actor><lb/>
                      <actor>Holford,</actor> <actor>Kelly,</actor> <actor>Lane,</actor> <actor>Paul,</actor> <actor>Phillimore,</actor> <actor ref="namedentities.xml#he_sm">Smith,</actor> <actor>Tate,</actor> <actor>Turpin,</actor> <actor>Williams,</actor> <actor>Wright,</actor> &amp;c.</castItem><lb/>
                </castList>
                      <hi rend="italic">The Machinery by Mr. Saul. The Decorations by Mr. Bradwell</hi>.<lb/>

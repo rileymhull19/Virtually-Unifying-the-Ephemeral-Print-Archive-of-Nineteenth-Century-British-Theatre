@@ -38,7 +38,7 @@
                   <castItem><role>Varland,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Fulmer,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Stukely,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor><hi rend="allcaps">Evans,</hi>,</actor> <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterly.</hi></actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor ref="namedentities.xml#mr_evans"><hi rend="allcaps">Evans,</hi>,</actor> <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterly.</hi></actor></castItem><lb/>
                   <castItem><role>Lady Rusport,</role> <actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><role>Louisa Dudley,</role> <actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
                   <castItem><role>Mrs. Fulmer,</role> <actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><role>Housekeeper,</role> <actor ref="namedentities.xml#ro_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
@@ -52,7 +52,7 @@
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philips</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor>Mr. Evans,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
                </castList>

@@ -25,7 +25,7 @@
                Their Majesties Servants will perform <hi rend="italic">(for the 5th time)</hi> a New Comedy in 5 Acts,<lb/>
                call'd The<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_sons_of_erin"><hi rend="allcaps">Sons</hi> of <hi rend="allcaps">Erin</hi>;</title><lb/>
-                  <title><hi rend="allcaps">OR</hi>,<lb/>
+                  <title><hi rend="allcaps">Or</hi>,<lb/>
                      Modern Sentiment.</title></bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Characters By</hi></head><lb/>
@@ -54,7 +54,7 @@
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philips</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor>Mr. Evans,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>

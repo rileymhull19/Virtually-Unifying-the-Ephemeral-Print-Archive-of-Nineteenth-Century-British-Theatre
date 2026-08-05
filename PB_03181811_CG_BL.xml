@@ -30,7 +30,7 @@
                   <castItem><role>Duke of Exeter</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="italic">Egerton</hi>,</actor></castItem> <castItem><role>Earl of Westmoreland</role> by <actor>Mr. <hi rend="italic">Claremont</hi></actor></castItem><lb/>
                   <castItem><role>Archbishop of Canterbury,</role> <actor>Mr. <hi rend="italic">Cresswell</hi>,</actor></castItem> <castItem><role>Bishop of Ely,</role> <actor>Mr. <hi rend="italic">Chapman</hi>,</actor></castItem><lb/>
                   <castItem><role>Earl of Cambridge,</role> <actor>Mr. Norris,</actor></castItem> <castItem><role>Lord Scroop,</role> <actor>Mr. Bishop,</actor></castItem> <castItem><role>Sir Thomas Grey,</role> <actor>Mr. Truman,</actor></castItem><lb/>
-                  <castItem><role>Sir T. Erpingham</role> by <actor ref="namedentities.xml#ge_go_da">Mr. <hi rend="italic">Davenport</hi>,</actor></castItem> <castItem><role>Capt. Gower</role> by <actor>Mr. <hi rend="italic">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir T. Erpingham</role> by <actor ref="namedentities.xml#ge_go_da">Mr. <hi rend="italic">Davenport</hi>,</actor></castItem> <castItem><role>Capt. Gower</role> by <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="italic">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Capt. Fluellen,</role> <actor ref="namedentities.xml#wi_bl">Mr. <hi rend="italic">Blanchard</hi>,</actor></castItem> <castItem><role>Williams,</role> <actor ref="namedentities.xml#jo_em">Mr. <hi rend="italic">Emery</hi>,</actor></castItem> <castItem><role>Bates,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem><lb/>
                   <castItem><role>Nym,</role> <actor>Mr. King,</actor></castItem> <castItem><role>Bardolph,</role> <actor>Mr. Williams,</actor></castItem> <castItem><role>Pistol,</role> <actor ref="namedentities.xml#sa_si">Mr. Simmons,</actor></castItem> <castItem><role>Page,</role> <actor>Master Chapman,</actor></castItem><lb/>
                   <castItem><role>Mrs. Quickly</role> by <actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="italic">Davenport</hi>,</actor></castItem><lb/>
@@ -45,7 +45,7 @@
                   <title type="sub"><hi rend="italic">Or,Female Curiosity.</hi></title></bibl><lb/>
                <hi rend="italic">The Musick composed by <persName ref="namedentities.xml#mi_ke">Mr. <hi rend="allcaps">Kelly</hi></persName>.</hi><lb/>
                <castList>
-                  <castItem><role>Abomelique,</role> <actor>Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
+                  <castItem><role>Abomelique,</role> <actor ref="namedentities.xml#mr_barrymore">Mr. <hi rend="allcaps">Barrymore</hi>,</actor></castItem><lb/>
                   <castItem><role>Ibrahim,</role> <actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem> <castItem><role>Selim,</role> <actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
                   <castItem><role>Shacabac,</role> <actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem> <castItem><role>Hassan,</role> <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>
                   <castItem><role>Fatima,</role> <actor>Miss <hi rend="allcaps">Bolton</hi>,</actor></castItem><lb/>

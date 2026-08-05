@@ -25,7 +25,7 @@
                Their Majesties Servants will perform <hi rend="italic">(for the 6th time)</hi> a New Comedy in 5 Acts,<lb/>
                call'd The<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_sons_of_erin"><hi rend="allcaps">Sons</hi> of <hi rend="allcaps">Erin</hi>;</title><lb/>
-                  <title><hi rend="allcaps">OR</hi>,<lb/>
+                  <title><hi rend="allcaps">Or</hi>,<lb/>
                      Modern Sentiment.</title></bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Characters By</hi></head><lb/>
@@ -58,7 +58,7 @@
                   <castItem><hi rend="italic">Characters in the Drama.-</hi></castItem><castItem><role>Francisco,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><role>Percy,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Isaacos,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><role>Abrahamides,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
-                  <castItem><role>Bernardo,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><role>Bartholomeus,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bernardo,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><role>Bartholomeus,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
                   <castItem><role>Christophorides,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Humphriminos,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
                   <castItem><role>Dorothea,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Tittilinda,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
                   <castItem><role>Blousidora,</role> <actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>Moperella,</role> <actor>Miss <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>

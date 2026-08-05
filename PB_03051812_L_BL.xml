@@ -41,8 +41,8 @@
                   <castItem><role>Porter, at Rodmond Castle,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
                   <castItem><role>Kerr, <hi rend="italic">(a Lawyer)</hi></role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Greenlaw,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem><lb/>
-                  <castItem><role>Officers of Justice,</role> Messrs. <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterley,</hi></actor> <actor><hi rend="allcaps">Evans.</hi></actor></castItem><lb/>
-                  <castItem><role>Butler, at Highly House,</role> <actor>Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
+                  <castItem><role>Officers of Justice,</role> Messrs. <actor ref="namedentities.xml#ro_ch"><hi rend="allcaps">Chatterley,</hi></actor> <actor ref="namedentities.xml#mr_evans"><hi rend="allcaps">Evans.</hi></actor></castItem><lb/>
+                  <castItem><role>Butler, at Highly House,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Bosco, <hi rend="italic">(a recruiting Serjeant)</hi></role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Principal Recruit,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem>
                   <castItem><role>Furbrass, <hi rend="italic">(a drunken Soldier)</hi></role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
@@ -69,7 +69,7 @@
                To which will be added (48th time) a <hi rend="allcaps">New Comic Pantomime</hi>, called The<lb/>
                <bibl><title ref="namedentities.xml#play_white_cat"><hi rend="allcaps">White Cat.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Harlequin,</role> <actor>Mr. <hi rend="allcaps">Hartland</hi>,</actor></castItem> <castItem><role>Pantaloon,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem> <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Kirby</hi>,</actor></castItem><lb/>
+                  <castItem><role>Harlequin,</role> <actor>Mr. <hi rend="allcaps">Hartland</hi>,</actor></castItem> <castItem><role>Pantaloon,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>,</actor></castItem> <castItem><role>Clown,</role> <actor>Mr. <hi rend="allcaps">Kirby</hi>,</actor></castItem><lb/>
                   <castItem><role>Lover,</role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor></castItem> <castItem><role>Fairy,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem> <castItem><role>Columbine,</role> <actor>Miss <hi rend="allcaps">Valencey</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic">Vivant Rex et Regina!-No Money to be Returned.</hi><lb/>
