@@ -29,7 +29,7 @@
                   <castItem><role>Fitzharding,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Wilford,</role> <actor>Mr. <hi rend="allcaps">Gomersall</hi>.</actor><lb/>
                      (His second appearance on this Stage)</castItem><lb/>
-                  <castItem><role>Adam Winterton,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Adam Winterton,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Rawbold,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
                   <castItem><role>Samson Rawbold,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Armstrong,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>

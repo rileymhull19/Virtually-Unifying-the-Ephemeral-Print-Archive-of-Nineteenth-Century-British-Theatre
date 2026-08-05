@@ -55,7 +55,7 @@
                   <castItem><role>Duke of Saxe Weimar, <hi rend="italic">(A Sanguinary Tyrant with red hair, and an amorous complexion)</hi></role> by <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Rogero <hi rend="italic">(Prisoner in the Abbey of Quedlinburgh; in love with</hi> Matilda Pottingen)</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Casimere <hi rend="italic">(A Polish Emigrant in Dembrowsky's Legion, married to</hi> Cecilia, <hi rend="italic">and having<lb/>
-                  several Children by</hi> Matilda)</role> by <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                           several Children by</hi> Matilda)</role> by <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Beefington</role> and <role>Puddingfield</role> <hi rend="italic">(English Noblemen, exiled by the tyranny of</hi> <hi rend="allcaps">King John</hi>,<lb/>
                      <hi rend="italic">previously to the signature of</hi> Magna Charta) by <actor>Mr. <hi rend="allcaps">Shaw</hi></actor> and <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Doctor Pottingen, (L.L.D)</role> by <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
@@ -71,7 +71,7 @@
                   <castItem><role>Officers, Soldiers of the Light and Heavy Horse. Grenadiers, Troubadours, Monks,<lb/>
                   Donkies, &amp;c. &amp;c. &amp;c.</role></castItem><lb/>
                   <castItem>The <hi rend="allcaps">Trio</hi> and <hi rend="allcaps">Chorus</hi> <hi rend="italic">(in a stunning Whisper)</hi> Composed by <persName ref="namedentities.xml#wi_re">Mr. <hi rend="allcaps">Reeve</hi></persName><lb/>
-                  By <actor>Mr. Barnes,</actor> <actor>Mr. Paine,</actor> <actor>Mr. Shaw</actor> &amp;c.</castItem><lb/>
+                     By <actor ref="namedentities.xml#mr_barnes">Mr. Barnes,</actor> <actor>Mr. Paine,</actor> <actor>Mr. Shaw</actor> &amp;c.</castItem><lb/>
                   <castItem>In Act II. <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi></actor> will sing "<hi rend="allcaps">The Beautiful Maid.</hi>"</castItem><lb/>   
                </castList>
                The <hi rend="allcaps">Quadrupeds of Quedlinburgh</hi>, continuing to be received<lb/>

@@ -25,7 +25,7 @@
                <bibl><title type="main" ref="namedentities.xml#play_poor_sailor">The <hi rend="allcaps">Poor Sailor</hi>;</title><lb/>
                   <title type="sub">Or, Little <hi rend="allcaps">Bob</hi> and Little <hi rend="allcaps">Ben</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Captain Battledore,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Captain Battledore,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Lieutenant Battledore,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
                   <castItem><role>Compass,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Freakish,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
                   <castItem><role>Bumbo,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
@@ -46,7 +46,7 @@
                   <castItem><role>Peter,</role> <actor>Mr. Martin.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. Widdicombe.</actor></castItem><lb/>
                   <castItem><role>Lady Waitfor't,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Louisa Courtney,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Letty,</role> <actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
-                  <castItem><role>Marianne,</role> <actor>Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>   
+                  <castItem><role>Marianne,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>   
                </castList>
                <hi rend="italic">After which</hi> <hi rend="allcaps">(Third Time)</hi> <hi rend="italic"><hi rend="allcaps">A New Farce</hi>, (with Songs,) call'd</hi> The<lb/>
                <bibl><title ref="namedentities.xml#play_outside_passenger">Outside Passenger.</title></bibl><lb/>

@@ -39,7 +39,7 @@
                   <castItem><role>Pertinax Single,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston!!</hi>.</actor></castItem><lb/>
                   <castItem><role>Percival Single,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston!!!</hi>.</actor></castItem><lb/>
                   <castItem><role>Humphrey Grizzle,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Justice Touchit,</role> <actor>Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Justice Touchit,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Mr. Milford,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Mac Floggen,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
                   <castItem><role>Renard,</role> <actor>Mr. Finn.</actor></castItem> <castItem><role>Waiters,</role> Messrs. <actor>Widdicombe</actor> and <actor>Hemming</actor></castItem><lb/>
                   <castItem><role>Frank,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>

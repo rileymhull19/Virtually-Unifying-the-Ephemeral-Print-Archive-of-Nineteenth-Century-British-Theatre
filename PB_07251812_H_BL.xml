@@ -43,7 +43,7 @@
                   <castItem><role>Lenox,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Captain Cruizer,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Major Tactic,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Corporal Squibb,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem><lb/>
                   <castItem><role>Nipperkin,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mary,</role> <actor>Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mary,</role> <actor ref="namedentities.xml#mrs_atkins">Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added the Farce of The<lb/>
                <bibl><title ref="namedentities.xml#play_prisoner_at_large">Prisoner at Large</title></bibl><lb/>
