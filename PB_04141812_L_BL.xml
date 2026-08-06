@@ -53,7 +53,7 @@
                   <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philips</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem><lb/>

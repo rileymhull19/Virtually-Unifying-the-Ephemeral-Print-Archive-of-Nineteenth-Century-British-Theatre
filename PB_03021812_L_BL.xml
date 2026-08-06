@@ -45,12 +45,12 @@
                   <castItem><role>Butler, at Highly House,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Bosco, <hi rend="italic">(a recruiting Serjeant)</hi></role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Principal Recruit,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem>
-                  <castItem><role>Furbrass, <hi rend="italic">(a drunken Soldier)</hi></role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Furbrass, <hi rend="italic">(a drunken Soldier)</hi></role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Lauder, <hi rend="italic">(a Peasant)</hi></role> <actor ref="namedentities.xml#gh_sp">Mr. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
                   <castItem><role>Landlord of an Inn,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Servant to Lord Bodmond,</role> <actor>Mr. <hi rend="allcaps">Buxton</hi>.</actor></castItem><lb/>
                   <castItem><role><hi rend="allcaps">Outlaws.</hi></role><lb/>
                      <role>Fingask, <hi rend="italic">(Chief of a Banditti)</hi></role> <actor>Mr. <hi rend="allcaps">J. Smith,</hi></actor><lb/>
-                     <role>Gowry,</role> <actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor><lb/>
+                     <role>Gowry,</role> <actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor><lb/>
                      <role>Knowles,</role> <actor ref="namedentities.xml#mr_go">Mr. <hi rend="allcaps">Goodman</hi>,</actor> <role>Polwart,</role> <actor>Mr. <hi rend="allcaps">Hope</hi>,</actor> <role>Beaton,</role> <actor>Mr. <hi rend="allcaps">Gussio</hi>.</actor></castItem><lb/>
                   <castItem><role><hi rend="allcaps">Shepherds.</hi></role><lb/>
                      <role>Cadwell,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher<hi rend="allcaps"></hi>,</actor> <role>Quincey,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor><lb/>

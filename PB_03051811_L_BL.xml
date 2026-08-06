@@ -50,7 +50,7 @@
                The Overture and Music composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
                <castList>
                   <castItem><role>Adam Sterling,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem> <castItem><role>Janus Jumbule,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>O'Rourke O'Daisy,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
                   <castItem><role>Quill,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><role>Mrs. Augusta Caroline Honeymouth,</role> <actor ref="namedentities.xml#ma_ma">Mrs. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>

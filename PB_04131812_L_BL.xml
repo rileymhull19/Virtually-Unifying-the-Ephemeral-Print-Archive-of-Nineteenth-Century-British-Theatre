@@ -52,7 +52,7 @@
                Partly founded on <hi rend="italic">ancient</hi> Dramas, and applied to <hi rend="italic">modern</hi> events; with <hi rend="italic">old</hi><lb/>
                Scenes and <hi rend="italic">new Animals!!</hi> (their 44th Appearance on this, or any Stage!!!)<lb/>
                <castList>
-                  <head><hi rend="italic">Characters in the Prelude.-</hi></head> <castItem><role>Dill,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <head><hi rend="italic">Characters in the Prelude.-</hi></head> <castItem><role>Dill,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Zigzag,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><role>Under Prompter,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><role>Echo,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
                   <castItem><hi rend="italic">Characters in the Drama.-</hi></castItem><castItem><role>Francisco,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
