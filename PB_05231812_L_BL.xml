@@ -35,7 +35,7 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ma">Mr. <hi rend="allcaps">Marshall</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Ray</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Ray</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
                   <castItem><actor>A Young Gentleman<hi rend="allcaps"></hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Brereton</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
@@ -60,7 +60,7 @@
                   <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
                </castList>
                Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>

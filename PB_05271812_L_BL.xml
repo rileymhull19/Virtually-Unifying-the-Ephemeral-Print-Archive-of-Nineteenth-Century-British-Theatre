@@ -42,8 +42,8 @@
                   <castItem><role>Don Caesar,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem> <castItem><role>Don Fernando,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
                   <castItem><role>Don Juan,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>Pedrillo,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
-                  <castItem><role>Spado,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sanguino,</role> <actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem> <castItem><role>Rapino,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Spado,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sanguino,</role> <actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem> <castItem><role>Rapino,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><role>Calvette,</role> <actor>Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem> <castItem><role>Philippo,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><role>Vasquez,</role> <actor>Mr. <hi rend="allcaps">Buxton</hi>,</actor></castItem><lb/>
                   <castItem><role>Victoria,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
                   <castItem><role>Catalina,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Isabella,</role> <actor ref="sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
@@ -57,7 +57,7 @@
                <castList>
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
                </castList>
                Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>

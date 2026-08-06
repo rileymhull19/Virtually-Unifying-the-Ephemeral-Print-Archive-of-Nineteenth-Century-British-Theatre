@@ -31,7 +31,7 @@
                   <castItem><role>Acres,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
                   <castItem><role>,</role> <actor><hi rend="allcaps"></hi>,</actor><lb/>
                   His First Appearance in this Character.</castItem><lb/>
-                  <castItem><role>Sir Lucius O'Trigger,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Lucius O'Trigger,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
                   <castItem><role>Fag,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem> <castItem><role>David,</role> <actor>Mr. <hi rend="allcaps">Chippendale</hi>,</actor></castItem><lb/>
                   <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Servants,</role> <actor>Mr. Glenville</actor> and <actor>Master Martin.</actor></castItem><lb/>
                   <castItem><role>Mrs. Malaprop,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
@@ -49,7 +49,7 @@
                   <castItem><role>Robert Maythorn,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>,</actor></castItem> <castItem><role>Old Maythorn,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
                   <castItem><role>Sailors,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi></actor> &amp; <actor>Mr. <hi rend="allcaps">Widdicombe</hi></actor></castItem><lb/>
                   <castItem><role>Groom,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#mr_auld">Mr. Auld,</actor></castItem><lb/>
-                  <castItem><role>Joe Standfast,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Joe Standfast,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
                   <castItem><role>Landlady,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
                   <castItem><role>Peggy,</role> <actor ref="namedentities.xml#mrs_atkins">Mrs. <hi rend="allcaps">Atkins</hi>,</actor></castItem><lb/>
                   <castItem><role>Mary,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>,</actor></castItem><lb/>

@@ -30,7 +30,7 @@
                   <castItem><role>Wilford,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Adam Winterton,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Rawbold,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
-                  <castItem><role>Samson Rawbold,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Samson Rawbold,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><role>Servants,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi></actor> and <actor>Mr. <hi rend="allcaps">Widdicombe</hi>,</actor></castItem><lb/>
                   <castItem><role>Armstrong,</role> <actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
                   <castItem><role>Orson,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
@@ -50,7 +50,7 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>

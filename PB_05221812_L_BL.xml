@@ -31,7 +31,7 @@
                   <castItem><role>Count Curvoso,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><role>The Marquis,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
                   <castItem><role>Lorenzo,</role> <actor ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></actor></castItem><lb/>
-                  <castItem><role>Whimsiculo,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Whimsiculo,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Peter,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
                   <castItem><role>Manikin,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi></actor></castItem> <castItem><role>Falconers,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
                   <castItem><role>Constantia,</role> <actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>
@@ -50,7 +50,7 @@
                   <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                   <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
                </castList>
                Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>

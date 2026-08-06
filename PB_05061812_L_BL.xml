@@ -35,7 +35,7 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ma">Mr. <hi rend="allcaps">Marshall</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Ray</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
@@ -61,7 +61,7 @@
                <castList>
                   <castItem><role>Diddler,</role> <actor>Mr. <hi rend="allcaps">Lewis</hi>,</actor></castItem><lb/>
                   <castItem><role>Plainway,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem> <castItem><role>Fainwould,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sam,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sam,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Richard,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>Waiter,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><role>Peggy,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
                   <castItem><role>Miss Laurella Durable,</role> <actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>

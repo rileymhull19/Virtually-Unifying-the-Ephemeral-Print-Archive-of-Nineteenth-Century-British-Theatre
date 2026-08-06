@@ -39,13 +39,13 @@
                   <castItem><role>Megrim,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>,</actor><lb/>
                   (Being his First Appearance in that Character).</castItem><lb/>
                   <castItem><role>Demison,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>,</actor></castItem><lb/>
-                  <castItem><role>James,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>James,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
                   <castItem><role>Annette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
                </castList>
                To which will be added, the Farce of<lb/>
                <bibl><title ref="namedentities.xml#play_high_life_below_stairs">High Life below Stairs.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lovel,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lovel,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><role>Freeman,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Philip,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Duke's Servant,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor><lb/>
                   (Being his First Appearance on this Stage).</castItem><lb/>

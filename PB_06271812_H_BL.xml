@@ -28,7 +28,7 @@
                   <castItem><role>Captain Absolute,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
                   <castItem><role>Faulkland,</role> <actor>Mr. <hi rend="allcaps">Salter</hi>,</actor></castItem><lb/>
                   <castItem><role>Acres,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sir Lucius O'Trigger,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Lucius O'Trigger,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
                   <castItem><role>Fag,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem> <castItem><role>David,</role> <actor>Mr. <hi rend="allcaps">Chippendale</hi>,</actor></castItem><lb/>
                   <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Servants,</role> <actor>Mr. Glenville</actor> and <actor>Master Martin.</actor></castItem><lb/>
                   <castItem><role>Mrs. Malaprop,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
@@ -46,7 +46,7 @@
                   <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
