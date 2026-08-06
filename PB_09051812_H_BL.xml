@@ -32,7 +32,7 @@
                   <castItem><role>Jonathan Oldskirt,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
                   <castItem><role>Sir Larry Mac. Murragh,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Henry,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
-                  <castItem><role>Andrew Bang,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Andrew Bang,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><role>Carrydot,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Boy,</role> <actor>Miss Carr.</actor></castItem><lb/>
                   <castItem><role>Fanny,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                   <castItem><role>Mrs. Glastonbury,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
@@ -46,7 +46,7 @@
                   <castItem><role>Septimus,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
                   <castItem><role>Captain Septimus,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Captain Slash,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
-                  <castItem><role>Flam,</role> <actor>Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Flam,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
                   <castItem><role>Gyp,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Looby,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Drummer Boy,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
                   <castItem><role>Emmeline,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
