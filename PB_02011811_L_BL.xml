@@ -36,7 +36,7 @@
                   <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philipps</hi></actor>,</castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
@@ -63,7 +63,7 @@
                The Overture and Music composed by <persName ref="namedentities.xml#ch_sm">Mr. <hi rend="allcaps">C. Smith</hi></persName>.<lb/>
                <castList>
                   <castItem><role>Adam Sterling,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem> <castItem><role>Janus Jumbule,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor>Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dick Cypher,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem> <castItem><role>Jerry Blossom,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>O'Rourke O'Daisy,</role> <actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
                   <castItem><role>Quill,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><role>Mrs. Augusta Caroline Honeymouth,</role> <actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>

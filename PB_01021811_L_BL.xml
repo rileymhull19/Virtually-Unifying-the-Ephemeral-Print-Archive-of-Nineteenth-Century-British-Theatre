@@ -54,8 +54,8 @@
                <head><hi rend="italic">The Characters by</hi></head><lb/>
                <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>.</actor></castItem><lb/>
-               <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>.</actor></castItem><lb/>
-               <castItem><actor>Mr. <hi rend="allcaps">Knight</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>.</actor></castItem><lb/>
+               <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>.</actor></castItem><lb/>
                <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/> 
                <castItem><actor ref="namedentities.xml#wi_we">Master <hi rend="allcaps">West</hi>,</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>

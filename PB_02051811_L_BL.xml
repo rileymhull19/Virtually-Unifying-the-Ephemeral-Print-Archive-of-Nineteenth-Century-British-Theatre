@@ -36,7 +36,7 @@
                   <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philipps</hi></actor>,</castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
                   <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
