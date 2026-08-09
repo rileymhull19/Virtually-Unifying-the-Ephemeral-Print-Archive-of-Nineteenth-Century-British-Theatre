@@ -409,6 +409,20 @@
               <affiliation>Lyceum Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="su_bo">
+              <persName>
+                 <forename>Susannah</forename>
+                 <surname>Boyce</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>Unknown</birth>
+              <death>Unknown</death>
+              <floruit notBefore="1805" notAfter="1830"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre, Sadler's Wells</affiliation>
+              <note>See <bibl><title>Boyce, Susannah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mr_bradwell_machinist">
               <persName>
                  <forename>[Unknown]</forename>
@@ -428,6 +442,20 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be determined.</note>
+           </person>
+           <person xml:id="jo_br">
+              <persName ref="http://viaf.org/viaf/27821078">
+                 <forename>John</forename>
+                 <surname>Braham</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1777">1777</birth>
+              <death when="1856">1856</death>
+              <floruit notBefore="1787" notAfter="1852"/>
+              <nationality>English</nationality>
+              <occupation>Singer</occupation>
+              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
+              <note>See <bibl><title>Braham, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_wi_br">
               <persName>
@@ -464,33 +492,135 @@
               <affiliation>Lyceum Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
-           <person xml:id="su_bo">
+           <person xml:id="miss_c_bristow">
               <persName>
-                 <forename>Susannah</forename>
-                 <surname>Boyce</surname>
+                 <forename>C.</forename>
+                 <surname>Bristow</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth>Unknown</birth>
-              <death>Unknown</death>
-              <floruit notBefore="1805" notAfter="1830"/>
-              <nationality>English</nationality>
-              <occupation>Actor</occupation>
-              <affiliation>Drury Lane Theatre, Sadler's Wells</affiliation>
-              <note>See <bibl><title>Boyce, Susannah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
-           <person xml:id="jo_br">
-              <persName ref="http://viaf.org/viaf/27821078">
-                 <forename>John</forename>
-                 <surname>Braham</surname>
+           <person xml:id="mr_broadhurst">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Broadhurst</surname>
               </persName>
               <gender value="M">Man</gender>
-              <birth when="1777">1777</birth>
-              <death when="1856">1856</death>
-              <floruit notBefore="1787" notAfter="1852"/>
-              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_brown">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Brown</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_brunton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Brunton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_buxton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Buxton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_bynham">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Bynham</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_byrne">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Byrne</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_cardoza">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cardoza</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_j_cardozo">
+              <persName>
+                 <forename>J.</forename>
+                 <surname>Cardozo</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_carew">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Carew</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_carr">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Carr</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_c_carr">
+              <persName>
+                 <forename>C.</forename>
+                 <surname>Carr</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_catalani">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Catalani</surname>
+              </persName>
+              <gender value="W">Woman</gender>
               <occupation>Singer</occupation>
-              <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
-              <note>See <bibl><title>Braham, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_ca">
               <persName ref="http://viaf.org/viaf/46334644">
@@ -518,6 +648,26 @@
               <nationality>English</nationality>
               <occupation>Playwright, Author</occupation>
               <note>https://www.wikidata.org/wiki/Q55381444</note>
+           </person>
+           <person xml:id="mr_chapman">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Chapman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_chappel">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Chappel</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Publisher</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_ch">
               <persName>
@@ -548,6 +698,36 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Chatterley, Robert E.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_childe">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Childe</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_chippendale">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Chippendale</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_claremont">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Claremont</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="el_co">
               <persName>
                  <forename>Elizabeth</forename>
@@ -574,6 +754,16 @@
               <occupation>Playwright</occupation>
               <note>See <bibl><title>Cobb, James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_collingwood">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Collingwood</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="he_co">
               <persName ref="http://viaf.org/viaf/43200197">
                  <forename>Henry</forename>
@@ -586,6 +776,16 @@
               <nationality>English</nationality>
               <occupation>Composer</occupation>
               <note>See <bibl><title>Condell, Henry</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6056</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_cook">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cook</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_si_co">
               <persName ref="http://viaf.org/viaf/44727402">
@@ -602,6 +802,16 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Cooke, Thomas Simpson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_cooper">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cooper</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ge_co">
               <persName ref="http://viaf.org/viaf/30345422">
                  <forename>George</forename>
@@ -614,6 +824,56 @@
               <nationality>English</nationality>
               <occupation>Playwright, Theatre Manager</occupation>
               <note>See <bibl><title>Colman, George, the younger</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_cordell">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cordell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_corri">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Corri</surname>
+              </persName>
+              <gender value="M">Corri</gender>
+              <occupation>Composer</occupation>
+              <affiliation>Haymarket Theatre, Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_cox">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cox</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_cox">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cox</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_creswell">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Creswell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_cr">
               <persName>
@@ -629,6 +889,56 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Cresswell, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_cross">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Cross</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_crossman">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Crossman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_w_dale">
+              <persName>
+                 <forename>W.</forename>
+                 <surname>Dale</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Publisher</occupation>
+              <affiliation>Lyceum Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_dalton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Dalton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_dalton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Dalton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_da">
               <persName>
                  <forename>Charles</forename>
@@ -642,6 +952,16 @@
               <occupation>Actor, Chorus Singer</occupation>
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Danby, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_danton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Danton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ge_go_da">
               <persName ref="http://viaf.org/viaf/24162098">
@@ -673,6 +993,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Davenport, Mrs George Gosling, Mary Ann, nee Ilarvey</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_davies">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Davies</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ma_da">
               <persName ref="http://viaf.org/viaf/78999376">
                  <forename type="first">Maria</forename>
@@ -688,6 +1018,16 @@
               <occupation>Actor</occupation>
               <affiliation>Drury Lane Theatre, Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Davison [née Duncan], Maria Rebecca</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7304</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_decamp">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>De Camp</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="vi_de">
               <persName ref="http://viaf.org/viaf/26627748">
@@ -730,7 +1070,27 @@
               <occupation>Chorus Singer</occupation>
               <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Dibble, Robert</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
-           </person> 
+           </person>
+           <person xml:id="mr_dickons">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Dickons</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_diether">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Diether</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_di">
               <persName ref="http://viaf.org/viaf/30969418">
                  <forename>Charles</forename>
@@ -745,6 +1105,16 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Dignum, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_dixon">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Dixon</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="wi_do">
               <persName ref="http://viaf.org/viaf/28537790">
                  <forename>William</forename>
@@ -758,6 +1128,46 @@
               <occupation>Actor, Theatre Manager</occupation>
               <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Dowton, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_droset">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Droset</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_duruset">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Duruset</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_eames">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Eames</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_edgecomb">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Edgecomb</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="el_ed">
               <persName ref="http://viaf.org/viaf/83572384">
@@ -774,6 +1184,16 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Edwin, Mrs John, Elizabeth Rebecca, née Richards</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_egan">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Egan</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Costumer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="da_eg">
               <persName ref="http://viaf.org/viaf/12133389">
@@ -832,6 +1252,16 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Emery, John</title > (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_emery">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Emery</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_evans">
               <persName>
                  <forename>[Unknown]</forename>
@@ -840,6 +1270,16 @@
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_everard">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Everard</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ed_ey">
@@ -856,6 +1296,36 @@
               <occupation>Actor, Playwright</occupation>
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Eyre, Edmund John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mrs_eyre">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Eyre</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_fagan">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Fagan</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_fairclough">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Fairclough</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ch_fa">
               <persName ref="http://viaf.org/viaf/50584446">
@@ -885,6 +1355,66 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Fawcett, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_fawcett">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Fawcett</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_fenwick">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Fenwick</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_feron">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Feron</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_field">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Field</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_findlay">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Findlay</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_finn">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Finn</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="jo_br_fi">
               <persName ref="http://viaf.org/viaf/75880530">
                  <forename type="first">Joshua</forename>
@@ -899,6 +1429,56 @@
               <occupation>Actor</occupation>
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Fisher, Joshua Bridges</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_flowerdew">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Flowerdew</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_flowers">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Flowers</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Costumer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_foffee">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Foffee</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_gaywood">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Gaywood</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_gell">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Gell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ma_gi">
               <persName ref="http://viaf.org/viaf/43861814">
@@ -915,6 +1495,16 @@
               <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note></note>
            </person>
+           <person xml:id="mr_glenville">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Glenville</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ju_gl">
               <persName>
                  <forename>Juliana</forename>
@@ -930,6 +1520,16 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Glover, Mrs Samuel, Juliana; née Betterton</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>   
            </person>
+           <person xml:id="mr_gomersall">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Gomersall</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_go">
               <persName>
                  <forename>[Unknown]</forename>
@@ -944,6 +1544,36 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Goodman, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="miss_c_goodwin">
+              <persName>
+                 <forename>C.</forename>
+                 <surname>Goodwin</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_s_goodwin">
+              <persName>
+                 <forename>S.</forename>
+                 <surname>Goodwin</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_goodwin">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Goodwin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="jo_je_go">
               <persName ref="http://viaf.org/viaf/168082171">
                  <forename type="first">John</forename>
@@ -957,6 +1587,36 @@
               <nationality>English</nationality>
               <occupation>Singer</occupation>
               <note>See <bibl><title>Goss, John Jeremiah</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_grant">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Grant</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_gray">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Gray</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_green">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Green</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_he_gr">
               <persName ref="http://viaf.org/viaf/34023447">
@@ -973,6 +1633,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Grieve, John Henderson</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_griffiths">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Griffiths</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="jo_gr">
               <persName ref="http://viaf.org/viaf/76308205">
                  <forename>Joseph</forename>
@@ -986,6 +1656,16 @@
               <occupation>Dancer, Actor</occupation>
               <affiliation>Sadler's Wells Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Grimaldi, Joseph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mrs_grimaldi">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Grimaldi</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_gr">
               <persName ref="http://viaf.org/viaf/31570346">
@@ -1001,6 +1681,86 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Greenwood, Thomas</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_grove">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Grove</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_grove">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Grove</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_gussio">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Gussio</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hall">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hall</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hamerton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hamerton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_hamerton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hamerton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hardy">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hardy</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_hardy">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hardy</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="sa_ha">
               <persName ref="http://viaf.org/viaf/37668215">
                  <forename type="stage">Sarah</forename>
@@ -1015,6 +1775,126 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Harlowe, Sarah, stage name</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_harris">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Harris</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_harrison">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Harrison</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_harrison">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Harrison</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hartland">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hartland</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_harwood">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Harwood</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_hatton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hatton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_haughton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Haughton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_heath">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Heath</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_heath">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Heath</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hemings">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hemings</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hickman">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hickman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_hillington">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hillington</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_ho">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1028,6 +1908,26 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Hodgins, Mr</title> ((<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_hodson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hodson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_holford">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Holford</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ch_ho">
               <persName ref="http://viaf.org/viaf/96821336">
@@ -1086,6 +1986,16 @@
               <affiliation>Covent Garden Theatre, Drury Lane Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Holman, Joseph George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_hope">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Hope</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_ed_ho">
               <persName ref="http://viaf.org/viaf/42091688">
                  <forename type="first">Charles</forename>
@@ -1099,6 +2009,36 @@
               <nationality>English</nationality>
               <occupation>Composer, Singer</occupation>
               <note>See <bibl><title>Horn, Charles Edward</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13781</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mrs_horn">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Horn</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_houghton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Houghton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_houghton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Houghton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_how">
               <persName>
@@ -1114,6 +2054,46 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Howell, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_huckel">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Huckel</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_humphires">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Humphries</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_huntley">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Huntley</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_iliff">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Iliff</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_be_in">
               <persName ref="http://viaf.org/viaf/55315382">
                  <forename type="first">Charles</forename>
@@ -1128,6 +2108,46 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_jefferies">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jefferies</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_jeffkin">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jeffkin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_johnson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Johnson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_johnson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Johnson</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_he_jo">
               <persName ref="http://viaf.org/viaf/75020727">
@@ -1158,6 +2178,36 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Johnston, Mrs Henry Erskine the first, Nannette, nee Park</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_jones">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jones</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_jones_dl">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jones</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Drury Lane</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_jones_cg">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jones</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mi_ke">
               <persName ref="http://viaf.org/viaf/51703902">
@@ -1218,6 +2268,56 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Kemble, John Philip</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_kendall">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kendall</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_kent">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kent</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_kelly">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_l_kelly">
+              <persName>
+                 <forename>L.</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_kelly">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ma_pe_ki">
               <persName ref="http://viaf.org/viaf/6291556">
                  <forename type="first">Matthew</forename>
@@ -1232,6 +2332,26 @@
               <occupation>Composer</occupation>
               <note>See <bibl><title>King, Matthew Peter</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15579</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_king">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>King</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_kirby">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kirby</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_knight">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1240,6 +2360,66 @@
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre, Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_kniveton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kniveton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_ladbrook">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Ladbrook</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_lane">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lane</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_lawson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lawson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_lee_dl">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lee</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Drury Lane Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_lee_cg">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lee</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="an_ma_le">
@@ -1256,6 +2436,46 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Leserve, Anna Maria</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_lewes">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lewes</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_lewis">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lewis</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_limon">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Limon</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_linton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Linton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_li">
               <persName ref="http://viaf.org/viaf/3915614">
@@ -1298,6 +2518,46 @@
               <occupation>Composer, Musician</occupation>
               <note>See <bibl><title>Locke, Matthew</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16888</ref>)</bibl>.</note>
            </person>
+           <person xml:id="miss_logan">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Logan</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_logan">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Logan</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_louis">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Louis</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_louis">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Louis</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="wi_lo">
               <persName ref="http://viaf.org/viaf/200830272">
                  <forename>William</forename>
@@ -1311,6 +2571,16 @@
               <occupation>Actor</occupation>
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Lovegrove, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_macdonald">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Macdonald</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_ma">
               <persName>
@@ -1340,6 +2610,26 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Maddocks, Walter</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_makeen">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Makeen</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_mallinson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Mallinson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="th_ma">
               <persName>
                  <forename>Thomas</forename>
@@ -1353,6 +2643,16 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Marshall, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_martin">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Martin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_mas">
               <persName>
@@ -1480,6 +2780,16 @@
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Merrick, James</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_miller">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Miller</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_mi">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1492,6 +2802,76 @@
               <nationality>Unknown</nationality>
               <occupation>Actor, Singer</occupation>
               <affiliation>Haymarket Theatre, Drury Lane Theatre</affiliation>
+           </person>
+           <person xml:id="mrs_minton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Minton</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_montague">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Montague</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_montignani">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Montignani</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_morrell">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Morrell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_morelli">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Morelli</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_morris">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Morris</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Scene Painter</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_mortram">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Mortram</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Scene Painter</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_mo">
               <persName ref="http://viaf.org/viaf/24616222">
@@ -1550,6 +2930,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Murray, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_noble">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Noble</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="jo_no">
               <persName>
                  <forename>John</forename>
@@ -1563,6 +2953,26 @@
               <occupation>Actor, Singer</occupation>
               <affiliation>Sadler's Wells, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Norman, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_norris">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Norris</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_oddwell">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Oddwell</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_ok">
               <persName ref="http://viaf.org/viaf/78145067061566630171">
@@ -1607,6 +3017,16 @@
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Oxberry, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_paine">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Paine</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ro_pa">
               <persName>
                  <forename>Robert</forename>
@@ -1635,6 +3055,36 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre, Sadler's Wells</affiliation>
            </person>
+           <person xml:id="mr_paul">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Paul</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_payne">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Payne</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_penley">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Penley</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_penson">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1659,10 +3109,20 @@
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Philipps, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_phillimore">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Phillimore</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="th_ph_scenes">
               <persName ref="http://viaf.org/viaf/49496491">
                  <forename>Thomas</forename>
-                 <surname>Thomas Phillips</surname>
+                 <surname>Phillips</surname>
               </persName>
               <gender value="M">Man</gender>
               <birth when="1770">1770</birth>
@@ -1672,6 +3132,16 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Phillips, Thomas</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mrs_pincott">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Pincott</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_pl">
               <persName>
@@ -1686,6 +3156,16 @@
               <occupation>Actor, Chorus Singer</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Platt, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_poole">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Poole</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ja_po">
               <persName>
@@ -1715,6 +3195,26 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>Powell, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_powers">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Powers</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_price">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Price</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_jo_pu">
               <persName>
                  <forename type="first">Charles</forename>
@@ -1729,6 +3229,36 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Sadler's Wells, Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Pugh, Charles John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_putnam">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Putnam</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_pyne">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Pyne</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_ray">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Ray</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ja_ra">
               <persName ref="http://viaf.org/viaf/39760375">
@@ -1759,6 +3289,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Reeve, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_reeves">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Reeves</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ma_re">
               <persName>
                  <forename>Mary</forename>
@@ -1772,6 +3312,36 @@
               <occupation>Costumer</occupation>
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Rein, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_rials">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Rials</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_robert">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Robert</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_rogers">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Rogers</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Production Design</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="sa_ru">
               <persName ref="http://viaf.org/viaf/66034724">
@@ -1788,6 +3358,56 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Russell, Samuel Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-24337</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_ryall">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Ryall</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_salker">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Salker</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_salter">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Salter</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_sarjant">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Sarjant</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_saul">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Saul</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Machinist</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="an_sc">
               <persName ref="http://viaf.org/viaf/83569355">
                  <forename>Ann</forename>
@@ -1802,6 +3422,56 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Scott, Ann</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_seymour">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Seymour</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_shade">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Shade</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_sharpe">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Sharpe</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Publisher</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_shaw">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Shaw</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_sherriff">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Sherriff</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="wi_sh">
               <persName ref="http://viaf.org/viaf/34644606">
                  <forename>William</forename>
@@ -1814,6 +3484,26 @@
               <nationality>English</nationality>
               <occupation>Composer</occupation>
               <note>See <bibl><title>Shield, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25401</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_shotter">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Shotter</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_sibley">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Sibley</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="sa_ke_si">
               <persName ref="http://viaf.org/viaf/57410988">
@@ -1830,6 +3520,26 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Siddons, Mrs William, Sarah, nee Kemble</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_silver">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Actor</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_simes">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Simes</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="sa_si">
               <persName ref="http://viaf.org/viaf/24164109">
                  <forename>Samuel</forename>
@@ -1843,6 +3553,36 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Simmons, Samuel</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_simpson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Simpson</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_sinclair">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Sinclair</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_smart">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Smart</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Composer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="an_sm">
               <persName>
@@ -1899,6 +3639,26 @@
               <affiliation>Sadler's Wells, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Smith, Henry</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_j_smith">
+              <persName>
+                 <forename>J.</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_smith">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Smith</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="gh_sp">
               <persName>
                  <forename type="first">G.</forename>
@@ -1929,6 +3689,56 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Sparks, Mrs G. Hugh, Sarah, née Mills</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_spring">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Spring</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Box Bookkeeper</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_standen">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Standen</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_stead">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Stead</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_stokes">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Stokes</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_stokes">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Stokes</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="st_jo_se_st">
               <persName ref="http://viaf.org/viaf/29719456">
                  <forename type="first">Stephen</forename>
@@ -1958,6 +3768,66 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Street, James</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_tate">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tate</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_taylor">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Taylor</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre, Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_taylor">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Taylor</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_p_taylor">
+              <persName>
+                 <forename>P.</forename>
+                 <surname>Taylor</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_telfer">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Telfer</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_terry">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Terry</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor, Singer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="jo_te">
               <persName>
                  <forename>Joseph</forename>
@@ -1971,6 +3841,46 @@
               <occupation>Singer, Actor</occupation>
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Tett, Joseph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_s_tett">
+              <persName>
+                 <forename>S.</forename>
+                 <surname>Tett</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_thomas">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Thomas</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_thomson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Thomson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_thurston">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Thurston</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ch_ti">
               <persName ref="http://viaf.org/viaf/100750460">
@@ -1986,6 +3896,86 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Tidswell, Charlotte</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_tinney">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tinney</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_tobin">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tobin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Dressmaker</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_tolfer">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tolfer</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_tomkins">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tomkins</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_tramezzani">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Tramezzani</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_treby">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Treby</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_truman">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Truman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_turpin">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Turpin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="wi_un">
               <persName>
                  <forename>William</forename>
@@ -2000,6 +3990,26 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Underwood, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_valencey">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Valencey</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_valencey">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Valencey</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Dancer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_vi">
               <persName>
                  <forename>[Unknown]</forename>
@@ -2013,6 +4023,26 @@
               <occupation>Dancer</occupation>
               <affiliation>Sadler's Wells Theatre, Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Vials, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_villers">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Villers</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_villiers">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Villiers</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="je_vi">
               <persName ref="http://viaf.org/viaf/96823903">
@@ -2038,6 +4068,45 @@
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_ware">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Ware</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Composer</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_warner">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Warner</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_watson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Watson</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_watt">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Watt</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="al_we">
@@ -2096,6 +4165,16 @@
               <affiliation>Drury Lane Theatre, Haymarket Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>West, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mrs_weston">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Weston</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ra_we">
               <persName ref="http://viaf.org/viaf/8763250">
                  <forename>Ralph</forename>
@@ -2109,6 +4188,36 @@
               <occupation>Actor</occupation>
               <affiliation>Covent Garden Theatre, Haymarket Theatre, Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Wewitzer, Ralph</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="miss_wheatley">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Wheatley</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_whilmshurst">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Whilmshurst</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_whitaker">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Whitaker</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Composer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="h_wh">
               <persName ref="http://viaf.org/viaf/27148389377110711516">
@@ -2138,6 +4247,66 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Whitmore, Samuel</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_widdicombe">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Widdicombe</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_williams">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Williams</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_williams">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Williams</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_willoughby">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Willoughby</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_wilson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Wilson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Haymarket Theatre, Lyceum Theatre, Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_worgman">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Worgman</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="be_wr">
               <persName ref="http://viaf.org/viaf/70953401">
                  <forename>Benjamin</forename>
@@ -2165,6 +4334,26 @@
               <occupation>Actor, Theatre Manager</occupation>
               <affiliation>Covent Garden Theatre, Drury Lane Theatre</affiliation>
               <note>English actor who spent 37 years acting across the London stages in over 200 major roles. After spending the first portion of his career at Covent Garden he joined the Drury Lane Theatre in 1787. See <bibl><title>Wroughton, Richard</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mr_yarnold">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Yarnold</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_young">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Young</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
         </listPerson>
      <listPlace>
