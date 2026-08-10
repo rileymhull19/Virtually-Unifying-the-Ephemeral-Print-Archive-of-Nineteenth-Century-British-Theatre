@@ -2223,6 +2223,36 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Kelly, Michael</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15303</ref>)</bibl>.</note>
            </person>
+           <person xml:id="miss_kelly">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_l_kelly">
+              <persName>
+                 <forename>L.</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mr_kelly">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Kelly</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Chorus Singer</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ch_ke">
               <persName ref="http://viaf.org/viaf/59345857">
                  <forename>Charles</forename>
@@ -2286,36 +2316,6 @@
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre</affiliation>
-              <note>Detailed biographical information unable to be identified.</note>
-           </person>
-           <person xml:id="miss_kelly">
-              <persName>
-                 <forename>[Unknown]</forename>
-                 <surname>Kelly</surname>
-              </persName>
-              <gender value="W">Woman</gender>
-              <occupation>Actor</occupation>
-              <affiliation>Lyceum Theatre</affiliation>
-              <note>Detailed biographical information unable to be identified.</note>
-           </person>
-           <person xml:id="miss_l_kelly">
-              <persName>
-                 <forename>L.</forename>
-                 <surname>Kelly</surname>
-              </persName>
-              <gender value="W">Woman</gender>
-              <occupation>Actor</occupation>
-              <affiliation>Lyceum Theatre</affiliation>
-              <note>Detailed biographical information unable to be identified.</note>
-           </person>
-           <person xml:id="mr_kelly">
-              <persName>
-                 <forename>[Unknown]</forename>
-                 <surname>Kelly</surname>
-              </persName>
-              <gender value="M">Man</gender>
-              <occupation>Chorus Singer</occupation>
-              <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ma_pe_ki">

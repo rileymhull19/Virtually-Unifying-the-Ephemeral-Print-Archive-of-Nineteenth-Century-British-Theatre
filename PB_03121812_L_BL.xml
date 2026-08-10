@@ -53,7 +53,7 @@
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic"><hi rend="allcaps">Books</hi> of the <hi rend="allcaps">Songs</hi> may be had in the Theatre.</hi><lb/>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office, in the Strand<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box Office, in the Strand<lb/>
                Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>

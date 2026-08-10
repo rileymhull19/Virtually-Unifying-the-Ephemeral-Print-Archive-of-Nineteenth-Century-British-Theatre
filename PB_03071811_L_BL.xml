@@ -33,12 +33,12 @@
                   <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_penley">Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_carr">Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Horn</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_horn">Mrs. <hi rend="allcaps">Horn</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
@@ -46,7 +46,7 @@
                </castList>
                The <hi rend="allcaps">Prologue</hi> to be spoken by <persName ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi></persName>.<lb/>
                And the <hi rend="allcaps">Epilogue</hi> by <persName ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi></persName>.<lb/>
-               The New <hi rend="allcaps">Scenes</hi> painted by Mr. <hi rend="allcaps">Morris</hi>.<lb/>
+               The New <hi rend="allcaps">Scenes</hi> painted by <persName ref="namedentities.xml#mr_morris">Mr. <hi rend="allcaps">Morris</hi></persName>.<lb/>
                After which (<hi rend="italic">27th Time</hi>), a <hi rend="italic">New Musical Farce</hi>, called<lb/>
                <bibl><title ref="namedentities.xml#play_bee_hive">The <hi rend="allcaps">Bee Hive.</hi></title></bibl><lb/>
                The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New, Composed by <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
@@ -57,9 +57,9 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_mo">Mrs. <hi rend="allcaps">Mountain</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
                </castList>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box-Office in the<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box-Office in the<lb/>
                Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>

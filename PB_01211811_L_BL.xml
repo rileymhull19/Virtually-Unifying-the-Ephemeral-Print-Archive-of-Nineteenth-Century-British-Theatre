@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01221811_l_bl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_01211811_l_bl">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -21,21 +21,26 @@
          <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#lyceum"><hi rend="allcaps">Theatre Royal, Lyceum</hi></placeName><lb/>
                Under the Authority of Lord Chamberlain.<lb/>
-               This present <hi rend="allcaps">Tuesday, <date when="1811-01-22">January 22, 1811</date></hi>.<lb/>
-               Their Majesties Servants will Act the Comedy of<lb/>
-               <bibl><title ref="namedentities.xml#play_country_girl">The Country Girl.</title></bibl><lb/>
+               This present <hi rend="allcaps">Monday, <date when="1811-01-21">January 21, 1811</date></hi>.<lb/>
+               Their Majesties Servants will Act a New Comedy in 5 Acts, called<lb/>
+               <bibl><title ref="namedentities.xml#play_lost_and_found"><hi rend="allcaps">Lost &amp; Found.</hi></title></bibl>
                <castList>
-                  <castItem><role>Moody,</role> <actor ref="namedentities.xml#ri_wr">Mr. <hi rend="allcaps">Wroughton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Harcourt,</role> <actor ref="namedentities.xml#jo_po">Mr. <hi rend="allcaps">Powell</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sparkish,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
-                  <castItem><role>Belville,</role> <actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
-                  <castItem><role>Footman,</role> <actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><role>Countryman,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi></actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_evans">Mr. <hi>Evans</hi>,</actor></castItem><lb/>
-                  <castItem><role>Miss Peggy, (<hi rend="italic">The Country Girl</hi>)</role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
-                  <castItem><role>Alithea,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
-                  <castItem><role>Lucy,</role> <actor ref="namedentities.xml#ch_ti">Mrs. <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
+                  <head><hi rend="italic">The Principal Characters by</hi></head><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ri_wr">Mr. <hi rend="allcaps">Wroughton</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ho">>Mr. <hi rend="allcaps">Holland</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">DeCamp</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_lee_dl">Mr. <hi rend="allcaps">Lee</hi>.</actor></castItem><lb/>    
+                  <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>.</actor></castItem><lb/>
                </castList>
-               After which (<hi rend="italic">Third Time</hi>) a <hi rend="italic">New Musical Farce</hi>, called<lb/>
+               After which (<hi rend="italic">Second Time</hi>) a <hi rend="italic">New Musical Farce</hi>, called<lb/>
                <bibl><title ref="namedentities.xml#play_bee_hive">The Bee Hive.</title></bibl><lb/>
                The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New,<lb/>
                Composed by <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">Horn</hi></persName>.<lb/>
@@ -55,7 +60,7 @@
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>
                The Doors to be opened at <time when="17:30:00">Half past Five</time>, and the Performance to begin at <time when="18:30:00">half past Six</time>.<lb/>
                <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/>
-               The New Music Farce of The <hi rend="allcaps">Bee Hive</hi>, performed (for the 2nd Time)<lb/>
+               The New Music Farce of The <bibl><title ref="namedentities.xml#play_bee_hive"><hi rend="allcaps">Bee Hive</hi></title></bibl>, performed (for the First Time)<lb/>
                last night, was received by a crowded and brilliant audience with<lb/>
                universal approbation and reiterated bursts of applause, from every part of<lb/>
                the Theatre, and will be repeated every evening till further notice.

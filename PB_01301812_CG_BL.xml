@@ -32,25 +32,25 @@
                <hi rend="italic"><hi rend="allcaps">Part I.</hi></hi><lb/>
                Overture [unreadable]-Recit. <persName ref="namedentities.xml#th_lu_be">Mr. <hi rend="allcaps">Bellamy</hi></persName> 'My cup is full.' <hi rend="allcaps">Air,</hi> 'Shall I in Mamre's.' Chorus 'For all these<lb/>
                mercies.' Joshua-Air, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi></persName> 'No more with unavailing' Bach-Air, <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></persName> and Chorus 'The mar-<lb/>
-               vellous work.' Creation-Motet, Signor <hi rend="allcaps">Tramezzani</hi> 'I am refurgam.' Mayer-Chorus 'When his loud voice.' Jeph.<lb/>
-               -Air, Madam <hi rend="allcaps">Catalani</hi> 'Angels ever bright.' Theodora-Chorus 'Fix'd in his everlasting feat.' Samson.<lb/>
+               vellous work.' Creation-Motet, <persName ref="namedentities.xml#mr_tramezzani">Signor <hi rend="allcaps">Tramezzani</hi></persName> 'I am refurgam.' Mayer-Chorus 'When his loud voice.' Jeph.<lb/>
+               -Air, <persName ref="namedentities.xml#mrs_catalani">Madam <hi rend="allcaps">Catalani</hi></persName> 'Angels ever bright.' Theodora-Chorus 'Fix'd in his everlasting feat.' Samson.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part II.</hi></hi><lb/>
-               Overture and Dead March in Saul-Quartetto, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland,</hi></persName> Mess. <persName ref="namedentities.xml#jo_je_go">Goss</persName>, <hi rend="allcaps">Broadhurst</hi> and <hi rend="allcaps">Tinney</hi> 'When the ear<lb/>
-               heard him.' Chorus 'But his name liveth.' Funeral Anthem-Duet, Madam <hi rend="allcaps">Catalani</hi> and Signor <hi rend="allcaps">Tramezzani</hi><lb/>
+               Overture and Dead March in Saul-Quartetto, <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland,</hi></persName> Mess. <persName ref="namedentities.xml#jo_je_go">Goss</persName>, <persName ref="namedentities.xml#mr_broadhurst"><hi rend="allcaps">Broadhurst</hi></persName> and <persName ref="namedentities.xml#mr_tinney"><hi rend="allcaps">Tinney</hi></persName> 'When the ear<lb/>
+               heard him.' Chorus 'But his name liveth.' Funeral Anthem-Duet, <persName ref="namedentities.xml#mrs_catalani">Madam <hi rend="allcaps">Catalani</hi></persName> and <persName ref="namedentities.xml#mr_tramezzani">Signor <hi rend="allcaps">Tramezzani</hi></persName><lb/>
                'In questo lieto' Pueitta-Rocit, <persName ref="namedentities.xml#ma_di">Mrs. <hi rend="allcaps">Dickons</hi></persName> 'And God said.' Air, 'With verdue clad.' Chorus 'Awake the<lb/>
-               harp.' Creation-Air, Madam <hi rend="allcaps">Catalani</hi> 'Holy, holy Lord.' Redemption-Chorus 'Join voices.' Gaillard &amp; Cooke<lb/>
-               -Duet, Mr. <hi rend="allcaps">Dickons</hi> &amp; <persName ref="namedentities.xml#ma_bl">Mrs <hi rend="allcaps">Bland</hi></persName> 'Quoniam tu folus.' Portogallo-Chorus 'Gird on thy sword.' Saul.<lb/>
+               harp.' Creation-Air, <persName ref="namedentities.xml#mrs_catalani">Madam <hi rend="allcaps">Catalani</hi></persName> 'Holy, holy Lord.' Redemption-Chorus 'Join voices.' Gaillard &amp; Cooke<lb/>
+               -Duet, <persName ref="namedentities.xml#mr_dickons">Mr. <hi rend="allcaps">Dickons</hi></persName> &amp; <persName ref="namedentities.xml#ma_bl">Mrs <hi rend="allcaps">Bland</hi></persName> 'Quoniam tu folus.' Portogallo-Chorus 'Gird on thy sword.' Saul.<lb/>
                <hi rend="italic"><hi rend="allcaps">Part III.</hi></hi><lb/>
                Introduction-Air, <persName ref="namedentities.xml#jo_je_go">Mr. <hi rend="allcaps">Goss</hi></persName> and Chorus 'Jehovah renown'd.' Esther-Recit. <persName ref="namedentities.xml#ma_di">Mrs <hi rend="allcaps">Dickons</hi></persName> 'Ye sacred priests.'<lb/>
-               <hi rend="allcaps">Air</hi>, 'Fairwell ye limpid springs.' Jephtha-Cavitina, Signor <hi rend="allcaps">Tramezzani</hi>-Chorus 'Te glorious.' Graun-Air,<lb/>
-               Madam <hi rend="allcaps">Catalani</hi> 'Gratias agimus.' Guiglielmi-Coronation Anthem, 'God save the King.'<lb/>
+               <hi rend="allcaps">Air</hi>, 'Fairwell ye limpid springs.' Jephtha-Cavitina, <persName ref="namedentities.xml#mr_tramezzani">Signor <hi rend="allcaps">Tramezzani</hi></persName>-Chorus 'Te glorious.' Graun-Air,<lb/>
+               <persName ref="namedentities.xml#mrs_catalani">Madam <hi rend="allcaps">Catalani</hi></persName> 'Gratias agimus.' Guiglielmi-Coronation Anthem, 'God save the King.'<lb/>
                <castList>
                   <head>Principal Performers.</head><lb/>
-                  <castItem><actor><hi rend="allcaps">Madam Catalani</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_catalani"><hi rend="allcaps">Madam Catalani</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
-                  <castItem>And <actor>Mr. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Signor<hi rend="allcaps">Tramezzani</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#jo_je_go">Mr. Goss,</actor></castItem> <castItem><actor>Mr. Broadhurst,</actor></castItem> <castItem><actor>Mr. Tinney,</actor></castItem>
+                  <castItem>And <actor ref="namedentities.xml#mr_dickons">Mr. <hi rend="allcaps">Dickons</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_tramezzani">Signor<hi rend="allcaps">Tramezzani</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#jo_je_go">Mr. Goss,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_broadhurst">Mr. Broadhurst,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_tinney">Mr. Tinney,</actor></castItem>
                   <castItem>And <actor ref="namedentities.xml#th_lu_be">Mr. <hi rend="allcaps">Bellamy</hi>,</actor></castItem><lb/>
                </castList>
                <hi rend="italic">Leader of the Band, Mr. Ashley-Organ, Mr. J. Ashley</hi><lb/>

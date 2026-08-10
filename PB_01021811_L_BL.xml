@@ -38,7 +38,7 @@
                <castItem><actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">DeCamp</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>.</actor></castItem><lb/>
-               <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>.</actor></castItem><lb/>    
+               <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_lee_dl">Mr. <hi rend="allcaps">Lee</hi>.</actor></castItem><lb/>    
                <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>.</actor></castItem><lb/>
@@ -56,25 +56,25 @@
                <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>.</actor></castItem><lb/>
-               <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/> 
+               <castItem><actor ref="namedentities.xml#mr_carr">Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/> 
                <castItem><actor ref="namedentities.xml#wi_we">Master <hi rend="allcaps">West</hi>,</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>.</actor></castItem><lb/>
                <castItem><actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps">Powell</hi>.</actor></castItem><lb/>
                <castItem><hi rend="allcaps"><hi rend="italic">The Chorusses By</hi></hi><lb/>
-               Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor>Cook</actor>, <actor>Wilson</actor>, <actor>Stead</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor>Whilmshurst</actor><lb/>
-                  Messrs. <actor ref="namedentitites.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, &amp;c. &amp;c.</castItem><lb/>
+                  Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_cook">Cook</actor>, <actor ref="namedentities.xml#mr_wilson">Wilson</actor>, <actor ref="namedentities.xml#mr_stead">Stead</actor>, <actor ref="namedentities.xml#mr_jones">Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor ref="namedentities.xml#mr_whilmshurst">Whilmshurst</actor><lb/>
+                  Messrs. <actor ref="namedentitites.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor ref="namedentities.xml#mr_jones">Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, &amp;c. &amp;c.</castItem><lb/>
                <castItem><hi rend="allcaps">The Dance By</hi><lb/>
-               <actor>Miss C. <hi rend="allcaps">Bristow</hi></actor>,<lb/>
-               Messrs. <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="namedentitites.xml#j_we">Wells</actor>, <actor>Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor>Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
-                  Messrs. <actor>Valencey</actor>, <actor>Barret</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor>I. Boyce</actor>,  &amp;c. &amp;c.</castItem><lb/>
+                  <actor ref="namedentities.xml#miss_c_bristow">Miss C. <hi rend="allcaps">Bristow</hi></actor>,<lb/>
+                  Messrs. <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="namedentitites.xml#j_we">Wells</actor>, <actor ref="namedentities.xml#mr_hope">Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor ref="namedentities.xml#mr_gussio">Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
+                  Messrs. <actor ref="namedentities.xml#mr_valencey">Valencey</actor>, <actor ref="namedentities.xml#mr_barret">Barret</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor ref="namedentities.xml#mr_i_boyce">I. Boyce</actor>,  &amp;c. &amp;c.</castItem><lb/>
             </castList>
                The <hi rend="allcaps">Scenery</hi> designed by <persName ref="namedentities.xml#th_gr">Mr. <hi rend="allcaps">Greenwood</hi></persName>.<lb/>
-               and Executed by <rs ref="namedentities.xml#th_gr">Him</rs>, Mr. <hi rend="allcaps">Morris</hi>, <persName ref="namedentities.xml#ja_me">Mr. <hi rend="allcaps">Merrick</hi></persName>, Mr. <hi rend="allcaps">Mortram</hi>.<lb/>
-               The <hi rend="allcaps">Decorations</hi> &amp; <hi rend="allcaps">Machinery</hi> by Mr. <hi rend="allcaps">Morris</hi>, Mr. <hi rend="allcaps">Rogers</hi>.<lb/>
+               and Executed by <rs ref="namedentities.xml#th_gr">Him</rs>, <persName ref="namedentities.xml#mr_morris">Mr. <hi rend="allcaps">Morris</hi></persName>, <persName ref="namedentities.xml#ja_me">Mr. <hi rend="allcaps">Merrick</hi></persName>, <persName ref="namedentities.xml#mr_mortram">Mr. <hi rend="allcaps">Mortram</hi></persName>.<lb/>
+               The <hi rend="allcaps">Decorations</hi> &amp; <hi rend="allcaps">Machinery</hi> by <persName ref="namedentities.xml#mr_morris">Mr. <hi rend="allcaps">Morris</hi></persName>, <persName ref="namedentities.xml#mr_rogers">Mr. <hi rend="allcaps">Rogers</hi></persName>.<lb/>
                The <hi rend="allcaps">Dresses</hi> by <persName ref="namedentities.xml#he_ba">Mr. <hi rend="allcaps">Banks</hi></persName>, and <persName ref="namedentities.xml#ma_re">Miss <hi rend="allcaps">Rein</hi></persName>,<lb/>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box-Office in the<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box-Office in the<lb/>
                Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                <hi rend="italic">Vivant Rex et Regina! No Money to be Returned</hi></ab>
       </div>

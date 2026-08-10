@@ -25,16 +25,16 @@
                <bibl><title ref="namedentities.xml#play_honeymoon"><hi rend="allcaps">Honey-Moon</hi>.</title></bibl><lb/>
                <castList>
                   <castItem><role>The Duke Aranza,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Count Montalban,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rolando,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Count Montalban,</role> <actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rolando,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Lampedo,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lopez,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Campillo,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lopez,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Campillo,</role> <actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem><lb/>
                   <castItem><role>Balthazar,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
                   <castItem><role>Jaques,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Juliana,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Volante,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Volante,</role> <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
                   <castItem><role>Zamora,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Hostess,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Hostess,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                </castList>
                After which, (<hi rend="allcaps">Second Time</hi>) A Comick Piece in Two Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
@@ -43,9 +43,9 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>

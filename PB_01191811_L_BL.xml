@@ -26,7 +26,7 @@
                <bibl><title ref="namedentities.xml#play_stranger"><hi rend="allcaps">Stranger.</hi></title></bibl><lb/>
                <castList>
                   <castItem><role>The Stranger,</role> <actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond,</hi></actor></castItem><lb/>
-                  <castItem><role>Count Wintersen,</role> <actor>Mr. <hi rend="allcaps">Ray,</hi></actor></castItem><lb/>
+                  <castItem><role>Count Wintersen,</role> <actor ref="namedentities.xml#mr_ray">Mr. <hi rend="allcaps">Ray,</hi></actor></castItem><lb/>
                   <castItem><role>Baron Steinfert,</role> <actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave,</hi></actor></castItem><lb/>
                   <castItem><role>Mr. Solomon,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer,</hi></actor></castItem><lb/>
                   <castItem><role>Peter,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi></actor></castItem><lb/>
@@ -36,7 +36,7 @@
                   <castItem><role>Countess Wintersen,</role> <actor ref="namedentities.xml#su_bo">Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
                   <castItem><role>Charlotte,</role> <actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>.</actor></castItem><lb/>
                </castList>
-               <hi rend="italic">The Vocal Parts by</hi> <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi></persName> and Miss <hi rend="allcaps">L. Kelly</hi>.<lb/>
+               <hi rend="italic">The Vocal Parts by</hi> <persName ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi></persName> and <persName ref="namedentities.xml#miss_l_kelly">Miss <hi rend="allcaps">L. Kelly</hi></persName>.<lb/>
                After which a <hi rend="italic">New Musical Farce</hi>, <hi rend="allcaps">Never Performed,</hi> called<lb/>
                <bibl><title ref="namedentities.xml#play_bee_hive">The Bee Hive.</title></bibl><lb/>
                The <hi rend="allcaps">Overture</hi> and <hi rend="allcaps">Music</hi> entirely New,<lb/>
@@ -48,7 +48,7 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_mo">Mrs. <hi rend="allcaps">Mountain</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
                </castList>
                Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the<lb/>

@@ -28,7 +28,7 @@
                Their Majesties Servants will Act (<hi rend="italic">for the 2nd time</hi>) the revived Comic Opera of The<lb/>
                <bibl><title ref="namedentities.xml#play_siege_of_belgrade">Siege of Belgrade.</title></bibl><lb/>
                <hi rend="italic">With New Scenery, Dresses and Decorations.</hi><lb/>
-               The Seraskier, Mr. <hi rend="allcaps">Braham</hi>,<lb/>
+               The Seraskier, <persName ref="namedentities.xml#jo_br">Mr. <hi rend="allcaps">Braham</hi></persName>,<lb/>
                In which Character he will introduce the favorite Ballad, composed by <hi rend="allcaps">Shield</hi>,<lb/>
                <quote><hi rend="italic"><hi rend="allcaps">"My Heart With Love is Beating,"</hi></hi></quote><lb/>
                And a <hi rend="allcaps">New Serenade</hi>,<lb/>
@@ -38,11 +38,11 @@
                   <castItem><role>Ismael,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
                   <castItem><role>Yuseph,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
                   <castItem><role>Leopold,</role> <actor ref="namedentities.xml#sa_ru">Mr. <hi rend="allcaps">Russell</hi>,</actor></castItem><lb/>
-                  <castItem><role>Peter,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem> <castItem><role>Michael,</role> <actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
-                  <castItem><role>Anselm,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem><lb/> <castItem><role>Officer,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
+                  <castItem><role>Peter,</role> <actor ref="namedentities.xml#ch_di">Mr. <hi rend="allcaps">Dignum</hi>,</actor></castItem> <castItem><role>Michael,</role> <actor ref="namedentities.xml#mr_penley">Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><role>Anselm,</role> <actor ref="namedentities.xml#mr_miller">Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem><lb/> <castItem><role>Officer,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem><lb/>
                   <castItem><role>Katharine,</role> <actor ref="namedentities.xml#ro_mo">Mrs. <hi rend="allcaps">Mountain</hi>,</actor></castItem><lb/>
                   <castItem><role>Fatima,</role> <actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
-                  <castItem><role>Lilla,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lilla,</role> <actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
                   <castItem><role>Ghita,</role> <actor ref="namedentities.xml#ma_bl">Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
                </castList>
                To which will be added the Farce of The<lb/>
@@ -59,7 +59,7 @@
                   <castItem><role>Flora,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>,</actor><lb/>
                   <hi rend="italic">(Being her First Appearance in that Character)</hi></castItem> 
                </castList>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box-Office in the<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box-Office in the<lb/>
                Strand Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>

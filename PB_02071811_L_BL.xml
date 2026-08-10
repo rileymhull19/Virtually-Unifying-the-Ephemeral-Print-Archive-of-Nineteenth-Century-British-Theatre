@@ -32,30 +32,30 @@
                Three Pieces only excepted from the <hi rend="allcaps">MS.</hi> of <hi rend="allcaps">Winter</hi>.<lb/>
                <castList>
                   <head><hi rend="italic">The Characters by</hi></head><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ja_ra">Mr. <hi rend="allcaps">Raymond</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#th_ph">Mr. <hi rend="allcaps">Philipps</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_waldegrave">Mr. <hi rend="allcaps">Waldegrave</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_carr">Mr. <hi rend="allcaps">Carr</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_miller">Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_lee">Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#al_we">Mr. <hi rend="allcaps">Webb</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_evans">Mr. <hi rend="allcaps">Evans</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi></actor>,</castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ja_po">Mrs. <hi rend="allcaps"> Powell</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_poole">Miss <hi rend="allcaps">Poole</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_bl"> Mrs. <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_ma">Mrs. <hi rend="allcaps">Maddocks</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps"><hi rend="italic">The Chorusses By</hi></hi><lb/>
                <castList>
-                  <castItem>Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor>Cook</actor>, <actor>Wilson</actor>, <actor ref="namedentities.xml#mr_me">Mead</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor>Whilmshurst</actor><lb/>
-                     <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="j_we">Wells</actor>, <actor>Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor>Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
-                     Messrs. <actor ref="namedentities.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor>Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, <actor>Valencey</actor>, <actor>Barrett</actor><lb/>
-                     <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor>I. Boyce</actor>, The Dance by <actor>Miss C. Bristow</actor> &amp; <actor>Mr. Montignani</actor>.</castItem></castList><lb/>
-               The Principal <hi rend="allcaps">Scenes</hi>, Entirely New, Designed &amp; Painted by Mr. <hi rend="allcaps">Morris</hi>.<lb/>
+                  <castItem>Messrs. <actor ref="namedentities.xml#ch_da">Danby</actor>, <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_cook">Cook</actor>, <actor ref="namedentities.xml#mr_wilson">Wilson</actor>, <actor ref="namedentities.xml#mr_me">Mead</actor>, <actor ref="namedentities.xml#mr_jones">Jones</actor>, <actor ref="namedentities.xml#ro_di">Dibble</actor>, <actor ref="namedentities.xml#mr_whilmshurst">Whilmshurst</actor><lb/>
+                     <actor ref="namedentities.xml#mr_go">Goodman</actor>, <actor ref="j_we">Wells</actor>, <actor ref="namedentities.xml#mr_hope">Hope</actor>, <actor ref="namedentities.xml#ch_ma">Mathews</actor>, <actor ref="namedentities.xml#mr_gussio">Gussio</actor>, <actor ref="namedentities.xml#mr_vi">Vials</actor>, &amp;c. &amp;c.<lb/>
+                     Messrs. <actor ref="namedentities.xml#mo_me">Menage</actor>, <actor ref="namedentities.xml#wa_ma">Maddocks</actor>, <actor ref="namedentities.xml#ro_ch">Chatterley</actor>, <actor ref="namedentities.xml#mr_jones">Jones</actor>, <actor ref="namedentities.xml#j_we">Wells</actor>, <actor ref="namedentities.xml#mr_valencey">Valencey</actor>, <actor ref="namedentities.xml#mr_barrett">Barrett</actor><lb/>
+                     <actor ref="namedentities.xml#jo_ca">Caulfield</actor>, <actor ref="namedentities.xml#mr_mi">Minton</actor>, <actor ref="namedentities.xml#mr_i_boyce">I. Boyce</actor>, The Dance by <actor ref="namedentities.xml#miss_c_bristow">Miss C. Bristow</actor> &amp; <actor ref="namedentities.xml#mr_montignani">Mr. Montignani</actor>.</castItem></castList><lb/>
+               The Principal <hi rend="allcaps">Scenes</hi>, Entirely New, Designed &amp; Painted by <persName ref="namedentities.xml#mr_morris">Mr. <hi rend="allcaps">Morris</hi></persName>.<lb/>
                <hi rend="italic">Books of the <hi rend="allcaps">Songs</hi> may be had in the Theatre, and at the Dramatic Repository,</hi><lb/>
                <hi rend="italic">Great Russell Street, Covent Garden.</hi><lb/>
                After which (<hi rend="italic">13th Time</hi>) a <hi rend="italic">New Musical Farce</hi>, called
@@ -69,9 +69,9 @@
                   <castItem><actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ro_mo">Mrs. <hi rend="allcaps">Mountain</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>.</actor></castItem><lb/>
                </castList>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box Office in the<lb/>
                Strand Entrances, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                <hi rend="italic">Vivant Rex et Regina!-No Money to be returned.</hi><lb/>
                The New Operatic Drama of The <hi rend="allcaps">Peasant Boy</hi>, and the New<lb/>
