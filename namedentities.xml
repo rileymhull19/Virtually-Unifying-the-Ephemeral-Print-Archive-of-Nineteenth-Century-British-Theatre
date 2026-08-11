@@ -2109,6 +2109,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_jamieson">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Jamieson</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Lyceum Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_jefferies">
               <persName>
                  <forename>[Unknown]</forename>

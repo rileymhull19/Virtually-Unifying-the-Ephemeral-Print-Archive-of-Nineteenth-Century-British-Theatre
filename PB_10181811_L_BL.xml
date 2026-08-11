@@ -28,17 +28,17 @@
                a Comedy called, The<lb/>
                <bibl><title ref="namedentities.xml#play_way_to_get_married">Way to get Married.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Tangent,</role> <actor>Mr. <hi rend="allcaps">Lewis</hi>,</actor><lb/>
+                  <castItem><role>Tangent,</role> <actor ref="namedentities.xml#mr_lewis">Mr. <hi rend="allcaps">Lewis</hi>,</actor><lb/>
                   <hi rend="italic">(From the Theatre Royal, York, being his 1st Appearance at this Theatre.)</hi></castItem><lb/>
                   <castItem><role>Toby Allspice,</role> <actor ref="namedentities.xml#wi_do">Mr. <hi rend="allcaps">Dowton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Captain Faulkner,</role> <actor>Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
+                  <castItem><role>Captain Faulkner,</role> <actor ref="namedentities.xml#mr_putnam">Mr. <hi rend="allcaps">Putnam</hi>,</actor></castItem><lb/>
                   <castItem><role>Caustic,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem><lb/>
                   <castItem><role>Dick Dashall,</role> <actor ref="namedentities.xml#vi_de">Mr. <hi rend="allcaps">De Camp</hi>,</actor></castItem><lb/>
                   <castItem><role>Mc. Query,</role> <actor ref="namedentities.xml#ro_pa">Mr. <hi rend="allcaps">Palmer</hi>,</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><role>Shopman,</role> <actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem> <castItem><role>Ned,</role> <actor>Mr. Miller,</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#wa_ma">Mr. Maddocks,</actor></castItem> <castItem><role>Shopman,</role> <actor ref="namedentities.xml#mr_evans">Mr. Evans,</actor></castItem> <castItem><role>Ned,</role> <actor ref="namedentities.xml#mr_miller">Mr. Miller,</actor></castItem><lb/>
                   <castItem><role>Jailor,</role> <actor ref="namedentities.xml#gh_sp">Mr. Sparks,</actor></castItem> <castItem><role>Geoffry,</role> <actor ref="namedentities.xml#ro_ch">Mr. Chatterley,</actor></castItem> <castItem><role>Officer,</role> <actor ref="namedentities.xml#al_we">Mr. Webb,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher,</actor></castItem> <castItem><role>Solicitor,</role> <actor>Mr. Buxton,</actor></castItem> <castItem><role>Undertaker,</role> <actor>Mr. Lee,</actor></castItem><lb/>
-                  <castItem><role>Postilion,</role> <actor>Mr. Jamieson,</actor></castItem> <castItem><role>Clerk,</role> <actor>Master Seymour,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. Fisher,</actor></castItem> <castItem><role>Solicitor,</role> <actor ref="namedentities.xml#mr_buxton">Mr. Buxton,</actor></castItem> <castItem><role>Undertaker,</role> <actor ref="namedentities.xml#mr_lee">Mr. Lee,</actor></castItem><lb/>
+                  <castItem><role>Postilion,</role> <actor ref="namedentities.xml#mr_jamieson">Mr. Jamieson,</actor></castItem> <castItem><role>Clerk,</role> <actor ref="namedentities.xml#mr_seymour">Master Seymour,</actor></castItem><lb/>
                   <castItem><role>Julia Faulkner,</role> <actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><role>Celmentina Allspice,</role> <actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><role>Lady Sorrel,</role> <actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
@@ -58,7 +58,7 @@
                   <castItem><actor ref="namedentities.xml#je_vi">Miss <hi rend="allcaps">Bew</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_bl">Miss <hi rend="allcaps">Bland</hi>,</actor></castItem><lb/>
                </castList>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, at the Box Office in the Strand<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, at the Box Office in the Strand<lb/>
                Entrance, of whom may also be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                Boxes <measure type="currency">6s</measure>. Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s</measure>. <measure type="currency">6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>

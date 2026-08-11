@@ -35,11 +35,11 @@
                   <castItem><actor ref="namedentities.xml#ch_ho">Mr. <hi rend="allcaps">Holland</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#be_wr">Mr. <hi rend="allcaps">Wrench</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_he_jo">Mr. <hi rend="allcaps">Johnstone</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_penley">Mr. <hi rend="allcaps">Penley</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_boyce">Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                </castList>
@@ -54,17 +54,17 @@
                <castList>
                   <head><hi rend="italic">Characters in the Prelude.-</hi></head> <castItem><role>Dill,</role> <actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><role>Zigzag,</role> <actor ref="namedentities.xml#ra_we">Mr. <hi rend="allcaps">Wewitzer</hi>,</actor></castItem> <castItem><role>Under Prompter,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
-                  <castItem><role>Echo,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
+                  <castItem><role>Echo,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem> <castItem><role>Tailor,</role> <actor ref="namedentities.xml#mr_lee">Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
                   <castItem><hi rend="italic">Characters in the Drama.-</hi></castItem><castItem><role>Francisco,</role> <actor ref="namedentities.xml#wi_lo">Mr. <hi rend="allcaps">Lovegrove</hi>,</actor></castItem><lb/>
                   <castItem><role>Percy,</role> <actor ref="namedentities.xml#jo_br_fi">Mr. <hi rend="allcaps">Fisher</hi>,</actor></castItem> <castItem><role>Isaacos,</role> <actor ref="namedentities.xml#ro_ch">Mr. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                   <castItem><role>Abrahamides,</role> <actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry</hi>,</actor></castItem><lb/>
-                  <castItem><role>Bernardo,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><role>Bartholomeus,</role> <actor>Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
-                  <castItem><role>Christophorides,</role> <actor>Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Humphriminos,</role> <actor>Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
-                  <castItem><role>Dorothea,</role> <actor>Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Tittilinda,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
-                  <castItem><role>Blousidora,</role> <actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>Moperella,</role> <actor>Miss <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><role>Bernardo,</role> <actor ref="namedentities.xml#mr_penson">Mr. <hi rend="allcaps">Penson</hi>,</actor></castItem> <castItem><role>Bartholomeus,</role> <actor ref="namedentities.xml#mr_pyne">Mr. <hi rend="allcaps">Pyne</hi>,</actor></castItem><lb/>
+                  <castItem><role>Christophorides,</role> <actor ref="namedentities.xml#mr_miller">Mr. <hi rend="allcaps">Miller</hi>,</actor></castItem> <castItem><role>Humphriminos,</role> <actor ref="namedentities.xml#mr_lee">Mr. <hi rend="allcaps">Lee</hi>,</actor></castItem><lb/>
+                  <castItem><role>Dorothea,</role> <actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>,</actor></castItem> <castItem><role>Tittilinda,</role> <actor ref="namedentities.xml#ma_an_or">Mrs. <hi rend="allcaps">Orger</hi>,</actor></castItem><lb/>
+                  <castItem><role>Blousidora,</role> <actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem> <castItem><role>Moperella,</role> <actor ref="namedentities.xml#miss_jones">Miss <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">The Equestrian, Assinine, &amp; Non-descript Warriors.</hi></role><lb/>
-                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Cook,</actor> <actor>Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor>Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor>Whilmshurst.</actor><lb/>
-                     <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Gussio,</actor> <actor>Rials,</actor> &amp;c. &amp;c.</castItem><lb/>
+                     Messrs. <actor ref="namedentities.xml#ch_da">Danby,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="namedentities.xml#mr_cook">Cook,</actor> <actor ref="namedentities.xml#mr_wilson">Wilson,</actor> <actor ref="namedentities.xml#mr_me">Mead,</actor> <actor ref="namedentities.xml#mr_jones">Jones,</actor> <actor ref="namedentities.xml#ro_di">Dibble,</actor> <actor ref="namedentities.xml#mr_whilmshurst">Whilmshurst.</actor><lb/>
+                     <actor ref="namedentities.xml#ch_ma">Mathews,</actor> <actor ref="namedentities.xml#mr_go">Goodman,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor ref="namedentities.xml#mr_gussio">Gussio,</actor> <actor ref="namedentities.xml#mr_rials">Rials,</actor> &amp;c. &amp;c.</castItem><lb/>
                </castList>
                <hi rend="italic">Books of the Songs may be had in the Theatre.</hi></ab>
          </div>
