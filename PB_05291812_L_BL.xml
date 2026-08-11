@@ -38,7 +38,7 @@
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_boyce">Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                </castList>
@@ -53,11 +53,11 @@
                   <castItem><actor ref="namedentities.xml#mr_knight">Mr. <hi rend="allcaps">Knight</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wi_ox">Mr. <hi rend="allcaps">Oxberry,</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#wa_ma">Mr. <hi rend="allcaps">Maddocks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_kelly">Miss <hi rend="allcaps">Kelly</hi>.</actor></castItem><lb/>
                </castList>
-               The New Farce called <hi rend="allcaps">How to Die For Love!</hi> is pubished by <hi rend="allcaps">Chappel</hi>, Pall Mall,<lb/>
+               The New Farce called <hi rend="allcaps">How to Die For Love!</hi> is pubished by <persName ref="namedentities.xml#mr_chappel"><hi rend="allcaps">Chappel</hi></persName>, Pall Mall,<lb/>
                and may be had in the Theatre.<lb/>
-               Boxes and Places to be taken of Mr. <hi rend="allcaps">Spring</hi>, Box Office, Strand Entrance<lb/>
+               Boxes and Places to be taken of <persName ref="namedentities.xml#mr_spring">Mr. <hi rend="allcaps">Spring</hi></persName>, Box Office, Strand Entrance<lb/>
                from <time when="10:00:00"><hi rend="allcaps">Ten</hi></time> till <time when="16:00:00"><hi rend="allcaps">Four</hi></time>, &amp; of whom may be had <hi rend="allcaps">Private Boxes</hi> Nightly.<lb/>
                Boxes <measure type="currency">6s.</measure> Second Price <measure type="currency">3s</measure>. Pit <measure type="currency">3s. 6d</measure>. Second Price <measure type="currency">2s</measure>. Gallery <measure type="currency">2s</measure>.<lb/>
                Second Price <measure type="currency">1s</measure>. Upper Gallery <measure type="currency">1s</measure>. Second Price <measure type="currency">6d</measure>.<lb/>

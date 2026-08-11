@@ -39,7 +39,7 @@
                   <castItem><actor ref="namedentities.xml#ma_da">Miss <hi rend="allcaps">Duncan</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#el_ed">Mrs. <hi rend="allcaps">Edwin</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_sp">Mrs. <hi rend="allcaps">Sparks</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_boyce">Miss <hi rend="allcaps">Boyce</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_ha">Mrs. <hi rend="allcaps">Harlowe</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_ch">Mrs. <hi rend="allcaps">Chatterley</hi>,</actor></castItem><lb/>
                </castList>
@@ -59,8 +59,8 @@
                   <castItem><actor ref="namedentities.xml#ch_ti">Miss <hi rend="allcaps">Tidswell</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#an_sc">Mrs. <hi rend="allcaps">Scott</hi>,</actor></castItem><lb/>
                </castList>
-               The Musical Farce of <hi rend="allcaps">Turn Out</hi>, is published by Mr. <hi rend="allcaps">Sharpe</hi>, Piccadilly:<lb/>
-               The <hi rend="allcaps">Music</hi> is also published by Mr. <hi rend="allcaps">W. Dale</hi>, in the Poultry,<lb/>
+               The Musical Farce of <hi rend="allcaps">Turn Out</hi>, is published by <persName ref="namedentities.xml#mr_sharpe">Mr. <hi rend="allcaps">Sharpe</hi></persName>, Piccadilly:<lb/>
+               The <hi rend="allcaps">Music</hi> is also published by <persName ref="namedentities.xml#mr_w_dale">Mr. <hi rend="allcaps">W. Dale</hi></persName>, in the Poultry,<lb/>
                <hi rend="italic">Books of the Songs may be had in the Theatre.</hi><lb/>
                <hi rend="italic">No Orders can possibly be admitted during the Run of<lb/>
                   The New Comedy.</hi></ab>
