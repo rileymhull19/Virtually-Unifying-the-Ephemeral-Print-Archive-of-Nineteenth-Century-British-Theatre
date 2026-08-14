@@ -24,32 +24,32 @@
                Will be perform'd a Comedy in Five Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_country_girl">Country Girl.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Moody,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>,</actor><lb/>
+                  <castItem><role>Moody,</role> <actor ref="namedentities.xml#mr_grant">Mr. <hi rend="allcaps">Grant</hi>,</actor><lb/>
                   (being his first appearance on this Stage.)</castItem><lb/>
                   <castItem><role>Harcourt,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
-                  <castItem><role>Sparkish,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
-                  <castItem><role>Belville,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>,</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor>Mr. Widdicombe,</actor></castItem> <castItem><role>Robert,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Harry,</role> <actor ref="namedentities.xml#mr_auld">Mr. Auld,</actor></castItem><lb/>
-                  <castItem><role>Alithea,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
-                  <castItem><role>Peggy,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sparkish,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><role>Belville,</role> <actor ref="namedentities.xml#mr_dalton">Mr. <hi rend="allcaps">Dalton</hi>,</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe,</actor></castItem> <castItem><role>Robert,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Harry,</role> <actor ref="namedentities.xml#mr_auld">Mr. Auld,</actor></castItem><lb/>
+                  <castItem><role>Alithea,</role> <actor ref="namedentities.xml#mrs_eyre">Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/>
+                  <castItem><role>Peggy,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                   <castItem><role>Lucy,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
                </castList>
                After which, an Interlude, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_register_office">The Register Officer.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Donald,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gulwell,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donald,</role> <actor ref="namedentities.xml#mr_grant">Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gulwell,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added, the Musical Entertainment, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_of_age_tomorrow">Of Age To-morrow.</title></bibl><lb/>
                <castList>
                   <castItem><role>Baron Willinghurst,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Baron Piffleberg,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Hans Melkus,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mr. Friz,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lady Brumback,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sophia,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Maria,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baron Piffleberg,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Hans Melkus,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mr. Friz,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>John,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Brumback,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sophia,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Maria,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
