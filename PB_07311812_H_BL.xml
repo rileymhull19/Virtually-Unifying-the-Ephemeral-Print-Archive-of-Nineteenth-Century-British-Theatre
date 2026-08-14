@@ -26,38 +26,38 @@
                <bibl><title ref="namedentities.xml#play_fortune_hunters">Fortune-Hunters.</title></bibl><lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                </castList>
                After which (2nd time at this Theatre these Seven Years) The Farce of<lb/>
                <bibl><title ref="namedentities.xml#play_liar">The <hi rend="allcaps">Liar</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Sir James Eliiot,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Sir James Eliiot,</role> <actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>Old Wilding,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Young Wilding,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Young Wilding,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>Papillion,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Servants,</role> <actor>Mr. Widdicombe,</actor> and <actor>Mr. Villers.</actor></castItem> <castItem><role>Waiter,</role> <actor>Mr. Glenville.</actor></castItem><lb/><lb/>
-                  <castItem><role>Miss Grantham,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Miss Godfrey,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Kitty,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
+                  <castItem><role>Servants,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe,</actor> and <actor ref="namedentities.xml#mr_villers">Mr. Villers.</actor></castItem> <castItem><role>Waiter,</role> <actor ref="namedentities.xml#mr_glenville">Mr. Glenville.</actor></castItem><lb/><lb/>
+                  <castItem><role>Miss Grantham,</role> <actor ref="namedentities.xml#mrs_dalton">Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Miss Godfrey,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Kitty,</role> <actor ref="namedentities.xml#mrs_kendall">Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added,<lb/>
                <bibl><title ref="namedentities.xml#play_two_strings_to_your_bow"><hi rend="allcaps">Two Strings<lb/>         
                To Your Bow.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Don Pedro,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Don Sancho,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Octavio,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Ferdinand,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Borachio,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Waiters,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi></actor> and <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Pedro,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Don Sancho,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Octavio,</role> <actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Ferdinand,</role> <actor ref="namedentities.xml#mr_dalton">Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Borachio,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Waiters,</role> <actor ref="namedentities.xml#mr_hardy">Mr. <hi rend="allcaps">Hardy</hi></actor> and <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
                   <castItem><role>Lazarillo,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Donna Clara,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Leonora,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Donna Clara,</role> <actor ref="namedentities.xml#mrs_dalton">Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Leonora,</role> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor ref="namedentities.xml#mrs_stokes">Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
                </castList></ab>
          </div>
       </body>

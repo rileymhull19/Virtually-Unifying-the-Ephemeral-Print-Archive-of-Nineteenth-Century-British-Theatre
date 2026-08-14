@@ -24,17 +24,17 @@
                Will be perform'd a Comedy in Five Acts, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_rivals">The <hi rend="allcaps">Rivals.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Sir Anthony Absolute,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>,</actor></castItem><lb/>
-                  <castItem><role>Captain Absolute,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
-                  <castItem><role>Faulkland,</role> <actor>Mr. <hi rend="allcaps">Salter</hi>,</actor></castItem><lb/>
+                  <castItem><role>Sir Anthony Absolute,</role> <actor ref="namedentities.xml#mr_terry">Mr. <hi rend="allcaps">Terry</hi>,</actor></castItem><lb/>
+                  <castItem><role>Captain Absolute,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><role>Faulkland,</role> <actor ref="namedentities.xml#mr_salter">Mr. <hi rend="allcaps">Salter</hi>,</actor></castItem><lb/>
                   <castItem><role>Acres,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>,</actor></castItem><lb/>
                   <castItem><role>Sir Lucius O'Trigger,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
-                  <castItem><role>Fag,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem> <castItem><role>David,</role> <actor>Mr. <hi rend="allcaps">Chippendale</hi>,</actor></castItem><lb/>
-                  <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Servants,</role> <actor>Mr. Glenville</actor> and <actor>Master Martin.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Malaprop,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
+                  <castItem><role>Fag,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>,</actor></castItem> <castItem><role>David,</role> <actor ref="namedentities.xml#mr_chippendale">Mr. <hi rend="allcaps">Chippendale</hi>,</actor></castItem><lb/>
+                  <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton,</actor></castItem> <castItem><role>Servants,</role> <actor ref="namedentities.xml#mr_glenville">Mr. Glenville</actor> and <actor ref="namedentities.xml#mr_martin">Master Martin.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Malaprop,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>,</actor></castItem><lb/>
                   <castItem><role>Lydia Languish,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
-                  <castItem><role>Julia,</role> <actor>Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
-                  <castItem><role>Lucy,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/> 
+                  <castItem><role>Julia,</role> <actor ref="namedentities.xml#mrs_glover">Mrs. <hi rend="allcaps">Glover</hi>,</actor></castItem><lb/>
+                  <castItem><role>Lucy,</role> <actor ref="namedentities.xml#mrs_eyre">Mrs. <hi rend="allcaps">Eyre</hi>,</actor></castItem><lb/> 
                </castList>
                To which will be added,<lb/>
                (<hi rend="allcaps">Twelfth Time</hi>)<lb/>
@@ -43,13 +43,13 @@
                   Or, Which is the Lady?</bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Principal Characters By</hi></head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_chippendale">Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_dalton">Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>

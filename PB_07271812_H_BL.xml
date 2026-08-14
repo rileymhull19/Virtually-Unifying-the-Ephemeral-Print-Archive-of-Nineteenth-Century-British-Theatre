@@ -24,39 +24,39 @@
                Will be perform'd the Musical Entertainment of The<lb/>
                <bibl><title ref="namedentities.xml#play_children_in_the_wood">Children in the Wood.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lord Alford,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Sir Rowland,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Walter,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/> 
-                  <castItem><role>Apathy,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Gabriel,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Oliver,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Servants,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi></actor> and <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lady Helen,</role> <actor>Mrs. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Winifred,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Josephine,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
-                  <castItem><role>Children,</role> <actor>Master <hi rend="allcaps">Martin</hi></actor> and <actor>Miss <hi rend="allcaps">L. Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Alford,</role> <actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Sir Rowland,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Walter,</role> <actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/> 
+                  <castItem><role>Apathy,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Gabriel,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><role>Oliver,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Servants,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi></actor> and <actor ref="namedentities.xml#mr_villers">Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Helen,</role> <actor ref="namedentities.xml#mrs_eyre">Mrs. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Winifred,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Josephine,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Children,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi></actor> and <actor ref="namedentities.xml#miss_l_carr">Miss <hi rend="allcaps">L. Carr</hi>.</actor></castItem><lb/>
                </castList>
                After which (4th time) a New Comedy in Three Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_fortune_hunters">Fortune-Hunters.</title></bibl><lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                </castList>
                To which will be added,(<hi rend="allcaps">Twenty-Ninth Time</hi>) the <hi rend="allcaps">New Farce</hi>, of The<lb/>
                <bibl><title ref="namedentities.xml#play_sleep_walker">Sleep-Walker;</title><lb/>
                   <hi rend="italic">Or, Which is the Lady?</hi></bibl><lb/>
                <castList>
                   <head><hi rend="allcaps">The Principal Characters By</hi></head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_chippendale">Mr. <hi rend="allcaps">Chippendale</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_dalton">Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>

@@ -27,14 +27,14 @@
                With New Scenery, Dresses, &amp;c.<lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Terry</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Salter</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_terry">Mr. <hi rend="allcaps">Terry</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_salter">Mr. <hi rend="allcaps">Salter</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grant">Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss De Camp.</actor></castItem> <castItem><actor>Mrs. Kendall.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_decamp">Miss De Camp.</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_kendall">Mrs. Kendall.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                The <hi rend="allcaps">Song</hi> in Act I. Composed by <persName ref="namedentities.xml#ch_ed_ho">Mr. <hi rend="allcaps">C. Horn</hi></persName>.<lb/>
@@ -44,9 +44,9 @@
                <bibl><title type="main" ref="namedentities.xml#play_purse">The <hi rend="allcaps">Purse</hi>;</title><lb/>
                <title type="sub">Or, The Benevolent Tar.</title></bibl><lb/>
                <castList>
-                  <castItem><role>The Baron,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Edward,</role> <actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem> <castItem><role>Theodore,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem> <castItem><role>Page,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sally,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>The Baron,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><role>Edward,</role> <actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem> <castItem><role>Theodore,</role> <actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem> <castItem><role>Page,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sally,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added (First Time at this Theatre) the favourite Farce of The<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_doldrum">Doldrum;</title><lb/>
@@ -54,13 +54,13 @@
                <castList>
                   <castItem><role>Sir Marmaduke,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Septimus,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Captain Septimus,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
-                  <castItem><role>Captain Slash,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Captain Septimus,</role> <actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Captain Slash,</role> <actor ref="namedentities.xml#mr_williams">Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                   <castItem><role>Flam,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gyp,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Looby,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Drummer Boy,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Emmeline,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Anburne,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gyp,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Looby,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Drummer Boy,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Emmeline,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Anburne,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                </castList></ab>
          </div>
       </body>

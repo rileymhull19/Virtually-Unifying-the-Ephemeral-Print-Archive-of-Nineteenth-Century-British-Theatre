@@ -26,22 +26,22 @@
                <bibl><title ref="namedentities.xml#play_fortune_hunters">Fortune-Hunters.</title></bibl><lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                </castList>
                After which a Musical Piece in One Act, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_rival_soldiers">Rival Soldiers.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Sinclair, (with the Favorite Song of 'The <hi rend="allcaps">Thorn</hi>,')</role> <actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lenox,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Captain Cruizer,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Major Tactic,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Corporal Squibb,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sinclair, (with the Favorite Song of 'The <hi rend="allcaps">Thorn</hi>,')</role> <actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lenox,</role> <actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Captain Cruizer,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Major Tactic,</role> <actor ref="namedentities.xml#mr_villers">Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Corporal Squibb,</role> <actor ref="namedentities.xml#mr_hardy">Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem><lb/>
                   <castItem><role>Nipperkin,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Mary,</role> <actor ref="namedentities.xml#mrs_atkins">Mrs. <hi rend="allcaps">Atkins</hi>.</actor></castItem><lb/>
                </castList>
@@ -49,12 +49,12 @@
                <bibl><title ref="namedentities.xml#play_prisoner_at_large">Prisoner at Large</title></bibl><lb/>
                <castList>
                   <castItem><role>Dowdle,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lord Esmund,</role> <actor>Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Count Fripon,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><role>Father Frank,</role> <actor>Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem> <castItem><role>Tough,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Esmund,</role> <actor ref="namedentities.xml#mr_flowerdew">Mr. <hi rend="allcaps">Flowerdew</hi>.</actor></castItem> <castItem><role>Count Fripon,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Father Frank,</role> <actor ref="namedentities.xml#mr_hardy">Mr. <hi rend="allcaps">Hardy</hi>.</actor></castItem> <castItem><role>Tough,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Jack Connor,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Trap,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Frill,</role> <actor>Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Trap,</role> <actor ref="namedentities.xml#mr_villers">Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Frill,</role> <actor ref="namedentities.xml#mr_dalton">Mr. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
                   <castItem><role>Muns,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rachael,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Adelaide,</role> <actor>Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rachael,</role> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Adelaide,</role> <actor ref="namedentities.xml#mrs_dalton">Mrs. <hi rend="allcaps">Dalton</hi>.</actor></castItem><lb/>
                   <castItem><role>Mary,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>

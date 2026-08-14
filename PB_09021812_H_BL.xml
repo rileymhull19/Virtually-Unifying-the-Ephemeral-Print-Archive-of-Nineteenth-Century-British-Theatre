@@ -25,35 +25,35 @@
                <bibl><title ref="namedentities.xml#play_foundling_of_the_forest">The <hi rend="allcaps">Foundling</hi></title><lb/>
                of the Forest.</bibl><lb/>
                <castList>
-                  <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
+                  <castItem><role>Count de Valmont,</role> <actor ref="namedentities.xml#mr_grant">Mr. <hi rend="allcaps">Grant</hi>.</actor></castItem><lb/>
                   <castItem><role>Baron Longueville,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Florian,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Florian,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bertrand,</role> <actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><role>L'Eclair,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gaspard,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sanguine,</role> <actor>Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Geraldine,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rosabelle,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
-                  <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspard,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sanguine,</role> <actor ref="namedentities.xml#mr_villers">Mr. <hi rend="allcaps">Villers</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Geraldine,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rosabelle,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monica,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                In Act II. A Dance incidental to the Piece,--in<lb/>
                which will be introduced<lb/>
-               A <hi rend="allcaps">Pas Seul</hi> by Miss <hi rend="allcaps">Harrison</hi>.<lb/>
-               And a <hi rend="allcaps">Pas Deux</hi>, by the Miss <hi rend="allcaps">Simpsons</hi>.<lb/>
+               A <hi rend="allcaps">Pas Seul</hi> by <persName ref="namedentities.xml#miss_harrison">Miss <hi rend="allcaps">Harrison</hi></persName>.<lb/>
+               And a <hi rend="allcaps">Pas Deux</hi>, by the <persName ref="namedentities.xml#miss_simpson">Miss <hi rend="allcaps">Simpsons</hi></persName>.<lb/>
                To which will be added (Second Time at this Theatre) the favourite Farce of The<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_doldrum">Doldrum;</title><lb/>
                   <title type="sub">Or, 1819.</title></bibl><lb/>
                <castList>
                   <castItem><role>Sir Marmaduke,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
                   <castItem><role>Septimus,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Captain Septimus,</role> <actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
-                  <castItem><role>Captain Slash,</role> <actor>Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Captain Septimus,</role> <actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><role>Captain Slash,</role> <actor ref="namedentities.xml#mr_williams">Mr. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                   <castItem><role>Flam,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gyp,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Looby,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Drummer Boy,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Emmeline,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Anburne,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gyp,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Looby,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Drummer Boy,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Emmeline,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Anburne,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>

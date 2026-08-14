@@ -26,21 +26,21 @@
                <bibl><title ref="namedentities.xml#play_fortune_hunters">Fortune-Hunters.</title></bibl><lb/>
                <castList>
                   <head>The Principal Characters by</head><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_kent">Mr. <hi rend="allcaps">Kent</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_betterton_jun">Mr. <hi rend="allcaps">Betterton,</hi> Jun.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>,</actor></castItem><lb/>
                </castList>
                After which, A Comick Sketch, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_blue_devils"><hi rend="allcaps">Blue Devils.</hi></title></bibl><lb/>
                <castList>
-                  <castItem><role>Megrim,</role> <actor>Mr. <hi rend="allcaps">Terry</hi>,</actor></castItem><lb/>
-                  <castItem><role>Demison,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Megrim,</role> <actor ref="namedentities.xml#mr_terry">Mr. <hi rend="allcaps">Terry</hi>,</actor></castItem><lb/>
+                  <castItem><role>Demison,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>,</actor></castItem> <castItem><role>Bailiff,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>,</actor></castItem><lb/>
                   <castItem><role>James,</role> <actor ref="namedentities.xml#mr_bennett">Mr. <hi rend="allcaps">Bennett</hi>,</actor></castItem><lb/>
                   <castItem><role>Annette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>,</actor></castItem><lb/>
                </castList>
@@ -48,12 +48,12 @@
                <bibl><title ref="namedentities.xml#play_of_age_tomorrow">Of Age To-morrow.</title></bibl><lb/>
                <castList>
                   <castItem><role>Baron Willinghurst,</role> <actor ref="namedentities.xml#ch_ma">Mr. <hi rend="allcaps">Mathews</hi>.</actor></castItem><lb/>
-                  <castItem><role>Baron Piffleberg,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Hans Melkus,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mr. Friz,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>John,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lady Brumback,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sophia,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Maria,</role> <actor>Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baron Piffleberg,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Hans Melkus,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mr. Friz,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>John,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Brumback,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sophia,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Maria,</role> <actor ref="namedentities.xml#mrs_williams">Mrs. <hi rend="allcaps">Williams</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>
