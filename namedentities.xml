@@ -4365,6 +4365,19 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <listRelation>
+              <relation type="personal" name="parent" active="#pi_bo" passive="#jo_pi_bo"/>
+              <relation type="personal" name="spouse" mutual="#mr_ch #ro_ch"/>
+              <relation type="personal" name="spouse" mutual="#ge_go_da #ma_an_da"/>
+              <relation type="personal" name="parent" active="#je_g_ho" passive="#ag_ho"/>
+              <relation type="personal" name="sibling" mutual="#ch_ke #jo_ph_ke #sa_ke_si"/>
+              <relation type="personal" name="spouse" mutual="#ch_ke #ma_th_ke"/>
+              <relation type="personal" name="spouse" mutual="#jo_li #sa_li"/>
+              <relation type="personal" name="spouse" mutual="#wa_ma #mr_ma"/>
+              <relation type="personal" name="parent" active="#mo_me" passive="#fr_me #ma_me"/>
+              <relation type="personal" name="sibling" mutual="#fr_me #ma_me"/>
+              <relation type="personal" name="spouse" mutual="#gh_sp #sa_sp"/>
+           </listRelation>
         </listPerson>
      <listPlace>
         <place xml:id="covent_garden">
