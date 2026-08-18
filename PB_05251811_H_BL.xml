@@ -24,16 +24,16 @@
                Will be perform'd the Musical Piece of<lb/>
                <bibl><title ref="namedentities.xml#rosina"><hi rend="allcaps">Rosina</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Belville,</role> <hi rend="italic">(with the <hi rend="allcaps">Song</hi> of The <hi rend="allcaps">Thorn</hi>)</hi> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor><lb/>
+                  <castItem><role>Belville,</role> <hi rend="italic">(with the <hi rend="allcaps">Song</hi> of The <hi rend="allcaps">Thorn</hi>)</hi> <actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor><lb/>
                      (From the Theatre-Royal, Dublin;-His First Appearance in London.)</castItem><lb/>
-                  <castItem><role>Captain Belville,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rustic,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>William,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Captain Belville,</role> <actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rustic,</role> <actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>William,</role> <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
                   <castItem><role>Phoebe,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dorcas,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rosina,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Peasants,</role> <actor>Mr. Hodson,</actor> <actor>Mr. Linton,</actor> <actor>Mr. Widdicombe,</actor> &amp;c.<lb/>
-                     <actor>Miss De Camp,</actor> <actor>Mrs. Stokes,</actor> <actor>Mrs. Haughton,</actor> <actor>Miss Danton,</actor> <actor>Mrs. Kendall,</actor> &amp;c.</castItem><lb/>  
+                  <castItem><role>Dorcas,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Rosina,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Peasants,</role> <actor ref="namedentities.xml#mr_hodson">Mr. Hodson,</actor> <actor ref="namedentities.xml#mr_linton">Mr. Linton,</actor> <actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe,</actor> &amp;c.<lb/>
+                     <actor ref="namedentities.xml#miss_decamp">Miss De Camp,</actor> <actor ref="namedentities.xml#mrs_stokes">Mrs. Stokes,</actor> <actor ref="namedentities.xml#mrs_haughton">Mrs. Haughton,</actor> <actor ref="namedentities.xml#miss_danton">Miss Danton,</actor> <actor ref="namedentities.xml#mrs_kendall">Mrs. Kendall,</actor> &amp;c.</castItem><lb/>  
                </castList>
                After which, will be produced, for the First Time, A Comick Piece in Two Acts, call'd<lb/>
                The<lb/>
@@ -43,23 +43,23 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added the Farce of<lb/>
                <bibl><title ref="namedentities.xml#play_high_life_below_stairs">High Life below Stairs.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Lovel,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Freeman,</role> <actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><role>Philip,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lovel,</role> <actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Freeman,</role> <actor ref="namedentities.xml#mr_houghton">Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><role>Philip,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Duke's Servant,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sir Harry's Servant,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Tom,</role> <actor>Mr. Lewes.</actor></castItem><lb/>
+                  <castItem><role>Sir Harry's Servant,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Coachman,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Tom,</role> <actor ref="namedentities.xml#mr_lewes">Mr. Lewes.</actor></castItem><lb/>
                   <castItem><role>Kingston,</role> <actor ref="namedentities.xml#he_sm">Mr. Smith.</actor></castItem> <castItem><role>Robert,</role> <actor>Mr. Noble.</actor></castItem><lb/>
                   <castItem><role>Kitty,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Cook,</role> <actor>Mrs. Stokes.</actor></castItem> <castItem><role>Cloe,</role> <actor>Mrs. <hi rend="allcaps">Houghton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lady Bab's Maid,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><role>Lady Charlotte's Maid,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+                  <castItem><role>Cook,</role> <actor ref="namedentities.xml#mrs_stokes">Mrs. Stokes.</actor></castItem> <castItem><role>Cloe,</role> <actor ref="namedentities.xml#mrs_houghton">Mrs. <hi rend="allcaps">Houghton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Bab's Maid,</role> <actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><role>Lady Charlotte's Maid,</role> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">In Act II.</hi><lb/>
                <hi rend="italic"> A Mock Minuet by <persName ref="namedentities.xml#jo_li">Mr. Liston</persName> and <persName ref="namedentities.xml#ma_gi">Mrs. Gibbs</persName>.</hi><lb/>
