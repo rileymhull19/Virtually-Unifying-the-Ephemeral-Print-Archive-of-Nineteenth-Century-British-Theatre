@@ -4366,7 +4366,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <listRelation>
-              <relation type="personal" name="parent" active="#pi_bo" passive="#jo_pi_bo"/>
+              <relation type="personal" name="parent" active="#pi_bo" passive="#jo_pe_bo"/>
               <relation type="personal" name="spouse" mutual="#mr_ch #ro_ch"/>
               <relation type="personal" name="spouse" mutual="#ge_go_da #ma_an_da"/>
               <relation type="personal" name="parent" active="#je_g_ho" passive="#ag_ho"/>
