@@ -25,38 +25,38 @@
                Will be performed a New <hi rend="smallcaps">Comick Opera</hi>, in three acts, called<lb/>
                <bibl><title ref="namedentities.xml#play_up_to_town"><hi rend="allcaps">Up To Town.</hi></title></bibl><lb/>
               <hi rend="italic"> With new Scenes, Dresses and Decorations.</hi><lb/>
-               The Overture and Musick composed by Mess. <persName ref="namedentities.xml#wi_re"><hi rend="allcaps">Reeve</hi></persName>, <persName ref="namedentities.xml#he_co"><hi rend="allcaps">Condell</hi></persName>, <persName><hi rend="allcaps">Whitaker</hi></persName> and <persName ref="namedentities.xml#th_we"><hi rend="allcaps">T. Welsh</hi></persName>.<lb/>
+               The Overture and Musick composed by Mess. <persName ref="namedentities.xml#wi_re"><hi rend="allcaps">Reeve</hi></persName>, <persName ref="namedentities.xml#he_co"><hi rend="allcaps">Condell</hi></persName>, <persName ref="namedentities.xml#mr_whitaker"><hi rend="allcaps">Whitaker</hi></persName> and <persName ref="namedentities.xml#th_we"><hi rend="allcaps">T. Welsh</hi></persName>.<lb/>
                <castList>
                   <head><hi rend="italic">The principal Characters by</hi></head>
                   <castItem><actor ref="namedentities.xml#wi_bl">Mr. <hi rend="allcaps">Blanchard</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Sinclair</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_sinclair">Mr. <hi rend="allcaps">Sinclair</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_si">Mr. <hi rend="allcaps">Simmons</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_fa">Mr. <hi rend="allcaps">Fawcett</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_em">Mr. <hi rend="allcaps">Emery</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#mr_how">Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Huckel</hi>,</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Louis</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Mrs. <hi rend="allcaps">Childe</hi>,</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Ferron</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_taylor">Mr. <hi rend="allcaps">Taylor</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_king">Mr. <hi rend="allcaps">King</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_bishop">Mr. <hi rend="allcaps">Bishop</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_how">Mr. <hi rend="allcaps">Howell</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_huckel">Mr. <hi rend="allcaps">Huckel</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mr_louis">Mr. <hi rend="allcaps">Louis</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mrs_childe">Mrs. <hi rend="allcaps">Childe</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_ferron">Miss <hi rend="allcaps">Ferron</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ma_an_da">Mrs. <hi rend="allcaps">Davenport</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role><hi rend="italic">The <hi rend="allcaps">Choruses</hi> by</hi></role><lb/>
-                     <hi rend="italic">Mess</hi>. <actor>Bishop,</actor> <actor>Duruset,</actor> <actor>Hickman,</actor> <actor>Huckel,</actor> <actor>Norris,</actor> <actor ref="namedentities.xml#ja_st">Street,</actor> <actor>Tinney,</actor> <actor>Williams</actor><lb/>
-                     Mesdames <actor ref="namedentities.xml#el_co">Coates,</actor> <actor>Findlay,</actor> <actor>Hardy,</actor> <actor>Iliff,</actor> <actor>Johnson,</actor> <actor>Ryall.</actor></castItem><lb/>
+                     <hi rend="italic">Mess</hi>. <actor ref="namedentities.xml#mr_bishop">Bishop,</actor> <actor ref="namedentities.xml#mr_duruset">Duruset,</actor> <actor ref="namedentities.xml#mr_hickman">Hickman,</actor> <actor ref="namedentities.xml#mr_huckel">Huckel,</actor> <actor ref="namedentities.xml#mr_norris">Norris,</actor> <actor ref="namedentities.xml#ja_st">Street,</actor> <actor ref="namedentities.xml#mr_tinney">Tinney,</actor> <actor ref="namedentities.xml#mr_williams">Williams</actor><lb/>
+                     Mesdames <actor ref="namedentities.xml#el_co">Coates,</actor> <actor ref="namedentities.xml#mrs_findlay">Findlay,</actor> <actor ref="namedentities.xml#mrs_hardy">Hardy,</actor> <actor ref="namedentities.xml#mrs_iliff">Iliff,</actor> <actor ref="namedentities.xml#mrs_johnson">Johnson,</actor> <actor ref="namedentities.xml#mrs_ryall">Ryall.</actor></castItem><lb/>
                </castList>
               <hi rend="italic">Books of the Songs to be had in the Theatre, price <measure type="currency">1s</measure>.</hi><lb/>
                To which will be added a Farce called<lb/>
                <bibl><title ref="namedentities.xml#play_child_of_nature">The <hi rend="allcaps">Child</hi> of <hi rend="allcaps">Nature</hi>.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Duke Mercia</role> by <actor>Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem> <castItem><role>Marquis Almanza</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
-                  <castItem><role>Count Valencia</role> by <actor>Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem> <castItem><role>Alberto,</role> <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
-                  <castItem><role>Seville,</role> <actor>Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem> <castItem><role>Granda,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Peasant,</role> <actor>Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem><lb/>
-                  <castItem><role>Attendants,</role> Mess. <actor>Grant,</actor> <actor>Heath,</actor> <actor>Louis,</actor> <actor>Sarjant</actor></castItem><lb/>
-                  <castItem><role>Marchioness Merida</role> by <actor>Mrs. <hi rend="allcaps">Humphries</hi>,</actor></castItem><lb/>
-                  <castItem><role>Amanthis</role> by <actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem> <castItem><role>Attendant,</role> <actor>Miss <hi rend="allcaps">Cox</hi>.</actor></castItem><lb/>
+                  <castItem><role>Duke Mercia</role> by <actor ref="namedentities.xml#mr_chapman">Mr. <hi rend="allcaps">Chapman</hi>,</actor></castItem> <castItem><role>Marquis Almanza</role> by <actor ref="namedentities.xml#da_eg">Mr. <hi rend="allcaps">Egerton</hi>,</actor></castItem><lb/>
+                  <castItem><role>Count Valencia</role> by <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>,</actor></castItem> <castItem><role>Alberto,</role> <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
+                  <castItem><role>Seville,</role> <actor ref="namedentities.xml#mr_creswell">Mr. <hi rend="allcaps">Creswell</hi>,</actor></castItem> <castItem><role>Granda,</role> <actor ref="namedentities.xml#wi_at">Mr. <hi rend="allcaps">Atkins</hi>,</actor></castItem> <castItem><role>Peasant,</role> <actor ref="namedentities.xml#mr_truman">Mr. <hi rend="allcaps">Truman</hi>,</actor></castItem><lb/>
+                  <castItem><role>Attendants,</role> Mess. <actor ref="namedentities.xml#mr_grant">Grant,</actor> <actor ref="namedentities.xml#mr_heath">Heath,</actor> <actor ref="namedentities.xml#mr_louis">Louis,</actor> <actor ref="namedentities.xml#mr_sarjant">Sarjant</actor></castItem><lb/>
+                  <castItem><role>Marchioness Merida</role> by <actor ref="namedentities.xml#mrs_humphries">Mrs. <hi rend="allcaps">Humphries</hi>,</actor></castItem><lb/>
+                  <castItem><role>Amanthis</role> by <actor ref="namedentities.xml#sa_bo">Miss <hi rend="allcaps">S. Booth</hi>,</actor></castItem> <castItem><role>Attendant,</role> <actor ref="namedentities.xml#miss_cox">Miss <hi rend="allcaps">Cox</hi>.</actor></castItem><lb/>
                </castList>
                Vivant Rex &amp; Regina.</ab>
          </div>
