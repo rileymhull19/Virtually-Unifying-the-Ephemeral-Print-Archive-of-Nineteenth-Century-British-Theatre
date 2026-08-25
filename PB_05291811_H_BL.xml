@@ -25,21 +25,21 @@
                the Musical Piece of<lb/>
                <bibl><title ref="namedentities.xml#play_paul_and_virginia">Paul and Virginia.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Paul,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><role>Alambra,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
-                  <castItem><role>Tropic,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><role>Don Anthonio,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dominique,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Diego,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Sebastian,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Officer,</role> <actor>Mr. <hi rend="allcaps">Hodson</hi>.</actor></castItem> <castItem><role>Sailor,</role> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Virginia,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Jacintha,</role> <actor>Miss <hi rend="allcaps">Watston</hi>.</actor></castItem> <castItem><role>Mary,</role> <actor>Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Chorus of Inhabitants,</role> Messrs. <actor>Linton,</actor> <actor>Eames,</actor> <actor>Terry,</actor> <actor>Griffith,</actor> <actor>Oddwell,</actor> <actor>Willoughby,</actor><lb/>
-                     <actor>Diether,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Harrison,</actor> <actor>Warner,</actor> &amp;c.<lb/>
-                     Messdms. <actor>De Camp,</actor> <actor>Stokes,</actor> <actor>Kendall,</actor> <actor>Haughton,</actor> <actor>Danton.</actor></castItem><lb/>
+                  <castItem><role>Paul,</role> <actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Alambra,</role> <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Tropic,</role> <actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Don Anthonio,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dominique,</role> <actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Diego,</role> <actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Sebastian,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Officer,</role> <actor ref="namedentities.xml#mr_hodson">Mr. <hi rend="allcaps">Hodson</hi>.</actor></castItem> <castItem><role>Sailor,</role> <actor ref="namedentities.xml#mr_haughton">Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Virginia,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Jacintha,</role> <actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><role>Mary,</role> <actor ref="namedentities.xml#mrs_stokes">Mrs. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
+                  <castItem><role>Chorus of Inhabitants,</role> Messrs. <actor ref="namedentities.xml#mr_linton">Linton,</actor> <actor ref="namedentities.xml#mr_eames">Eames,</actor> <actor ref="namedentities.xml#mr_terry">Terry,</actor> <actor ref="namedentities.xml#mr_griffith">Griffith,</actor> <actor ref="namedentities.xml#mr_oddwell">Oddwell,</actor> <actor ref="namedentities.xml#mr_willoughby">Willoughby,</actor><lb/>
+                     <actor ref="namedentities.xml#mr_diether">Diether,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="namedentities.xml#mr_harrison">Harrison,</actor> <actor ref="namedentities.xml#mr_warner">Warner,</actor> &amp;c.<lb/>
+                     Messdms. <actor ref="namedentities.xml#mrs_decamp">De Camp,</actor> <actor ref="namedentities.xml#mrs_stokes">Stokes,</actor> <actor ref="namedentities.xml#mrs_kendall">Kendall,</actor> <actor ref="namedentities.xml#mrs_haughton">Haughton,</actor> <actor ref="namedentities.xml#mrs_danton">Danton.</actor></castItem><lb/>
                </castList>
-               The Dances by Messrs. <persName ref="namedentities.xml#j_we">Wells</persName>, <persName>Hope</persName>, <persName>Taylor</persName>, <persName>Widdicombe</persName>, <persName>Cross</persName>, <persName>Brown</persName>, &amp;c.<lb/>
-               Messdms. <persName>Stokes</persName>, <persName>Barrett</persName>, <persName>Taylor</persName>, <persName>Danton</persName>, <persName>Haughton</persName>, <persName>Byrne</persName>.<lb/>
+               The Dances by Messrs. <persName ref="namedentities.xml#j_we">Wells</persName>, <persName ref="namedentities.xml#mr_hope">Hope</persName>, <persName ref="namedentities.xml#mr_taylor">Taylor</persName>, <persName ref="namedentities.xml#mr_widdicombe">Widdicombe</persName>, <persName ref="namedentities.xml#mr_cross">Cross</persName>, <persName ref="namedentities.xml#mr_brown">Brown</persName>, &amp;c.<lb/>
+               Messdms. <persName ref="namedentities.xml#mrs_stokes">Stokes</persName>, <persName ref="namedentities.xml#mrs_barrett">Barrett</persName>, <persName ref="namedentities.xml#mrs_taylor">Taylor</persName>, <persName ref="namedentities.xml#mrs_danton">Danton</persName>, <persName ref="namedentities.xml#mrs_haughton">Haughton</persName>, <persName ref="namedentities.xml#mrs_byrne">Byrne</persName>.<lb/>
                After which (<hi rend="allcaps">Fourth Time</hi>) A Comick Piece in Two Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
                With <hi rend="allcaps">New Scenery, Dresses</hi>, &amp;c.<lb/>
@@ -47,9 +47,9 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added, the Comedy of<lb/>
@@ -57,10 +57,10 @@
                <castList>
                   <castItem><role>Sir Charles Racket,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><role>Drugget,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Woodley,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Woodley,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
                   <castItem><role>Lady Racket,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
-                  <castItem><role>Miss Drugget,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Nancy,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Dimity,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Miss Drugget,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nancy,</role> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Dimity,</role> <actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>

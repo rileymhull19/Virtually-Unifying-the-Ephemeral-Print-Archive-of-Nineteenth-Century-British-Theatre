@@ -26,29 +26,28 @@
                <bibl><title ref="namedentities.xml#play_foundling_of_the_forest">The Foundling of the Forest.</title></bibl><lb/>
                The New Musick incidental to the Play, Composed by <persName ref="namedentities.xml#mi_ke">Mr. Kelly</persName>.<lb/>
                <castList>
-                  <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
-                  <castItem><role>Florian,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>,</role> <actor><hi rend="allcaps"></hi>.</actor><lb/>
+                  <castItem><role>Count de Valmont,</role> <actor ref="namedentities.xml#mr_hillington">Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
+                  <castItem><role>Florian,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor><lb/>
                   (His First Appearance in that Character.)</castItem><lb/>
                   <castItem><role>Baron Longueville,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bertrand,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>L'Eclair,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gaspard,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sanguine,</role> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspard,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sanguine,</role> <actor ref="namedentities.xml#mr_haughton">Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Geraldine,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Rosabelle,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monica,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
                A Dance incidental to the Piece by,<lb/>
-               Messrs. <persName>Goodwin</persName>, <persName ref="namedentities.xml#j_we">Wells</persName>, <persName>Wells</persName>, Jun. <persName>Widdicombe</persName>, <persName>Hope</persName>, <persName>Cross</persName>, &amp;c.<lb/>
-               <persName>Mrs. Stokes</persName>, <persName>Mrs. Haughton</persName>, <persName>Miss Danton</persName>, <persName>Mrs. Barrett</persName>, <persName>Miss Taylor</persName>, <persName>Mrs. Collingwood</persName>,<lb/>
+               Messrs. <persName ref="namedentities.xml#mr_goodwin">Goodwin</persName>, <persName ref="namedentities.xml#j_we">Wells</persName>, <persName ref="namedentities.xml#mr_wells">Wells</persName>, Jun. <persName ref="namedentities.xml#mr_widdicombe">Widdicombe</persName>, <persName ref="namedentities.xml#mr_hope">Hope</persName>, <persName ref="namedentities.xml#mr_cross">Cross</persName>, &amp;c.<lb/>
+               <persName ref="namedentities.xml#mrs_stokes">Mrs. Stokes</persName>, <persName ref="namedentities.xml#mrs_haughton">Mrs. Haughton</persName>, <persName ref="namedentities.xml#miss_danton">Miss Danton</persName>, <persName ref="namedentities.xml#mrs_barrett">Mrs. Barrett</persName>, <persName ref="namedentities.xml#miss_taylor">Miss Taylor</persName>, <persName ref="namedentities.xml#mrs_collingwood">Mrs. Collingwood</persName>,<lb/>
                <hi rend="allcaps">After</hi> which (reduced into One Act) a Piece call'd<lb/>   
                <bibl><title ref="namedentities.xml#play_register_office">The Register Office.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Gulwell,</role> <actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Scotchman,</role> with a Comick song, "Tak Y'er Auld Cloak about Yet" <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><role>Margery,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gulwell,</role> <actor ref="namedentities.xml#mr_houghton">Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><role>Irishman,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Scotchman,</role> with a Comick song, "Tak Y'er Auld Cloak about Yet" <actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Margery,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added (<hi rend="allcaps">Third Time</hi>) A Comick Piece in Two Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
@@ -57,9 +56,9 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
