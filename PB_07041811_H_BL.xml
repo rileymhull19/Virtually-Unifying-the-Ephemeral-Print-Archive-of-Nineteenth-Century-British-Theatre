@@ -26,32 +26,32 @@
                <bibl><title ref="namedentities.xml#play_foundling_of_the_forest">The Foundling of the Forest.</title></bibl><lb/>
                The New Musick incidental to the Play, Composed by <persName ref="namedentities.xml#mi_ke">Mr. Kelly</persName>.<lb/>
                <castList>
-                  <castItem><role>Count de Valmont,</role> <actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
+                  <castItem><role>Count de Valmont,</role> <actor ref="namedentities.xml#mr_hillington">Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
                   <castItem><role>Florian,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><role>Baron Longueville,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bertrand,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bertrand,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><role>L'Eclair,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Gaspard,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sanguine,</role> <actor>Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Gaspard,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sanguine,</role> <actor ref="namedentities.xml#mr_haughton">Mr. <hi rend="allcaps">Haughton</hi>.</actor></castItem> <castItem><role>Lenoir,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Geraldine,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Rosabelle,</role> <actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Monica,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monica,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Eugenia,</role> <actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                <castItem>A Dance incidental to the Piece by,<lb/>
-                  Messrs. <actor>Widdicombe,</actor> <actor>Cross,</actor> <actor>Brown,</actor> <actor>Harris,</actor> <actor>Taylor,</actor> <actor>Green,</actor> &amp;c.<lb/>
-                  Messdms. <actor>Stokes,</actor> <actor>Haughton,</actor> <actor>Danton,</actor> <actor>Barrett,</actor> <actor>Taylor,</actor> <actor>Collingwood,</actor> &amp;c.</castItem><lb/>
+                  Messrs. <actor ref="namedentities.xml#mr_widdicombe">Widdicombe,</actor> <actor ref="namedentities.xml#mr_cross">Cross,</actor> <actor ref="namedentities.xml#mr_brown">Brown,</actor> <actor ref="namedentities.xml#mr_harris">Harris,</actor> <actor ref="namedentities.xml#mr_taylor">Taylor,</actor> <actor ref="namedentities.xml#mr_green">Green,</actor> &amp;c.<lb/>
+                  Messdms. <actor ref="namedentities.xml#mrs_stokes">Stokes,</actor> <actor ref="namedentities.xml#mrs_haughton">Haughton,</actor> <actor ref="namedentities.xml#miss_danton">Danton,</actor> <actor ref="namedentities.xml#mrs_barrett">Barrett,</actor> <actor ref="namedentities.xml#mrs_taylor">Taylor,</actor> <actor ref="namedentities.xml#mrs_collingwood">Collingwood,</actor> &amp;c.</castItem><lb/>
                </castList>
                <hi rend="italic">After which will be produced</hi> (Never Perform'd) <hi rend="italic"><hi rend="allcaps">A New Farce</hi></hi>, <hi rend="italic">(with Songs,) call'd</hi> The<lb/>
                <bibl><title ref="namedentities.xml#play_outside_passenger">Outside Passenger.</title></bibl><lb/>
-               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, <persName ref="namedentities.xml#mr_whitaker">Mr. Whitaker</persName>, and <persName ref="namedentities.xml#mr_d_corri">Mr. D. Corri</persName>.</hi><lb/>
                <hi rend="italic">The Overture by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>.</hi><lb/>
                <castList>
                   <head>The Principal Characters by</head>
                   <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_noble">Mr. Noble.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. Finn</actor></castItem> <castItem><actor ref="namedentities.xml#mr_lewes">Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>

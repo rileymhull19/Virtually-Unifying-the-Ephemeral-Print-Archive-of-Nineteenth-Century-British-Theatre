@@ -29,26 +29,26 @@
                <castList>
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Hodson</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Hemings</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_hodson">Mr. <hi rend="allcaps">Hodson</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_hemings">Mr. <hi rend="allcaps">Hemings</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_stokes">Mr. <hi rend="allcaps">Stokes</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
-                  <castItem>Messrs. <actor>Brown,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Diether,</actor> <actor>Eames,</actor> <actor>Field,</actor> <actor>Gray,</actor> <actor>Griffith,</actor> <actor>Hall,</actor> <actor>Harrison,</actor> <actor>Lawson,</actor><lb/>
-                     <actor>Oddwell,</actor> <actor>Robert,</actor> <actor>Sherriff,</actor> <actor>Thomson,</actor> <actor>Terry,</actor> <actor>Willoughby,</actor> &amp;c.</castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_hillington">Mr. <hi rend="allcaps">Hillington</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_houghton">Mr. <hi rend="allcaps">Houghton</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem>Messrs. <actor ref="namedentities.xml#mr_brown">Brown,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="namedentities.xml#mr_diether">Diether,</actor> <actor ref="namedentities.xml#mr_eames">Eames,</actor> <actor ref="namedentities.xml#mr_field">Field,</actor> <actor ref="namedentities.xml#mr_gray">Gray,</actor> <actor ref="namedentities.xml#mr_griffith">Griffith,</actor> <actor ref="namedentities.xml#mr_hall">Hall,</actor> <actor ref="namedentities.xml#mr_harrison">Harrison,</actor> <actor ref="namedentities.xml#mr_lawson">Lawson,</actor><lb/>
+                     <actor ref="namedentities.xml#mr_oddwell">Oddwell,</actor> <actor ref="namedentities.xml#mr_robert">Robert,</actor> <actor ref="namedentities.xml#mr_sherriff">Sherriff,</actor> <actor ref="namedentities.xml#mr_thomson">Thomson,</actor> <actor ref="namedentities.xml#mr_terry">Terry,</actor> <actor ref="namedentities.xml#mr_willoughby">Willoughby,</actor> &amp;c.</castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_linton">Mr. <hi rend="allcaps">Linton</hi>.</actor></castItem> <castItem>Mr. <actor ref="namedentities.xml#mr_miller"><hi rend="allcaps">Miller</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_silver">Mr. <hi rend="allcaps">Silver</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_salker">Mr. <hi rend="allcaps">Salker</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_taylor">Mr. <hi rend="allcaps">Taylor</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_thomas">Mr. <hi rend="allcaps">Thomas</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_wilson">Mr. <hi rend="allcaps">Wilson</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_stokes">Mrs. <hi rend="allcaps">Stokes</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_haughton">Mrs. <hi rend="allcaps">Haughton</hi>,</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_kendall">Mrs. <hi rend="allcaps">Kendall</hi>,</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#ju_gl">Mrs. <hi rend="allcaps">Glover</hi>.</actor></castItem><lb/>
                </castList>
-               <hi rend="italic">The Dresses by Mr. <hi rend="allcaps">Tobin</hi> and <persName ref="namedentities.xml#an_sm">Miss <hi rend="allcaps">Smith</hi></persName>.</hi><lb/>
+               <hi rend="italic">The Dresses by <persName ref="namedentities.xml#mr_tobin">Mr. <hi rend="allcaps">Tobin</hi></persName> and <persName ref="namedentities.xml#an_sm">Miss <hi rend="allcaps">Smith</hi></persName>.</hi><lb/>
                <hi rend="italic">The Scenery designed, and executed by <persName ref="namedentities.xml#j_de">Mr. <hi rend="allcaps">De Maria</hi></persName>, and Assistants.</hi><lb/>
                After which (11th <hi rend="allcaps">Time</hi>) A Comick Piece in Two Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
@@ -56,9 +56,9 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                The Farce of The <hi rend="allcaps">Trial by Jury</hi> is published, and may be had in the Theatre.<lb/>
