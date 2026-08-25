@@ -25,18 +25,18 @@
                <bibl><title ref="namedentities.xml#play_hunter_of_the_alps">Hunter of the Alps.</title></bibl><lb/>
                <castList>
                   <castItem><role>Felix,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Rosalvi,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Jeronymo,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Florio,</role> <actor>Master <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Juho,</role> <actor>Miss <hi rend="allcaps">C. Carr</hi>.</actor></castItem><lb/>
-                  <castItem><role>Juan,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><role>Baptista,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Huntsmen,</role> Messrs. <actor><hi rend="allcaps">Lewes</hi></actor> and <actor><hi rend="allcaps">Hodson.</hi></actor></castItem><lb/>
-                  <castItem>Chrous of Peasants, Dancers, &amp;c Messers. <actor>Linton,</actor> <actor>Eames,</actor> <actor>Terry,</actor> <actor>Griffith,</actor> <actor>Oddwell,</actor><lb/>
-                     <actor>Willoughby,</actor> <actor>Diether,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor>Harrison,</actor> <actor>Warner,</actor> <actor>Sherrif,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor>Hope,</actor> <actor>Taylor,</actor><lb/>
-                     <actor>Widdicombe,</actor> <actor>Cross,</actor> <actor>Brown,</actor> &amp;c.<lb/>
-                     Messdms. <actor>Stokes,</actor> <actor>Kendall,</actor> <actor>Houghton,</actor> <actor>Danton,</actor> <actor>Barrett,</actor> <actor>Taylor,</actor> <actor>Collingwood,</actor> &amp;c.</castItem><lb/>
+                  <castItem><role>Rosalvi,</role> <actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Jeronymo,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Florio,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Juho,</role> <actor ref="namedentities.xml#miss_c_carr">Miss <hi rend="allcaps">C. Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Juan,</role> <actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baptista,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Huntsmen,</role> Messrs. <actor ref="namedentities.xml#mr_lewes"><hi rend="allcaps">Lewes</hi></actor> and <actor ref="namedentities.xml#mr_hodson"><hi rend="allcaps">Hodson.</hi></actor></castItem><lb/>
+                  <castItem>Chorus of Peasants, Dancers, &amp;c Messers. <actor ref="namedentities.xml#mr_linton">Linton,</actor> <actor ref="namedentities.xml#mr_eames">Eames,</actor> <actor ref="namedentities.xml#mr_terry">Terry,</actor> <actor ref="namedentities.xml#mr_griffith">Griffith,</actor> <actor ref="namedentities.xml#mr_oddwell">Oddwell,</actor><lb/>
+                     <actor ref="namedentities.xml#mr_willoughby">Willoughby,</actor> <actor ref="namedentities.xml#mr_diether">Diether,</actor> <actor ref="namedentities.xml#jo_ca">Caulfield,</actor> <actor ref="namedentities.xml#mr_harrison">Harrison,</actor> <actor ref="namedentities.xml#mr_warner">Warner,</actor> <actor ref="namedentities.xml#mr_sherrif">Sherrif,</actor> <actor ref="namedentities.xml#j_we">Wells,</actor> <actor ref="namedentities.xml#mr_hope">Hope,</actor> <actor ref="namedentities.xml#mr_taylor">Taylor,</actor><lb/>
+                     <actor ref="namedentities.xml#mr_widdicombe">Widdicombe,</actor> <actor ref="namedentities.xml#mr_cross">Cross,</actor> <actor ref="namedentities.xml#mr_brown">Brown,</actor> &amp;c.<lb/>
+                     Messdms. <actor ref="namedentities.xml#mrs_stokes">Stokes,</actor> <actor ref="namedentities.xml#mrs_kendall">Kendall,</actor> <actor ref="namedentities.xml#mrs_houghton">Houghton,</actor> <actor ref="namedentities.xml#mrs_danton">Danton,</actor> <actor ref="namedentities.xml#mrs_barrett">Barrett,</actor> <actor ref="namedentities.xml#mrs_taylor">Taylor,</actor> <actor ref="namedentities.xml#mrs_collingwood">Collingwood,</actor> &amp;c.</castItem><lb/>
                   <castItem><role>Helena,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Genevieve,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bridemaids,</role> <actor>Miss <hi rend="allcaps">Watston</hi>,</actor> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
+                  <castItem><role>Genevieve,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bridemaids,</role> <actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>,</actor> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem><lb/>
                </castList>
                After which (Sixth Time) A Comick Piece in Two Acts, call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_trial_by_jury">Trial by Jury.</title></bibl><lb/>
@@ -45,22 +45,22 @@
                   <head>The Characters by</head><lb/>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added, The Musical Entertainment of The<lb/>
                <bibl><title ref="namedentities.xml#play_children_in_the_wood">Children in the Wood.</title></bibl><lb/>
                <castList>
                   <castItem><role>Walter,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lord Alford,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Sir Rowland,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Apathy,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Oliver,</role> <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Alford,</role> <actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Sir Rowland,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
+                  <castItem><role>Apathy,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Oliver,</role> <actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
                   <castItem><role>Gabriel,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Helen,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Winifred,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Josephine,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
-                  <castItem><role>Children,</role> <actor>Master <hi rend="allcaps">Martin</hi></actor> and <actor>Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Helen,</role> <actor ref="namedentities.xml#mrs_msith">Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Winifred,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Josephine,</role> <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Children,</role> <actor ref="namedentities.xml#mr_martin">Master <hi rend="allcaps">Martin</hi></actor> and <actor ref="namedentities.xml#miss_carr">Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
                The Doors to be Opened at <time when="18:00:00">Six o'Clock</time>, and the Performance to begin at <time when="19:00:00">Seven</time>.<lb/>

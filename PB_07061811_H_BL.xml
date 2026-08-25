@@ -26,39 +26,39 @@
                   <title type="sub">Or, Little <hi rend="allcaps">Bob</hi> and Little <hi rend="allcaps">Ben</hi>.</title></bibl><lb/>
                <castList>
                   <castItem><role>Captain Battledore,</role> <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lieutenant Battledore,</role> <actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><role>Compass,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Freakish,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bumbo,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Daniel O'Daub,</role> <actor>Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lieut. of Press Gang,</role> <actor ref="namedentities.xml#ge_sm">Mr. Smith.</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor>Hodson,</actor> <actor>Lewes,</actor> <actor>Linton,</actor> <actor>Widdicombe.</actor></castItem><lb/>
-                  <castItem><role>Little Bob,</role> <actor>Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
-                  <castItem><role>Nancy,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem> <castItem><role>Miss Ann Battledore,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Eliza,</role> <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieutenant Battledore,</role> <actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><role>Compass,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Freakish,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bumbo,</role> <actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Daniel O'Daub,</role> <actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lieut. of Press Gang,</role> <actor ref="namedentities.xml#ge_sm">Mr. Smith.</actor></castItem> <castItem><role>Sailors,</role> Messrs. <actor ref="namedentities.xml#mr_hodson">Hodson,</actor> <actor ref="namedentities.xml#mr_lewes">Lewes,</actor> <actor ref="namedentities.xml#mr_linton">Linton,</actor> <actor ref="namedentities.xml#mr_widdicombe">Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Little Bob,</role> <actor ref="namedentities.xml#miss_carr">Miss <hi rend="allcaps">Carr</hi>.</actor></castItem><lb/>
+                  <castItem><role>Nancy,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem> <castItem><role>Miss Ann Battledore,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Eliza,</role> <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
                </castList>
                After which, (First Time this Season) The Comedy of The<lb/>
                <bibl><title ref="namedentities.xml#play_dramatist">Dramatist.</title></bibl><lb/>
                <castList>
                   <castItem><role>Vapid,</role> (with the Original Epilogue) <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Harry Neville,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
+                  <castItem><role>Harry Neville,</role> <actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem><lb/>
                   <castItem><role>Ennui,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Floriville,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lord Scratch,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Willoughby,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Peter,</role> <actor>Mr. Martin.</actor></castItem> <castItem><role>Servant,</role> <actor>Mr. Widdicombe.</actor></castItem><lb/>
-                  <castItem><role>Lady Waitfor't,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Louisa Courtney,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Letty,</role> <actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
+                  <castItem><role>Floriville,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lord Scratch,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Willoughby,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Peter,</role> <actor ref="namedentities.xml#mr_martin">Mr. Martin.</actor></castItem> <castItem><role>Servant,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><role>Lady Waitfor't,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Louisa Courtney,</role> <actor ref="namedentities.xml#mrs_smith">Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem> <castItem><role>Letty,</role> <actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
                   <castItem><role>Marianne,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>   
                </castList>
                <hi rend="italic">After which</hi> <hi rend="allcaps">(Third Time)</hi> <hi rend="italic"><hi rend="allcaps">A New Farce</hi>, (with Songs,) call'd</hi> The<lb/>
                <bibl><title ref="namedentities.xml#play_outside_passenger">Outside Passenger.</title></bibl><lb/>
-               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, Mr. Whitaker, and Mr. D. Corri.</hi><lb/>
+               <hi rend="italic">The Musick entirely new, Composed by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>, <persName ref="namedentities.xml#mr_whitaker">Mr. Whitaker</persName>, and <persName ref="namedentities.xml#mr_d_corri">Mr. D. Corri</persName>.</hi><lb/>
                <hi rend="italic">The Overture by <persName ref="namedentities.xml#wi_re">Mr. Reeve</persName>.</hi><lb/>
                <castList>
                   <head>The Principal Characters by</head>
                   <castItem><actor ref="namedentities.xml#sa_li">Mrs. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. Noble.</actor></castItem> <castItem><actor>Mr. Finn</actor></castItem> <castItem><actor>Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor>Mr. Widdicombe.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_paine">Mr. <hi rend="allcaps">Paine</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_noble">Mr. Noble.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. Finn</actor></castItem> <castItem><actor ref="namedentities.xml#mr_lewes">Mr. Lewes.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
                   <castItem>And <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                <hi rend="allcaps">Boxes</hi> <measure type="currency">5s</measure>. <hi rend="allcaps">Pit</hi> <measure type="currency">3s</measure>. <hi rend="allcaps">First Gallery</hi> <measure type="currency">2s</measure>. <hi rend="allcaps">Second Gallery</hi> <measure type="currency">1s</measure>.<lb/>
