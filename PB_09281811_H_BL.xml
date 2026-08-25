@@ -25,14 +25,14 @@
                <bibl><title ref="namedentities.xml#play_she_stoops_to_conquer">She Stoops to Conquer.</title></bibl><lb/>
                <castList>
                   <castItem><role>Mr. Hardcastle,</role> <actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sir Charles Marlow,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Hastings,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Young Marlow,</role> <actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#ge_sm">Mr. Smith.</actor></castItem> <castItem><role>Muggins,</role> <actor>Mr. Lewes.</actor></castItem> <castItem><role>Twist,</role> <actor>Mr. Finn.</actor></castItem><lb/>
-                  <castItem><role>Diggory,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Jeremy,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Roger,</role> <actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
-                  <castItem><role>Tony Lumpkin,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Hardcastle,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Charles Marlow,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Hastings,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Young Marlow,</role> <actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Landlord,</role> <actor ref="namedentities.xml#ge_sm">Mr. Smith.</actor></castItem> <castItem><role>Muggins,</role> <actor ref="namedentities.xml#mr_lewes">Mr. Lewes.</actor></castItem> <castItem><role>Twist,</role> <actor ref="namedentities.xml#mr_finn">Mr. Finn.</actor></castItem><lb/>
+                  <castItem><role>Diggory,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Jeremy,</role> <actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><role>Roger,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem><lb/>
+                  <castItem><role>Tony Lumpkin,</role> <actor ref="namedentities.xml#mr_mallinson">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Hardcastle,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Miss Hardcastle,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Miss Neville,</role> <actor>Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Miss Neville,</role> <actor ref="namedentities.xml#mrs_smith">Mrs. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
                </castList>
                After which <hi rend="allcaps">(Sixth Time) A New Farce</hi>, in Two Acts, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_darkness_visible"><quote>"Darkness Visible."</quote></title></bibl><lb/>
@@ -40,12 +40,12 @@
                <castList>
                   <head>The Characters by</head>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
+                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_mi">Mr. <hi rend="allcaps">Minton</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_widdicombe">Mr. <hi rend="allcaps">Widdicombe</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_gray">Mr. <hi rend="allcaps">Gray</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_minton">Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
                </castList>
                The Doors to be Open'd at <time when="17:30:00">Half past Five o'Clock</time>, and the Performance to begin<lb/>
                at <time when="18:30:00">Half past Six</time>, precisely, for the remainder of the Season.<lb/>

@@ -27,16 +27,16 @@
                   <castItem><role>Lord Townly,</role> <actor ref="namedentities.xml#jo_ge_ho">Mr.<hi rend="allcaps">Holman</hi>.</actor><lb/>
                   His third appearance on this Stage these Eleven Years.</castItem><lb/>
                   <castItem><role>Manly,</role> <actor ref="namedentities.xml#ed_ey">Mr. <hi rend="allcaps">Eyre</hi>.</actor></castItem><lb/>
-                  <castItem><role>Sir Francis Wronghead,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Sir Francis Wronghead,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Squire Richard,</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
-                  <castItem><role>John Moody,</role> <actor>Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
-                  <castItem><role>Count Basset,</role> <actor>Mr.<hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
-                  <castItem><role>Poundage,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>John,</role> <actor>Mr. Widdicombe.</actor></castItem> <castItem><role>James,</role> <actor>Mr. Hodson.</actor></castItem><lb/>
+                  <castItem><role>John Moody,</role> <actor ref="namedentities.xml#mr_mallinso ">Mr. <hi rend="allcaps">Mallinson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Count Basset,</role> <actor ref="namedentities.xml#mr_r_jones">Mr.<hi rend="allcaps">R. Jones</hi>.</actor></castItem><lb/>
+                  <castItem><role>Poundage,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>John,</role> <actor ref="namedentities.xml#mr_widdicombe">Mr. Widdicombe.</actor></castItem> <castItem><role>James,</role> <actor ref="namedentities.xml#mr_hodson">Mr. Hodson.</actor></castItem><lb/>
                   <castItem><role>Lady Townly,</role> <actor ref="namedentities.xml#ag_ho">Miss <hi rend="allcaps">Holman</hi>.</actor><lb/>
                      Her third appearance in London.</castItem><lb/>
-                  <castItem><role>Lady Wronghead,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Lady Wronghead,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role>Lady Grace,</role> <actor ref="namedentities.xml#mrs_barnes">Mrs. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
-                  <castItem><role>Mrs. Motherly,</role> <actor>Mrs. Kendall.</actor></castItem> <castItem><role>Myrtilla,</role> <actor>Miss De Camp.</actor></castItem> <castItem><role>Trusty,</role> <actor>Mrs. Stokes.</actor></castItem><lb/>
+                  <castItem><role>Mrs. Motherly,</role> <actor ref="namedentities.xml#mrs_kendall">Mrs. Kendall.</actor></castItem> <castItem><role>Myrtilla,</role> <actor ref="namedentities.xml#miss_decamp">Miss De Camp.</actor></castItem> <castItem><role>Trusty,</role> <actor ref="namedentities.xml#mrs_stokes">Mrs. Stokes.</actor></castItem><lb/>
                   <castItem><role>Miss Jenny,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
                </castList>
                After which will be perform'd (<hi rend="allcaps">For The</hi> 27th <hi rend="allcaps">Time</hi>) as a Grand Dress'd Rehearsal,<lb/>
@@ -53,26 +53,26 @@
                </castList>
                <hi rend="allcaps">Characters in the Romance.</hi><lb/>
                <castList>
-                  <castItem><role>Duke of Saxe Weimar, <hi rend="italic">(A Sanguinary Tyrant with red hair, and an amorous complexion)</hi></role> by <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Duke of Saxe Weimar, <hi rend="italic">(A Sanguinary Tyrant with red hair, and an amorous complexion)</hi></role> by <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
                   <castItem><role>Rogero <hi rend="italic">(Prisoner in the Abbey of Quedlinburgh; in love with</hi> Matilda Pottingen)</role> <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi>.</actor></castItem><lb/>
                   <castItem><role>Casimere <hi rend="italic">(A Polish Emigrant in Dembrowsky's Legion, married to</hi> Cecilia, <hi rend="italic">and having<lb/>
                            several Children by</hi> Matilda)</role> by <actor ref="namedentities.xml#mr_barnes">Mr. <hi rend="allcaps">Barnes</hi>.</actor></castItem><lb/>
                   <castItem><role>Beefington</role> and <role>Puddingfield</role> <hi rend="italic">(English Noblemen, exiled by the tyranny of</hi> <hi rend="allcaps">King John</hi>,<lb/>
-                     <hi rend="italic">previously to the signature of</hi> Magna Charta) by <actor>Mr. <hi rend="allcaps">Shaw</hi></actor> and <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
-                  <castItem><role>Doctor Pottingen, (L.L.D)</role> by <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
-                  <castItem><role>Waiter at Weimar <hi rend="italic">(A Knight Templar in disguise)</hi></role> by <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
-                  <castItem><role>Monk, with a Firelock, <hi rend="italic">(A Military Ecclesiastick)</hi></role> by <actor>Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem><lb/>
+                     <hi rend="italic">previously to the signature of</hi> Magna Charta) by <actor ref="namedentities.xml#mr_shaw">Mr. <hi rend="allcaps">Shaw</hi></actor> and <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Doctor Pottingen, (L.L.D)</role> by <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem><lb/>
+                  <castItem><role>Waiter at Weimar <hi rend="italic">(A Knight Templar in disguise)</hi></role> by <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Monk, with a Firelock, <hi rend="italic">(A Military Ecclesiastick)</hi></role> by <actor ref="namedentities.xml#mr_lewes">Mr. <hi rend="allcaps">Lewes</hi>.</actor></castItem><lb/>
                   <castItem><role>Matilda Pottingen, <hi rend="italic">(in love with</hi> Rogero, <hi rend="italic">and Mother to</hi> Casimere's <hi rend="italic">Children</hi>)</role><lb/>
-                     by <actor>Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
+                     by <actor ref="namedentities.xml#miss_wheatley">Miss <hi rend="allcaps">Wheatley</hi>.</actor></castItem><lb/>
                   <castItem><role>Cecilia Muckenfield, <hi rend="italic">(A Passenger in the Dilly, and Wife to</hi> Casimere)</role> by <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dame Shüttenbruch, <hi rend="italic">(Widow and Landlady of the Inn at Weimar)</hi></role> by <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
+                  <castItem><role>Dame Shüttenbruch, <hi rend="italic">(Widow and Landlady of the Inn at Weimar)</hi></role> by <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/>
                   <castItem><role><hi rend="allcaps">Dumbies</hi>. Neddycrantz, <hi rend="italic">(Jack Ass to the Wheel of the Well in the Abbey of Quedlinburgh)</hi></role><lb/>
                      by <actor>a New Performer.</actor></castItem><lb/>
                   <castItem><role>Female Captive, <hi rend="italic">(A Corpulent Virgin)</hi></role> <actor ref="namedentities.xml#an_ma_le">Miss <hi rend="allcaps">Leserve</hi>.</actor></castItem><lb/>
                   <castItem><role>Officers, Soldiers of the Light and Heavy Horse. Grenadiers, Troubadours, Monks,<lb/>
                         Donkies, &amp;c. &amp;c. &amp;c.</role></castItem><lb/>
                   <castItem>The <hi rend="allcaps">Trio</hi> and <hi rend="allcaps">Chorus</hi> <hi rend="italic">(in a stunning Whisper)</hi> Composed by <persName ref="namedentities.xml#wi_re">Mr. <hi rend="allcaps">Reeve</hi></persName><lb/>
-                     By <actor ref="namedentities.xml#mr_barnes">Mr. Barnes,</actor> <actor>Mr. Paine,</actor> <actor>Mr. Shaw</actor> &amp;c.</castItem><lb/>
+                     By <actor ref="namedentities.xml#mr_barnes">Mr. Barnes,</actor> <actor ref="namedentities.xml#mr_paine">Mr. Paine,</actor> <actor ref="namedentities.xml#mr_shaw">Mr. Shaw</actor> &amp;c.</castItem><lb/>
                   <castItem>In Act II. <actor ref="namedentities.xml#jo_li">Mr. <hi rend="allcaps">Liston</hi></actor> will sing "<hi rend="allcaps">The Beautiful Maid.</hi>"</castItem><lb/>   
                </castList>
                The <hi rend="allcaps">Quadrupeds of Quedlinburgh</hi>, continuing to be received<lb/>
