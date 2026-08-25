@@ -25,41 +25,41 @@
                <bibl><title type="main" ref="namedentities.xml#play_review">The <hi rend="allcaps">Review</hi>;</title><lb/>
                <title type="sub">Or, The Wags of Windsor.</title></bibl><lb/>
                <castList>
-                  <castItem><role>Mr. Deputy Bull,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Captain Beaugard,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Caleb Quotem,</role> <actor>Mr. <hi rend="allcaps">Harwood</hi>,</actor><lb/>
+                  <castItem><role>Mr. Deputy Bull,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Captain Beaugard,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Caleb Quotem,</role> <actor ref="namedentities.xml#mr_harwood">Mr. <hi rend="allcaps">Harwood</hi>,</actor><lb/>
                   (being his first appearance on this Stage.)</castItem><lb/>
-                  <castItem><role>Looney Mactwolter,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Charles Williams,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><role>Looney Mactwolter,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><role>Charles Williams,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
                   <castItem><role>John Lump,</role> (1st time,) <actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
-                  <castItem><role>Dubbs,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Serjeant,</role> <actor>Mr. Lewes.</actor></castItem><lb/>
+                  <castItem><role>Dubbs,</role> <actor ref="namedentities.xml#mr_mi">Mr. Minton.</actor></castItem> <castItem><role>Serjeant,</role> <actor ref="namedentities.xml#mr_lewes">Mr. Lewes.</actor></castItem><lb/>
                   <castItem><role>Grace Gaylove,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/>
-                  <castItem><role>Lucy,</role> <actor>Mrs. <hi rend="allcaps">Garrick</hi>.</actor></castItem><lb/>
-                  <castItem><role>Phoebe Whitethorn,</role> <actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Martha,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
-                  <castItem><role>Chorus of Soldiers, and Peasants, &amp;c.</role> Messrs. <actor>Hodson,</actor> <actor>Widdicombe,</actor> <actor>Eames,</actor> <actor>Odwell,</actor> &amp;c,</castItem>
+                  <castItem><role>Lucy,</role> <actor ref="namedentities.xml#mrs_garrick">Mrs. <hi rend="allcaps">Garrick</hi>.</actor></castItem><lb/>
+                  <castItem><role>Phoebe Whitethorn,</role> <actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><role>Martha,</role> <actor ref="namedentities.xml#mrs_kendall">Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem><lb/>
+                  <castItem><role>Chorus of Soldiers, and Peasants, &amp;c.</role> Messrs. <actor ref="namedentities.xml#mr_hodson">Hodson,</actor> <actor ref="namedentities.xml#mr_widdicombe">Widdicombe,</actor> <actor ref="namedentities.xml#mr_eames">Eames,</actor> <actor ref="namedentities.xml#mr_oddwell">Odwell,</actor> &amp;c,</castItem>
                </castList>
                After which (<hi rend="allcaps">13th Time</hi>) <hi rend="allcaps">A New Farce</hi>, in Two Acts, call'd<lb/>
                <bibl><title ref="namedentities.xml#play_darkness_visible"><quote>"Darkness Visible."</quote></title></bibl><lb/>
                <castList>
                   <head>The Characters by</head>
                   <castItem><actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_jones">Mr. <hi rend="allcaps">Jones</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem><lb/>
                   <castItem><actor ref="namedentities.xml#jo_sh_mu">Mr. <hi rend="allcaps">Munden</hi>.</actor></castItem><lb/>
-                  <castItem><actor>Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><actor>Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><actor ref="namedentities.xml#miss_decamp">Miss <hi rend="allcaps">De Camp</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem> <castItem><actor ref="namedentities.xml#mrs_minton">Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
                </castList>
                To which will be added (<hi rend="allcaps">9th Time</hi>) <hi rend="allcaps">A Melo Drame</hi>, call'd<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_travellers_benighted">Travellers Benighted;</title><lb/>
                   <title type="sub">Or, The Forest of Rosenwald.</title></bibl><lb/>
                With New Scenery, Dresses, and Decorations.<lb/>
                <castList>
-                  <castItem><role>Don Felix,</role> <actor>Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Baron Lindenberg,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
-                  <castItem><role>Raymond,</role> <actor>Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><role>Theodore,</role> <actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
-                  <castItem><role>Baptiste,</role> <actor>Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Claude ,</role> <actor>Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
-                  <castItem><role>Jaques,</role> <actor>Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor>Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/> 
+                  <castItem><role>Don Felix,</role> <actor ref="namedentities.xml#mr_cooper">Mr. <hi rend="allcaps">Cooper</hi>.</actor></castItem> <castItem><role>Baron Lindenberg,</role> <actor ref="namedentities.xml#ge_sm">Mr. <hi rend="allcaps">Smith</hi>.</actor></castItem><lb/>
+                  <castItem><role>Raymond,</role> <actor ref="namedentities.xml#mr_r_jones">Mr. <hi rend="allcaps">R. Jones</hi>.</actor></castItem> <castItem><role>Theodore,</role> <actor ref="namedentities.xml#sa_th_ru">Mr. <hi rend="allcaps">Russell</hi>.</actor></castItem><lb/>
+                  <castItem><role>Baptiste,</role> <actor ref="namedentities.xml#mr_martin">Mr. <hi rend="allcaps">Martin</hi>.</actor></castItem> <castItem><role>Claude ,</role> <actor ref="namedentities.xml#mr_noble">Mr. <hi rend="allcaps">Noble</hi>.</actor></castItem><lb/>
+                  <castItem><role>Jaques,</role> <actor ref="namedentities.xml#mr_finn">Mr. <hi rend="allcaps">Finn</hi>.</actor></castItem> <castItem><role>Marco,</role> <actor ref="namedentities.xml#mr_grove">Mr. <hi rend="allcaps">Grove</hi>.</actor></castItem><lb/> 
                   <castItem><role>Robert,</role> <actor ref="namedentities.xml#ro_wi_el">Mr. <hi rend="allcaps">Elliston</hi>.</actor></castItem><lb/>
-                  <castItem><role>Agnes,</role> <actor>Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
-                  <castItem><role>Beatrice,</role> <actor>Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor>Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
-                  <castItem><role>Bleeding Nun,</role> <actor>Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem> <castItem><role>Annette,</role> <actor>Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
+                  <castItem><role>Agnes,</role> <actor ref="namedentities.xml#miss_bellchambers">Miss <hi rend="allcaps">Bellchambers</hi>.</actor></castItem><lb/>
+                  <castItem><role>Beatrice,</role> <actor ref="namedentities.xml#mrs_grove">Mrs. <hi rend="allcaps">Grove</hi>.</actor></castItem> <castItem><role>Ursula,</role> <actor ref="namedentities.xml#mrs_minton">Mrs. <hi rend="allcaps">Minton</hi>.</actor></castItem><lb/>
+                  <castItem><role>Bleeding Nun,</role> <actor ref="namedentities.xml#mrs_kendall">Mrs. <hi rend="allcaps">Kendall</hi>.</actor></castItem> <castItem><role>Annette,</role> <actor ref="namedentities.xml#miss_watson">Miss <hi rend="allcaps">Watson</hi>.</actor></castItem><lb/>
                   <castItem><role>Marguerette,</role> <actor ref="namedentities.xml#ma_gi">Mrs. <hi rend="allcaps">Gibbs</hi>.</actor></castItem><lb/> 
                </castList>
                The Doors to be Open'd at <time when="17:30:00">Half past Five o'Clock</time>, and the Performance to begin<lb/>
