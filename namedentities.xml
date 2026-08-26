@@ -316,6 +316,26 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be determined.</note>
            </person>
+           <person xml:id="mrs_bologna">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Bologna</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Theatre Royal Covent Garden</affiliation>
+              <note>Detailed biographical information unable to be determined.</note>
+           </person>
+           <person xml:id="mrs_i_bologna">
+              <persName>
+                 <forename>I.</forename>
+                 <surname>Bologna</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Theatre Royal Covent Garden</affiliation>
+              <note>Detailed biographical information unable to be determined.</note>
+           </person>
            <person xml:id="jo_pe_bo">
               <persName ref="http://viaf.org/viaf/61117788">
                  <forename type="first">John</forename>
@@ -4172,6 +4192,16 @@
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="mrs_watt">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Watt</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Theatre Royal Covent Garden</affiliation>
+              <note>Detailed biographical information unable to be determined.</note>
            </person>
            <person xml:id="al_we">
               <persName>
