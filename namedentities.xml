@@ -2084,6 +2084,16 @@
               <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="mr_incledon">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Incledon</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mrs_iliff">
               <persName>
                  <forename>[Unknown]</forename>
@@ -2691,6 +2701,15 @@
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre, Drury Lane Theatre, Covent Garden Theatre</affiliation>
               <note>See <bibl><title>Mathews, Charles</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18329">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18329</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="mrs_mathews">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Mathews</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <note>Detailed biographical information unable to be determined.</note>
            </person>
            <person xml:id="mr_me">
               <persName>
@@ -4097,6 +4116,16 @@
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="miss_waring">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Waring</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="miss_watson">
