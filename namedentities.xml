@@ -1057,6 +1057,21 @@
               <affiliation>Covent Garden Theatre, Haymarket Theatre</affiliation>
               <note>See <bibl><title>DeMaria, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="ma_di">
+              <persName ref="http://viaf.org/viaf/29096041">
+                 <forename>Maria</forename>
+                 <surname type="birth">Poole</surname>
+                 <surname type="married">Dickons</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth>1774</birth>
+              <death>1833</death>
+              <floruit notBefore="1785" notAfter="1819"/>
+              <nationality>English</nationality>
+              <occupation>Actor</occupation>
+              <affiliation>Covent Garden Theatre, Lyceum Theatre</affiliation>
+              <note>See <bibl><title>Dickons [née Poole], Martha Frances Caroline [Maria]</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7610">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7610</ref>)</bibl>.</note>
+           </person>
            <person xml:id="ro_di">
               <persName>
                  <forename>Robert</forename>
