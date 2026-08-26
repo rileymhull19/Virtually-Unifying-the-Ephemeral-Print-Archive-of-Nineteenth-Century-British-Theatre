@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ex_03241811">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ex_03241811" corresp="#PB_02181811_CG_BL.xml #PB_02191811_CG_BL.xml #PB_02201811_CG_BL.xml #PB_02211811_CG_BL.xml #PB_02221811_CG_BL.xml #PB_02231811_CG_BL #PB_02251811_CG_BL.xml #PB_02261811_CG_BL.xml #PB_03021811_CG_BL.xml #PB_03051811_CG_BL.xml #PB_03071811_CG_BL.xml #PB_03071811_CG_BL.xml #PB_03091811_CG_BL.xml #PB_03111811_CG_BL.xml #PB_03121811_CG_BL.xml #PB_03141811_CG_BL.xml #PB_03161811_CG_BL.xml #PB_03181811_CG_BL.xml #PB_03191811_CG_BL.xml #PB_03211811_CG_BL.xml">
   <teiHeader>
       <fileDesc>
          <titleStmt>
