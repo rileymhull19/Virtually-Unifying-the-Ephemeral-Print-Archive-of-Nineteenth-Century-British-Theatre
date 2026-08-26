@@ -2592,6 +2592,16 @@
               <affiliation>Drury Lane Theatre</affiliation>
               <note>See <bibl><title>Lovegrove, William</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="miss_macauley">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Macauley</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Actor</occupation>
+              <affiliation>Haymarket Theatre</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_macdonald">
               <persName>
                  <forename>[Unknown]</forename>
