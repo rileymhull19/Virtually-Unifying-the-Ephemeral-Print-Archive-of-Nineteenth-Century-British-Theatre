@@ -6,8 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Connecting the Disconnected: Virtually Unifying the Ephemeral Print Archive of Nineteenth-Century British Theatre</title>
-            <title type="sub">Digitial Transcription of Object #Ex_01051812</title>
+            <title type="main">Digitial Transcription of Object #Ex_01051812</title>
             <editor>Riley Hull</editor>
          </titleStmt>
          <publicationStmt>
@@ -18,10 +17,12 @@
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
-               <monogr>
-                  <title level="m">The Examiner: A Sunday Paper on Politics, Domestic Economy, and Theatricals for the Year 1812</title>
+               <analytic>
                   <title level="a">The Examiner, No. 210, Sunday Jan. 5 1812</title>
-                  <ref target="https://hdl.handle.net/2027/inu.30000093206112?urlappend=%3Bseq=19%3Bownerid=13510798895637976-23">https://hdl.handle.net/2027/inu.30000093206112?urlappend=%3Bseq=19%3Bownerid=13510798895637976-23</ref>
+               </analytic>
+               <monogr>
+                  <title level="j">The Examiner: A Sunday Paper on Politics, Domestic Economy, and Theatricals for the Year 1812</title>
+                  <title level="a">The Examiner, No. 210, Sunday Jan. 5 1812</title>
                   <imprint>
                      <pubPlace>London, England</pubPlace>
                      <publisher>John Hunt</publisher>
@@ -30,6 +31,7 @@
                      <biblScope unit="page">9-10</biblScope>
                   </imprint>
                </monogr>
+               <ref target="https://hdl.handle.net/2027/inu.30000093206112?urlappend=%3Bseq=19%3Bownerid=13510798895637976-23">https://hdl.handle.net/2027/inu.30000093206112?urlappend=%3Bseq=19%3Bownerid=13510798895637976-23</ref>
             </biblStruct>
          </sourceDesc>
       </fileDesc>

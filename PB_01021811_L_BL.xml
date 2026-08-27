@@ -6,8 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Connecting the Disconnected: Virtually Unifying the Ephemeral Print Archive of Nineteenth-Century British Theatre</title>
-            <title type="sub">Digitial Transcription of Object #PB_01021811_L_BL</title>
+            <title type="main">Digitial Transcription of Object #PB_01021811_L_BL</title>
             <editor>Riley Hull</editor>
          </titleStmt>
          <publicationStmt>
@@ -19,15 +18,15 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title level="a">Playbills 11</title>
-                  <ref target="https://blplaybills.org?view=browse&amp;volume=lsidyv3f9ca137&amp;page=264">https://blplaybills.org?view=browse&amp;volume=lsidyv3f9ca137&amp;page=264</ref>
+                  <title level="m">Playbills 11</title>
                   <imprint>
                      <pubPlace>London, England</pubPlace>
-                     <date when="1811-01-02">5 January 1812</date>
+                     <date when="1811-01-02">2 January 1811</date>
                      <distributor>British Library</distributor>
                      <biblScope unit="page">264</biblScope>
                   </imprint>
                </monogr>
+               <ref target="https://blplaybills.org?view=browse&amp;volume=lsidyv3f9ca137&amp;page=264">https://blplaybills.org?view=browse&amp;volume=lsidyv3f9ca137&amp;page=264</ref>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
