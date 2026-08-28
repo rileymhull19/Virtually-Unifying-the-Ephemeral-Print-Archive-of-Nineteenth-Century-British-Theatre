@@ -3,19 +3,44 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ex_06021811" corresp="#PB_05251811_H_BL.xml #PB_05271811_H_BL.xml #PB_05281811_H_BL.xml #PB_05291811_H_BL.xml #PB_05301811_H_BL.xml #PB_05311811_H_BL.xml">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title type="main">Digitial Transcription of Object #Ex_06021811</title>
+            <editor>Riley Hull</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Edited by Riley Hull for dissertation submitted for the degree of MA in the History of the Book.</p>
+            <p>Institute of English Studies</p>
+            <p>School of Advanced Study, University of London</p>
+            <p><date>September 2026</date></p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <biblStruct>
+               <analytic>
+                  <title level="a">The Examiner, No. 179, Sunday June 2 1811</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Examiner: A Sunday Paper on Politics, Domestic Economy, and Theatricals for the Year 1811</title>
+                  <imprint>
+                     <pubPlace>London, England</pubPlace>
+                     <publisher>John Hunt</publisher>
+                     <date when="1811-06-02">2 June 1811</date>
+                     <distributor>HathiTrust</distributor>
+                     <biblScope unit="page">349</biblScope>
+                  </imprint>
+               </monogr>
+               <ref target="https://hdl.handle.net/2027/inu.30000093206120?urlappend=%3Bseq=317%3Bownerid=13510798895637963-325">https://hdl.handle.net/2027/inu.30000093206120?urlappend=%3Bseq=317%3Bownerid=13510798895637963-325</ref>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization><p>Names that appear more than once within the text were regularized to standard spellings consistent with their frequent appearances within the larger text corpus and the biographical reference sources. All other spelling was transcribed faithfully to the original source. Normalization was performed silently.</p></normalization>
+            <punctuation><p>Original punctuation has been retained.</p></punctuation>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
   <text>
      <body>
          <head>Theatrical Examiner.</head>
