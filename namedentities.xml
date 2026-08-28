@@ -18,6 +18,18 @@
   </teiHeader>
   <standOff>
         <listPerson>
+           <person xml:id="jo_ad">
+              <persName>
+                 <forename>Joseph</forename>
+                 <surname>Addison</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1672">1672</birth>
+              <death when="1719">1719</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Addison, Joseph</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-156">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-156</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mr_andrews">
               <persName>
                  <forename>[Unknown]</forename>
@@ -865,6 +877,19 @@
               <affiliation>Theatre Royal Haymarket, Theatre Royal Lyceum</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="ha_co">
+              <persName>
+                 <forename>Hannah</forename>
+                 <surname type="birth">Parkhouse</surname>
+                 <surname type="married">Cowley</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth when="1743">1743</birth>
+              <death when="1809">1809</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Cowley [née Parkhouse], Hannah</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6500">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6500</ref>)</bibl>.</note>
+           </person>
            <person xml:id="miss_cox">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1076,6 +1101,33 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Theatre Royal Covent Garden, Theatre Royal Haymarket</affiliation>
               <note>See <bibl><title>DeMaria, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ch_is_mu_di">
+              <persName>
+                 <forename type="first">Charles</forename>
+                 <forename type="middle">Isaac</forename>
+                 <forename type="middle">Mungo</forename>
+                 <surname>Dibdin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1768">1768</birth>
+              <death when="1833">1833</death>
+              <nationality>English</nationality>
+              <occupation>Playwright, Theatre Manager</occupation>
+              <note>See <bibl><title>Dibdin, Charles Isaac Mungo [known as Charles Isaac Pitt; performing name Charles Dibdin the younger]</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7586">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7586</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="th_jo_di">
+              <persName>
+                 <forename type="first">Thomas</forename>
+                 <forename type="middle">John</forename>
+                 <surname>Dibdin</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1771">1771</birth>
+              <death when="1841">1841</death>
+              <nationality>English</nationality>
+              <occupation>Playwright, Actor</occupation>
+              <note>See <bibl><title>Dibdin, Thomas John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7589">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7589</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_di">
               <persName ref="http://viaf.org/viaf/29096041">
@@ -2119,6 +2171,19 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="el_in">
+              <persName>
+                 <forename>Elizabeth</forename>
+                 <surname type="birth">Simpson</surname>
+                 <surname type="married">Inchbald</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <birth when="1753">1753</birth>
+              <death when="1821">1821</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Inchbald [née Simpson], Elizabeth</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14374">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14374</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mr_incledon">
               <persName>
                  <forename>[Unknown]</forename>
@@ -2153,6 +2218,18 @@
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="is_ja">
+              <persName>
+                 <forename>Isaac</forename>
+                 <surname>Jackman</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1752">1752</birth>
+              <death when="1831">1831</death>
+              <nationality>Irish</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Jackman, Isaac John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14515">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14515</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_jamieson">
               <persName>
@@ -2864,6 +2941,19 @@
               <affiliation>Theatre Royal Haymarket, Theatre Royal Lyceum</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="jo_gi_mi">
+              <persName>
+                 <forename type="first">John</forename>
+                 <forename type="middle">Gideon</forename>
+                 <surname>Millingen</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1782">1782</birth>
+              <death when="1849">1849</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Millingen, John Gideon</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18759">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18759</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mr_mi">
               <persName>
                  <forename>[Unknown]</forename>
@@ -2907,20 +2997,20 @@
               <affiliation>Theatre Royal Lyceum</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
-           <person xml:id="mr_morrell">
+           <person xml:id="mr_morelli">
               <persName>
                  <forename>[Unknown]</forename>
-                 <surname>Morrell</surname>
+                 <surname>Morelli</surname>
               </persName>
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
-           <person xml:id="mr_morelli">
+           <person xml:id="mr_morrell">
               <persName>
                  <forename>[Unknown]</forename>
-                 <surname>Morelli</surname>
+                 <surname>Morrell</surname>
               </persName>
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
@@ -2936,6 +3026,18 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Theatre Royal Lyceum</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="th_mor">
+              <persName>
+                 <forename>Thomas</forename>
+                 <surname>Morton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1764">1764</birth>
+              <death when="1838">1838</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Morton, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19375">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19375</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_mortram">
               <persName>
@@ -3231,6 +3333,19 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>See <bibl><title>Platt, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="is_po">
+              <persName>
+                 <forename type="first">Isaac</forename>
+                 <forename type="middle">Innes</forename>
+                 <surname>Pocock</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1782">1782</birth>
+              <death when="1835">1835</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Pocock, Isaac Innes</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-22422">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-22422</ref>)</bibl>.</note>
+           </person>
            <person xml:id="miss_poole">
               <persName>
                  <forename>[Unknown]</forename>
@@ -3387,6 +3502,19 @@
               <affiliation>Theatre Royal Drury Lane</affiliation>
               <note>See <bibl><title>Rein, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
+           <person xml:id="wi_rh">
+              <persName>
+                 <forename type="first">William</forename>
+                 <forename type="middle">Barnes</forename>
+                 <surname>Rhodes</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1772">1772</birth>
+              <death when="1826">1826</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Rhodes, William Barnes</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23455">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23455</ref>)</bibl>.</note>
+           </person>
            <person xml:id="mr_rials">
               <persName>
                  <forename>[Unknown]</forename>
@@ -3515,6 +3643,18 @@
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Haymarket</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="wi_sha">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Shakespeare</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1564">1564</birth>
+              <death when="1616">1616</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Shakespeare, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25200">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25200</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_sharpe">
               <persName>
@@ -4489,31 +4629,31 @@
      <listBibl>
         <bibl xml:id="play_agreeable_surprise">
            <title level="m">The Agreeable Surprise</title>
-           <author>John O'Keeffe</author>
+           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_all_the_worlds_a_stage">
            <title level="m">All the World's A Stage</title>
-           <author>Isaac Jackman</author>
+           <author ref="namedentities.xml#is_ja">Isaac Jackman</author>
         </bibl>
         <bibl xml:id="play_animal_magnetism">
            <title level="m">Animal Magnetism</title>
-           <author>Elizabeth Simpson Inchbald</author>
+           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="any_thing_new">
            <title level="m">Any Thing New</title>
-           <author>Isaac Pocock</author>
+           <author ref="namedentities.xml#is_po">Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_as_you_like_it">
            <title level="m">As You Like It</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_bee_hive">
            <title level="m">The Bee Hive</title>
-           <author>John Gideon Millingen</author>
+           <author ref="namedentities.xml#jo_gi_mi">John Gideon Millingen</author>
         </bibl>
         <bibl xml:id="play_birth_day">
            <title level="m">The Birth-Day</title>
-           <author>Thomas John Dibdin</author>
+           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_blue_beard">
            <title level="m" type="main">Blue Beard</title>
@@ -4526,32 +4666,32 @@
         </bibl>
         <bibl xml:id="play_a_bold_stroke_for_a_husband">
            <title level="m">A Bold Stroke For A Husband</title>
-           <author>Hannah Parkhouse Cowley</author>
+           <author ref="namedentities.xml#ha_co">Hannah Parkhouse Cowley</author>
         </bibl>
         <bibl xml:id="play_bombastes_furioso">
            <title level="m">Bombastes Furioso</title>
-           <author>William Barnes Rhodes</author>
+           <author ref="namedentities.xml#wi_rh">William Barnes Rhodes</author>
         </bibl>
         <bibl xml:id="play_cabinet">
            <title level="m">The Cabinet</title>
-           <author>Thomas John Dibdin</author>
+           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_castle_of_andalusia">
            <title level="m">The Castle of Andalusia</title>
-           <author>John O'Keeffe</author>
+           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_cato">
            <title level="m">Cato</title>
-           <author>Joseph Addison</author>
+           <author ref="namedentities.xml#jo_ad">Joseph Addison</author>
         </bibl>
         <bibl xml:id="play_child_of_nature">
            <title level="m">The Child of Nature</title>
-           <author>Elizabeth Simpson Inchbald</author>
+           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_children_in_the_wood">
            <title level="m">The Children in the Wood</title>
            <author>Edward Litt Leman Blanchard</author>
-           <author>Thomas Morton, Sr.</author>
+           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
            <title level="m">The Clandestine Marriage</title>
@@ -4577,7 +4717,7 @@
         <bibl xml:id="play_doldrum">
            <title level="m" type="main">The Doldrum</title>
            <title type="sub">Or, 1819</title>
-           <author>John O'Keeffe</author>
+           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_dramatist">
            <title level="m">The Dramatist</title>
@@ -4589,7 +4729,7 @@
         </bibl>
         <bibl xml:id="play_every_one_has_his_fault">
            <title level="m">Every One Has His Fault</title>
-           <author>Elizabeth Simpson Inchbald</author>
+           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_follies_of_a_day">
            <title level="m">The Follies of a Day</title>
@@ -4641,7 +4781,7 @@
         </bibl>
         <bibl xml:id="play_hit_miss">
            <title level="m">Hit or Miss!</title>
-           <author>Isaac Pocock</author>
+           <author ref="namedentities.xml#is_po">Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_honest_thieves">
            <title level="m">Honest Thieves</title>
@@ -4681,7 +4821,7 @@
         </bibl>
         <bibl xml:id="play_julius_caesar">
            <title level="m">Julius Caesar</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kamtchatka">
            <title level="m" type="main">Kamtchatka</title>
@@ -4691,7 +4831,7 @@
         <bibl xml:id="play_henry_v">
            <title level="m" type="main">King Henry the Fifth</title>
            <title type="sub">Or, The Conquest of France</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kiss">
            <title level="m">The Kiss</title>
@@ -4700,7 +4840,7 @@
         </bibl>
         <bibl xml:id="play_knight_of_snowdoun">
            <title level="m">The Knight of Snowdoun</title>
-           <author>Thomas Morton, Sr.</author>
+           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_liar">
            <title level="m">The Liar</title>
@@ -4726,7 +4866,7 @@
         </bibl>
         <bibl xml:id="pkay_macbeth">
            <title level="m">Macbeth</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_magic_bride"> 
            <title level="m">The Magic Bride</title>
@@ -4748,11 +4888,11 @@
         </bibl>
         <bibl xml:id="play_measure_for_measure">
            <title level="m">Measure for Measure</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_midnight_hour">
            <title level="m">The Midnight Hour</title>
-           <author>Elizabeth Simpson Inchbald</author>
+           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_new_way_to_pay_old_debts">
            <title level="m">A New Way to Pay Old Debts</title>
@@ -4764,7 +4904,7 @@
         </bibl>
         <bibl xml:id="play_of_age_tomorrow">
            <title level="m">Of Age Tomorrow</title>
-           <author>Thomas John Dibdin</author>
+           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_ourselves">
            <title level="m">Ourselves</title>
@@ -4802,7 +4942,7 @@
         </bibl>
         <bibl xml:id="play_poor_soldier">
            <title level="m">The Poor Soldier</title>
-           <author>John O'Keeffe</author>
+           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
            <title level="m" type="main">The Portrait of Cervantes</title>
@@ -4816,7 +4956,7 @@
         </bibl>
         <bibl xml:id="play_prisoner_at_large">
            <title level="m">The Prisoner at Large</title>
-           <author>John O'Keeffe</author>
+           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_provoked_husband">
            <title level="m">The Provoked Husband</title>
@@ -4878,7 +5018,7 @@
         </bibl>
         <bibl xml:id="play_romeo_and_juliet">
            <title level="m">Romeo and Juliet</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_romp">
            <title level="m">The Romp</title>
@@ -4890,7 +5030,7 @@
         </bibl>
         <bibl xml:id="play_round_robin">
            <title level="m">The Round Robin</title>
-           <author>Charles Dibdin, Jr.</author>
+           <author ref="namedentities.xml#ch_is_mu_di">Charles Dibdin, Jr.</author>
         </bibl>
         <bibl xml:id="play_royal_oak">
            <title level="m">The Royal Oak</title>
@@ -4965,7 +5105,7 @@
         <bibl xml:id="play_twelfth_night">
            <title level="m" type="main">Twelfth Night</title>
            <title type="sub">Or, What You Will</title>
-           <author>William Shakespeare</author>
+           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_two_strings_to_your_bow">
            <title level="m">Two Strings To Your Bow</title>
@@ -4973,7 +5113,7 @@
         </bibl>
         <bibl xml:id="play_up_to_town">
            <title level="m">Up to Town</title>
-           <author>Thomas John Dibdin</author>
+           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_venice_preserved">
            <title level="m">Venice Preserved</title>
@@ -4985,7 +5125,7 @@
         </bibl>
         <bibl xml:id="play_way_to_get_married">
            <title level="m">The Way to Get Married</title>
-           <author>Thomas Morton, Sr.</author>
+           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_west_indian">
            <title level="m">The West Indian</title>
