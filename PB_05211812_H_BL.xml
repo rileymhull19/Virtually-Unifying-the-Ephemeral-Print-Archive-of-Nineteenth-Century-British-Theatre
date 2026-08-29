@@ -3,19 +3,40 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="pb_05211812_h_bl" corresp="#Ex_05311812.xml">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title type="main">Digitial Transcription of Object #PB_05211812_H_BL</title>
+            <editor>Riley Hull</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Edited by Riley Hull for dissertation submitted for the degree of MA in the History of the Book.</p>
+            <p>Institute of English Studies</p>
+            <p>School of Advanced Study, University of London</p>
+            <p><date>September 2026</date></p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <biblStruct>
+               <monogr>
+                  <title level="m">Playbills 117</title>
+                  <imprint>
+                     <pubPlace>London, England</pubPlace>
+                     <date when="1812-05-21">21 May 1812</date>
+                     <distributor>British Library</distributor>
+                     <biblScope unit="page">228</biblScope>
+                  </imprint>
+               </monogr>
+               <ref target="https://blplaybills.org?view=browse&amp;volume=lsidyv4045b355&amp;page=228">https://blplaybills.org?view=browse&amp;volume=lsidyv4045b355&amp;page=228</ref>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization><p>Names that appear more than once within the text were regularized to standard spellings consistent with their frequent appearances within the larger text corpus and the biographical reference sources. All other spelling was transcribed faithfully to the original source. Normalization was performed silently.</p></normalization>
+            <punctuation><p>Original punctuation has been retained.</p></punctuation>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
   <text>
       <body>
          <div type="performance_playbill" rend="align(center)">
