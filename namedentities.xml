@@ -294,6 +294,15 @@
               <affiliation>Theatre Royal Haymarket</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="is_bi">
+              <persName>
+                 <forename>Isaac</forename>
+                 <surname>Bickerstaffe</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="he_ro_bi">
               <persName ref="http://viaf.org/viaf/59829909">
                  <forename type="first">Henry</forename>
@@ -326,6 +335,17 @@
               <gender value="W">Woman</gender>
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="ed_li_le_bl">
+              <persName>
+                 <forename type="first">Edward</forename>
+                 <forename type="middle">Litt</forename>
+                 <forename type="middle">Leman</forename>
+                 <surname>Blanchard</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="wi_bl">
@@ -627,6 +647,15 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="mr_burton">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Burton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_buxton">
               <persName>
                  <forename>[Unknown]</forename>
@@ -823,6 +852,25 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="cl_sa_cl">
+              <persName>
+                 <forename type="first">Clara</forename>
+                 <forename type="middle">Savile</forename>
+                 <surname>Clarke</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="st_cl">
+              <persName>
+                 <forename>Stephen</forename>
+                 <surname>Clarke</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="el_co">
               <persName>
                  <forename>Elizabeth</forename>
@@ -848,6 +896,15 @@
               <nationality>English</nationality>
               <occupation>Playwright</occupation>
               <note>See <bibl><title>Cobb, James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5731</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="wi_col">
+              <persName>
+                 <forename>William</forename>
+                 <surname>Collier</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mrs_collingwood">
               <persName>
@@ -1020,6 +1077,18 @@
               <occupation>Machinist, Scene Painter</occupation>
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>See <bibl><title>Cresswell, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_ca_cr">
+              <persName>
+                 <forename type="first">John</forename>
+                 <forename type="middle">Cartwright</forename>
+                 <surname>Cross</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <death when="1809">1809</death>
+              <nationality>English</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Cross, John Cartwright</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_cross">
               <persName>
@@ -1744,6 +1813,16 @@
               <affiliation>Theatre Royal Haymarket, Theatre Royal Covent Garden</affiliation>
               <note>See <bibl><title>Gibbs, [née Logan; other married name Colman], Maria [Mary]</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-10602">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-10602</ref>)</bibl>.</note>
            </person>
+           <person xml:id="wi_sc_gi">
+              <persName>
+                 <forename type="first">William</forename>
+                 <forename type="middle">Schwenck</forename>
+                 <surname>Gilbert</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_glenville">
               <persName>
                  <forename>[Unknown]</forename>
@@ -1960,6 +2039,16 @@
               <gender value="W">Woman</gender>
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Haymarket</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="he_wi_gr">
+              <persName>
+                 <forename type="first">Henry</forename>
+                 <forename type="middle">William</forename>
+                 <surname>Grosette</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_gussio">
@@ -2270,6 +2359,15 @@
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden, Theatre Royal Drury Lane, Theatre Royal Haymarket</affiliation>
               <note>See <bibl><title>Holman, Joseph George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="to_ho">
+              <persName>
+                 <forename>Tom</forename>
+                 <surname>Hood</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_ed_ho">
               <persName>
@@ -2772,6 +2870,15 @@
               <affiliation>Theatre Royal Covent Garden</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="jo_la">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Lake</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="mr_lane">
               <persName>
                  <forename>[Unknown]</forename>
@@ -2921,6 +3028,15 @@
               <affiliation>Theatre Royal Drury Lane, Theatre Royal Haymarket, Theatre Royal Covent Garden</affiliation>
               <note>See <bibl><title>Liston, John</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16770</ref>)</bibl>.</note>
            </person>
+           <person xml:id="mr_lloyd">
+              <persName>
+                 <forename>[Unknown]</forename>
+                 <surname>Lloyd</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="ma_lo">
               <persName ref="http://viaf.org/viaf/7574551">
                  <forename>Matthew</forename>
@@ -3068,6 +3184,15 @@
               <affiliation>Theatre Royal Haymarket</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
+           <person xml:id="ge_ma">
+              <persName>
+                 <forename>George</forename>
+                 <surname>March</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
            <person xml:id="th_ma">
               <persName>
                  <forename>Thomas</forename>
@@ -3117,6 +3242,16 @@
               <occupation>Door Keeper</occupation>
               <affiliation>Theatre Royal Drury Lane, Theatre Royal Haymarket</affiliation>
               <note>See <bibl><title>Massingham, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="ma_ke_ma">
+              <persName>
+                 <forename type="first">Martin</forename>
+                 <forename type="middle">Kedgwin</forename>
+                 <surname>Masters</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ch_ma">
               <persName ref="http://viaf.org/viaf/57418276">
@@ -3303,6 +3438,15 @@
               <gender value="M">Man</gender>
               <occupation>Dancer</occupation>
               <affiliation>Theatre Royal Lyceum</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="ha_mo">
+              <persName>
+                 <forename>Hannah</forename>
+                 <surname>Moore</surname>
+              </persName>
+              <gender value="W">Woman</gender>
+              <occupation>Playwright</occupation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_morelli">
@@ -3511,6 +3655,19 @@
               <occupation>Playwright</occupation>
               <note>See <bibl><title>Otway, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20944">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20944</ref>)</bibl>.</note>
            </person>
+           <person xml:id="wa_ch_ou">
+              <persName>
+                 <forename type="first">Walley</forename>
+                 <forename type="middle">Chamberlain</forename>
+                 <surname>Oulton</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1770">1770</birth>
+              <death when="1820">1820</death>
+              <nationality>Irish</nationality>
+              <occupation>Playwright</occupation>
+              <note>See <bibl><title>Oulton, Walley Chamberlain</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+           </person>
            <person xml:id="wi_ox">
               <persName ref="http://viaf.org/viaf/70291270">
                  <forename>William</forename>
@@ -3524,6 +3681,15 @@
               <occupation>Actor</occupation>
               <affiliation>Theatre Royal Covent Garden, Theatre Royal Drury Lane</affiliation>
               <note>See <bibl><title>Oxberry, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045</ref>)</bibl>.</note>
+           </person>
+           <person xml:id="jo_ox">
+              <persName>
+                 <forename>John</forename>
+                 <surname>Oxenford</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_paine">
               <persName>
@@ -5009,7 +5175,7 @@
               <nationality>English</nationality>
               <occupation>Actor, Theatre Manager</occupation>
               <affiliation>Theatre Royal Covent Garden, Theatre Royal Drury Lane</affiliation>
-              <note>English actor who spent 37 years acting across the London stages in over 200 major roles. After spending the first portion of his career at Covent Garden he joined the Theatre Royal Drury Lane in 1787. See <bibl><title>Wroughton, Richard</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
+              <note>See <bibl><title>Wroughton, Richard</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_yarnold">
               <persName>
@@ -5034,7 +5200,9 @@
            <listRelation>
               <relation type="personal" name="parent" active="#pi_bo" passive="#jo_pe_bo"/>
               <relation type="personal" name="spouse" mutual="#mr_ch #ro_ch"/>
+              <relation type="personal" name="parent" active="#ge_co_sr" passive="#ge_co"/>
               <relation type="personal" name="spouse" mutual="#ge_go_da #ma_an_da"/>
+              <relation type="personal" name="sibling" mutual="#ch_is_mu_di #th_jo_di"/>
               <relation type="personal" name="parent" active="#je_g_ho" passive="#ag_ho"/>
               <relation type="personal" name="sibling" mutual="#ch_ke #jo_ph_ke #sa_ke_si"/>
               <relation type="personal" name="spouse" mutual="#ch_ke #ma_th_ke"/>
@@ -5042,6 +5210,7 @@
               <relation type="personal" name="spouse" mutual="#wa_ma #mr_ma"/>
               <relation type="personal" name="parent" active="#mo_me" passive="#fr_me #ma_me"/>
               <relation type="personal" name="sibling" mutual="#fr_me #ma_me"/>
+              <relation type="personal" name="sibling" mutual="#ri_br_sh #al_le"/>
               <relation type="personal" name="spouse" mutual="#gh_sp #sa_sp"/>
            </listRelation>
         </listPerson>
@@ -5071,141 +5240,141 @@
      <listBibl>
         <bibl xml:id="play_agreeable_surprise">
            <title level="m">The Agreeable Surprise</title>
-           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
+           <author ref="#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_all_the_worlds_a_stage">
            <title level="m">All the World's A Stage</title>
-           <author ref="namedentities.xml#is_ja">Isaac Jackman</author>
+           <author ref="#is_ja">Isaac Jackman</author>
         </bibl>
         <bibl xml:id="play_animal_magnetism">
            <title level="m">Animal Magnetism</title>
-           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
+           <author ref="#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="any_thing_new">
            <title level="m">Any Thing New</title>
-           <author ref="namedentities.xml#is_po">Isaac Pocock</author>
+           <author ref="#is_po">Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_as_you_like_it">
            <title level="m">As You Like It</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_bee_hive">
            <title level="m">The Bee Hive</title>
-           <author ref="namedentities.xml#jo_gi_mi">John Gideon Millingen</author>
+           <author ref="#jo_gi_mi">John Gideon Millingen</author>
         </bibl>
         <bibl xml:id="play_birth_day">
            <title level="m">The Birth-Day</title>
-           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
+           <author ref="#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_blue_beard">
            <title level="m" type="main">Blue Beard</title>
            <title type="sub">Or, Female Curiosity</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_blue_devils">
            <title level="m">Blue Devils</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_a_bold_stroke_for_a_husband">
            <title level="m">A Bold Stroke For A Husband</title>
-           <author ref="namedentities.xml#ha_co">Hannah Parkhouse Cowley</author>
+           <author ref="#ha_co">Hannah Parkhouse Cowley</author>
         </bibl>
         <bibl xml:id="play_bombastes_furioso">
            <title level="m">Bombastes Furioso</title>
-           <author ref="namedentities.xml#wi_rh">William Barnes Rhodes</author>
+           <author ref="#wi_rh">William Barnes Rhodes</author>
         </bibl>
         <bibl xml:id="play_cabinet">
            <title level="m">The Cabinet</title>
-           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
+           <author ref="#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_castle_of_andalusia">
            <title level="m">The Castle of Andalusia</title>
-           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
+           <author ref="#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_cato">
            <title level="m">Cato</title>
-           <author ref="namedentities.xml#jo_ad">Joseph Addison</author>
+           <author ref="#jo_ad">Joseph Addison</author>
         </bibl>
         <bibl xml:id="play_child_of_nature">
            <title level="m">The Child of Nature</title>
-           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
+           <author ref="#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_children_in_the_wood">
            <title level="m">The Children in the Wood</title>
-           <author>Edward Litt Leman Blanchard</author>
-           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
+           <author ref="#ed_li_le_bl">Edward Litt Leman Blanchard</author>
+           <author ref="#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_clandestine_marriage">
            <title level="m">The Clandestine Marriage</title>
-           <author ref="namedentities.xml#ge_co_sr">George Colman, Sr.</author>
+           <author ref="#ge_co_sr">George Colman, Sr.</author>
         </bibl>
         <bibl xml:id="play_country_girl">
            <title level="m">The Country Girl</title>
-           <author ref="namedentities.xml#da_ga">David Garrick</author>
+           <author ref="#da_ga">David Garrick</author>
         </bibl>
         <bibl xml:id="play_critick">
            <title level="m" type="main">The Critick</title>
            <title type="sub">Or, A Tragedy Rehearsed</title>
-           <author ref="namedentities.xml#ri_br_sh">Richard Brinsley Sheridan</author>
+           <author ref="#ri_br_sh">Richard Brinsley Sheridan</author>
         </bibl>
         <bibl xml:id="play_darkness_visible">
            <title level="m">Darkness Visible</title>
-           <author ref="namedentities.xml#th_ed_ho">Theodore Edward Hook</author>
+           <author ref="#th_ed_ho">Theodore Edward Hook</author>
         </bibl>
         <bibl xml:id="play_devils_bridge">
            <title level="m">The Devil's Bridge</title>
-           <author ref="namedentities.xml#sa_ja_ar">Samuel James Arnold</author>
+           <author ref="#sa_ja_ar">Samuel James Arnold</author>
         </bibl>
         <bibl xml:id="play_doldrum">
            <title level="m" type="main">The Doldrum</title>
            <title type="sub">Or, 1819</title>
-           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
+           <author ref="#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_dramatist">
            <title level="m">The Dramatist</title>
-           <author ref="namedentities.xml#fr_re">Frederick Reynolds</author>
+           <author ref="#fr_re">Frederick Reynolds</author>
         </bibl>
         <bibl xml:id="play_every_man_in_his_humour">
            <title level="m">Every Man in His Humour</title>
-           <author ref="namedentities.xml#be_jo">Ben Jonson</author>
+           <author ref="#be_jo">Ben Jonson</author>
         </bibl>
         <bibl xml:id="play_every_one_has_his_fault">
            <title level="m">Every One Has His Fault</title>
-           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
+           <author ref="#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_follies_of_a_day">
            <title level="m">The Follies of a Day</title>
-           <author ref="namedentities.xml#th_ho">Thomas Holcroft</author>
+           <author ref="#th_ho">Thomas Holcroft</author>
         </bibl>
         <bibl xml:id="play_fortunes_frolick">
            <title level="m">Fortune's Frolick</title>
-           <author ref="namedentities.xml#jo_ti_al">John Till Allingham</author>
+           <author ref="#jo_ti_al">John Till Allingham</author>
         </bibl>
         <bibl xml:id="play_fortune_hunters">
            <title level="m">The Fortune-Hunters</title>
-           <author>William Schwenck Gilbert</author>
+           <author ref="#wi_sc_gi">William Schwenck Gilbert</author>
         </bibl>
         <bibl xml:id="play_foundling_of_the_forest">
            <title level="m">The Foundling of the Forest</title>
-           <author ref="namedentities.xml#wi_fi_pe_di">William Dimond</author>
+           <author ref="#wi_fi_pe_di">William Dimond</author>
         </bibl>
         <bibl xml:id="play_frost_and_thaw">
            <title level="m">Frost and Thaw</title>
-           <author>Joseph George Holman</author>
+           <author ref="#jo_ge_ho">Joseph George Holman</author>
         </bibl>
         <bibl xml:id="play_gazette_extraordinary">
            <title level="m">The Gazette Extraordinary</title>
-           <author ref="namedentities.xml#jo_ge_ho">Joseph George Holman</author>
+           <author ref="jo_ge_ho">Joseph George Holman</author>
         </bibl>
         <bibl xml:id="play_green_eyed_monster">
            <title level="m">The Green Eye'd Monster</title>
            <title>Or, How to Get Your Money!</title>
-           <author ref="namedentities.xml#ja_ro_pl">James Robinson Planché</author>
+           <author ref="#ja_ro_pl">James Robinson Planché</author>
         </bibl>
         <bibl xml:id="play_gustavus_vasa">
            <title level="m">Gustavus Vasa</title>
-           <author ref="namedentities.xml#he_br">Henry Brooke</author>
-           <author ref="namedentities.xml#wi_fi_pe_di">William Dimond</author>
+           <author ref="#he_br">Henry Brooke</author>
+           <author ref="#wi_fi_pe_di">William Dimond</author>
         </bibl>
         <bibl xml:id="play_harlequin_and_asmodeus">
            <title level="m" type="main">Harlequin &amp; Asmodeus</title>
@@ -5219,23 +5388,23 @@
         </bibl>
         <bibl xml:id="play_high_life_below_stairs">
            <title level="m">High Life Below Stairs</title>
-           <author ref="namedentities,xml#ja_to">James Townley</author>
+           <author ref="#ja_to">James Townley</author>
         </bibl>
         <bibl xml:id="play_hit_miss">
            <title level="m">Hit or Miss!</title>
-           <author ref="namedentities.xml#is_po">Isaac Pocock</author>
+           <author ref="#is_po">Isaac Pocock</author>
         </bibl>
         <bibl xml:id="play_honest_thieves">
            <title level="m">Honest Thieves</title>
-           <author ref="namedentities.xml#th_kn">Thomas Knight</author>
+           <author ref="#th_kn">Thomas Knight</author>
         </bibl>
         <bibl xml:id="play_honeymoon">
            <title level="m">The Honey-Moon</title>
-           <author ref="namedentities.xml#jo_to">John Tobin</author>
+           <author ref="#jo_to">John Tobin</author>
         </bibl>
         <bibl xml:id="play_house_of_morville">
            <title level="m">The House of Morville</title>
-           <author>John Lake</author>
+           <author ref="#jo_la">John Lake</author>
         </bibl>
         <bibl xml:id="play_how_to_die_for_love">
            <title level="m">How to Die For Love!</title>
@@ -5243,114 +5412,114 @@
         </bibl>
         <bibl xml:id="play_hunter_of_the_alps">
            <title level="m">Hunter of the Alps</title>
-           <author ref="namedentities.xml#wi_fi_pe_di">William Dimond</author>
+           <author ref="#wi_fi_pe_di">William Dimond</author>
         </bibl>
         <bibl xml:id="play_hypocrite">
            <title level="m">The Hypocrite</title>
-           <author>Isaac Bickerstaffe</author>
+           <author ref="#is_bi">Isaac Bickerstaffe</author>
         </bibl>
         <bibl xml:id="play_inkle_and_yarico">
            <title level="m">Inkle and Yarico</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_iron_chest">
            <title level="m">The Iron Chest</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_is_he_a_prince">
            <title level="m">Is He A Prince?</title>
-           <author ref="namedentities.xml#ro_wi_el">Robert William Elliston</author>
+           <author ref="#ro_wi_el">Robert William Elliston</author>
         </bibl>
         <bibl xml:id="play_julius_caesar">
            <title level="m">Julius Caesar</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kamtchatka">
            <title level="m" type="main">Kamtchatka</title>
            <title type="sub">Or, The Slaves Tribute</title>
-           <author ref="namedentities.xml#ch_ke">Charles Kemble</author>
+           <author ref="#ch_ke">Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_henry_v">
            <title level="m" type="main">King Henry the Fifth</title>
            <title type="sub">Or, The Conquest of France</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_kiss">
            <title level="m">The Kiss</title>
-           <author>Stephen Clarke</author>
-           <author>William Collier</author>
+           <author ref="#st_cl">Stephen Clarke</author>
+           <author ref="#wi_col">William Collier</author>
         </bibl>
         <bibl xml:id="play_knight_of_snowdoun">
            <title level="m">The Knight of Snowdoun</title>
-           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
+           <author ref="#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_liar">
            <title level="m">The Liar</title>
-           <author ref="namedentities.xml#sa_fo">Samuel Foote</author>
+           <author ref="#sa_fo">Samuel Foote</author>
         </bibl>
         <bibl xml:id="play_lock_and_key">
            <title level="m">Lock and Key</title>
-           <author ref="namedentities.xml#pr_ho">Prince Hoare</author>
+           <author ref="#pr_ho">Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_look_at_home">
            <title level="m">Look at Home</title>
-           <author ref="namedentities.xml#ed_ey">Edmund John Eyre</author>
+           <author ref="#ed_ey">Edmund John Eyre</author>
         </bibl>
         <bibl xml:id="play_lost_and_found"> 
            <title level="m">Lost and Found</title>
-           <author>Tom Hood</author>
-           <author>George March</author>
-           <author>Martin Kedgwin Masters</author>
+           <author ref="#to_ho">Tom Hood</author>
+           <author ref="#ge_ma">George March</author>
+           <author ref="#ma_ke_ma">Martin Kedgwin Masters</author>
         </bibl> 
         <bibl xml:id="play_lying_valet">
            <title level="m">The Lying Valet</title>
-           <author ref="namedentities.xml#da_ga">David Garrick</author>
+           <author ref="#da_ga">David Garrick</author>
         </bibl>
         <bibl xml:id="pkay_macbeth">
            <title level="m">Macbeth</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_magic_bride"> 
            <title level="m">The Magic Bride</title>
-           <author ref="namedentities.xml#lu_sk">Lumley Skeffington</author>
+           <author ref="#lu_sk">Lumley Skeffington</author>
         </bibl> 
         <bibl xml:id="play_man_and_wife">
            <title level="m" type="main">Man and Wife</title>
            <title type="sub">Or, More Secrets Than One</title>
-           <author ref="namedentities.xml#sa_ja_ar">Samuel James Arnold</author>
-           <author ref="namedentities.xml#wi_co">William Wilkie Collins</author>
+           <author ref="#sa_ja_ar">Samuel James Arnold</author>
+           <author ref="#wi_co">William Wilkie Collins</author>
         </bibl>
         <bibl xml:id="play_man_of_the_world">
            <title level="m">The Man of the World</title>
-           <author ref="namedentities.xml#ch_mac">Charles Macklin</author>
+           <author ref="#ch_mac">Charles Macklin</author>
         </bibl>
         <bibl xml:id="play_mayor_garratt">
            <title level="m">The Mayor of Garratt</title>
-           <author ref="namedentities.xml#sa_fo">Samuel Foote</author>
+           <author ref="#sa_fo">Samuel Foote</author>
         </bibl>
         <bibl xml:id="play_measure_for_measure">
            <title level="m">Measure for Measure</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_midnight_hour">
            <title level="m">The Midnight Hour</title>
-           <author ref="namedentities.xml#el_in">Elizabeth Simpson Inchbald</author>
+           <author ref="#el_in">Elizabeth Simpson Inchbald</author>
         </bibl>
         <bibl xml:id="play_new_way_to_pay_old_debts">
            <title level="m">A New Way to Pay Old Debts</title>
-           <author ref="namedentities.xml#ph_ma">Philip Massinger</author>
+           <author ref="#ph_ma">Philip Massinger</author>
         </bibl>
         <bibl xml:id="play_no_song_no_supper">
            <title level="m">No Song No Supper</title>
-           <author ref="namedentities.xml#pr_ho">Prince Hoare</author>
+           <author ref="#pr_ho">Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_of_age_tomorrow">
            <title level="m">Of Age Tomorrow</title>
-           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
+           <author ref="#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_ourselves">
            <title level="m">Ourselves</title>
-           <author ref="namedentities.xml#ma_ch">Marianne Chambers</author>
+           <author ref="#ma_ch">Marianne Chambers</author>
         </bibl>
         <bibl xml:id="play_outside_passenger">
            <title level="m">Outside Passenger</title>
@@ -5358,24 +5527,24 @@
         </bibl>
         <bibl xml:id="play_paul_and_virginia">
            <title level="m">Paul and Virginia</title>
-           <author ref="namedentities.xml#ja_co">James Cobb</author>
+           <author ref="#ja_co">James Cobb</author>
         </bibl>
         <bibl xml:id="play_peasant_boy">
            <title level="m">The Peasant Boy</title>
-           <author ref="namedentities.xml#wi_fi_pe_di">William Dimond</author>
+           <author ref="#wi_fi_pe_di">William Dimond</author>
         </bibl>
         <bibl xml:id="play_percy">
            <title level="m">Percy</title>
-           <author>Hannah Moore</author>
+           <author ref="#ha_mo">Hannah Moore</author>
         </bibl>
         <bibl xml:id="play_point_of_honour">
            <title level="m">The Point of Honour</title>
-           <author>Clara Savile Clarke</author>
-           <author ref="namedentities.xml#ch_ke">Charles Kemble</author>
+           <author ref="#cl_sa_cl">Clara Savile Clarke</author>
+           <author ref="#ch_ke">Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_poor_gentleman">
            <title level="m">The Poor Gentleman</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_poor_sailor">
            <title level="m" type="main">The Poor Sailor</title>
@@ -5384,30 +5553,30 @@
         </bibl>
         <bibl xml:id="play_poor_soldier">
            <title level="m">The Poor Soldier</title>
-           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
+           <author ref="#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_portrait_of_cervantes">
            <title level="m" type="main">The Portrait of Cervantes</title>
            <title type="sub">Or, The Plotting Lovers</title>
-           <author ref="namedentities.xml#ch_ke">Charles Kemble</author>
+           <author ref="#ch_ke">Charles Kemble</author>
         </bibl>
         <bibl xml:id="play_prejudice">
            <title level="m" type="main">Prejudice</title>
            <title type="sub">Or, Modern Sentiment</title>
-           <author ref="namedentities.xml#al_le">Alicia Sheridan Lefanu</author>
+           <author ref="#al_le">Alicia Sheridan Lefanu</author>
         </bibl>
         <bibl xml:id="play_prisoner_at_large">
            <title level="m">The Prisoner at Large</title>
-           <author ref="namedentities.xml#jo_ok">John O'Keeffe</author>
+           <author ref="#jo_ok">John O'Keeffe</author>
         </bibl>
         <bibl xml:id="play_provoked_husband">
            <title level="m">The Provoked Husband</title>
-           <author ref="namedentities.xml#jo_va">John Vanbrugh</author>
+           <author ref="#jo_va">John Vanbrugh</author>
         </bibl>
         <bibl xml:id="play_purse">
            <title level="m" type="main">The Purse</title>
            <title type="sub">Or, The Benevolent Tar</title>
-           <author>John C. Cross</author>
+           <author ref="#jo_ca_cr">John C. Cross</author>
         </bibl>
         <bibl xml:id="play_quadrupeds">
            <title level="m" type="main">Quadrupeds</title>
@@ -5417,34 +5586,34 @@
         <bibl xml:id="play_quadrupeds_of_quedlinburgh">
            <title level="m" type="main">The Quadrupeds of Quedlinburgh</title>
            <title type="sub">Or, The Rovers of Weimar</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_raising_wind">
            <title level="m">Raising the Wind</title>
-           <author ref="namedentities.xml#ja_ke">James Kenney</author>
+           <author ref="#ja_ke">James Kenney</author>
         </bibl>
         <bibl xml:id="play_raymond_and_agnes">
            <title level="m" type="main">Raymond and Agnes</title>
            <title type="sub">Or, The Castle of Lindenbergh</title>
-           <author>Henry William Grosette</author>
-           <author ref="namedentities.xml#ma_gr_le">Matthew Gregory Lewis</author>
+           <author ref="#he_wi_gr">Henry William Grosette</author>
+           <author ref="#ma_gr_le">Matthew Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_register_office">
            <title level="m">The Register Office</title>
-           <author ref="namedentities.xml#jo_re">Joseph Reed</author>
+           <author ref="#jo_re">Joseph Reed</author>
         </bibl>
         <bibl xml:id="play_review">
            <title level="m" type="main">The Review</title>
            <title type="sub">Or, The Wags of Windsor</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_rich_and_poor">
            <title level="m">Rich and Poor</title>
-           <author ref="namedentities.xml#ma_gr_le">Matthew Gregory Lewis</author>
+           <author ref="#ma_gr_le">Matthew Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_right_and_wrong">
            <title level="m">Right and Wrong</title>
-           <author>[Unknown] Burton</author>
+           <author ref="#mr_burton">[Unknown] Burton</author>
         </bibl>
         <bibl xml:id="play_rival_soldiers">
            <title level="m">The Rival Soldiers</title>
@@ -5452,143 +5621,143 @@
         </bibl>
         <bibl xml:id="play_rivals">
            <title level="m">The Rivals</title>
-           <author ref="namedentities.xml#ri_br_sh">Richard Brinsley Sheridan</author>
+           <author ref="#ri_br_sh">Richard Brinsley Sheridan</author>
         </bibl>
         <bibl xml:id="play_road_to_ruin">
            <title level="m">The Road to Ruin</title>
-           <author ref="namedentities.xml#th_ho">Thomas Holcroft</author>
+           <author ref="#th_ho">Thomas Holcroft</author>
         </bibl>
         <bibl xml:id="play_romeo_and_juliet">
            <title level="m">Romeo and Juliet</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_romp">
            <title level="m">The Romp</title>
-           <author>[Unknown] Lloyd</author>
+           <author ref="#mr_lloyd">[Unknown] Lloyd</author>
         </bibl>
         <bibl xml:id="play_rosina">
            <title level="m">Rosina</title>
-           <author ref="namedentities.xml#fr_br">Frances Moore Brooke</author>
+           <author ref="#fr_br">Frances Moore Brooke</author>
         </bibl>
         <bibl xml:id="play_round_robin">
            <title level="m">The Round Robin</title>
-           <author ref="namedentities.xml#ch_is_mu_di">Charles Dibdin, Jr.</author>
+           <author ref="#ch_is_mu_di">Charles Dibdin, Jr.</author>
         </bibl>
         <bibl xml:id="play_royal_oak">
            <title level="m">The Royal Oak</title>
-           <author ref="namedentities.xml#wi_fi_pe_di">William Dimond</author>
+           <author ref="#wi_fi_pe_di">William Dimond</author>
         </bibl>
         <bibl xml:id="play_rule_a_wife_and_have_a_wife">
            <title level="m">Rule a Wife and Have a Wife</title>
-           <author ref="namedentities.xml#fr_be">Francis Beaumont</author>
+           <author ref="#fr_be">Francis Beaumont</author>
         </bibl>
         <bibl xml:id="play_she_stoops_to_conquer">
            <title level="m">She Stoops to Conquer</title>
-           <author ref="namedentities.xml#ol_go">Oliver Goldsmith</author>
+           <author ref="#ol_go">Oliver Goldsmith</author>
         </bibl>
         <bibl xml:id="play_siege_of_belgrade">
            <title level="m">The Siege of Belgrade</title>
-           <author ref="namedentities.xml#ja_co">James Cobb</author>
+           <author ref="#ja_co">James Cobb</author>
         </bibl>
         <bibl xml:id="play_sleep_walker">
            <title level="m" type="main">The Sleep Walker</title>
            <title type="sub">Or, Which Is The Lady?</title>
-           <author>Walley Chamberlaine Oulton</author>
+           <author ref="#wa_ch_ou">Walley Chamberlain Oulton</author>
         </bibl>
         <bibl xml:id="play_sons_of_erin">
            <title level="m" type="main">Sons of Erin</title>
            <title type="sub">Or, Modern Sentiment</title>
-           <author ref="namedentities.xml#al_le">Alicia Sheridan Lefanu</author>
+           <author ref="#al_le">Alicia Sheridan Lefanu</author>
         </bibl>
         <bibl xml:id="play_spoiled_child">
            <title level="m">The Spoil'd Child</title>
-           <author>Isaac Bickerstaffe</author>
-           <author ref="namedentities.xml#pr_ho">Prince Hoare</author>
+           <author ref="#is_bi">Isaac Bickerstaffe</author>
+           <author ref="#pr_ho">Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_stranger">
            <title level="m">The Stranger</title>
-           <author ref="namedentities.xml#be_th">Benjamin Thompson</author>
+           <author ref="#be_th">Benjamin Thompson</author>
         </bibl>
         <bibl xml:id="play_three_and_the_deuce">
            <title level="m">Three and the Deuce</title>
-           <author ref="namedentities.xml#pr_ho">Prince Hoare</author>
+           <author ref="#pr_ho">Prince Hoare</author>
         </bibl>
         <bibl xml:id="play_three_weeks_after_marriage">
            <title level="m">Three Weeks After Marriage</title>
-           <author ref="namedentities.xml#ar_mu">Arthur Murphy</author>
+           <author ref="#ar_mu">Arthur Murphy</author>
         </bibl>
         <bibl xml:id="play_timour_the_tartar">
            <title level="m">Timour the Tartar</title>
-           <author ref="namedentities.xml#ma_gr_le">Matthew Gregory Lewis</author>
-           <author>John Oxenford</author>
+           <author ref="#ma_gr_le">Matthew Gregory Lewis</author>
+           <author ref="#jo_ox">John Oxenford</author>
         </bibl>
         <bibl xml:id="play_tom_thumb">
            <title level="m">Tom Thumb</title>
-           <author ref="namedentities.xml#he_fi">Henry Fielding</author>
+           <author ref="#he_fi">Henry Fielding</author>
         </bibl>
         <bibl xml:id="play_travellers_benighted">
            <title level="m" type="main">Travellers Benighted</title>
            <title type="sub">Or, The Forest of Rosenwald</title>
-           <author ref="namedentities.xml#ma_gr_le">Matthew Gregory Lewis</author>
+           <author ref="#ma_gr_le">Matthew Gregory Lewis</author>
         </bibl>
         <bibl xml:id="play_trial_by_jury">
            <title level="m">The Trial By Jury</title>
            <author>William Schwenck</author>
-           <author ref="namedentities.xml#th_ed_ho">Theodore Edward Hook</author>
+           <author ref="#th_ed_ho">Theodore Edward Hook</author>
         </bibl>
         <bibl xml:id="play_turn_out">
            <title level="m">Turn Out</title>
-           <author ref="namedentities.xml#ja_ke">James Kenney</author>
+           <author ref="#ja_ke">James Kenney</author>
         </bibl>
         <bibl xml:id="play_turnpike_gate">
            <title level="m">The Turnpike Gate</title>
-           <author ref="namedentities.xml#th_kn">Thomas Knight</author>
+           <author ref="#th_kn">Thomas Knight</author>
         </bibl>
         <bibl xml:id="play_twelfth_night">
            <title level="m" type="main">Twelfth Night</title>
            <title type="sub">Or, What You Will</title>
-           <author ref="namedentities.xml#wi_sha">William Shakespeare</author>
+           <author ref="#wi_sha">William Shakespeare</author>
         </bibl>
         <bibl xml:id="play_two_strings_to_your_bow">
            <title level="m">Two Strings To Your Bow</title>
-           <author ref="namedentities.xml#ro_je">Robert Jephson</author>
+           <author ref="#ro_je">Robert Jephson</author>
         </bibl>
         <bibl xml:id="play_up_to_town">
            <title level="m">Up to Town</title>
-           <author ref="namedentities.xml#th_jo_di">Thomas John Dibdin</author>
+           <author ref="#th_jo_di">Thomas John Dibdin</author>
         </bibl>
         <bibl xml:id="play_venice_preserved">
            <title level="m">Venice Preserved</title>
-           <author ref="namedentities.xml#th_ot">Thomas Otway</author>
+           <author ref="#th_ot">Thomas Otway</author>
         </bibl>
         <bibl xml:id="play_virgin_of_the_sun">
            <title level="m">The Virgin of the Sun</title>
-           <author ref="namedentities.xml#fr_re">Frederick Reynolds</author>
+           <author ref="#fr_re">Frederick Reynolds</author>
         </bibl>
         <bibl xml:id="play_way_to_get_married">
            <title level="m">The Way to Get Married</title>
-           <author ref="namedentities.xml#th_mor">Thomas Morton, Sr.</author>
+           <author ref="#th_mor">Thomas Morton, Sr.</author>
         </bibl>
         <bibl xml:id="play_west_indian">
            <title level="m">The West Indian</title>
-           <author ref="namedentities.xml#ri_cu">Richard Cumberland</author>
+           <author ref="#ri_cu">Richard Cumberland</author>
         </bibl>
         <bibl xml:id="play_white_cat">
            <title level="m" type="main">The White Cat</title>
            <title type="sub">Or, Harlequin in Fairy Wood</title>
-           <author>Edward Litt Leman Blanchard</author>
+           <author ref="#ed_li_le_bl">Edward Litt Leman Blanchard</author>
         </bibl>
         <bibl xml:id="play_who_wants_a_guinea">
            <title level="m">Who Wants a Guinea?</title>
-           <author ref="namedentities.xml#ge_co">George Colman, Jr.</author>
+           <author ref="#ge_co">George Colman, Jr.</author>
         </bibl>
         <bibl xml:id="play_wife_of_two_husbands">
            <title level="m">The Wife of Two Husbands</title>
-           <author ref="namedentities.xml#ja_co">James Cobb</author>
+           <author ref="#ja_co">James Cobb</author>
         </bibl>
         <bibl xml:id="play_woodman">
            <title level="m">The Woodman</title>
-           <author ref="namedentities.xml#he_ba_du">Henry Bate Dudley</author>
+           <author ref="#he_ba_du">Henry Bate Dudley</author>
         </bibl>
      </listBibl>
   </standOff>
