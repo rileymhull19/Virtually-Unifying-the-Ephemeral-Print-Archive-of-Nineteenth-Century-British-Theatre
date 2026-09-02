@@ -19,7 +19,7 @@
   <standOff>
         <listPerson>
            <person xml:id="jo_ad">
-              <persName>
+              <persName ref="http://viaf.org/viaf/7413288">
                  <forename>Joseph</forename>
                  <surname>Addison</surname>
               </persName>
@@ -31,7 +31,7 @@
               <note>See <bibl><title>Addison, Joseph</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-156">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-156</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ti_al">
-              <persName>
+              <persName ref="http://viaf.org/viaf/50145602353601361093">
                  <forename type="first">John</forename>
                  <forename type="middle">Till</forename>
                  <surname>Allingham</surname>
@@ -77,7 +77,7 @@
               <note>See <bibl><title>Arnold, Samuel</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-682</ref>)</bibl>.</note>
            </person>
            <person xml:id="sa_ja_ar">
-              <persName>
+              <persName ref="http://viaf.org/viaf/29921604">
                  <forename type="first">Samuel</forename>
                  <forename type="middle">James</forename>
                  <surname>Arnold</surname>
@@ -87,7 +87,7 @@
               <death when="1852">1852</death>
               <nationality>English</nationality>
               <occupation>Playwright</occupation>
-              <note>See <bibl><title>Pocock, Isaac</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-683">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-683</ref>)</bibl>.</note>
+              <note>See <bibl><title>Arnold, Samuel James</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-683">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-683</ref>)</bibl>.</note>
            </person>
            <person xml:id="mrs_atkins">
               <persName>
@@ -228,7 +228,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="fr_be">
-              <persName>
+              <persName ref="http://viaf.org/viaf/49333217">
                  <forename>Francis</forename>
                  <surname>Beaumont</surname>
               </persName>
@@ -603,7 +603,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="fr_br">
-              <persName>
+              <persName ref="http://viaf.org/viaf/5193747">
                  <forename>Frances</forename>
                  <surname type="birth">Moore</surname>
                  <surname type="married">Brooke</surname>
@@ -616,7 +616,7 @@
               <note>See <bibl><title>Brooke [née Moore], Frances</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-3540">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-3540</ref>)</bibl>.</note>
            </person>
            <person xml:id="he_br">
-              <persName>
+              <persName ref="http://viaf.org/viaf/39422726">
                  <forename>Henry</forename>
                  <surname>Brooke</surname>
               </persName>
@@ -766,12 +766,8 @@
                  <surname>Chambers</surname>
               </persName>
               <gender value="W">Woman</gender>
-              <birth when="1778">1778</birth>
-              <death when="1811">1811</death>
-              <floruit notBefore="1111" notAfter="1111"/>
-              <nationality>English</nationality>
-              <occupation>Playwright, Author</occupation>
-              <note>https://www.wikidata.org/wiki/Q55381444</note>
+              <occupation>Playwright</occupation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mr_chapman">
               <persName>
@@ -863,7 +859,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="st_cl">
-              <persName>
+              <persName ref="http://viaf.org/viaf/30895811">
                  <forename>Stephen</forename>
                  <surname>Clarke</surname>
               </persName>
@@ -916,18 +912,6 @@
               <affiliation>Theatre Royal Haymarket</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
            </person>
-           <person xml:id="wi_co">
-              <persName>
-                 <forename>Wilkie</forename>
-                 <surname>Collins</surname>
-              </persName>
-              <gender value="M">Man</gender>
-              <birth when="1824">1824</birth>
-              <death when="1889">1889</death>
-              <nationality>English</nationality>
-              <occupation>Writer</occupation>
-              <note>See <bibl><title>Collins, (William) Wilkie</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5961">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5961</ref>)</bibl>.</note>
-           </person>
            <person xml:id="ge_co">
               <persName ref="http://viaf.org/viaf/30345422">
                  <forename>George</forename>
@@ -942,7 +926,7 @@
               <note>See <bibl><title>Colman, George, the younger</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5977</ref>)</bibl>.</note>
            </person>
            <person xml:id="ge_co_sr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/76330307">
                  <forename>George</forename>
                  <surname>Colman, Sr.</surname>
               </persName>
@@ -1022,7 +1006,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ha_co">
-              <persName>
+              <persName ref="http://viaf.org/viaf/34730405">
                  <forename>Hannah</forename>
                  <surname type="birth">Parkhouse</surname>
                  <surname type="married">Cowley</surname>
@@ -1079,7 +1063,7 @@
               <note>See <bibl><title>Cresswell, John</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ca_cr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/121758051">
                  <forename type="first">John</forename>
                  <forename type="middle">Cartwright</forename>
                  <surname>Cross</surname>
@@ -1111,7 +1095,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ri_cu">
-              <persName>
+              <persName ref="http://viaf.org/viaf/76451457">
                  <forename>Richard</forename>
                  <surname>Cumberland</surname>
               </persName>
@@ -1271,7 +1255,7 @@
               <note>See <bibl><title>DeMaria, J.</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ch_is_mu_di">
-              <persName>
+              <persName ref="http://viaf.org/viaf/94145858139323022659">
                  <forename type="first">Charles</forename>
                  <forename type="middle">Isaac</forename>
                  <forename type="middle">Mungo</forename>
@@ -1285,7 +1269,7 @@
               <note>See <bibl><title>Dibdin, Charles Isaac Mungo [known as Charles Isaac Pitt; performing name Charles Dibdin the younger]</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7586">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-7586</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_jo_di">
-              <persName>
+              <persName ref="http://viaf.org/viaf/40145601975801321615">
                  <forename type="first">Thomas</forename>
                  <forename type="middle">John</forename>
                  <surname>Dibdin</surname>
@@ -1361,7 +1345,7 @@
               <note>See <bibl><title>Dignum, Charles</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_fi_pe_di">
-              <persName>
+              <persName ref="http://viaf.org/viaf/7813307">
                  <forename type="first">William</forename>
                  <forename type="middle">Fisher</forename>
                  <forename type="middle">Peach</forename>
@@ -1409,7 +1393,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="he_ba_du">
-              <persName>
+              <persName ref="http://viaf.org/viaf/71732759">
                  <forename type="first">Henry</forename>
                  <forename type="middle">Bate</forename>
                  <surname>Dudley</surname>
@@ -1494,7 +1478,8 @@
            <person xml:id="sa_eg">
               <persName ref="http://viaf.org/viaf/78999526">
                  <forename>Sarah</forename>
-                 <surname>Egerton</surname>
+                 <surname type="birth">Fisher</surname>
+                 <surname type="married">Egerton</surname>
               </persName>
               <gender value="W">Woman</gender>
               <birth>Unknown</birth>
@@ -1678,7 +1663,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="he_fi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/61545697">
                  <forename>Henry</forename>
                  <surname>Fielding</surname>
               </persName>
@@ -1755,7 +1740,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="sa_fo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/29561715">
                  <forename>Samuel</forename>
                  <surname>Foote</surname>
               </persName>
@@ -1767,7 +1752,7 @@
               <note>See <bibl><title>Foote, Samuel</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-9808">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-9808</ref>)</bibl>.</note>
            </person>
            <person xml:id="da_ga">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24563">
                  <forename>David</forename>
                  <surname>Garrick</surname>
               </persName>
@@ -1849,7 +1834,7 @@
               <note>See <bibl><title>Glover, Mrs Samuel, Juliana; née Betterton</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>   
            </person>
            <person xml:id="ol_go">
-              <persName>
+              <persName ref="http://viaf.org/viaf/100167171">
                  <forename>Oliver</forename>
                  <surname>Goldsmith</surname>
               </persName>
@@ -2042,7 +2027,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="he_wi_gr">
-              <persName>
+              <persName ref="http://viaf.org/viaf/257430971">
                  <forename type="first">Henry</forename>
                  <forename type="middle">William</forename>
                  <surname>Grosette</surname>
@@ -2246,7 +2231,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="pr_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/32343336">
                  <forename>Prince</forename>
                  <surname>Hoare</surname>
               </persName>
@@ -2282,7 +2267,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/56644486">
                  <forename>Thomas</forename>
                  <surname>Holcroft</surname>
               </persName>
@@ -2361,7 +2346,7 @@
               <note>See <bibl><title>Holman, Joseph George</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="to_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/71512169">
                  <forename>Tom</forename>
                  <surname>Hood</surname>
               </persName>
@@ -2370,7 +2355,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_ed_ho">
-              <persName>
+              <persName ref="http://viaf.org/viaf/29524003">
                  <forename type="first">Theodore</forename>
                  <forename type="middle">Edward</forename>
                  <surname>Hook</surname>
@@ -2529,7 +2514,7 @@
               <note>See <bibl><title>Incledon, Charles Benjamin</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="is_ja">
-              <persName>
+              <persName ref="http://viaf.org/viaf/22505351">
                  <forename>Isaac</forename>
                  <surname>Jackman</surname>
               </persName>
@@ -2571,7 +2556,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ro_je">
-              <persName>
+              <persName ref="http://viaf.org/viaf/59440783">
                  <forename>Robert</forename>
                  <surname>Jephson</surname>
               </persName>
@@ -2663,7 +2648,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="be_jo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/292789691">
                  <forename>Benjamin</forename>
                  <surname>Jonson</surname>
               </persName>
@@ -2774,7 +2759,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ja_ke">
-              <persName>
+              <persName ref="http://viaf.org/viaf/47830009">
                  <forename>James</forename>
                  <surname>Kenney</surname>
               </persName>
@@ -2840,7 +2825,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_kn">
-              <persName>
+              <persName ref="http://viaf.org/viaf/112506170">
                  <forename>Thomas</forename>
                  <surname>Knight</surname>
               </persName>
@@ -2871,7 +2856,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_la">
-              <persName>
+              <persName ref="http://viaf.org/viaf/267542635">
                  <forename>John</forename>
                  <surname>Lake</surname>
               </persName>
@@ -2920,7 +2905,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="al_le">
-              <persName>
+              <persName ref="http://viaf.org/viaf/28202565">
                  <forename>Alicia</forename>
                  <surname type="birth">Sheridan</surname>
                  <surname type="married">Le Fanu</surname>
@@ -2958,7 +2943,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ma_gr_le">
-              <persName>
+              <persName ref="http://viaf.org/viaf/71394067">
                  <forename type="first">Matthew</forename>
                  <forename type="middle">Gregory</forename>
                  <surname>Lewis</surname>
@@ -3017,7 +3002,8 @@
            <person xml:id="sa_li">
               <persName ref="http://viaf.org/viaf/90499525">
                  <forename>Sarah</forename>
-                 <surname>Liston</surname>
+                 <surname type="birth">Tyrer</surname>
+                 <surname type="married">Liston</surname>
               </persName>
               <gender value="W">Woman</gender>
               <birth when="1781">1781</birth>
@@ -3125,7 +3111,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ch_mac">
-              <persName>
+              <persName ref="http://viaf.org/viaf/304391045">
                  <forename>Charles</forename>
                  <surname>Macklin</surname>
               </persName>
@@ -3218,7 +3204,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ph_ma">
-              <persName>
+              <persName ref="http://viaf.org/viaf/39419260">
                  <forename>Philip</forename>
                  <surname>Massinger</surname>
               </persName>
@@ -3244,7 +3230,7 @@
               <note>See <bibl><title>Massingham, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ma_ke_ma">
-              <persName>
+              <persName ref="http://viaf.org/viaf/48214512">
                  <forename type="first">Martin</forename>
                  <forename type="middle">Kedgwin</forename>
                  <surname>Masters</surname>
@@ -3278,7 +3264,7 @@
            </person>
            <person xml:id="mr_me">
               <persName>
-                 <forename>Unknown</forename>
+                 <forename>[Unknown]</forename>
                  <surname>Mead</surname>
               </persName>
               <gender value="M">Man</gender>
@@ -3385,7 +3371,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_gi_mi">
-              <persName>
+              <persName ref="http://viaf.org/viaf/362146998380218940639">
                  <forename type="first">John</forename>
                  <forename type="middle">Gideon</forename>
                  <surname>Millingen</surname>
@@ -3409,6 +3395,7 @@
               <nationality>Unknown</nationality>
               <occupation>Actor, Singer</occupation>
               <affiliation>Theatre Royal Haymarket, Theatre Royal Drury Lane</affiliation>
+              <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="mrs_minton">
               <persName>
@@ -3441,13 +3428,26 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ha_mo">
-              <persName>
+              <persName ref="http://viaf.org/viaf/51802053">
                  <forename>Hannah</forename>
                  <surname>Moore</surname>
               </persName>
               <gender value="W">Woman</gender>
               <occupation>Playwright</occupation>
               <note>Detailed biographical information unable to be identified.</note>
+           </person>
+           <person xml:id="th_mo">
+              <persName ref="http://viaf.org/viaf/24616222">
+                 <forename>Thomas</forename>
+                 <surname>Moore</surname>
+              </persName>
+              <gender value="M">Man</gender>
+              <birth when="1779">1779</birth>
+              <death when="1852">1852</death>
+              <floruit notBefore="1795" notAfter="1846"/>
+              <nationality>Irish</nationality>
+              <occupation>Poet, playwright, and actor</occupation>
+              <note>See <bibl><title>Moore, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150</ref>)</bibl>.</note>
            </person>
            <person xml:id="mr_morelli">
               <persName>
@@ -3480,7 +3480,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="th_mor">
-              <persName>
+              <persName ref="http://viaf.org/viaf/34530533">
                  <forename>Thomas</forename>
                  <surname>Morton</surname>
               </persName>
@@ -3500,19 +3500,6 @@
               <occupation>Scene Painter</occupation>
               <affiliation>Theatre Royal Lyceum</affiliation>
               <note>Detailed biographical information unable to be identified.</note>
-           </person>
-           <person xml:id="th_mo">
-              <persName ref="http://viaf.org/viaf/24616222">
-                 <forename>Thomas</forename>
-                 <surname>Moore</surname>
-              </persName>
-              <gender value="M">Man</gender>
-              <birth when="1779">1779</birth>
-              <death when="1852">1852</death>
-              <floruit notBefore="1795" notAfter="1846"/>
-              <nationality>Irish</nationality>
-              <occupation>Poet, playwright, and actor</occupation>
-              <note>See <bibl><title>Moore, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19150</ref>)</bibl>.</note>
            </person>
            <person xml:id="ro_mo">
               <persName ref="http://viaf.org/viaf/24494889">
@@ -3545,7 +3532,7 @@
               <note>See <bibl><title>Munden, Joseph Shepherd</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="ar_mu">
-              <persName>
+              <persName ref="http://viaf.org/viaf/24641385">
                  <forename>Arthur</forename>
                  <surname>Murphy</surname>
               </persName>
@@ -3644,7 +3631,7 @@
               <note>See <bibl><title>Orger [née Ivers], Mary Ann</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20829.</ref>)</bibl>.</note>
            </person>
            <person xml:id="th_ot">
-              <persName>
+              <persName ref="http://viaf.org/viaf/56618493">
                  <forename>Thomas</forename>
                  <surname>Otway</surname>
               </persName>
@@ -3656,7 +3643,7 @@
               <note>See <bibl><title>Otway, Thomas</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20944">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-20944</ref>)</bibl>.</note>
            </person>
            <person xml:id="wa_ch_ou">
-              <persName>
+              <persName ref="http://viaf.org/viaf/57783590">
                  <forename type="first">Walley</forename>
                  <forename type="middle">Chamberlain</forename>
                  <surname>Oulton</surname>
@@ -3683,7 +3670,7 @@
               <note>See <bibl><title>Oxberry, William</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-21045</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_ox">
-              <persName>
+              <persName ref="http://viaf.org/viaf/35264747">
                  <forename>John</forename>
                  <surname>Oxenford</surname>
               </persName>
@@ -3818,7 +3805,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ja_ro_pl">
-              <persName>
+              <persName ref="http://viaf.org/viaf/71552941">
                  <forename type="first">James</forename>
                  <forename type="middle">Robinson</forename>
                  <surname>Planché</surname>
@@ -3845,7 +3832,7 @@
               <note>See <bibl><title>Platt, Mr</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="is_po">
-              <persName>
+              <persName ref="http://viaf.org/viaf/5999380">
                  <forename type="first">Isaac</forename>
                  <forename type="middle">Innes</forename>
                  <surname>Pocock</surname>
@@ -3976,7 +3963,7 @@
               <note>See <bibl><title>Raymond, James Grant</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="jo_re">
-              <persName>
+              <persName ref="http://viaf.org/viaf/49591181">
                  <forename>Joseph</forename>
                  <surname>Reed</surname>
               </persName>
@@ -4026,7 +4013,7 @@
               <note>See <bibl><title>Rein, Mary</title> (<publisher><hi rend="italic">A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnell in London, 1660-1800</hi></publisher>, <ref target="https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#">https://www.eighteenthcenturydrama.amdigital.co.uk/BiographicalDictionary#</ref>)</bibl>.</note>
            </person>
            <person xml:id="fr_re">
-              <persName>
+              <persName ref="http://viaf.org/viaf/256149196531574792215">
                  <forename>Frederick</forename>
                  <surname>Reynolds</surname>
               </persName>
@@ -4038,7 +4025,7 @@
               <note>See <bibl><title>Reynolds, Frederick</title> (<publisher>Oxford Dictionary of National Biography</publisher>, <ref target="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23411">https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23411</ref>)</bibl>.</note>
            </person>
            <person xml:id="wi_rh">
-              <persName>
+              <persName ref="http://viaf.org/viaf/49581416">
                  <forename type="first">William</forename>
                  <forename type="middle">Barnes</forename>
                  <surname>Rhodes</surname>
@@ -4180,7 +4167,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="wi_sha">
-              <persName>
+              <persName ref="http://viaf.org/viaf/96994048">
                  <forename>William</forename>
                  <surname>Shakespeare</surname>
               </persName>
@@ -4212,7 +4199,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ri_br_sh">
-              <persName>
+              <persName ref="http://viaf.org/viaf/9922178">
                  <forename type="first">Richard</forename>
                  <forename type="middle">Brinsley</forename>
                  <surname>Sheridan</surname>
@@ -4285,7 +4272,7 @@
            <person xml:id="mr_silver">
               <persName>
                  <forename>[Unknown]</forename>
-                 <surname>Actor</surname>
+                 <surname>Silver</surname>
               </persName>
               <gender value="M">Man</gender>
               <occupation>Actor</occupation>
@@ -4337,7 +4324,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="lu_sk">
-              <persName>
+              <persName ref="http://viaf.org/viaf/45675757">
                  <forename>Lumley</forename>
                  <surname>Skeffington</surname>
               </persName>
@@ -4637,7 +4624,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="be_th">
-              <persName>
+              <persName ref="http://viaf.org/viaf/75194007">
                  <forename>Benjamin</forename>
                  <surname>Thompson</surname>
               </persName>
@@ -4693,7 +4680,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_to">
-              <persName>
+              <persName ref="http://viaf.org/viaf/39726414">
                  <forename>John</forename>
                  <surname>Tobin</surname>
               </persName>
@@ -4735,7 +4722,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="ja_to">
-              <persName>
+              <persName ref="http://viaf.org/viaf/40582713">
                  <forename>James</forename>
                  <surname>Townley</surname>
               </persName>
@@ -4821,7 +4808,7 @@
               <note>Detailed biographical information unable to be identified.</note>
            </person>
            <person xml:id="jo_va">
-              <persName>
+              <persName ref="http://viaf.org/viaf/7398042">
                  <forename>John</forename>
                  <surname>Vanbrugh</surname>
               </persName>
@@ -5203,6 +5190,7 @@
               <relation type="personal" name="parent" active="#ge_co_sr" passive="#ge_co"/>
               <relation type="personal" name="spouse" mutual="#ge_go_da #ma_an_da"/>
               <relation type="personal" name="sibling" mutual="#ch_is_mu_di #th_jo_di"/>
+              <relation type="personal" name="spouse" mutual="#da_eg #sa_eg"/>
               <relation type="personal" name="parent" active="#je_g_ho" passive="#ag_ho"/>
               <relation type="personal" name="sibling" mutual="#ch_ke #jo_ph_ke #sa_ke_si"/>
               <relation type="personal" name="spouse" mutual="#ch_ke #ma_th_ke"/>
@@ -5487,7 +5475,6 @@
            <title level="m" type="main">Man and Wife</title>
            <title type="sub">Or, More Secrets Than One</title>
            <author ref="#sa_ja_ar">Samuel James Arnold</author>
-           <author ref="#wi_co">William Wilkie Collins</author>
         </bibl>
         <bibl xml:id="play_man_of_the_world">
            <title level="m">The Man of the World</title>
