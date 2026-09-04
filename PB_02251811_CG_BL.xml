@@ -20,7 +20,7 @@
       <body>
          <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">New Theatre Royal, Covent-Garden,</hi></placeName><lb/>
-               This present <hi rend="allcaps">Monday</hi>, <date when="1811-02-25">Feb. 25, 1811</date> will be acted <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
+               This present <hi rend="allcaps">Monday</hi>, <date when="1811-02-25">Feb. 25, 1811</date> will be acted <persName ref="namedentities.xml#wi_sha"><hi rend="italic">Shakspeare's</hi></persName> Tragedy of<lb/>
                <bibl><title ref="namedentities.xml#play_romeo_and_juliet"><hi rend="allcaps">Romeo and Juliet.</hi></title></bibl><lb/>
                <castList>
                   <castItem><role>Prince Escalus</role> by <actor ref="namedentities.xml#mr_claremont">Mr. <hi rend="allcaps">Claremont,</hi></actor></castItem> <castItem><role>Paris</role> by <actor ref="namedentities.xml#mr_hamerton">Mr. <hi rend="allcaps">Hamerton,</hi></actor></castItem><lb/>

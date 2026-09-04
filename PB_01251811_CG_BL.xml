@@ -20,7 +20,7 @@
       <body>
          <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden"><hi rend="allcaps">New Theatre Royal, Covent-Garden</hi></placeName><lb/>
-               This present <hi rend="allcaps">Friday</hi>, <date when="1811-01-25">Jan. 25, 1811</date>, will be acted (4th time) <hi rend="italic">Shakspeare's</hi> Comedy of<lb/>
+               This present <hi rend="allcaps">Friday</hi>, <date when="1811-01-25">Jan. 25, 1811</date>, will be acted (4th time) <persName ref="namedentities.xml#wi_sha"><hi rend="italic">Shakspeare's</hi></persName> Comedy of<lb/>
                <bibl><title type="main" ref="namedentities.xml#play_twelfth_night">The <hi rend="allcaps">Twelfth Night</hi>;</title><lb/>
                   <title type="sub"><hi rend="italic">Or, <hi rend="allcaps">What You Will</hi>.</hi></title></bibl><lb/>
                <castList>

@@ -71,7 +71,7 @@
                The Play of The <hi rend="allcaps">Royal Oak</hi>, is published by Messrs. <persName ref="namedentities.xml#mr_barker"><hi rend="allcaps">Barker</hi></persName>, Russell Street,<lb/>
                Covent-Garden.<lb/>
                After which will be produced (for the 1st time) A New <hi rend="allcaps">Musical Piece</hi> in Two Acts,<lb/>
-               <hi rend="italic">(written and composed by <persName>Mr. <hi rend="allcaps">Dibdin</hi></persName>,)</hi> call'd The<lb/>
+               <hi rend="italic">(written and composed by <persName ref="namedentities.xml#ch_is_mu_di">Mr. <hi rend="allcaps">Dibdin</hi></persName>,)</hi> call'd The<lb/>
                <bibl><title ref="namedentities.xml#play_round_robin">Round Robin.</title></bibl><lb/>
                <castList>
                   <head>The Characters by</head><lb/>

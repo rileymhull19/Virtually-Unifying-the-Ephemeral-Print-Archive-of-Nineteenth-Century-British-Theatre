@@ -41,7 +41,7 @@
          <div type="performance_playbill" rend="align(center)">
             <ab><persName ref="namedentities.xml#covent_garden"><hi rend="smallcaps">Theatre Royal, Covent Garden</hi></persName><lb/>
                This present <hi rend="allcaps">Tuesday</hi>, <date when="1812-03-03">March 3, 1812</date>.<lb/>
-               Will be acted (<hi rend="italic">2d time</hi>) <hi rend="italic">Shakspeare's</hi> Tragedy of<lb/>
+               Will be acted (<hi rend="italic">2d time</hi>) <persName ref="namedentities.xml#wi_sha"><hi rend="italic">Shakspeare's</hi></persName> Tragedy of<lb/>
                <bibl><title ref="namedentities.xml#play_julius_caesar">Julius Caesar.</title></bibl><lb/>
                <hi rend="italic">(The Dresses, Scenes and Decorations are, for the greater part, entirely new.)</hi><lb/>
                <hi rend="italic">The Overture and Act-Symphonies composed by <persName ref="namedentities.xml#mr_ware">Mr. <hi rend="allcaps">Ware</hi></persName></hi>.<lb/>

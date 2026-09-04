@@ -44,9 +44,9 @@
                <hi rend="italic"><hi rend="allcaps">Night</hi>.</hi><lb/>
                The <hi rend="allcaps">Last Time</hi> of <persName ref="namedentities.xml#sa_ke_si">Mrs. <hi rend="allcaps">Siddons</hi>'s</persName> acting.<lb/>
                <placeName ref="namedentities.xml#covent_garden">Theatre Royal, Covent Garden,</placeName><lb/>
-               This present <hi rend="allcaps">Monday</hi>, <date when="1812-06-29">June 29 1812</date> will be acted Shakespeare's Tragedy of<lb/>
+               This present <hi rend="allcaps">Monday</hi>, <date when="1812-06-29">June 29 1812</date> will be acted <persName ref="namedentities.xml#wi_sha">Shakespeare's</persName> Tragedy of<lb/>
                <bibl><title ref="namedentities.xml#play_macbeth"><hi rend="allcaps">Macbeth.</hi></title></bibl><lb/>
-               The <hi rend="italic">Overture</hi> and <hi rend="italic">Symphonies</hi> between the Acts by <hi rend="italic">Mr. Ware</hi>-The Vocal Musick by <persName ref="namedentities.xml#ma_lo">Matthew Lock</persName>.<lb/>
+               The <hi rend="italic">Overture</hi> and <hi rend="italic">Symphonies</hi> between the Acts by <persName ref="namedentities.xml#mr_ware"><hi rend="italic">Mr. Ware</hi></persName>-The Vocal Musick by <persName ref="namedentities.xml#ma_lo">Matthew Lock</persName>.<lb/>
                <castList>
                   <castItem><role>Duncan, King of Scotland,</role> by <actor ref="namedentities.xml#ch_mu">Mr. <hi rend="allcaps">Murray</hi>,</actor></castItem><lb/>
                   <castItem><role>Malcolm</role> by <actor ref="namedentities.xml#mr_claremont">Mr. <hi rend="allcaps">Claremont</hi>,</actor></castItem> <castItem><role>Donalbain</role> by <actor ref="namedentities.xml#fr_me">Mr. <hi rend="allcaps">Menage</hi>,</actor></castItem><lb/>

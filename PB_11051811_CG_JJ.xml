@@ -41,7 +41,7 @@
          <div type="performance_playbill" rend="align(center)">
             <ab><placeName ref="namedentities.xml#covent_garden">Theatre Royal, Covent-Garden</placeName>,<lb/>
                This present <date when="1811-11-05"><hi rend="allcaps">Tuesday</hi>, Nov. 5, 1811</date><lb/>
-               Will be acted, <hi rend="italic">second time, (with new Scenes, Dresses &amp; Decorations) Shakspeare's</hi> Play of<lb/>
+               Will be acted, <hi rend="italic">second time, (with new Scenes, Dresses &amp; Decorations) <persName ref="namedentities.xml#wi_sha">Shakspeare's</persName></hi> Play of<lb/>
                <bibl><title ref="namedentities.xml#play_measure_for_measure">Measure for Measure.</title></bibl><lb/>
                <castList>
                   <castItem><role>The Duke of Austria</role> by <actor ref="namedentities.xml#jo_ph_ke">Mr. <hi rend="allcaps">Kemble</hi>,</actor></castItem><lb/>
