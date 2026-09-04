@@ -6,13 +6,16 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Named Entities Stand-Off</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Edited by Riley Hull for dissertation submitted for the degree of MA in the History of the Book.</p>
+            <p>Institute of English Studies</p>
+            <p>School of Advanced Study, University of London</p>
+            <p><date>September 2026</date></p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
